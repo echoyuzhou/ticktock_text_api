@@ -1,0 +1,52 @@
+TurkID: AENW881YO2H8S
+UserID: 1799550770
+Turn: 1
+You: Good afternoon
+TickTock: Well, you know, I'm not sure. What do you think about movies
+Appropriateness: 1
+
+Turn: 2
+You: That didn't make any sense
+TickTock: It's exactly what happened.
+Appropriateness: 2
+
+Turn: 3
+You: I don't think I like you.
+TickTock: I love Larry King. Any thoughts?
+Appropriateness: 1
+
+Turn: 4
+You: No.
+TickTock: Hmm. Any thoughts?
+Appropriateness: 1
+
+Turn: 5
+You: Nope.
+TickTock: Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.
+Appropriateness: 2
+
+Turn: 6
+You: They're full of shit.
+TickTock: do you like to play some board games together next time
+Appropriateness: 1
+
+Turn: 7
+You: Sure.
+TickTock: Yes.
+Appropriateness: 1
+
+Turn: 8
+You: You're kinda boring. 
+TickTock: We live in a society where pizza gets to your house before the police.
+Appropriateness: 1
+
+Turn: 9
+You: What is your favorite hobby?
+TickTock: The voices in my head may not be real, but they have some good ideas!
+Appropriateness: 1
+
+Turn: 10
+You: Do you sleep?
+TickTock: Maybe you haven't done it yet. What's your idea?
+Appropriateness: 1
+

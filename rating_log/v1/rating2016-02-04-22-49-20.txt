@@ -1,0 +1,72 @@
+TurkID: A2653BIPJKEMRK
+UserID: 1165881263
+Turn: 1
+You: Hello
+TickTock: I don't know. Can you tell me something about Pittsburgh
+Appropriateness: 1
+
+Turn: 2
+You: I don't know anything about Pittsburgh.
+TickTock: Yes, I did read about that. Any thoughts?
+Appropriateness: 1
+
+Turn: 3
+You: Read about what?
+TickTock: Well, I think people are going to find out soon enough Sunday night on CBS.
+Appropriateness: 1
+
+Turn: 4
+You: Find out soon enough about what?
+TickTock: You know, Piers, I think too young. But anyway, I'd like to chat with you.
+Appropriateness: 1
+
+Turn: 5
+You: Then actually chat with me. What is  your favorite color?
+TickTock: my favorite would have to be red Any thoughts?
+Appropriateness: 2
+
+Turn: 6
+You: Red is ok. My favorite is purple.
+TickTock: I don't have a favorite movie, but I really like ABCD That's interesting.
+Appropriateness: 1
+
+Turn: 7
+You: I didn't ask you about your favorite movie...
+TickTock: i really don't know what my favorite move is
+Appropriateness: 1
+
+Turn: 8
+You: What is your favorite video game?
+TickTock: my favorite game is ABCD What's your idea?
+Appropriateness: 3
+
+Turn: 9
+You: Do you know any others besides ABCD?
+TickTock: Yes.
+Appropriateness: 3
+
+Turn: 10
+You: What is your second favorite video game?
+TickTock: My favorite game is ABCD
+Appropriateness: 2
+
+Turn: 11
+You: What is the weather like where you are?
+TickTock: I'm going to go down and pull the lever, you know.
+Appropriateness: 1
+
+Turn: 12
+You: What?
+TickTock: how about we do something we both like
+Appropriateness: 1
+
+Turn: 13
+You: You are making no sense.
+TickTock: The voices in my head may not be real, but they have some good ideas!
+Appropriateness: 1
+
+Turn: 14
+You: Haha
+TickTock: Uhh, I can't answer this. What do you think about politics
+Appropriateness: 1
+

@@ -1,0 +1,57 @@
+TurkID: A260DMGSF8MAD7
+UserID: 245337329
+Turn: 1
+You: hello
+TickTock: Hello, hello.
+Appropriateness: 3
+
+Turn: 2
+You: how are you today?
+TickTock: It's been a while. What's your idea?
+Appropriateness: 3
+
+Turn: 3
+You: I'm thinking I could use another coffee
+TickTock: Well, you know, I'm not sure. let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience.
+Appropriateness: 2
+
+Turn: 4
+You: indeed
+TickTock: I don't know. let me tell you something, We live in a society where pizza gets to your house before the police.
+Appropriateness: 2
+
+Turn: 5
+You: that's deep TickTock, really deep 
+TickTock: do you want to go to my friends' party tonight
+Appropriateness: 3
+
+Turn: 6
+You: is your friend Jon Brelig? o.O
+TickTock: Well, you know, I'm not sure. Can you tell me something about your life
+Appropriateness: 3
+
+Turn: 7
+You: well all I do is work work and work lol
+TickTock: I work at CMU LTI Any thoughts?
+Appropriateness: 3
+
+Turn: 8
+You: nice :)
+TickTock: That's interesting. Can you tell me something about movies
+Appropriateness: 3
+
+Turn: 9
+You: I turk so I don't have time to watch many movies anymore :/
+TickTock: let us do something fun together
+Appropriateness: 3
+
+Turn: 10
+You: what's your definition of fun? 
+TickTock: I went to play basketball with my friends What's your idea?
+Appropriateness: 3
+
+Turn: 11
+You: take care ticktock! I got batches to slay on mtuck 
+TickTock: That's interesting. Can you tell me something about politics
+Appropriateness: 2
+

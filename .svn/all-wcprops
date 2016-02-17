@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/olympus/!svn/ver/4508/branches/actorimpersonator/Agents/Backend
+END
+history.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/olympus/!svn/ver/4571/branches/actorimpersonator/Agents/Backend/history.txt
+END
+ClientToCoBot.pm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/olympus/!svn/ver/4490/branches/actorimpersonator/Agents/Backend/ClientToCoBot.pm
+END
+TaskBE.pm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/olympus/!svn/ver/4490/branches/actorimpersonator/Agents/Backend/TaskBE.pm
+END
+Retrieval.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/olympus/!svn/ver/4571/branches/actorimpersonator/Agents/Backend/Retrieval.py
+END
+Retrieval.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/olympus/!svn/ver/4571/branches/actorimpersonator/Agents/Backend/Retrieval.pyc
+END
+Loader.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/olympus/!svn/ver/4571/branches/actorimpersonator/Agents/Backend/Loader.py
+END
+Understand.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/olympus/!svn/ver/4508/branches/actorimpersonator/Agents/Backend/Understand.py
+END
+BEConstants.pm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/olympus/!svn/ver/4490/branches/actorimpersonator/Agents/Backend/BEConstants.pm
+END
+Loader.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/olympus/!svn/ver/4571/branches/actorimpersonator/Agents/Backend/Loader.pyc
+END
+Understand.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/olympus/!svn/ver/4553/branches/actorimpersonator/Agents/Backend/Understand.pyc
+END
+galbackend.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/olympus/!svn/ver/4571/branches/actorimpersonator/Agents/Backend/galbackend.py
+END
+GHC7_locations2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/olympus/!svn/ver/4490/branches/actorimpersonator/Agents/Backend/GHC7_locations2.txt
+END
+runBE_server.bat
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/olympus/!svn/ver/4490/branches/actorimpersonator/Agents/Backend/runBE_server.bat
+END
+BE.log
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/olympus/!svn/ver/4571/branches/actorimpersonator/Agents/Backend/BE.log
+END
+NLG.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/olympus/!svn/ver/4553/branches/actorimpersonator/Agents/Backend/NLG.py
+END
+Control.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/olympus/!svn/ver/4571/branches/actorimpersonator/Agents/Backend/Control.py
+END
+cnn_qa.list
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/olympus/!svn/ver/4502/branches/actorimpersonator/Agents/Backend/cnn_qa.list
+END
+Control.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/olympus/!svn/ver/4571/branches/actorimpersonator/Agents/Backend/Control.pyc
+END
+NLG.pyc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/olympus/!svn/ver/4553/branches/actorimpersonator/Agents/Backend/NLG.pyc
+END
+BE_server.perl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/olympus/!svn/ver/4490/branches/actorimpersonator/Agents/Backend/BE_server.perl
+END
+debug.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/olympus/!svn/ver/4571/branches/actorimpersonator/Agents/Backend/debug.py
+END

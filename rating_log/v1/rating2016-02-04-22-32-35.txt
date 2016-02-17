@@ -1,0 +1,57 @@
+TurkID: A1Z048705962W6
+UserID: 1016445608
+Turn: 1
+You: Hello
+TickTock: A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don't know son, I'm still paying."
+Appropriateness: 2
+
+Turn: 2
+You: What a dad joke.
+TickTock: I don't know. What do you think about your life
+Appropriateness: 1
+
+Turn: 3
+You: I like my life.
+TickTock: Oh, I don't have any love life. What do you think?
+Appropriateness: 2
+
+Turn: 4
+You: your answers are weird
+TickTock: let us make a plan to see the latest star war movies together
+Appropriateness: 1
+
+Turn: 5
+You: i've already seen it
+TickTock: She's very grounding.
+Appropriateness: 1
+
+Turn: 6
+You: ??
+TickTock: That's interesting. Can you tell me something about politics
+Appropriateness: 2
+
+Turn: 7
+You: trump might be president
+TickTock: That's getting interesting. What do you think?
+Appropriateness: 3
+
+Turn: 8
+You: it'll be hilarious
+TickTock: Yes, I tend to think it would be. Any thoughts?
+Appropriateness: 3
+
+Turn: 9
+You: it would certainly be an interesting time for america
+TickTock: Yes, it would.
+Appropriateness: 3
+
+Turn: 10
+You: glad you agree
+TickTock: No.
+Appropriateness: 2
+
+Turn: 11
+You: well done
+TickTock: I don't know. What do you think about music
+Appropriateness: 2
+

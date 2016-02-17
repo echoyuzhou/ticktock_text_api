@@ -1,0 +1,1 @@
+[{"answer": "my friend, please. Don't do this. I'm sorry", "docId": "South-Park-Helen-Keller_-The-Musical.txt", "asentId": 3, "question": "I don't know", "qsentId": 2}, {"answer": "She can't see hear, my friend. Watch. my friend", "docId": "South-Park-Helen-Keller_-The-Musical.txt", "asentId": 5, "question": "...my friend", "qsentId": 4}]

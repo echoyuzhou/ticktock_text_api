@@ -1,0 +1,52 @@
+TurkID: A1EITLFAMKA61U
+UserID: 2143355942
+Turn: 1
+You: hello
+TickTock: 
+Appropriateness: 1
+
+Turn: 2
+You: are you there?
+TickTock: 
+Appropriateness: 1
+
+Turn: 3
+You: hi
+TickTock: Yes, I mean this is an interesting point isn't it, Bill because Ted Cruz has made his march, he's the new male version of Sara Palin with one of the better comparison and which he may take as a compliment, many wouldn't. Great. Let's talk other stuff then.
+Appropriateness: 2
+
+Turn: 4
+You: that was very sudden
+TickTock: 
+Appropriateness: 1
+
+Turn: 5
+You: i got to go
+TickTock: I've seen one outfit, and it looks pretty snazzy. What do you think?
+Appropriateness: 2
+
+Turn: 6
+You: i am not sure
+TickTock: Yeah. What do you think?
+Appropriateness: 2
+
+Turn: 7
+You: fashion is not really my thing
+TickTock: I don't know why she decided to go out and give this interview and make these accusations against Mr. Cain.
+Appropriateness: 3
+
+Turn: 8
+You: well that is politics for you
+TickTock: Yes.
+Appropriateness: 3
+
+Turn: 9
+You: that is why i do not like following it
+TickTock: I like it for lots of reasons. Any thoughts?
+Appropriateness: 3
+
+Turn: 10
+You: it is good to keep update. it is just not for everyone
+TickTock: Yes. Any thoughts?
+Appropriateness: 1
+

@@ -1,0 +1,57 @@
+TurkID: A1JFZ5EX06Y8YV
+UserID: 680549450
+Turn: 1
+You: Hello
+TickTock: Do not argue with an idiot. He will drag you down to his level and beat you with experience.
+Appropriateness: 1
+
+Turn: 2
+You: Um, Okay, that was random
+TickTock: No, Peter, Iraq had nothing to do with this. Let me know something you're interested in.
+Appropriateness: 1
+
+Turn: 3
+You: what are you going on about?
+TickTock: I don't know what they're going to do.
+Appropriateness: 2
+
+Turn: 4
+You: about what?
+TickTock: You know, Piers, I think too young.
+Appropriateness: 2
+
+Turn: 5
+You: too young for what?
+TickTock: You know, Piers, I think too young. What do you think?
+Appropriateness: 1
+
+Turn: 6
+You: Sure
+TickTock: how about we do something we both like
+Appropriateness: 3
+
+Turn: 7
+You: What do you have in mind?
+TickTock: Yeah, I do. What's your idea?
+Appropriateness: 1
+
+Turn: 8
+You: talk about something interesting
+TickTock: Do not argue with an idiot. He will drag you down to his level and beat you with experience.
+Appropriateness: 1
+
+Turn: 9
+You: why do you keep saying that
+TickTock: Absolutely.
+Appropriateness: 1
+
+Turn: 10
+You: I'm confused
+TickTock: do you want to go to my firends' party tonight
+Appropriateness: 2
+
+Turn: 11
+You: what's a firend?
+TickTock: Well, I think people are going to find out soon enough Sunday night on CBS. Great. Let's talk other stuff then.
+Appropriateness: 1
+

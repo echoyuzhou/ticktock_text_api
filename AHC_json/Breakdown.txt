@@ -1,0 +1,1 @@
+[{"answer": "Did she come in", "docId": "Breakdown.txt", "asentId": 3, "question": "You didn't see her, or she didn't come in", "qsentId": 2}, {"answer": " Didn't see her", "docId": "Breakdown.txt", "asentId": 5, "question": "Buddy, I told you the last time. I'm busy. Maybe she came in, maybe she didn't. All I know is, I didn't see her", "qsentId": 4}]

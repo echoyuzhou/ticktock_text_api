@@ -1,0 +1,1 @@
+[{"answer": "Are you okay, son? Are the other kids around here", "docId": "Alone-in-the-Dark.txt", "asentId": 3, "question": "Why don't we start with your name? Do you remember your name", "qsentId": 2}]

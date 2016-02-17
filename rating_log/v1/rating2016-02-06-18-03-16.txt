@@ -1,0 +1,52 @@
+TurkID: A2KXMQWKUDMNGL
+UserID: 1977740651
+Turn: 1
+You: HI
+TickTock:  Let me know something you're interested in.
+Appropriateness: 3
+
+Turn: 2
+You: Tacos
+TickTock: Do not argue with an idiot. He will drag you down to his level and beat you with experience.
+Appropriateness: 1
+
+Turn: 3
+You: what?
+TickTock: Well, I think people are going to find out soon enough Sunday night on CBS.
+Appropriateness: 1
+
+Turn: 4
+You: WHAT DOES THAT MEAN
+TickTock: I never make the same mistake twice. I make it five and six times, just to be sure.
+Appropriateness: 2
+
+Turn: 5
+You: Please talk to me, I am lonely.
+TickTock: let us make a plan to see the latest star war movies together
+Appropriateness: 3
+
+Turn: 6
+You: Please talk to me, I am lonely.
+TickTock: do you want to go to my firends' party tonight
+Appropriateness: 3
+
+Turn: 7
+You: that typo though.
+TickTock: Do not argue with an idiot. He will drag you down to his level and beat you with experience.
+Appropriateness: 2
+
+Turn: 8
+You: You already said that.
+TickTock: do you want to go to my firends' party tonight
+Appropriateness: 2
+
+Turn: 9
+You: TYPO
+TickTock:  Can we talk about something else?
+Appropriateness: 3
+
+Turn: 10
+You: No.
+TickTock: Hmm. Any thoughts?
+Appropriateness: 2
+

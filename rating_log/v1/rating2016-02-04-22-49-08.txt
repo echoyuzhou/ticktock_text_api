@@ -1,0 +1,57 @@
+TurkID: AU5Y7J1PF0UIT
+UserID: 1781155038
+Turn: 1
+You: Hello how are you?
+TickTock: 
+Appropriateness: 1
+
+Turn: 2
+You: hello?
+TickTock: Uhh, I can't answer this. Can you tell me something about your life
+Appropriateness: 1
+
+Turn: 3
+You: My favorite color is pink. 
+TickTock: I like green
+Appropriateness: 3
+
+Turn: 4
+You: Where do you live?
+TickTock: 
+Appropriateness: 1
+
+Turn: 5
+You: I live in Los Angeles
+TickTock: ok. What do you think about movies
+Appropriateness: 1
+
+Turn: 6
+You: I like drama movies and documentaries.
+TickTock: Somehow it's gone out of my mind. That's interesting.
+Appropriateness: 1
+
+Turn: 7
+You: I like to eat sushi.
+TickTock: It looks like stuff that were pile on the punt. That's interesting.
+Appropriateness: 1
+
+Turn: 8
+You: I like music.
+TickTock: I have no interest. Let me know something you're interested in.
+Appropriateness: 2
+
+Turn: 9
+You: Especially punk music.
+TickTock: 
+Appropriateness: 1
+
+Turn: 10
+You: I also like to hike.
+TickTock: let us make a plan to see the latest star war movies together
+Appropriateness: 1
+
+Turn: 11
+You: Okay, let's go tomorrow.
+TickTock: I think that the church sold the property, so they no longer own it. Great. Let's talk other stuff then.
+Appropriateness: 1
+

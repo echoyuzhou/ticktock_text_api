@@ -1,0 +1,1 @@
+[{"answer": "Now we're talking my friend", "docId": "Hebrew-Hammer_-The.txt", "asentId": 3, "question": "Yes my friend", "qsentId": 2}, {"answer": "You okay", "docId": "Hebrew-Hammer_-The.txt", "asentId": 5, "question": "I don't know. Why don't you ask them sir", "qsentId": 4}]

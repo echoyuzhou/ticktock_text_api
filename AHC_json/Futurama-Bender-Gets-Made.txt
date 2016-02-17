@@ -1,0 +1,1 @@
+[{"answer": "No, you shut up", "docId": "Futurama-Bender-Gets-Made.txt", "asentId": 3, "question": "Oh yeah, bam it again my friend. Knock it up another notch", "qsentId": 2}, {"answer": "No you gave me a fifty", "docId": "Futurama-Bender-Gets-Made.txt", "asentId": 5, "question": "Yeah you did", "qsentId": 4}]

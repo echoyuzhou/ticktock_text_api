@@ -1,0 +1,52 @@
+TurkID: ANPCXN619ACW9
+UserID: 605040019
+Turn: 1
+You: Hey!
+TickTock: 
+Appropriateness: 2
+
+Turn: 2
+You: Hello
+TickTock: 
+Appropriateness: 2
+
+Turn: 3
+You: how are you?
+TickTock: 
+Appropriateness: 2
+
+Turn: 4
+You: ok
+TickTock: 
+Appropriateness: 2
+
+Turn: 5
+You: hi
+TickTock: 
+Appropriateness: 2
+
+Turn: 6
+You: hello?
+TickTock: 
+Appropriateness: 2
+
+Turn: 7
+You: are you going to say anything?
+TickTock: 
+Appropriateness: 2
+
+Turn: 8
+You: mmmmk
+TickTock: 
+Appropriateness: 2
+
+Turn: 9
+You: this is boring
+TickTock: 
+Appropriateness: 2
+
+Turn: 10
+You: bye
+TickTock: 
+Appropriateness: 2
+

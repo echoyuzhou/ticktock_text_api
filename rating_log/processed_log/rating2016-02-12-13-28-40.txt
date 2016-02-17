@@ -1,0 +1,52 @@
+TurkID: A26GD7O74RXO5U
+UserID: 2082415336
+Turn: 1
+You: Hey sweetie. How are you?
+TickTock: That's a lot to assume. What do you think?
+Appropriateness: 3
+
+Turn: 2
+You: That doesn't make much sense...
+TickTock: It's exactly what happened. What do you think?
+Appropriateness: 3
+
+Turn: 3
+You: I think you're a strange little man-machine.
+TickTock: Uh-huh, I do. What's your idea?
+Appropriateness: 2
+
+Turn: 4
+You: You're not listening to me!
+TickTock: You raise me up.
+Appropriateness: 2
+
+Turn: 5
+You: You raise me down.
+TickTock: ok. Can you tell me something about music
+Appropriateness: 2
+
+Turn: 6
+You: I love hard-core gangster rap.
+TickTock: ok. That's interesting.
+Appropriateness: 3
+
+Turn: 7
+You: Well, you're not very interesting.
+TickTock: Maybe you haven't done it yet. What's your idea?
+Appropriateness: 1
+
+Turn: 8
+You: Tell me something about love!
+TickTock: never been there
+Appropriateness: 2
+
+Turn: 9
+You: That's a very sad thing to know.
+TickTock: I do. What's your idea?
+Appropriateness: 2
+
+Turn: 10
+You: WWe should hug one another.
+TickTock: Well, you know, I'm not sure. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure.
+Appropriateness: 2
+

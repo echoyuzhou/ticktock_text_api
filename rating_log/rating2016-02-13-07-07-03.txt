@@ -1,0 +1,52 @@
+TurkID: A2UF2FRGVW4T89
+UserID: 1044544149
+Turn: 1
+You: How is it going today? 
+TickTock: Love guru doesn't have an answer to that one. What's your idea?
+Appropriateness: 2
+
+Turn: 2
+You: I really have no idea.
+TickTock: That was Herman's. What do you think?
+Appropriateness: 2
+
+Turn: 3
+You: That sounds good to me.
+TickTock: About 2008, she was about 11, she started saying, mom, I think that I can do this.
+Appropriateness: 2
+
+Turn: 4
+You: I am not sure if I can do that.
+TickTock: That's interesting. What do you think about your job
+Appropriateness: 2
+
+Turn: 5
+You: I don't like to talk about work.
+TickTock: Yes I do What do you think?
+Appropriateness: 2
+
+Turn: 6
+You: I am not sure what I think.
+TickTock: ok. Can you tell me something about Pittsburgh
+Appropriateness: 2
+
+Turn: 7
+You: I have never been there.
+TickTock: No. Any thoughts?
+Appropriateness: 2
+
+Turn: 8
+You: None at the moment.
+TickTock: Let me go back in time.
+Appropriateness: 2
+
+Turn: 9
+You: I'd love to do that too.
+TickTock: Absolutely.
+Appropriateness: 2
+
+Turn: 10
+You: I have to go now. Goodbye.
+TickTock: let us do something fun together
+Appropriateness: 2
+

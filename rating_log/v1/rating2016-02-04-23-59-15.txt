@@ -1,0 +1,52 @@
+TurkID: A2LEY4X3LD8G26
+UserID: 829333050
+Turn: 1
+You: Hello how is it going?
+TickTock: It's already been pretty bad today across much of the Deep South, Piers. What's your idea?
+Appropriateness: 1
+
+Turn: 2
+You: I hate global warming
+TickTock: Well, you know, I'm not sure. Can you tell me something about sports
+Appropriateness: 1
+
+Turn: 3
+You: Hockey is the best sport
+TickTock: let us do something fun together
+Appropriateness: 2
+
+Turn: 4
+You: Like what?
+TickTock: He was a great guy.
+Appropriateness: 1
+
+Turn: 5
+You: Who?
+TickTock: ok. Can you tell me something about your job
+Appropriateness: 1
+
+Turn: 6
+You: I'm a writer
+TickTock: Uhh, I can't answer this. What do you think about Pittsburgh
+Appropriateness: 1
+
+Turn: 7
+You: It sucks!
+TickTock: do you like to play some board games together next time
+Appropriateness: 1
+
+Turn: 8
+You: No
+TickTock: Hmm. What do you think?
+Appropriateness: 1
+
+Turn: 9
+You: Hello
+TickTock:  Let me know something you're interested in.
+Appropriateness: 2
+
+Turn: 10
+You: Stephen King
+TickTock: ok. Can you tell me something about your life
+Appropriateness: 1
+

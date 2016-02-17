@@ -1,0 +1,1 @@
+[{"answer": "I don't wanna shoot the bunny", "docId": "South-Park-Volcano.txt", "asentId": 3, "question": "I'm not hysterical. I just don't want to shoot the bunny", "qsentId": 2}, {"answer": "Yeah, hippie! Go back to that place if you can't shoot anything", "docId": "South-Park-Volcano.txt", "asentId": 5, "question": "I can shoot you too", "qsentId": 4}]

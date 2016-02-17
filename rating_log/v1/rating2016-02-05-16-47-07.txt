@@ -1,0 +1,57 @@
+TurkID: A20IXK8ZV8N72H
+UserID: 1674534098
+Turn: 1
+You: 2+2=?
+TickTock: let us do something fun together
+Appropriateness: 1
+
+Turn: 2
+You: Like what?
+TickTock: Wow.
+Appropriateness: 1
+
+Turn: 3
+You: Much Suck
+TickTock: ok. What do you think about your life
+Appropriateness: 1
+
+Turn: 4
+You: It's been pretty boring so far.
+TickTock: Well, you know, I'm not sure. Can you tell me something about movies
+Appropriateness: 1
+
+Turn: 5
+You: Like what?
+TickTock: Wow.
+Appropriateness: 1
+
+Turn: 6
+You: Wow.
+TickTock: Uhh, I can't answer this. Can you tell me something about politics
+Appropriateness: 3
+
+Turn: 7
+You: The US is a Democratic Republic.
+TickTock: No.
+Appropriateness: 2
+
+Turn: 8
+You: Yes.
+TickTock: Yes, I think I would.
+Appropriateness: 1
+
+Turn: 9
+You: You would what?
+TickTock: I think that you've got to bring in new gun laws which prohibit the purchase of assault weapons, for example; the purchase of 6,000 rounds of ammunition on the Internet, as that Colorado assassin was able to get perfectly legally.
+Appropriateness: 1
+
+Turn: 10
+You: Jesus, how specific.
+TickTock: He is a progressive.
+Appropriateness: 2
+
+Turn: 11
+You: Who is?
+TickTock: Now, all...
+Appropriateness: 1
+

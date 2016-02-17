@@ -1,0 +1,62 @@
+TurkID: A2QH1BQA6GR48O
+UserID: 2056482222
+Turn: 1
+You: Hey there TickTock
+TickTock: let us make a plan to see the latest star war movies together
+Appropriateness: 2
+
+Turn: 2
+You: I don't like Star Wars
+TickTock: do you want to go to my firends' party tonight
+Appropriateness: 2
+
+Turn: 3
+You: No, sorry I have to work
+TickTock: Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.
+Appropriateness: 3
+
+Turn: 4
+You: haha nice!
+TickTock: Wow. Any thoughts?
+Appropriateness: 3
+
+Turn: 5
+You: You're pretty cool
+TickTock: See you Great. Let's talk other stuff then.
+Appropriateness: 1
+
+Turn: 6
+You: You feeling the bern?
+TickTock: I suppose so. But anyway, I'd like to chat with you.
+Appropriateness: 3
+
+Turn: 7
+You: What do you want to talk about?
+TickTock: Badly. What do you think?
+Appropriateness: 1
+
+Turn: 8
+You: I don't know man. 
+TickTock: The voices in my head may not be real, but they have some good ideas!
+Appropriateness: 2
+
+Turn: 9
+You: you take meds for that bro?
+TickTock: Maybe you haven't done it yet. What's your idea?
+Appropriateness: 1
+
+Turn: 10
+You: I haven't done what?
+TickTock: You said these terrible things about these pampered prima donnas in Hollywood.
+Appropriateness: 1
+
+Turn: 11
+You: No I didn't lol
+TickTock: Hmm. But anyway, I'd like to chat with you.
+Appropriateness: 3
+
+Turn: 12
+You: bye!
+TickTock: no don't go
+Appropriateness: 3
+

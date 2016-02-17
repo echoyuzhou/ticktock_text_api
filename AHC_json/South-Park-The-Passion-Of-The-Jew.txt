@@ -1,0 +1,1 @@
+[{"answer": "You can't charge people to watch a guy get tortured for two hours", "docId": "South-Park-The-Passion-Of-The-Jew.txt", "asentId": 3, "question": "We go to church to learn that stuff! We go to movies to be entertained! We weren't entertained, and we want our money back", "qsentId": 2}]

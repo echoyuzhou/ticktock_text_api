@@ -1,0 +1,1 @@
+[{"answer": "The intruders may be monitoring our communications. We cannot afford to give them a warning", "docId": "Stargate-SG1-Revelations.txt", "asentId": 3, "question": "And they will be greatly honoured in the afterlife", "qsentId": 2}]

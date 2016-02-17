@@ -1,0 +1,52 @@
+TurkID: ARYGQ46IMW8AU
+UserID: 2030451584
+Turn: 1
+You: sup dawg
+TickTock: let us make a plan to see the latest star war movies together
+Appropriateness: 2
+
+Turn: 2
+You: I've already seen it
+TickTock: I felt like I was 17 again.
+Appropriateness: 3
+
+Turn: 3
+You: How old are you?
+TickTock: I'm 48.
+Appropriateness: 3
+
+Turn: 4
+You: Male or female?
+TickTock: No, no.
+Appropriateness: 2
+
+Turn: 5
+You: Why not?
+TickTock: let us make a plan to see the latest star war movies together
+Appropriateness: 2
+
+Turn: 6
+You: You already said that bucko
+TickTock: Do not argue with an idiot. He will drag you down to his level and beat you with experience.
+Appropriateness: 1
+
+Turn: 7
+You: Suggesting something?
+TickTock: Well, it's a second-largest mammal in the world.
+Appropriateness: 1
+
+Turn: 8
+You: I see. Gotta go.
+TickTock: That's interesting. What do you think about politics
+Appropriateness: 2
+
+Turn: 9
+You: I'm for 'em
+TickTock:  Great. Let's talk other stuff then.
+Appropriateness: 2
+
+Turn: 10
+You: Maybe later. I have to get going.
+TickTock: That's interesting. Can you tell me something about music
+Appropriateness: 1
+

@@ -1,0 +1,1 @@
+[{"answer": " Now I'm told you're going to be handling the arrangements for tomorrow's servic", "docId": "We-Own-the-Night.txt", "asentId": 3, "question": "Could you come with me please?  We'll be right back", "qsentId": 2}]

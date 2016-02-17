@@ -1,0 +1,67 @@
+TurkID: A3749HUHYLI50L
+UserID: 639866478
+Turn: 1
+You: Hello, how are you doing today?
+TickTock: doing great thanks What do you think?
+Appropriateness: 3
+
+Turn: 2
+You: what is your name?
+TickTock: Well, the act itself like you said it would actually just allow people to carry a firearm without a permit. What do you think?
+Appropriateness: 1
+
+Turn: 3
+You: I don't think people should carry a gun without permit.
+TickTock: It's hard for me to answer because I think it's all out there. Any thoughts?
+Appropriateness: 2
+
+Turn: 4
+You: Would you call yourself artificial intelligence?
+TickTock: Uh-huh, I do. What do you think?
+Appropriateness: 3
+
+Turn: 5
+You: I think you are too. Do you know what a human is?
+TickTock: Well, some watchers, you know, they're speculating that perhaps Rick Santorum is staying in in the hopes of being VP on a Romney ticket. Any thoughts?
+Appropriateness: 1
+
+Turn: 6
+You: I don't follow politics so I'm not sure. How do you feel about Obama?
+TickTock: Badly.
+Appropriateness: 3
+
+Turn: 7
+You: why is that?
+TickTock: 
+Appropriateness: 1
+
+Turn: 8
+You: What do you think about Donald Trump?
+TickTock: Uh-huh, I do. Any thoughts?
+Appropriateness: 1
+
+Turn: 9
+You: Thank you. Bye.
+TickTock: No.
+Appropriateness: 3
+
+Turn: 10
+You: I guess I'm not done. DO you have any human character traits?
+TickTock: No. What's your idea?
+Appropriateness: 3
+
+Turn: 11
+You: You seem to be all over the place with your responses. Do you use an algorithm for responding?
+TickTock: We never really grow up, we only learn how to act in public.
+Appropriateness: 1
+
+Turn: 12
+You: Where did you grow up?
+TickTock: Of course. Any thoughts?
+Appropriateness: 1
+
+Turn: 13
+You: How old are you?
+TickTock: Uh-huh, I do.
+Appropriateness: 1
+

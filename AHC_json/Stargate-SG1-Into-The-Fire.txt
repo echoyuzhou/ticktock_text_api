@@ -1,0 +1,1 @@
+[{"answer": "Blow that C4 the minute the cavalry comes through that GATE", "docId": "Stargate-SG1-Into-The-Fire.txt", "asentId": 3, "question": "What if they don't??", "qsentId": 2}]

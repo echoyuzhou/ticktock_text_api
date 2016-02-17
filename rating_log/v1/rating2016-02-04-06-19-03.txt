@@ -1,0 +1,57 @@
+TurkID: A291KO368YRYCR
+UserID: 2124617778
+Turn: 1
+You: Hello
+TickTock: let us make a plan to see the latest star war movies together
+Appropriateness: 2
+
+Turn: 2
+You: Aw, not really a fan.
+TickTock: A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don't know son, I'm still paying."
+Appropriateness: 1
+
+Turn: 3
+You: Is thta an old joke?
+TickTock: Well, I can't think of anything. Great. Let's talk other stuff then.
+Appropriateness: 2
+
+Turn: 4
+You: Do you like sci-fi?
+TickTock: No.
+Appropriateness: 3
+
+Turn: 5
+You: What do you like?
+TickTock: I'm going to now. What's your idea?
+Appropriateness: 1
+
+Turn: 6
+You: I don't understand what you're trying to say.
+TickTock: I think it's an indispensable relationship, that's how I would put it. What do you think?
+Appropriateness: 1
+
+Turn: 7
+You: What are you talking about?
+TickTock: But you shouldn't an opinion. What's your idea?
+Appropriateness: 1
+
+Turn: 8
+You: My idea is I am done!
+TickTock: Maybe it's not really you. But anyway, I'd like to chat with you.
+Appropriateness: 2
+
+Turn: 9
+You: Do you like cold weather?
+TickTock: Yes, but you talk about love and everything and then you're just covered in skulls. What do you think?
+Appropriateness: 1
+
+Turn: 10
+You: What does that mean?
+TickTock: It involves all that. Any thoughts?
+Appropriateness: 1
+
+Turn: 11
+You: I am confused.
+TickTock: let us do something fun together
+Appropriateness: 2
+

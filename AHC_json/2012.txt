@@ -1,0 +1,1 @@
+[{"answer": "But you don't like him either", "docId": "2012.txt", "asentId": 3, "question": "But I know him. He's really nice. You should talk to him more often. You guys would get along really well", "qsentId": 2}]

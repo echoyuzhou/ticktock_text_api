@@ -1,0 +1,82 @@
+TurkID: A3UBB1LJKDQGZP
+UserID: 164741518
+Turn: 1
+You: hello
+TickTock: It is. Can we talk about something else?
+Appropriateness: 1
+
+Turn: 2
+You: Sure.   How about Donald Trump
+TickTock: I don't know. Can you tell me something about politics
+Appropriateness: 3
+
+Turn: 3
+You: Yeah that we need a Republican president.
+TickTock: Well, it's sort of an interesting question. Any thoughts?
+Appropriateness: 3
+
+Turn: 4
+You: Yeah that we need a Republican president.
+TickTock: 
+Appropriateness: 2
+
+Turn: 5
+You: Thats about all I have to think about
+TickTock: Do not argue with an idiot. He will drag you down to his level and beat you with experience.
+Appropriateness: 3
+
+Turn: 6
+You: Are you the idiot?
+TickTock: Of course.
+Appropriateness: 3
+
+Turn: 7
+You: Perfect I thought so
+TickTock: let us do something fun together
+Appropriateness: 3
+
+Turn: 8
+You: like what?
+TickTock: It's a sad statement on humanity and we all love a train wreck, you know, and that's basically what it is.
+Appropriateness: 1
+
+Turn: 9
+You: I thought we were going to do something fun?
+TickTock: Some guns.
+Appropriateness: 1
+
+Turn: 10
+You: I like guns
+TickTock: I probably own more than 50 firearms. Can we talk about something else?
+Appropriateness: 3
+
+Turn: 11
+You: Sure.   How about PIzza
+TickTock: I wouldn't want you in a tank. Great. Let's talk other stuff then.
+Appropriateness: 1
+
+Turn: 12
+You: Everyone likes pizza
+TickTock: Oh, the colder, the better for this cat. Can you share some interesting stuff with me?
+Appropriateness: 3
+
+Turn: 13
+You: Sure.   I have kids
+TickTock: The most importance thing I tell parents, not what they tell themselves. Great. Let's talk other stuff then.
+Appropriateness: 3
+
+Turn: 14
+You: I like cartoons
+TickTock: You know, there were things that he said that I was not appropriate to people of my own color. Let me know something you're interested in.
+Appropriateness: 1
+
+Turn: 15
+You: I thought we have moved on from this topic
+TickTock: I think we do a responsibility.
+Appropriateness: 3
+
+Turn: 16
+You: of course
+TickTock: Absolutely.
+Appropriateness: 3
+

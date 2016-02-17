@@ -1,0 +1,52 @@
+TurkID: A1BQCRF5Q76YFY
+UserID: 184731094
+Turn: 1
+You: hI
+TickTock: 
+Appropriateness: 1
+
+Turn: 2
+You: How are you 
+TickTock: That's a lot to assume.
+Appropriateness: 1
+
+Turn: 3
+You: How was your day? 
+TickTock: 
+Appropriateness: 1
+
+Turn: 4
+You: I had a great day
+TickTock: 
+Appropriateness: 1
+
+Turn: 5
+You: Are you still there?
+TickTock: Of course.
+Appropriateness: 3
+
+Turn: 6
+You: Ok well then how are you? 
+TickTock: 
+Appropriateness: 1
+
+Turn: 7
+You: How is the weather
+TickTock: yes i completely agree
+Appropriateness: 1
+
+Turn: 8
+You: You agree about what? 
+TickTock: do you like to play some board games together next time
+Appropriateness: 1
+
+Turn: 9
+You: sure
+TickTock: I'm not sure yet.
+Appropriateness: 1
+
+Turn: 10
+You: Ok
+TickTock: Do not argue with an idiot. He will drag you down to his level and beat you with experience.
+Appropriateness: 1
+

@@ -1,0 +1,1 @@
+[{"answer": "Nan", "docId": "Stargate-SG1-The-First-Ones.txt", "asentId": 3, "question": "Ka! my friend.", "qsentId": 2}, {"answer": "Weird", "docId": "Stargate-SG1-The-First-Ones.txt", "asentId": 5, "question": " Different", "qsentId": 4}, {"answer": " Different", "docId": "Stargate-SG1-The-First-Ones.txt", "asentId": 7, "question": "Odd?", "qsentId": 6}]

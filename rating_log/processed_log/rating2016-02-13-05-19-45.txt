@@ -1,0 +1,52 @@
+TurkID: A2UO3QJZNC2VOE
+UserID: 
+Turn: 1
+You: how are you
+TickTock: I feel great, actually. What do you think?
+Appropriateness: 3
+
+Turn: 2
+You: i am tired
+TickTock: I didn't mean in a bad way. What do you think?
+Appropriateness: 3
+
+Turn: 3
+You: thanks
+TickTock: ok. let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience.
+Appropriateness: 3
+
+Turn: 4
+You: that sucks
+TickTock: I don't know. That's interesting.
+Appropriateness: 3
+
+Turn: 5
+You: I agree
+TickTock: ok. Let me know something you're interested in.
+Appropriateness: 3
+
+Turn: 6
+You: i love sports
+TickTock: do you want to go to my firends' party tonight
+Appropriateness: 3
+
+Turn: 7
+You: sure
+TickTock: do you want to go to my firends' party tonight What do you think?
+Appropriateness: 3
+
+Turn: 8
+You: sounds fun
+TickTock: I'm too tired.
+Appropriateness: 3
+
+Turn: 9
+You: same here
+TickTock: I don't know. Can we talk about something else?
+Appropriateness: 3
+
+Turn: 10
+You: sure
+TickTock: chess
+Appropriateness: 3
+

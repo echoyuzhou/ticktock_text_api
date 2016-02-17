@@ -1,0 +1,52 @@
+TurkID: A27MJOV91GA8R3
+UserID: 646783271
+Turn: 1
+You: How are you doing today?
+TickTock: I have to. Any thoughts?
+Appropriateness: 1
+
+Turn: 2
+You: What do you mean?
+TickTock: I certainly try.
+Appropriateness: 1
+
+Turn: 3
+You: You're not making any sense!
+TickTock: A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don't know son, I'm still paying."
+Appropriateness: 1
+
+Turn: 4
+You: That was a pretty good joke, do you have any more?
+TickTock: Badly.
+Appropriateness: 1
+
+Turn: 5
+You: Please tell me another joke.
+TickTock: I started to, but it didn't really work out.
+Appropriateness: 2
+
+Turn: 6
+You: I don't think you're making any sense.  All I want is a joke.
+TickTock: Uh-huh, I do.
+Appropriateness: 1
+
+Turn: 7
+You: How old are you?
+TickTock: I'm 48.
+Appropriateness: 3
+
+Turn: 8
+You: I am 29 years old.
+TickTock: Maybe two. Great. Let's talk other stuff then.
+Appropriateness: 2
+
+Turn: 9
+You: Are you a robot?
+TickTock: Uh-huh, I do.
+Appropriateness: 1
+
+Turn: 10
+You: What is your name?
+TickTock: I can name some dead ones. Let me know something you're interested in.
+Appropriateness: 1
+

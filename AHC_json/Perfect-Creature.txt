@@ -1,0 +1,1 @@
+[{"answer": " What did you see", "docId": "Perfect-Creature.txt", "asentId": 3, "question": "What kind of man", "qsentId": 2}, {"answer": "What kind of man", "docId": "Perfect-Creature.txt", "asentId": 5, "question": "You're sure it was a Brother", "qsentId": 4}]

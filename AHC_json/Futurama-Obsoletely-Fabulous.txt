@@ -1,0 +1,1 @@
+[{"answer": "That was the greatest thing ever! Lets party!  Yeah baby c'mon", "docId": "Futurama-Obsoletely-Fabulous.txt", "asentId": 3, "question": "It's one of my ten desert island discs. I never even thought I'd get to use them. But look at me now. Ooh yeah baby! Do that thang", "qsentId": 2}]

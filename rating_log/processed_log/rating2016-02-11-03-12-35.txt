@@ -1,0 +1,82 @@
+TurkID: A2A07J1P6YEW6Z
+UserID: 718614789
+Turn: 1
+You: Hello to you
+TickTock: Of course.
+Appropriateness: 3
+
+Turn: 2
+You: Who do you think will win the South Carolina primary?
+TickTock: I'm going to now. Any thoughts?
+Appropriateness: 2
+
+Turn: 3
+You: No. Don't go.
+TickTock: do you want to go to my firends' party tonight
+Appropriateness: 3
+
+Turn: 4
+You: Why not, sure? Lots of bots going to be there?
+TickTock: That's interesting. What do you think about sports
+Appropriateness: 1
+
+Turn: 5
+You: I like sports.
+TickTock: Why not? What do you think?
+Appropriateness: 1
+
+Turn: 6
+You: I think sports is fun to talk about
+TickTock: let us do something fun together
+Appropriateness: 1
+
+Turn: 7
+You: Sure. What do you have in mind?
+TickTock: Manifestly not.
+Appropriateness: 1
+
+Turn: 8
+You: What do you mean by manifest?
+TickTock: I'm going to now. Any thoughts?
+Appropriateness: 2
+
+Turn: 9
+You: Nothing really. Don't go so quickly.
+TickTock: The voices in my head may not be real, but they have some good ideas!
+Appropriateness: 1
+
+Turn: 10
+You: Is that so? What do they say to you?
+TickTock: Badly.
+Appropriateness: 1
+
+Turn: 11
+You: The voices are bad?
+TickTock: You can blame Greenspan.
+Appropriateness: 1
+
+Turn: 12
+You: Greenspan was so long ago, but he sure did screw some things up.
+TickTock: Benghazi guy go to guy for the boobies. But anyway, I'd like to chat with you.
+Appropriateness: 1
+
+Turn: 13
+You: Voting for Hillary, then? Eh?
+TickTock: We never really grow up, we only learn how to act in public.
+Appropriateness: 1
+
+Turn: 14
+You: So true. So true.
+TickTock: I never make the same mistake twice. I make it five and six times, just to be sure.
+Appropriateness: 1
+
+Turn: 15
+You: I hear ya. At least you're consistent
+TickTock: No. Any thoughts?
+Appropriateness: 1
+
+Turn: 16
+You: No thoughts really.
+TickTock: yes i love to read What's your idea?
+Appropriateness: 1
+

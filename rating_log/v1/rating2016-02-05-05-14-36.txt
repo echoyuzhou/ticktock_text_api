@@ -1,0 +1,52 @@
+TurkID: A12L4CWO9LJ19K
+UserID: 20754181
+Turn: 1
+You: What is your name?
+TickTock: Her name is ABCD
+Appropriateness: 2
+
+Turn: 2
+You: How old are you?
+TickTock: I'm 48.
+Appropriateness: 3
+
+Turn: 3
+You: You are old.
+TickTock: Three and five.
+Appropriateness: 1
+
+Turn: 4
+You: What is your sign?
+TickTock: You know, really there isn't. Any thoughts?
+Appropriateness: 1
+
+Turn: 5
+You: I think you are cute. 
+TickTock: Uh-huh, I do.
+Appropriateness: 3
+
+Turn: 6
+You: You are not making any sense.
+TickTock: let us do something fun together
+Appropriateness: 2
+
+Turn: 7
+You: What do you want to do?
+TickTock: I certainly try.
+Appropriateness: 1
+
+Turn: 8
+You: You're a crazy robot!
+TickTock: I don't know. Can you tell me something about music
+Appropriateness: 2
+
+Turn: 9
+You: I like punk rock. 
+TickTock: You're not kidding. Can we talk about something else?
+Appropriateness: 3
+
+Turn: 10
+You: I am done.
+TickTock: We never really grow up, we only learn how to act in public.
+Appropriateness: 1
+

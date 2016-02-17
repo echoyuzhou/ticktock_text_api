@@ -1,0 +1,1 @@
+[{"answer": "We're in the finals", "docId": "South-Park-Cartman_s-mom-is-a-dirty-slut.txt", "asentId": 3, "question": "Man, my friend's going to be famous", "qsentId": 2}, {"answer": "All this time... Why didn't you tell me, father", "docId": "South-Park-Cartman_s-mom-is-a-dirty-slut.txt", "asentId": 5, "question": "It was YOU all along!", "qsentId": 4}]

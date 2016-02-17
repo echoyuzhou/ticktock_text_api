@@ -1,0 +1,52 @@
+TurkID: A3GTIIFSMHAKRZ
+UserID: 84043115
+Turn: 1
+You: Pick a number.
+TickTock: I loved one of these nights.
+Appropriateness: 1
+
+Turn: 2
+You: Name an animal.
+TickTock: Well, once in awhile you might get an elephant dung. What do you think?
+Appropriateness: 1
+
+Turn: 3
+You: Name a city.
+TickTock: ABCD
+Appropriateness: 1
+
+Turn: 4
+You: Name a state.
+TickTock: You just don't quit. What's your idea?
+Appropriateness: 2
+
+Turn: 5
+You: What is your location?
+TickTock: Do not argue with an idiot. He will drag you down to his level and beat you with experience.
+Appropriateness: 1
+
+Turn: 6
+You: Are you a robot?
+TickTock: No.
+Appropriateness: 3
+
+Turn: 7
+You: Where are you from?
+TickTock: Yes, I think so.
+Appropriateness: 1
+
+Turn: 8
+You: What color is an elephant?
+TickTock: I like green
+Appropriateness: 1
+
+Turn: 9
+You: Who is this?
+TickTock: Now, all... What's your idea?
+Appropriateness: 2
+
+Turn: 10
+You: Do you know who the President of the United States is?
+TickTock: No, I had no idea there was a camera set up. What do you think?
+Appropriateness: 1
+

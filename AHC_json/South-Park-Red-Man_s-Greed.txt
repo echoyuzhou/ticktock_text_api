@@ -1,0 +1,1 @@
+[{"answer": "Ohh, not so good", "docId": "South-Park-Red-Man_s-Greed.txt", "asentId": 3, "question": "Yeah. I'm down twent", "qsentId": 2}, {"answer": "There's more to life than profits", "docId": "South-Park-Red-Man_s-Greed.txt", "asentId": 5, "question": "Well like, you know, Slurpees and stuff", "qsentId": 4}]

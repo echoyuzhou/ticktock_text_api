@@ -1,0 +1,62 @@
+TurkID: A2QH1BQA6GR48O
+UserID: 1163250201
+Turn: 1
+You: Hi there TickTock! 
+TickTock: I don't know. let me tell you something, Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.
+Appropriateness: 1
+
+Turn: 2
+You: That's a pretty good joke. 
+TickTock: What do you like about it? What do you think?
+Appropriateness: 2
+
+Turn: 3
+You: That's a pretty good joke. 
+TickTock: 
+Appropriateness: 1
+
+Turn: 4
+You: I like that you think politicians are full of it.
+TickTock: Uh-huh, I do. Any thoughts?
+Appropriateness: 2
+
+Turn: 5
+You: That doesn't make sense.
+TickTock: It's exactly what happened. What's your idea?
+Appropriateness: 1
+
+Turn: 6
+You: I don't know man. 
+TickTock: That's interesting. let me tell you something, We never really grow up, we only learn how to act in public.
+Appropriateness: 2
+
+Turn: 7
+You: This is very true. When it comes to some of us at least. 
+TickTock: It's possible if it's real. What's your idea?
+Appropriateness: 1
+
+Turn: 8
+You: My idea is bacon. Always the right answer. 
+TickTock: let us make a plan to see the latest star war movies together
+Appropriateness: 1
+
+Turn: 9
+You: I don't like Star Wars
+TickTock: I don't know. That's interesting.
+Appropriateness: 2
+
+Turn: 10
+You: Yeah people don't understand why I don't like those movies. 
+TickTock: They need them to protect us from the number one killer in history. What's your idea?
+Appropriateness: 1
+
+Turn: 11
+You: I don't know about that.
+TickTock: Mm-hmm.
+Appropriateness: 2
+
+Turn: 12
+You: bye!
+TickTock: Bye bye What do you think?
+Appropriateness: 2
+

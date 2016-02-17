@@ -1,0 +1,67 @@
+TurkID: shrimai
+UserID: 1175943140
+Turn: 1
+You: Hi TickTock
+TickTock:  That's interesting.
+Appropriateness: 2
+
+Turn: 2
+You: How are you
+TickTock: Yes, I think so.
+Appropriateness: 1
+
+Turn: 3
+You: What are you thinking
+TickTock: I think I fell in love with Lorri pretty much from the very first letter. What do you think?
+Appropriateness: 3
+
+Turn: 4
+You: I think that is sweet
+TickTock: I think I am. What's your idea?
+Appropriateness: 3
+
+Turn: 5
+You: I think I want to improve you further
+TickTock: Uh-huh, I do.
+Appropriateness: 2
+
+Turn: 6
+You: do yu agree with me?
+TickTock: Yeah, I do.
+Appropriateness: 3
+
+Turn: 7
+You: what do you think needs to be improved
+TickTock: Uh-huh, I do. What do you think?
+Appropriateness: 1
+
+Turn: 8
+You: do you find me interesting tick tock?
+TickTock: Badly.
+Appropriateness: 3
+
+Turn: 9
+You: what do you like about me?
+TickTock: One of your quick little things. Any thoughts?
+Appropriateness: 3
+
+Turn: 10
+You: yes, do you think i am witty?
+TickTock: No. Any thoughts?
+Appropriateness: 3
+
+Turn: 11
+You: aww...you disappoint me tick tock
+TickTock: No.
+Appropriateness: 3
+
+Turn: 12
+You: can you say sorry?
+TickTock: No.
+Appropriateness: 3
+
+Turn: 13
+You: well then you should learn to say sorry
+TickTock: Many times. What's your idea?
+Appropriateness: 3
+

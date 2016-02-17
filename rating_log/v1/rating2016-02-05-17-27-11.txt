@@ -1,0 +1,57 @@
+TurkID: AVQGY7FCU80XP
+UserID: 337135494
+Turn: 1
+You: hello
+TickTock: The average guy isn't earning stratospheric sums of money being a huge headline act in Vegas.
+Appropriateness: 1
+
+Turn: 2
+You: what
+TickTock: Well, I think people are going to find out soon enough Sunday night on CBS. What's your idea?
+Appropriateness: 1
+
+Turn: 3
+You: interesting
+TickTock: I don't know. What do you think about music
+Appropriateness: 3
+
+Turn: 4
+You: I like blues music
+TickTock: We never really grow up, we only learn how to act in public.
+Appropriateness: 1
+
+Turn: 5
+You: some do and some do not
+TickTock: I certainly try.
+Appropriateness: 3
+
+Turn: 6
+You: good for you
+TickTock: Uh-huh, I do.
+Appropriateness: 2
+
+Turn: 7
+You: where to you go in public
+TickTock: I went to school in ABCD Any thoughts?
+Appropriateness: 3
+
+Turn: 8
+You: where is ABCD?
+TickTock: ABCD by ABCD Any thoughts?
+Appropriateness: 1
+
+Turn: 9
+You: that seems generic
+TickTock: Yes. That's interesting.
+Appropriateness: 2
+
+Turn: 10
+You: its generic not interesting
+TickTock: I never make the same mistake twice. I make it five and six times, just to be sure.
+Appropriateness: 1
+
+Turn: 11
+You: good to know
+TickTock: I think it is fabulous. But anyway, I'd like to chat with you.
+Appropriateness: 3
+

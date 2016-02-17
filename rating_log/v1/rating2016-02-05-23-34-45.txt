@@ -1,0 +1,52 @@
+TurkID: A2QH1BQA6GR48O
+UserID: 1251980429
+Turn: 1
+You: hi again
+TickTock: Of course. Any thoughts?
+Appropriateness: 1
+
+Turn: 2
+You: no
+TickTock: Can you say something longer. Can we talk about something else?
+Appropriateness: 1
+
+Turn: 3
+You: my cat keeps trying to eat my cheetos
+TickTock: We live in a society where pizza gets to your house before the police.
+Appropriateness: 1
+
+Turn: 4
+You: This is true. I'm actually eating pizza right now.
+TickTock: let us make a plan to see the latest star war movies together
+Appropriateness: 1
+
+Turn: 5
+You: I don't like Star Wars
+TickTock: Yes, it's fun. Can we talk about something else?
+Appropriateness: 1
+
+Turn: 6
+You: You feeling the bern?
+TickTock: let us do something fun together
+Appropriateness: 1
+
+Turn: 7
+You: No, sorry I have to work
+TickTock: Well, you know, I'm not sure. Can you tell me something about your life
+Appropriateness: 1
+
+Turn: 8
+You: I'm boring
+TickTock: Well, the most boring is Portman but the second most boring is Pawlenty. Can we talk about something else?
+Appropriateness: 1
+
+Turn: 9
+You: This is not worth a quarter.
+TickTock: Well, if you know my dad, and you'll get to meet him, you'll sort of see that he is just always joking and stuff. What do you think?
+Appropriateness: 1
+
+Turn: 10
+You: I think this hit should be paying better. 10 cents per minute is the minimum for quality workers on MTurk.
+TickTock: I think I am. Let me know something you're interested in.
+Appropriateness: 1
+

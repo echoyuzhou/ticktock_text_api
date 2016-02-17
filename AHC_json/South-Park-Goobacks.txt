@@ -1,0 +1,1 @@
+[{"answer": "You've been on your fucking phone since we started", "docId": "South-Park-Goobacks.txt", "asentId": 3, "question": "A break from what?! You haven't done anything", "qsentId": 2}, {"answer": "Chicken sandwich", "docId": "South-Park-Goobacks.txt", "asentId": 5, "question": "A chee", "qsentId": 4}]

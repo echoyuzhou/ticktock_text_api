@@ -1,0 +1,1 @@
+[{"answer": "Whoa, whoa, whoa, whoa, hold on. I refuse to fight. I'm a conscientious objector", "docId": "Futurama-When-Aliens-Attack.txt", "asentId": 3, "question": "You know, a coward", "qsentId": 2}]

@@ -1,0 +1,1 @@
+[{"answer": "Ah! The exact centre of the that place. This seems the logical place for fish to congregate", "docId": "Futurama-The-Deep-South.txt", "asentId": 3, "question": "Indeed so", "qsentId": 2}, {"answer": "Did it just get warmer", "docId": "Futurama-The-Deep-South.txt", "asentId": 5, "question": "Oh, you're sweet. I like those wiggly do", "qsentId": 4}]

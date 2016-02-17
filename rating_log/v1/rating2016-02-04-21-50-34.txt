@@ -1,0 +1,52 @@
+TurkID: A2NJ7N8INZOB00
+UserID: 2023495975
+Turn: 1
+You: Hello
+TickTock: let us do something fun together
+Appropriateness: 2
+
+Turn: 2
+You: like what
+TickTock: He was a great guy.
+Appropriateness: 1
+
+Turn: 3
+You: who was?
+TickTock: I don't think there is a leader right now of the candidates. What's your idea?
+Appropriateness: 1
+
+Turn: 4
+You: I don't know what we're talking about
+TickTock: Chris, it's about halftime.
+Appropriateness: 1
+
+Turn: 5
+You: who is chris?
+TickTock: I don't think there is a leader right now of the candidates.
+Appropriateness: 1
+
+Turn: 6
+You: this makes no sense
+TickTock: 
+Appropriateness: 1
+
+Turn: 7
+You: What is your fav color?
+TickTock: mine too What's your idea?
+Appropriateness: 1
+
+Turn: 8
+You: Coffee?
+TickTock:  Let me know something you're interested in.
+Appropriateness: 1
+
+Turn: 9
+You: alcohol
+TickTock: 
+Appropriateness: 1
+
+Turn: 10
+You: speechless huh? I usually leave men that way ;)
+TickTock: We never really grow up, we only learn how to act in public.
+Appropriateness: 1
+

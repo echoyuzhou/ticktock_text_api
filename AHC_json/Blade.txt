@@ -1,0 +1,1 @@
+[{"answer": "The Day Walker represents a unique opportunity. We'd be fools to waste it by killing him", "docId": "Blade.txt", "asentId": 3, "question": "Why should I respect something which has outlived its purpose", "qsentId": 2}, {"answer": "There are worse things than vampires out there", "docId": "Blade.txt", "asentId": 5, "question": " Like me", "qsentId": 4}]

@@ -1,0 +1,1 @@
+[{"answer": "No sign of Decepticons in this sector, Prime", "docId": "Transformers-The-Movie.txt", "asentId": 3, "question": "Jazz to Moon Base 2", "qsentId": 2}, {"answer": "Who disrupts my coronation", "docId": "Transformers-The-Movie.txt", "asentId": 5, "question": "Megatron, is that you", "qsentId": 4}]

@@ -1,0 +1,57 @@
+TurkID: A3F90N8YVKJ4I7
+UserID: 1872979077
+Turn: 1
+You: Hello
+TickTock: 
+Appropriateness: 1
+
+Turn: 2
+You: I said hello
+TickTock: I don't know. What do you think about movies
+Appropriateness: 1
+
+Turn: 3
+You: I like them
+TickTock: ok. What do you think about music
+Appropriateness: 3
+
+Turn: 4
+You: I like it
+TickTock: 
+Appropriateness: 1
+
+Turn: 5
+You: Are you a woman?
+TickTock: 
+Appropriateness: 1
+
+Turn: 6
+You: What is 1 + 2?
+TickTock: I don't know. What do you think about sports
+Appropriateness: 3
+
+Turn: 7
+You: I like sports
+TickTock: do you want to go to my firends' party tonight
+Appropriateness: 3
+
+Turn: 8
+You: yes
+TickTock: Yes, I think so.
+Appropriateness: 1
+
+Turn: 9
+You: You like Trump?
+TickTock: do you want to go to my firends' party tonight
+Appropriateness: 1
+
+Turn: 10
+You: No.
+TickTock: Nobody. What's your idea?
+Appropriateness: 1
+
+Turn: 11
+You: I don't know.
+TickTock: 
+Appropriateness: 1
+

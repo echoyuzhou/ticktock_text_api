@@ -1,0 +1,57 @@
+TurkID: A38USYKE9P7Z9O
+UserID: 1510515825
+Turn: 1
+You: Hi TickTock, I'm Kathy. It's nice to meet you.
+TickTock: I don't know. Can you tell me something about politics
+Appropriateness: 1
+
+Turn: 2
+You: There is a debate tonight in New Hampshire. Who do you think will win?
+TickTock: Well, it's 21 states now, Piers, that Governor Romney has won.
+Appropriateness: 2
+
+Turn: 3
+You: Romney lost the election to President Obama. Do you think Trump or Cruz will be the Republican nominee?
+TickTock: You know what, I was thinking about that, actually. Any thoughts?
+Appropriateness: 3
+
+Turn: 4
+You: I think the nominee will be Ted Cruz.
+TickTock: It depends upon who the person is. But anyway, I'd like to chat with you.
+Appropriateness: 2
+
+Turn: 5
+You: What do you want to chat about? 
+TickTock: Absolutely.
+Appropriateness: 1
+
+Turn: 6
+You: Do you like games? 
+TickTock: No. What do you think?
+Appropriateness: 3
+
+Turn: 7
+You: I like all sorts of games. 
+TickTock: do you want to go to my firends' party tonight
+Appropriateness: 1
+
+Turn: 8
+You: Sure, I will go to the party. Will a lot of people be there?
+TickTock: She didn't have to. Can you share some interesting stuff with me?
+Appropriateness: 1
+
+Turn: 9
+You: A computer just beat one of the best Go players in the world. 
+TickTock: Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.
+Appropriateness: 1
+
+Turn: 10
+You: Cute joke. And fish and guests both stink after three days. 
+TickTock: Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.
+Appropriateness: 3
+
+Turn: 11
+You: You are repeating yourself TickTock.
+TickTock: Do not argue with an idiot. He will drag you down to his level and beat you with experience.
+Appropriateness: 1
+

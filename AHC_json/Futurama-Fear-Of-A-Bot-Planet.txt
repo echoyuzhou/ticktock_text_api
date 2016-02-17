@@ -1,0 +1,1 @@
+[{"answer": "We don't sell those", "docId": "Futurama-Fear-Of-A-Bot-Planet.txt", "asentId": 3, "question": "We're outta rolls", "qsentId": 2}, {"answer": "Come on, Fry, walk like a robot", "docId": "Futurama-Fear-Of-A-Bot-Planet.txt", "asentId": 5, "question": "Robots don't have bathrooms", "qsentId": 4}]

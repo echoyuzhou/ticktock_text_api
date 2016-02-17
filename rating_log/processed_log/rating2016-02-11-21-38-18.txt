@@ -1,0 +1,52 @@
+TurkID: A2UF2FRGVW4T89
+UserID: 383438344
+Turn: 1
+You: Hello nice to talk with you.
+TickTock: Uh-huh, I do. Any thoughts?
+Appropriateness: 2
+
+Turn: 2
+You: I am not sure what you mean.
+TickTock: Uh-huh, I do.
+Appropriateness: 2
+
+Turn: 3
+You: Can you please explain what you mean.
+TickTock: I didn't know what to say. What do you think?
+Appropriateness: 2
+
+Turn: 4
+You: I am not sure how to answer that.
+TickTock: let us do something fun together
+Appropriateness: 2
+
+Turn: 5
+You: What do you have in mind?
+TickTock: Manifestly not.
+Appropriateness: 2
+
+Turn: 6
+You: Sorry but that makes no sense.
+TickTock: how about we do something we both like
+Appropriateness: 2
+
+Turn: 7
+You: Good idea, I am up for suggestions.
+TickTock: ok. What do you think about music
+Appropriateness: 3
+
+Turn: 8
+You: I love music.  I always have some playing in the background.
+TickTock: Uhh, I can't answer this. Can you tell me something about sports
+Appropriateness: 2
+
+Turn: 9
+You: Well my favorite team is my Kansas City Royals.
+TickTock: That's interesting. Can you tell me something about your job
+Appropriateness: 3
+
+Turn: 10
+You: I am currently self employed.
+TickTock: Well, you know, I'm not sure. But anyway, I'd like to chat with you.
+Appropriateness: 2
+

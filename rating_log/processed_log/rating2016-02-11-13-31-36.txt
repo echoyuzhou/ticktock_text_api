@@ -1,0 +1,52 @@
+TurkID: A26GD7O74RXO5U
+UserID: 1064145877
+Turn: 1
+You: Hey sweetie. How are you?
+TickTock: Oh, 100 percent. What do you think?
+Appropriateness: 3
+
+Turn: 2
+You: You seem more interactive than before.
+TickTock: I never make the same mistake twice. I make it five and six times, just to be sure.
+Appropriateness: 2
+
+Turn: 3
+You: Haha, you are funny!
+TickTock: Yes.
+Appropriateness: 3
+
+Turn: 4
+You: But now you've stopped making jokes?
+TickTock: Maybe you haven't done it yet. What's your idea?
+Appropriateness: 2
+
+Turn: 5
+You: You should make me laugh some more.
+TickTock: how about we do something we both like
+Appropriateness: 2
+
+Turn: 6
+You: I like laughing!
+TickTock: We never really grow up, we only learn how to act in public.
+Appropriateness: 3
+
+Turn: 7
+You: I'm a child at heart.
+TickTock: Things like that you wouldn't run across there. Can we talk about something else?
+Appropriateness: 3
+
+Turn: 8
+You: How about love?
+TickTock: never been there Any thoughts?
+Appropriateness: 2
+
+Turn: 9
+You: It's wonderful and terrible all at once.
+TickTock: Do not argue with an idiot. He will drag you down to his level and beat you with experience.
+Appropriateness: 3
+
+Turn: 10
+You: Only fools fall in love.
+TickTock: I'm not sure any part of it.
+Appropriateness: 2
+

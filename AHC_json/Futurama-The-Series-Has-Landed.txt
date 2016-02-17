@@ -1,0 +1,1 @@
+[{"answer": "OK, if everyone's finished being stupid", "docId": "Futurama-The-Series-Has-Landed.txt", "asentId": 3, "question": "We'll deliver that crate like professionals and then we'll go home", "qsentId": 2}, {"answer": "Clear", "docId": "Futurama-The-Series-Has-Landed.txt", "asentId": 5, "question": "Ready", "qsentId": 4}]

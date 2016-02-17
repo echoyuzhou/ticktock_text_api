@@ -1,0 +1,1 @@
+[{"answer": "He's just not cute since he got puberty installed", "docId": "Futurama-Bender-Should-Not-Be-Allowed-On-Tv.txt", "asentId": 3, "question": "And there's that robot child actor who grew up and became a convenience store", "qsentId": 2}]

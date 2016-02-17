@@ -1,0 +1,1 @@
+[{"answer": "I like my life the way it is", "docId": "Stargate-SG1-Metamorphosis.txt", "asentId": 3, "question": "Well that is definitely the most interesting offer Ive had in a very long time. But you cant risk giving me those kind of powers unless youre certain I wont use them against you", "qsentId": 2}]

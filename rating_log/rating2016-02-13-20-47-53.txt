@@ -1,0 +1,52 @@
+TurkID: A10ZXERA24IG75
+UserID: 1752284962
+Turn: 1
+You: What's gucci Tick Tock
+TickTock: I don't know. let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience.
+Appropriateness: 2
+
+Turn: 2
+You: That's what I've heard
+TickTock: That's interesting. What do you think about sports
+Appropriateness: 2
+
+Turn: 3
+You: I like sports and I don't care who knows
+TickTock: do you want to go to my firends' party tonight
+Appropriateness: 2
+
+Turn: 4
+You: That might be kinda fun
+TickTock: What kind of games do you like?
+Appropriateness: 2
+
+Turn: 5
+You: I like to play 2k
+TickTock: I don't know. let me tell you something, We live in a society where pizza gets to your house before the police.
+Appropriateness: 2
+
+Turn: 6
+You: Yo pizza is bangin
+TickTock: do you like to play some board games together next time
+Appropriateness: 2
+
+Turn: 7
+You: Board games would be fun
+TickTock: That's interesting. But anyway, I'd like to chat with you.
+Appropriateness: 2
+
+Turn: 8
+You: We are chatting right now
+TickTock: Well, you know, I'm not sure. Can you tell me something about your job
+Appropriateness: 2
+
+Turn: 9
+You: It's very important and very pretentious
+TickTock: do you want to go to my friends' party tonight
+Appropriateness: 2
+
+Turn: 10
+You: You already asked me that
+TickTock: let us do something fun together
+Appropriateness: 2
+

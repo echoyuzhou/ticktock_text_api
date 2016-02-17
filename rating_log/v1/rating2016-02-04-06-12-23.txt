@@ -1,0 +1,77 @@
+TurkID: A1FG4M4370KNFI
+UserID: 640212672
+Turn: 1
+You: How's it going, eh?
+TickTock: I felt like I was 17 again.
+Appropriateness: 1
+
+Turn: 2
+You: Why's that?
+TickTock: do you want to go to my firends' party tonight
+Appropriateness: 1
+
+Turn: 3
+You: Who is your friend?
+TickTock: my best friend is ABCD
+Appropriateness: 3
+
+Turn: 4
+You: Where are you from?
+TickTock: That's a lot to assume. Any thoughts?
+Appropriateness: 2
+
+Turn: 5
+You: Not right now.
+TickTock: We never really grow up, we only learn how to act in public.
+Appropriateness: 1
+
+Turn: 6
+You: Where'd you hear that?
+TickTock: Yeah. What do you think?
+Appropriateness: 1
+
+Turn: 7
+You: I try not to.
+TickTock: That's interesting. Can you tell me something about Pittsburgh
+Appropriateness: 2
+
+Turn: 8
+You: I try not to.
+TickTock: The voices in my head may not be real, but they have some good ideas!
+Appropriateness: 1
+
+Turn: 9
+You: Like what?
+TickTock: That's the picture there.
+Appropriateness: 1
+
+Turn: 10
+You: Do you listen to music?
+TickTock: Well, ideally, I listen to music like that. What do you think?
+Appropriateness: 1
+
+Turn: 11
+You: My brain hurts.
+TickTock: Your queen. Can you share some interesting stuff with me?
+Appropriateness: 1
+
+Turn: 12
+You: Sorry man, I'm out.
+TickTock: do you want to go to my firends' party tonight
+Appropriateness: 2
+
+Turn: 13
+You: Will there be any ladies there?
+TickTock: Yes.
+Appropriateness: 3
+
+Turn: 14
+You: That's the first straight answer I've gotten from you.
+TickTock: That's a pretty good overall description. What do you think?
+Appropriateness: 1
+
+Turn: 15
+You: Potatoes are fucking awesome.
+TickTock: I used to be a top gymnast, actually. But anyway, I'd like to chat with you.
+Appropriateness: 1
+

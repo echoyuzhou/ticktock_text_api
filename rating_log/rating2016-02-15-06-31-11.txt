@@ -1,0 +1,57 @@
+TurkID: A2UF2FRGVW4T89
+UserID: 1991819290
+Turn: 1
+You: What's going on today?
+TickTock: I don't know. Let me know something you're interested in.
+Appropriateness: 2
+
+Turn: 2
+You: I like movies how about you?
+TickTock: Yes, but you talk about love and everything and then you're just covered in skulls. What do you think?
+Appropriateness: 2
+
+Turn: 3
+You: That makes no sense.
+TickTock: No, I think what would make sense is laws that are calibrated to solve the problem. What's your idea?
+Appropriateness: 2
+
+Turn: 4
+You: I have no idea about that.
+TickTock: The title of the book originally came to me because I had gotten some interested about doing a memoir for years.
+Appropriateness: 2
+
+Turn: 5
+You: What is the book about?
+TickTock: I call mine the career. What's your idea?
+Appropriateness: 2
+
+Turn: 6
+You: I like science fiction novels.
+TickTock: Uhh, I can't answer this. Let me know something you're interested in.
+Appropriateness: 2
+
+Turn: 7
+You: I like bodybuilding and fitness
+TickTock: ok. let me tell you a joke, A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don't know son, I'm still paying."
+Appropriateness: 2
+
+Turn: 8
+You: Ha, that's funny.
+TickTock: Well, you know, I'm not sure. Can you tell me something about Pittsburgh
+Appropriateness: 2
+
+Turn: 9
+You: I've never been there but I heard it's a trashy town.
+TickTock: its a good movie
+Appropriateness: 2
+
+Turn: 10
+You: What movie do you mean?
+TickTock: Badly. What's your idea?
+Appropriateness: 2
+
+Turn: 11
+You: I am not sure.  I have to go now.
+TickTock: I don't know. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure.
+Appropriateness: 2
+

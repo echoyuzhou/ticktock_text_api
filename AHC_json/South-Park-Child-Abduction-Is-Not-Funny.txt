@@ -1,0 +1,1 @@
+[{"answer": "Wait, that's not the usual ticke", "docId": "South-Park-Child-Abduction-Is-Not-Funny.txt", "asentId": 3, "question": "So? I don't know him", "qsentId": 2}, {"answer": "Where are you going", "docId": "South-Park-Child-Abduction-Is-Not-Funny.txt", "asentId": 5, "question": "Oh??  I think I'll go with you", "qsentId": 4}]

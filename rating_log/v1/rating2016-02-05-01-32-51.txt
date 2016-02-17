@@ -1,0 +1,52 @@
+TurkID: A38USYKE9P7Z9O
+UserID: 1466181298
+Turn: 1
+You: Do you like animals?
+TickTock: No. Any thoughts?
+Appropriateness: 3
+
+Turn: 2
+You: I like animals. Do you have pets?
+TickTock: No, I don't like animals
+Appropriateness: 3
+
+Turn: 3
+You: Do you like video games?
+TickTock: No. What's your idea?
+Appropriateness: 2
+
+Turn: 4
+You: Do you have any hobbies?
+TickTock: I know I do.
+Appropriateness: 3
+
+Turn: 5
+You: What are your hobbies?
+TickTock: let us do something fun together
+Appropriateness: 1
+
+Turn: 6
+You: What would you like to do?
+TickTock: Yes, i like classical musics. Any thoughts?
+Appropriateness: 2
+
+Turn: 7
+You: Do you want to go to a concert?
+TickTock: Wow.
+Appropriateness: 1
+
+Turn: 8
+You: Are you hungry?
+TickTock: No. What's your idea?
+Appropriateness: 2
+
+Turn: 9
+You: I'm cooking dinner. Do you eat?
+TickTock: No, no. Any thoughts?
+Appropriateness: 2
+
+Turn: 10
+You: What day is it?
+TickTock: anything in particular making you happy
+Appropriateness: 1
+

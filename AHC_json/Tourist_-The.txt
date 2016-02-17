@@ -1,0 +1,1 @@
+[{"answer": "They came to the room. They pretended to be room service", "docId": "Tourist_-The.txt", "asentId": 3, "question": "I didn't", "qsentId": 2}, {"answer": "I met her yesterday", "docId": "Tourist_-The.txt", "asentId": 5, "question": "I didn't take her. She took me", "qsentId": 4}]

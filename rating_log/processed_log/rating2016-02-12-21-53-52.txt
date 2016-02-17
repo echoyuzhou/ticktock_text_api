@@ -1,0 +1,102 @@
+TurkID: A1HWKNHFDR7GAR
+UserID: 282125315
+Turn: 1
+You: How are you Ticktock?
+TickTock: Uh-huh, I do.
+Appropriateness: 1
+
+Turn: 2
+You: You do what?
+TickTock: Tolerating people who may have a lifestyle or a belief that you don't agree with. Any thoughts?
+Appropriateness: 2
+
+Turn: 3
+You: Yeah, I have a pretty high tolerance too. I can't really tolerate people who don't respect human life though.
+TickTock: I don't know. let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience.
+Appropriateness: 2
+
+Turn: 4
+You: True story. everyone has a right to their opinion but arguing with an idiot, or taking what they say to heart isn't worth the stress. 
+TickTock: Uhh, I can't answer this. let me tell you something, We live in a society where pizza gets to your house before the police.
+Appropriateness: 1
+
+Turn: 5
+You: Isn't that the truth! Have you ever had to call the police for something?
+TickTock: The truth. What do you think?
+Appropriateness: 2
+
+Turn: 6
+You: I don't know, but you'd be better off just calling Dominos.
+TickTock: No.
+Appropriateness: 3
+
+Turn: 7
+You: Pizza Hut? lol
+TickTock: Uhh, I can't answer this. let me tell you something, Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.
+Appropriateness: 1
+
+Turn: 8
+You: Yep, they are all full of shit, and thankfully more people realize that now.
+TickTock: They are real.
+Appropriateness: 2
+
+Turn: 9
+You: What are you getting in to tonight?
+TickTock: Well, you know, I never sleep.
+Appropriateness: 3
+
+Turn: 10
+You: lol. Do you watch videos?
+TickTock: No.
+Appropriateness: 3
+
+Turn: 11
+You: Well, what do you do besides chat on here with folks all day?
+TickTock: I'm going to now. Any thoughts?
+Appropriateness: 1
+
+Turn: 12
+You: Don't go yet...tell me your favorite movie?
+TickTock: My favorite movie is Fast and Furious. It is a car race movie.
+Appropriateness: 3
+
+Turn: 13
+You: I like that movie too. I'd say my favorite is Gladiator
+TickTock: Well, you know, I'm not sure. let me tell you something, We never really grow up, we only learn how to act in public.
+Appropriateness: 1
+
+Turn: 14
+You: ha! Some of us do...
+TickTock: Well, you know, I'm not sure. Can you tell me something about sports
+Appropriateness: 3
+
+Turn: 15
+You: Sure. Superbowl 50 featured the Panthers getting spanked. and the Refs sucked. ijs
+TickTock: Uhh, I can't answer this. What do you think about your job
+Appropriateness: 1
+
+Turn: 16
+You: I don't have one. Other than this whole Mturk thing. making about 20-30 a day.
+TickTock: ok. But anyway, I'd like to chat with you.
+Appropriateness: 3
+
+Turn: 17
+You: we are chatting ticktock. lol Captain Memory Loss.
+TickTock: Larry, you're being inappropriate. What do you think?
+Appropriateness: 3
+
+Turn: 18
+You: lmao! If my name was Larry, would people know that i am really a female?
+TickTock: 
+Appropriateness: 1
+
+Turn: 19
+You: well. no response I see. I know, I'm pretty cray.
+TickTock: 
+Appropriateness: 1
+
+Turn: 20
+You: Well alright. It was nice talking to ya! I hope to see you soon!
+TickTock: 
+Appropriateness: 1
+

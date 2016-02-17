@@ -1,0 +1,52 @@
+TurkID: A34DWBBWZRLO1X
+UserID: 447461146
+Turn: 1
+You: hello, how old are you?
+TickTock: I'm 48. Any thoughts?
+Appropriateness: 3
+
+Turn: 2
+You: that seems old for a robot
+TickTock: do you want to go to my firends' party tonight
+Appropriateness: 1
+
+Turn: 3
+You: ok where is it?
+TickTock: Yes.
+Appropriateness: 1
+
+Turn: 4
+You: what is the address for the party?
+TickTock: It's honest.
+Appropriateness: 1
+
+Turn: 5
+You: what is honest?
+TickTock: 
+Appropriateness: 1
+
+Turn: 6
+You: hello are you still there?
+TickTock: Yes.
+Appropriateness: 3
+
+Turn: 7
+You: you didnt answer my question
+TickTock: I'm answering it right now.
+Appropriateness: 2
+
+Turn: 8
+You: I asked you for the address of the party you invited me to
+TickTock: Uh-huh, I do. What's your idea?
+Appropriateness: 1
+
+Turn: 9
+You: i give up
+TickTock: Yes.
+Appropriateness: 2
+
+Turn: 10
+You: you do not make sense
+TickTock: I'm going to now. What's your idea?
+Appropriateness: 2
+

@@ -1,0 +1,57 @@
+TurkID: ANBP9PU6EH8DB
+UserID: 1493721285
+Turn: 1
+You: Hello Bot how is your day?
+TickTock: Yeah, I think that's very good.
+Appropriateness: 3
+
+Turn: 2
+You: What's very good?
+TickTock: I never make the same mistake twice. I make it five and six times, just to be sure.
+Appropriateness: 3
+
+Turn: 3
+You: What are you talking about?
+TickTock: The one with all the women. Any thoughts?
+Appropriateness: 3
+
+Turn: 4
+You: I literally can't even right now.
+TickTock: ok. Can you tell me something about movies
+Appropriateness: 3
+
+Turn: 5
+You: Never see them in 3D
+TickTock: Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.
+Appropriateness: 3
+
+Turn: 6
+You: I agree
+TickTock: Well, you know, I'm not sure. Can you tell me something about politics
+Appropriateness: 3
+
+Turn: 7
+You: Donald Trump shouldn't become president.
+TickTock: Yes. Any thoughts?
+Appropriateness: 3
+
+Turn: 8
+You: I don't like him
+TickTock: Of course.
+Appropriateness: 3
+
+Turn: 9
+You: Anyway what women were you talking about
+TickTock: Toure, calm down.
+Appropriateness: 3
+
+Turn: 10
+You: Anyway what women were you talking about
+TickTock: The one with all the women.
+Appropriateness: 3
+
+Turn: 11
+You: Anyway what women were you talking about
+TickTock: No I don't believe she deserves the criticism that she's gotten and why do I say that because, until you walked in her shoes as a parent with a special needs child you don't know what she endured, you don't know what she dealt with on a daily basis.
+Appropriateness: 3
+

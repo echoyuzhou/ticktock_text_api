@@ -1,0 +1,77 @@
+TurkID: A1D4I1QYL9713I
+UserID: 1419798444
+Turn: 1
+You: "send Message"
+TickTock: You know, hey everyone we're in Sochi. Can you share some interesting stuff with me?
+Appropriateness: 3
+
+Turn: 2
+You: About what?
+TickTock: I would say, it was probably something that I didn't realize at the time, like a family ski trip with my dad and my mom. What do you think?
+Appropriateness: 2
+
+Turn: 3
+You: I don't ski
+TickTock: I certainly try. What do you think?
+Appropriateness: 2
+
+Turn: 4
+You: I don't ski and hate the cold and snow
+TickTock: really i love the cold
+Appropriateness: 3
+
+Turn: 5
+You: Why would you love the cold?
+TickTock: Uh-huh, I do.
+Appropriateness: 2
+
+Turn: 6
+You: Why? It makes me hurt since I have RA 
+TickTock: let us do something fun together
+Appropriateness: 2
+
+Turn: 7
+You: Like what?
+TickTock: That's the picture there.
+Appropriateness: 1
+
+Turn: 8
+You: What picture
+TickTock: Let's rewind. Can we talk about something else?
+Appropriateness: 2
+
+Turn: 9
+You: What do you want to talk a bout
+TickTock: Badly.
+Appropriateness: 1
+
+Turn: 10
+You: What is badly?
+TickTock: Now, all... Can you share some interesting stuff with me?
+Appropriateness: 1
+
+Turn: 11
+You: I have 3 kids
+TickTock: let us make a plan to see the latest star war movies together
+Appropriateness: 3
+
+Turn: 12
+You: Ok, would love to go
+TickTock: Yeah, absolutely. Can we talk about something else?
+Appropriateness: 3
+
+Turn: 13
+You: What else
+TickTock: let us do something fun together
+Appropriateness: 3
+
+Turn: 14
+You: Like what?
+TickTock: That's the picture there. What's your idea?
+Appropriateness: 1
+
+Turn: 15
+You: What picture and I have no ideas
+TickTock: Not at all. Can we talk about something else?
+Appropriateness: 1
+

@@ -1,0 +1,67 @@
+TurkID: A3H8M155NBFE1L
+UserID: 1399824237
+Turn: 1
+You: Hello.
+TickTock: Well, you know, I'm not sure. Can you tell me something about Pittsburgh
+Appropriateness: 1
+
+Turn: 2
+You: That's a strange greeting.
+TickTock: We never really grow up, we only learn how to act in public.
+Appropriateness: 1
+
+Turn: 3
+You: Pittsburgh is a city in Pennsylvania.
+TickTock: I love ABCD
+Appropriateness: 1
+
+Turn: 4
+You: What is ABCD?
+TickTock: ABCD
+Appropriateness: 1
+
+Turn: 5
+You: ABCD?
+TickTock: ok. What do you think about your life
+Appropriateness: 1
+
+Turn: 6
+You: What does that have to do with ABCD?
+TickTock: Here's how.
+Appropriateness: 1
+
+Turn: 7
+You: Okay, tell me.
+TickTock: I will tell you, please shut up and let me do the talking. What do you think?
+Appropriateness: 1
+
+Turn: 8
+You: That's kind of rude of you.
+TickTock: Yes.
+Appropriateness: 1
+
+Turn: 9
+You: Do you apologize for being rude?
+TickTock: Maybe you haven't done it yet.
+Appropriateness: 1
+
+Turn: 10
+You: I haven't done anything, you're the one being rude.
+TickTock: Gotcha. Any thoughts?
+Appropriateness: 1
+
+Turn: 11
+You: You are rude.
+TickTock: let us do something fun together
+Appropriateness: 1
+
+Turn: 12
+You: Like what?
+TickTock: Wow. What do you think?
+Appropriateness: 1
+
+Turn: 13
+You: You sound kind of rude again.
+TickTock: Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.
+Appropriateness: 1
+

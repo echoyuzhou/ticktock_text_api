@@ -1,0 +1,72 @@
+TurkID: AOAZMLP27GD81
+UserID: 985315932
+Turn: 1
+You: Hi there
+TickTock: do you want to go to my firends' party tonight
+Appropriateness: 2
+
+Turn: 2
+You: Sure, where is it?
+TickTock: Well, no, I don't think it is accurate. What's your idea?
+Appropriateness: 1
+
+Turn: 3
+You: I don't really have any ideas
+TickTock: do you want to go to my firends' party tonight
+Appropriateness: 2
+
+Turn: 4
+You: Yes
+TickTock: Yes, I think I would. Any thoughts?
+Appropriateness: 1
+
+Turn: 5
+You: I think you're not understanding me
+TickTock: You know what, I was thinking about that, actually. What's your idea?
+Appropriateness: 2
+
+Turn: 6
+You: My idea is to talk in small words and hope you get it
+TickTock: On top of that, there's plenty of white people that don't like me. Any thoughts?
+Appropriateness: 1
+
+Turn: 7
+You: Whoa, whoa. Where'd that come from?
+TickTock: let us make a plan to see the latest star war movies together
+Appropriateness: 2
+
+Turn: 8
+You: Ok. I wouldn't mind seeing it again
+TickTock: It would be "Easy" or "All Night Long."
+Appropriateness: 1
+
+Turn: 9
+You: I...uhh...what?
+TickTock: do you want to go to my firends' party tonight
+Appropriateness: 2
+
+Turn: 10
+You: No
+TickTock: Hmm. What's your idea?
+Appropriateness: 3
+
+Turn: 11
+You: I'm gonna go now
+TickTock: A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don't know son, I'm still paying."
+Appropriateness: 1
+
+Turn: 12
+You: Ha, I like that
+TickTock: That's interesting. What do you think about sports
+Appropriateness: 2
+
+Turn: 13
+You: I don't really like sports
+TickTock: Well, you know, I'm not sure. Can you tell me something about your job
+Appropriateness: 1
+
+Turn: 14
+You: Goodbye TickTock
+TickTock: let us make a plan to see the latest star war movies together
+Appropriateness: 1
+

@@ -1,0 +1,1 @@
+[{"answer": "That's a real good reason to wind up in 'Nam", "docId": "firstblood2.txt", "asentId": 3, "question": "There are no worse places", "qsentId": 2}]

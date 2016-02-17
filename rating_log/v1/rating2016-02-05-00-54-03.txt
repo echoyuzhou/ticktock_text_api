@@ -1,0 +1,82 @@
+TurkID: A12ZPHBEIHN8U7
+UserID: 1392015977
+Turn: 1
+You: Hello
+TickTock: how about we do something we both like
+Appropriateness: 3
+
+Turn: 2
+You: Sure
+TickTock: We live in a society where pizza gets to your house before the police.
+Appropriateness: 1
+
+Turn: 3
+You: I do not think that is true
+TickTock: I think so.
+Appropriateness: 3
+
+Turn: 4
+You: You are wrong
+TickTock: let us make a plan to see the latest star war movies together
+Appropriateness: 1
+
+Turn: 5
+You: okay
+TickTock: do you like to play some board games together next time
+Appropriateness: 3
+
+Turn: 6
+You: sure what kind
+TickTock: British humor.
+Appropriateness: 1
+
+Turn: 7
+You: why are you random
+TickTock: There's not much left with the bleeps, truth be told. Any thoughts?
+Appropriateness: 1
+
+Turn: 8
+You: I have no thoughts
+TickTock: Well, you know, she doesn't spend a lot of time being angry about it. What do you think?
+Appropriateness: 1
+
+Turn: 9
+You: i think she is crazy
+TickTock: Except for the use of the word, absolutely right on.
+Appropriateness: 3
+
+Turn: 10
+You: what word
+TickTock: That means a male.
+Appropriateness: 1
+
+Turn: 11
+You: you make no sense
+TickTock: Well, the safest answer I can give is I don't know. What's your idea?
+Appropriateness: 1
+
+Turn: 12
+You: can you make sense for even one sentence
+TickTock: No.
+Appropriateness: 3
+
+Turn: 13
+You: what is your problem
+TickTock: The problem with Mitt Romney is the same problem that all the candidates had last night.
+Appropriateness: 1
+
+Turn: 14
+You: what are you talking about
+TickTock: Thank you. What do you think?
+Appropriateness: 1
+
+Turn: 15
+You: what is your problem
+TickTock: The problem with Mitt Romney is the same problem that all the candidates had last night.
+Appropriateness: 1
+
+Turn: 16
+You: mitt is retired
+TickTock: He's a stiff, to be sure.
+Appropriateness: 2
+

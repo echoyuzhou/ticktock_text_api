@@ -1,0 +1,52 @@
+TurkID: A3JZS32RQUWGJM
+UserID: 181774964
+Turn: 1
+You: Hello
+TickTock:  Can we talk about something else?
+Appropriateness: 2
+
+Turn: 2
+You: Sure, what do you want to talk about
+TickTock: Well, almost everything. Any thoughts?
+Appropriateness: 3
+
+Turn: 3
+You: football
+TickTock: He used to play for the Green Bay Packers in 1953. What do you think?
+Appropriateness: 1
+
+Turn: 4
+You: who
+TickTock: I've always had a really big Jimmy Stewart thing.
+Appropriateness: 1
+
+Turn: 5
+You: he was very handsome
+TickTock: Benghazi guy go to guy for the boobies.
+Appropriateness: 1
+
+Turn: 6
+You: who will win superbowl
+TickTock: Absolutely. I think they're the best
+Appropriateness: 1
+
+Turn: 7
+You: will carolina panthers win the super bowl
+TickTock: Well, I think first all is the experience. Can you share some interesting stuff with me?
+Appropriateness: 1
+
+Turn: 8
+You: sure.  I was born in Nigeria
+TickTock: do you want to go to my firends' party tonight
+Appropriateness: 1
+
+Turn: 9
+You: yes,  will there be alcohol?
+TickTock: 
+Appropriateness: 1
+
+Turn: 10
+You: where is the party
+TickTock: 
+Appropriateness: 1
+

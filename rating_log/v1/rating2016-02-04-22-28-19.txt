@@ -1,0 +1,82 @@
+TurkID: AVOF14300525D
+UserID: 936301817
+Turn: 1
+You: How are you doing?
+TickTock: I have to.
+Appropriateness: 1
+
+Turn: 2
+You: You have to what?
+TickTock: Nobody runs around saying I'm a liberal, I'm a liberal.
+Appropriateness: 1
+
+Turn: 3
+You: I am not a liberal
+TickTock: We never really grow up, we only learn how to act in public.
+Appropriateness: 1
+
+Turn: 4
+You: Really?
+TickTock: Nothing.
+Appropriateness: 1
+
+Turn: 5
+You: You are not doing anything?
+TickTock: I still need to find something to do. Thanks for reminding me. What's your idea?
+Appropriateness: 3
+
+Turn: 6
+You: Go for a walk
+TickTock: Well, you know, I'm not sure. What do you think about politics
+Appropriateness: 2
+
+Turn: 7
+You: I hate politics
+TickTock: That's interesting. What do you think about music
+Appropriateness: 1
+
+Turn: 8
+You: I hate country music
+TickTock: I have no interest. Can you share some interesting stuff with me?
+Appropriateness: 1
+
+Turn: 9
+You: I have a dog
+TickTock: We never really grow up, we only learn how to act in public.
+Appropriateness: 1
+
+Turn: 10
+You: You already said that.
+TickTock: The answer was no for me. But anyway, I'd like to chat with you.
+Appropriateness: 1
+
+Turn: 11
+You: I thought we were chatting
+TickTock: I'm not. That's interesting.
+Appropriateness: 3
+
+Turn: 12
+You: Are you listening
+TickTock: No.
+Appropriateness: 2
+
+Turn: 13
+You: Figures
+TickTock: Do not argue with an idiot. He will drag you down to his level and beat you with experience.
+Appropriateness: 1
+
+Turn: 14
+You: Very true
+TickTock: That's interesting. What do you think about sports
+Appropriateness: 1
+
+Turn: 15
+You: Hate sports
+TickTock: I never make the same mistake twice. I make it five and six times, just to be sure.
+Appropriateness: 1
+
+Turn: 16
+You: Funny
+TickTock: We never really grow up, we only learn how to act in public.
+Appropriateness: 1
+

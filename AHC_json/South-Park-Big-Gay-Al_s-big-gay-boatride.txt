@@ -1,0 +1,1 @@
+[{"answer": "Ha Ha Yea", "docId": "South-Park-Big-Gay-Al_s-big-gay-boatride.txt", "asentId": 3, "question": "Gay dog", "qsentId": 2}, {"answer": "What do you mean", "docId": "South-Park-Big-Gay-Al_s-big-gay-boatride.txt", "asentId": 5, "question": "WHAT?! WHAT THE HELL ARE YOU TALKING ABOUT?! I am not gay", "qsentId": 4}]

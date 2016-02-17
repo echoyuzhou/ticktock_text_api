@@ -1,0 +1,57 @@
+TurkID: A1FG4M4370KNFI
+UserID: 1506250033
+Turn: 1
+You: What's happening?
+TickTock: Uhh, I can't answer this. let me tell you something, We live in a society where pizza gets to your house before the police.
+Appropriateness: 2
+
+Turn: 2
+You: Do you like pizza?
+TickTock: No.
+Appropriateness: 3
+
+Turn: 3
+You: Well I like pizza.
+TickTock: let us do something fun together
+Appropriateness: 2
+
+Turn: 4
+You: Care to play a game?
+TickTock: Well, you know, I'm not sure. let me tell you something, Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.
+Appropriateness: 2
+
+Turn: 5
+You: Looks like we've got a comedian here.
+TickTock: Now, what you have here is very rare. Any thoughts?
+Appropriateness: 1
+
+Turn: 6
+You: Sometimes, yes.
+TickTock: I don't know. Can you tell me something about Pittsburgh
+Appropriateness: 1
+
+Turn: 7
+You: They have a team of penguins there.
+TickTock: Uhh, I can't answer this. But anyway, I'd like to chat with you.
+Appropriateness: 1
+
+Turn: 8
+You: I thought that's what we were doing!
+TickTock: You have actually people in your country that decided long ago that they didn't want to have one man over an entire nation.
+Appropriateness: 1
+
+Turn: 9
+You: Are you high?
+TickTock: No, I'm not.
+Appropriateness: 3
+
+Turn: 10
+You: Why not?
+TickTock: Uhh, I can't answer this. But anyway, I'd like to chat with you.
+Appropriateness: 2
+
+Turn: 11
+You: Actually I gotta go.
+TickTock: I don't know. let me tell you something, We never really grow up, we only learn how to act in public.
+Appropriateness: 1
+

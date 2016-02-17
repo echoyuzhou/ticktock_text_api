@@ -1,0 +1,57 @@
+TurkID: A38USYKE9P7Z9O
+UserID: 166362619
+Turn: 1
+You: How old are you?
+TickTock: I'll be 42 in a couple of weeks.
+Appropriateness: 3
+
+Turn: 2
+You: Where do you live?
+TickTock: Badly.
+Appropriateness: 1
+
+Turn: 3
+You: Do you have friends?
+TickTock: Yes. What do you think?
+Appropriateness: 3
+
+Turn: 4
+You: I wasn't sure you would. Do you have a family?
+TickTock: Oh, I would keep going.
+Appropriateness: 1
+
+Turn: 5
+You: How is the weather?
+TickTock: I'm so excited that it's finally spring Any thoughts?
+Appropriateness: 3
+
+Turn: 6
+You: It is winter where I am. Do you like snow?
+TickTock: You know, we're experiencing an epic, unprecedented and unpredictable storm in Newark right now.
+Appropriateness: 2
+
+Turn: 7
+You: It may snow where I am. Do you like movies?
+TickTock: No. What's your idea?
+Appropriateness: 2
+
+Turn: 8
+You: I enjoy movies. Do you like music?
+TickTock: Uh-huh, I do.
+Appropriateness: 3
+
+Turn: 9
+You: What kind of music do you like?
+TickTock: Yes. I like classical musics.
+Appropriateness: 3
+
+Turn: 10
+You: Classical is great. Do you like musicals?
+TickTock: Well, let's see.
+Appropriateness: 1
+
+Turn: 11
+You: What time is it?
+TickTock: It's three o'clock
+Appropriateness: 3
+

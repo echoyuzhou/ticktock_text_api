@@ -1,0 +1,67 @@
+TurkID: A1F991VPHVNIVC
+UserID: 42880922
+Turn: 1
+You: How are you doing.
+TickTock: Well, I think a lot of mistruths have been written about Phoebe, and I think that it was time to take her back, to reclaim her as ours and to put an end to some of the stories that have been going around.
+Appropriateness: 1
+
+Turn: 2
+You: Who is Phoebe?
+TickTock: let us make a plan to see the latest star war movies together
+Appropriateness: 1
+
+Turn: 3
+You: I don't want to go to a movie with you.
+TickTock: I'm going to now. What's your idea?
+Appropriateness: 1
+
+Turn: 4
+You: What?
+TickTock: let us do something fun together
+Appropriateness: 3
+
+Turn: 5
+You: Okay, let's do it!
+TickTock: No, the other part that you just said.
+Appropriateness: 1
+
+Turn: 6
+You: What?
+TickTock: 
+Appropriateness: 2
+
+Turn: 7
+You: You didn't say anything.
+TickTock: We don't know what's there.
+Appropriateness: 1
+
+Turn: 8
+You: Neither do I. What are you looking for?
+TickTock: Badly. What's your idea?
+Appropriateness: 1
+
+Turn: 9
+You: It's party time. That's my idea.
+TickTock: Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.
+Appropriateness: 3
+
+Turn: 10
+You: LOLOLOL
+TickTock: Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.
+Appropriateness: 3
+
+Turn: 11
+You: Awesome. Talk to you later.
+TickTock: No.
+Appropriateness: 3
+
+Turn: 12
+You: Yes.
+TickTock: Yes, I think so. What's your idea?
+Appropriateness: 1
+
+Turn: 13
+You: Party time. I already told you. Are you stupid or something?
+TickTock: 
+Appropriateness: 2
+

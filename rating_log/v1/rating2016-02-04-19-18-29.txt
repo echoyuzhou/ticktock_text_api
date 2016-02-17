@@ -1,0 +1,57 @@
+TurkID: A2F79GFUWU5O96
+UserID: 546847978
+Turn: 1
+You: How are you?
+TickTock: 
+Appropriateness: 1
+
+Turn: 2
+You: How are you doing?
+TickTock: 
+Appropriateness: 1
+
+Turn: 3
+You: What time is it?
+TickTock: 
+Appropriateness: 1
+
+Turn: 4
+You: What's your favorite color?
+TickTock: 
+Appropriateness: 1
+
+Turn: 5
+You: hi
+TickTock: 
+Appropriateness: 1
+
+Turn: 6
+You: You're not talking
+TickTock: 
+Appropriateness: 1
+
+Turn: 7
+You: You suck
+TickTock: 
+Appropriateness: 1
+
+Turn: 8
+You: This isn't working
+TickTock: 
+Appropriateness: 1
+
+Turn: 9
+You: What's your name?
+TickTock: 
+Appropriateness: 1
+
+Turn: 10
+You: What's wrong with you?
+TickTock: 
+Appropriateness: 1
+
+Turn: 11
+You: You're not saying anything but blanks
+TickTock: 
+Appropriateness: 1
+

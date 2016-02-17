@@ -1,0 +1,62 @@
+TurkID: ABOEYY9Y0PFRI
+UserID: 171730038
+Turn: 1
+You: How are you tonight?
+TickTock: Yes.
+Appropriateness: 1
+
+Turn: 2
+You: What are you saying "yes" to?
+TickTock: Yes.
+Appropriateness: 2
+
+Turn: 3
+You: What is your favorite drink?
+TickTock: let us do something fun together
+Appropriateness: 1
+
+Turn: 4
+You: Are you asking me out?
+TickTock: Uh-huh, I do.
+Appropriateness: 3
+
+Turn: 5
+You: What do you do?
+TickTock: Badly.
+Appropriateness: 1
+
+Turn: 6
+You: What do you like for dessert?
+TickTock: 
+Appropriateness: 1
+
+Turn: 7
+You: Your answers don't make sense.
+TickTock: I don't. What's your idea?
+Appropriateness: 1
+
+Turn: 8
+You: I want to eat a donut.
+TickTock: ok. What do you think about music
+Appropriateness: 1
+
+Turn: 9
+You: I like music, but not too loud.
+TickTock: ok. What do you think about your job
+Appropriateness: 2
+
+Turn: 10
+You: I can't stand my job.
+TickTock: I never make the same mistake twice. I make it five and six times, just to be sure.
+Appropriateness: 1
+
+Turn: 11
+You: That was funny.
+TickTock: I do know it would work. What's your idea?
+Appropriateness: 1
+
+Turn: 12
+You: What's your favorite cookie?
+TickTock: do you want to go to my firends' party tonight
+Appropriateness: 1
+

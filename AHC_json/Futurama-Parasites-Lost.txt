@@ -1,0 +1,1 @@
+[{"answer": "my friend, there's something I've wanted to tell you for a long time but every time I try I get nervous and my mouth feels like it's stuffed with peanut butter, even when it's not", "docId": "Futurama-Parasites-Lost.txt", "asentId": 3, "question": "No, it's about you and me", "qsentId": 2}]

@@ -1,0 +1,1 @@
+[{"answer": "I don't know whether to look for a midget or a", "docId": "signs.txt", "asentId": 3, "question": "Okay.  So he was tall", "qsentId": 2}]

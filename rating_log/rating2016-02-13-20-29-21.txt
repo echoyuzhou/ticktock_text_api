@@ -1,0 +1,67 @@
+TurkID: A1CGUFW3R6M234
+UserID: 578116671
+Turn: 1
+You: How are you?
+TickTock: Uh-huh, I do.
+Appropriateness: 1
+
+Turn: 2
+You: That didn't really make sense.
+TickTock: It's exactly what happened. What do you think?
+Appropriateness: 2
+
+Turn: 3
+You: I don't think it happened that way at all.
+TickTock: I'm not really sure.
+Appropriateness: 2
+
+Turn: 4
+You: what are you sure of
+TickTock: I just got a joint statement, I should tell you, from the Senate Majority Leader Harry Reid and House Speaker John Boehner.
+Appropriateness: 3
+
+Turn: 5
+You: Who are they?
+TickTock: Yes.
+Appropriateness: 1
+
+Turn: 6
+You: What was the statement?
+TickTock: I don't know. Can you share some interesting stuff with me?
+Appropriateness: 3
+
+Turn: 7
+You: I think cooking is interesting
+TickTock: let us make a plan to see the latest star war movies together
+Appropriateness: 1
+
+Turn: 8
+You: I already saw it
+TickTock: Yes. What's your idea?
+Appropriateness: 1
+
+Turn: 9
+You: You should see it in 3d
+TickTock: Yes.
+Appropriateness: 3
+
+Turn: 10
+You: It's much better that way
+TickTock: I don't know. Can you tell me something about your life
+Appropriateness: 1
+
+Turn: 11
+You: I am a mother
+TickTock: Well, you know, I'm not sure. let me tell you something, Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.
+Appropriateness: 1
+
+Turn: 12
+You: I have heard that joke
+TickTock: Well, the way I understand it, I think you're correct, it's moved on past us.
+Appropriateness: 2
+
+Turn: 13
+You: do you like politics?
+TickTock: I love Larry King. What's your idea?
+Appropriateness: 3
+

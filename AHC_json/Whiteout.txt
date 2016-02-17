@@ -1,0 +1,1 @@
+[{"answer": "Six hours at least", "docId": "Whiteout.txt", "asentId": 3, "question": "Then get them in", "qsentId": 2}, {"answer": "How's the weather where you are", "docId": "Whiteout.txt", "asentId": 5, "question": "Yeah, that place ain't bad either", "qsentId": 4}]

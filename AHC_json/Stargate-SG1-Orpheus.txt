@@ -1,0 +1,1 @@
+[{"answer": "That is the force field deactivation code I saw Bra'tac send right before he was captured", "docId": "Stargate-SG1-Orpheus.txt", "asentId": 3, "question": "I'm sure", "qsentId": 2}, {"answer": "They can fight", "docId": "Stargate-SG1-Orpheus.txt", "asentId": 5, "question": "If they stay, they will die", "qsentId": 4}]

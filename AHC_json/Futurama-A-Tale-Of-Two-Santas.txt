@@ -1,0 +1,1 @@
+[{"answer": "It's that place! And we got him cornered", "docId": "Futurama-A-Tale-Of-Two-Santas.txt", "asentId": 3, "question": "And a juicy r", "qsentId": 2}]

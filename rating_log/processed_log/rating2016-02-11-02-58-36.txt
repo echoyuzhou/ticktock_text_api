@@ -1,0 +1,77 @@
+TurkID: A2UO3QJZNC2VOE
+UserID: 185804986
+Turn: 1
+You: ok sounds good
+TickTock: I think it is fabulous. Can we talk about something else?
+Appropriateness: 3
+
+Turn: 2
+You: sure do you like sports
+TickTock: I love Larry King.
+Appropriateness: 3
+
+Turn: 3
+You: He is old
+TickTock: He's like 52. What do you think?
+Appropriateness: 3
+
+Turn: 4
+You: older than that
+TickTock: I don't know. Can you tell me something about politics
+Appropriateness: 2
+
+Turn: 5
+You: they are complicated
+TickTock: We are stubborn and resilient but we know when we have to go. What's your idea?
+Appropriateness: 3
+
+Turn: 6
+You: i am tired
+TickTock: Yeah.
+Appropriateness: 2
+
+Turn: 7
+You: Are you?
+TickTock: Maybe you haven't done it yet. Any thoughts?
+Appropriateness: 3
+
+Turn: 8
+You: Done what?
+TickTock: You know, Piers, I think too young. What do you think?
+Appropriateness: 2
+
+Turn: 9
+You: how old are you
+TickTock: I'm 48.
+Appropriateness: 3
+
+Turn: 10
+You: thats young
+TickTock: ok. What do you think about music
+Appropriateness: 2
+
+Turn: 11
+You: it sucks
+TickTock: She's very grounding.
+Appropriateness: 2
+
+Turn: 12
+You: its ok
+TickTock: Well, everybody has fear, you know.
+Appropriateness: 3
+
+Turn: 13
+You: i guess
+TickTock: You have.
+Appropriateness: 2
+
+Turn: 14
+You: i do not know
+TickTock: Yes. What do you think?
+Appropriateness: 3
+
+Turn: 15
+You: I am not sure
+TickTock: Do not argue with an idiot. He will drag you down to his level and beat you with experience.
+Appropriateness: 2
+

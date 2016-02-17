@@ -1,0 +1,57 @@
+TurkID: A2C0QNEIOSKAV5
+UserID: 657479541
+Turn: 1
+You: hello
+TickTock: The average guy isn't earning stratospheric sums of money being a huge headline act in Vegas. Any thoughts?
+Appropriateness: 1
+
+Turn: 2
+You: so you say
+TickTock: Yes, but you talk about love and everything and then you're just covered in skulls.
+Appropriateness: 1
+
+Turn: 3
+You: you are of topic
+TickTock: Oh, 100 percent.
+Appropriateness: 3
+
+Turn: 4
+You: that is right
+TickTock: This is Merv. What's your idea?
+Appropriateness: 2
+
+Turn: 5
+You: It depends
+TickTock: Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.
+Appropriateness: 1
+
+Turn: 6
+You: yes that is true
+TickTock: Yes.
+Appropriateness: 3
+
+Turn: 7
+You: yes what
+TickTock: Yes, I think so.
+Appropriateness: 2
+
+Turn: 8
+You: so you say
+TickTock: Yes, but you talk about love and everything and then you're just covered in skulls. What do you think?
+Appropriateness: 1
+
+Turn: 9
+You: i'm not paid to think
+TickTock: Yes.
+Appropriateness: 2
+
+Turn: 10
+You: you repeat yourself
+TickTock: Of course.
+Appropriateness: 3
+
+Turn: 11
+You: goodbye
+TickTock: do you want to go to my firends' party tonight
+Appropriateness: 1
+

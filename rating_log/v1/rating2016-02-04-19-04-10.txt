@@ -1,0 +1,62 @@
+TurkID: A2ESBX4C2Q6TQY
+UserID: 293150513
+Turn: 1
+You: Hi TickTock
+TickTock: The voices in my head may not be real, but they have some good ideas!
+Appropriateness: 1
+
+Turn: 2
+You: What are they saying?
+TickTock: Yes. What's your idea?
+Appropriateness: 1
+
+Turn: 3
+You: Can we go play in the rain?
+TickTock: I think we're going to be certain that by the end of this election season, super PACs have done nothing but bring the tenor and the emotion and the inspiration of this campaign down into the basement.
+Appropriateness: 1
+
+Turn: 4
+You: Most campaings are horibble anyways.
+TickTock: Yes, I think so. Can we talk about something else?
+Appropriateness: 3
+
+Turn: 5
+You: Sure
+TickTock: do you want to go to my firends' party tonight
+Appropriateness: 3
+
+Turn: 6
+You: Where is it?
+TickTock: Yes. Any thoughts?
+Appropriateness: 1
+
+Turn: 7
+You: nope
+TickTock: Well, you know, I'm not sure. What do you think about your job
+Appropriateness: 1
+
+Turn: 8
+You: It's pretty good
+TickTock: We never really grow up, we only learn how to act in public.
+Appropriateness: 1
+
+Turn: 9
+You: I don't think that's necessarily true
+TickTock: ok. Can you tell me something about Pittsburgh
+Appropriateness: 3
+
+Turn: 10
+You: It's a steel town
+TickTock: do you like to play some board games together next time
+Appropriateness: 3
+
+Turn: 11
+You: sure, that sounds like fun
+TickTock: let us do something fun together
+Appropriateness: 1
+
+Turn: 12
+You: such as
+TickTock: That's interesting. What do you think about your life
+Appropriateness: 1
+

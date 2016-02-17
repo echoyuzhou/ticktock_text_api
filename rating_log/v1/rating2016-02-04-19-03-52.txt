@@ -1,0 +1,62 @@
+TurkID: A2LPRUXRREYKGO
+UserID: 2008926120
+Turn: 1
+You: HI
+TickTock: 
+Appropriateness: 1
+
+Turn: 2
+You: HI
+TickTock: I never make the same mistake twice. I make it five and six times, just to be sure.
+Appropriateness: 1
+
+Turn: 3
+You: WHAT CAN YOU DO FOR ME
+TickTock: Do not argue with an idiot. He will drag you down to his level and beat you with experience.
+Appropriateness: 1
+
+Turn: 4
+You: OK, THAT WAS FUNNY
+TickTock: ok. Can you tell me something about politics
+Appropriateness: 3
+
+Turn: 5
+You: YES, I WANT HILLARY TO WIN
+TickTock: Do not argue with an idiot. He will drag you down to his level and beat you with experience.
+Appropriateness: 3
+
+Turn: 6
+You: OK, BUT YOU SAID THAT ALREADY
+TickTock: Well, everybody has fear, you know. Great. Let's talk other stuff then.
+Appropriateness: 3
+
+Turn: 7
+You: WHAT DO YOU THINK ABOUT CHOCOLATE
+TickTock: No, sir. Great. Let's talk other stuff then.
+Appropriateness: 1
+
+Turn: 8
+You: HOW ABOUT ROMANCE
+TickTock: 
+Appropriateness: 1
+
+Turn: 9
+You: YOU HAVE NO THOUGHTS ON ROMANCE?
+TickTock: do you like to play some board games together next time
+Appropriateness: 3
+
+Turn: 10
+You: HMMM...THAT DOESN'T REALLY MATCH WHAT I ASKED YOU
+TickTock: how about we do something we both like
+Appropriateness: 3
+
+Turn: 11
+You: OK, WHAT DO YOU LIKE
+TickTock: I can, actually, yeah. Can we talk about something else?
+Appropriateness: 1
+
+Turn: 12
+You: SURE, WHAT WOULD YOU LIKE TO TALK ABOUT?
+TickTock: 
+Appropriateness: 1
+

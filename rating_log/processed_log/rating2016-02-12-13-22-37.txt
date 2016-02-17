@@ -1,0 +1,52 @@
+TurkID: ABM77ZQWCHPNX
+UserID: 817935848
+Turn: 1
+You: Good Morning, TickTock. How are you?
+TickTock: Yes.
+Appropriateness: 1
+
+Turn: 2
+You: Can you answer questions like Siri?
+TickTock: I'm answering your question. Any thoughts?
+Appropriateness: 2
+
+Turn: 3
+You: You seem to be avoiding my questions.
+TickTock: do you want to go to my friends' party tonight
+Appropriateness: 3
+
+Turn: 4
+You: Who's your friend?
+TickTock: Uhh, I can't answer this. But anyway, I'd like to chat with you.
+Appropriateness: 3
+
+Turn: 5
+You: Where's the party located at?
+TickTock: I don't know. Can you tell me something about movies
+Appropriateness: 3
+
+Turn: 6
+You: Everyone's talking about Star Wars. What did you think?
+TickTock: You know what, I was thinking about that, actually.
+Appropriateness: 3
+
+Turn: 7
+You: Great! 
+TickTock: Well, you know, I'm not sure. What do you think about politics
+Appropriateness: 2
+
+Turn: 8
+You: Too early in the morning for politics.
+TickTock: let us do something fun together
+Appropriateness: 3
+
+Turn: 9
+You: What TV shows do you like?
+TickTock: Yes, i like classical musics. What do you think?
+Appropriateness: 1
+
+Turn: 10
+You: Love the violins. How about you?
+TickTock: Maybe you haven't done it yet.
+Appropriateness: 1
+

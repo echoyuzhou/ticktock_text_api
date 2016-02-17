@@ -1,0 +1,77 @@
+TurkID: A37QFZ8I1TGH2C
+UserID: 145071796
+Turn: 1
+You: Good morning.  What are you?
+TickTock: I really try.
+Appropriateness: 2
+
+Turn: 2
+You: You really try what?
+TickTock: That's interesting. Can you tell me something about your job
+Appropriateness: 1
+
+Turn: 3
+You: I'm an artist.  What is your job?
+TickTock: let us do something fun together
+Appropriateness: 1
+
+Turn: 4
+You: What state is chicago in?
+TickTock: She really believes that she's not getting a fair shake and that Jim especially isn't getting a share shake, that, you know, everybody is very upset and it's tragic what's happened.
+Appropriateness: 1
+
+Turn: 5
+You: Do you know google?
+TickTock: Uh-huh, I do.
+Appropriateness: 3
+
+Turn: 6
+You: who is google?
+TickTock: Not necessarily.
+Appropriateness: 1
+
+Turn: 7
+You: I see.  Are you very smart?  Or do you just gossip?
+TickTock: I certainly try.
+Appropriateness: 3
+
+Turn: 8
+You: Try gossip?
+TickTock: A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don't know son, I'm still paying."
+Appropriateness: 2
+
+Turn: 9
+You: You're sexist!
+TickTock: do you like to play some board games together next time
+Appropriateness: 2
+
+Turn: 10
+You: How would you play board games?  
+TickTock: Uh-huh, I do.
+Appropriateness: 2
+
+Turn: 11
+You: Name a board game.
+TickTock: do you like to play some board games together next time
+Appropriateness: 1
+
+Turn: 12
+You: angry birds?  
+TickTock: No. Can you share some interesting stuff with me?
+Appropriateness: 3
+
+Turn: 13
+You: do you know where chicago is?
+TickTock: No.
+Appropriateness: 3
+
+Turn: 14
+You: Who is president of the US
+TickTock: I think we should give him another chance.
+Appropriateness: 2
+
+Turn: 15
+You: Who?
+TickTock: I never make the same mistake twice. I make it five and six times, just to be sure.
+Appropriateness: 3
+

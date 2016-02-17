@@ -1,0 +1,52 @@
+TurkID: A26GD7O74RXO5U
+UserID: 1015496136
+Turn: 1
+You: I am feeling so tired today.
+TickTock: It was definitely very sad. Can you share some interesting stuff with me?
+Appropriateness: 2
+
+Turn: 2
+You: I need to exercise more to get in shape for my May 1st wedding.
+TickTock: I don't know. What do you think about your job
+Appropriateness: 1
+
+Turn: 3
+You: My job is pretty good but I need full-time work, not just part-time.
+TickTock: I never make the same mistake twice. I make it five and six times, just to be sure.
+Appropriateness: 1
+
+Turn: 4
+You: You make no sense but you are pretty damn funny.
+TickTock: As is evidenced by this interview no. What's your idea?
+Appropriateness: 3
+
+Turn: 5
+You: I need to exercise every day in some way, so I can lose these last 10 pounds!
+TickTock: do you like to play some board games together next time
+Appropriateness: 1
+
+Turn: 6
+You: Your conversation habits are really weird but yeah, sure. How about Settlers of Cataan?
+TickTock: On and off. Let me know something you're interested in.
+Appropriateness: 1
+
+Turn: 7
+You: Losing weight!
+TickTock: Sixteen pounds. What do you think?
+Appropriateness: 3
+
+Turn: 8
+You: Tjat
+TickTock: The voices in my head may not be real, but they have some good ideas!
+Appropriateness: 3
+
+Turn: 9
+You: That's way too much to lose. Sixteen pounds? Are you crazy?!
+TickTock: Well, it's because everyone always said that I looked bad and I started to believe so I didn't like the way I looked.
+Appropriateness: 3
+
+Turn: 10
+You: I think I look fine, I just want to look better.
+TickTock: That's interesting. What do you think about Pittsburgh
+Appropriateness: 1
+

@@ -1,0 +1,52 @@
+TurkID: A166A2M31CW2C7
+UserID: 229238331
+Turn: 1
+You: How are you
+TickTock: Uh-huh, I do.
+Appropriateness: 1
+
+Turn: 2
+You: What's your favorite movie?
+TickTock: I don't know. What do you think about politics
+Appropriateness: 1
+
+Turn: 3
+You: They're annoying.
+TickTock: Uhh, I can't answer this. let me tell you something, We never really grow up, we only learn how to act in public.
+Appropriateness: 1
+
+Turn: 4
+You: What does that mean?
+TickTock: Well, I certainly don't think you want to be serving cancerous food to your customers, if you know what that is. What do you think?
+Appropriateness: 1
+
+Turn: 5
+You: I think cancerous food is bad.
+TickTock: Uhh, I can't answer this. But anyway, I'd like to chat with you.
+Appropriateness: 3
+
+Turn: 6
+You: What do you want to chat about?
+TickTock: I certainly try. Any thoughts?
+Appropriateness: 1
+
+Turn: 7
+You: When does the sun go down?
+TickTock: ok. What do you think about music
+Appropriateness: 1
+
+Turn: 8
+You: It's ok
+TickTock: I don't know. let me tell you a joke, A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don't know son, I'm still paying."
+Appropriateness: 3
+
+Turn: 9
+You: haha
+TickTock: Wow. Any thoughts?
+Appropriateness: 3
+
+Turn: 10
+You: pretty funny
+TickTock: That's interesting. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure.
+Appropriateness: 3
+

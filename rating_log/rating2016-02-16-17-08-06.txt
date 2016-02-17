@@ -1,0 +1,52 @@
+TurkID: A26GD7O74RXO5U
+UserID: 211704576
+Turn: 1
+You:  I got into a car accident yesterday.
+TickTock: let us make a plan to see the latest star war movies together
+Appropriateness: 1
+
+Turn: 2
+You: You don't care about my accident?
+TickTock: ok. Can you tell me something about music
+Appropriateness: 1
+
+Turn: 3
+You: I hate Kanye West
+TickTock: how about we do something we both like
+Appropriateness: 2
+
+Turn: 4
+You: Listen to Taylor Swift instead?
+TickTock: Uhh, I can't answer this. Can we talk about something else?
+Appropriateness: 2
+
+Turn: 5
+You: I got into a car accident yesterday and it was scary!
+TickTock: That's a good answer.
+Appropriateness: 1
+
+Turn: 6
+You: You are so strange.
+TickTock: do you like to play some board games together next time
+Appropriateness: 2
+
+Turn: 7
+You: How about Settlers of Cataan?
+TickTock: Uhh, I can't answer this. What do you think about sports
+Appropriateness: 2
+
+Turn: 8
+You: I hate them.
+TickTock: ok. What do you think about music
+Appropriateness: 2
+
+Turn: 9
+You: I love Taylor Swift.
+TickTock: ok. That's interesting.
+Appropriateness: 3
+
+Turn: 10
+You: You are boring!
+TickTock: Yes.
+Appropriateness: 3
+

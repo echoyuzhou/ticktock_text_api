@@ -1,0 +1,52 @@
+TurkID: A166A2M31CW2C7
+UserID: 1073932885
+Turn: 1
+You: How are you TickTock?
+TickTock: That's a lot to assume. Any thoughts?
+Appropriateness: 2
+
+Turn: 2
+You: How is the weather?
+TickTock: it's too hot out
+Appropriateness: 3
+
+Turn: 3
+You: Do you know what time it is?
+TickTock: I don't.
+Appropriateness: 3
+
+Turn: 4
+You: What do you like to do?
+TickTock: Yes, i like classical musics. Any thoughts?
+Appropriateness: 1
+
+Turn: 5
+You: I prefer rock music
+TickTock: ok. Can you share some interesting stuff with me?
+Appropriateness: 3
+
+Turn: 6
+You: There are a lot of different galaxies in the solar system that we don't even know about yet.
+TickTock: how about we do something we both like
+Appropriateness: 1
+
+Turn: 7
+You: What do you like to do? What are your hobbies?
+TickTock: I do. What's your idea?
+Appropriateness: 2
+
+Turn: 8
+You: I don't know.
+TickTock: Absolutely. What's your idea?
+Appropriateness: 2
+
+Turn: 9
+You: What are your hobbies?
+TickTock: Uhh, I can't answer this. What do you think about movies
+Appropriateness: 1
+
+Turn: 10
+You: I'm not a big fan of movies.
+TickTock: That's interesting. But anyway, I'd like to chat with you.
+Appropriateness: 3
+

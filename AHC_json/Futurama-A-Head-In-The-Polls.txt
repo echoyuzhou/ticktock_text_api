@@ -1,0 +1,1 @@
+[{"answer": "Look, I know there are no car chases but this is important. One of these two men will become president of the world", "docId": "Futurama-A-Head-In-The-Polls.txt", "asentId": 3, "question": "The that place is part of the world", "qsentId": 2}]

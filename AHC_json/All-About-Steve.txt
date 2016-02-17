@@ -1,0 +1,1 @@
+[{"answer": "And I have no problem with that whatsoever. She kisses his neck. He looks up with a", "docId": "All-About-Steve.txt", "asentId": 3, "question": "my friend", "qsentId": 2}, {"answer": "Getting some fresh air. It helps my pores. my friend tries to grab the paper", "docId": "All-About-Steve.txt", "asentId": 5, "question": "Yes, my friend", "qsentId": 4}]

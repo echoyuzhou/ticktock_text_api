@@ -1,0 +1,1 @@
+[{"answer": "With all due respect, sir, I think you should tell the mission commander that I need my friend right here", "docId": "Stargate-SG1-Prometheus-Unbound.txt", "asentId": 3, "question": "I did ... I did? You, sir", "qsentId": 2}, {"answer": "Doctor my friend", "docId": "Stargate-SG1-Prometheus-Unbound.txt", "asentId": 5, "question": "my friend", "qsentId": 4}]
