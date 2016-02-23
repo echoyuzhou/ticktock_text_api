@@ -1,0 +1,52 @@
+TurkID: A1V6CP5I0TOSAR
+UserID: 745237599
+Turn: 1
+You: Hello
+TickTock: let us do something fun together
+Appropriateness: 3
+
+Turn: 2
+You: Like what
+TickTock: That's the picture there.
+Appropriateness: 1
+
+Turn: 3
+You: Where?
+TickTock: Well, you know, I'm not sure. let me tell you a joke, A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don't know son, I'm still paying."
+Appropriateness: 3
+
+Turn: 4
+You: Haha
+TickTock: I don't know. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure.
+Appropriateness: 3
+
+Turn: 5
+You: Silly guy
+TickTock: I don't think they decide it, but I think it can help them, it can enhance.
+Appropriateness: 1
+
+Turn: 6
+You: Who
+TickTock: That's interesting. Let me know something you're interested in.
+Appropriateness: 3
+
+Turn: 7
+You: Love baby
+TickTock: Again, not babysitter.
+Appropriateness: 1
+
+Turn: 8
+You: Love
+TickTock: let us make a plan to see the latest star war movies together
+Appropriateness: 2
+
+Turn: 9
+You: I hate star wars
+TickTock: I don't know. Can we talk about something else?
+Appropriateness: 2
+
+Turn: 10
+You: Like what
+TickTock: That's the picture there. What do you think?
+Appropriateness: 1
+

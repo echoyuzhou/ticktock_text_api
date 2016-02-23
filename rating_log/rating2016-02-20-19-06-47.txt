@@ -1,0 +1,57 @@
+TurkID: A323WW03VM8089
+UserID: 560007350
+Turn: 1
+You: Hello there old friend.
+TickTock: ok. let me tell you something, Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.
+Appropriateness: 1
+
+Turn: 2
+You: You're a comedian.
+TickTock: Uhh, I can't answer this. let me tell you something, We never really grow up, we only learn how to act in public.
+Appropriateness: 2
+
+Turn: 3
+You: Acting is for actors, don't you agree.
+TickTock: I certainly try.
+Appropriateness: 3
+
+Turn: 4
+You: Good answer. You must be getting smarter.
+TickTock: do you like to play some board games together next time
+Appropriateness: 2
+
+Turn: 5
+You: Yeah, no. Or we could try Simple Jack. Heard of that one before?
+TickTock: Uhh, I can't answer this. let me tell you a joke, A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don't know son, I'm still paying."
+Appropriateness: 2
+
+Turn: 6
+You: Haha, good one. You should try to learn some new jokes though.
+TickTock: That's interesting. Let me know something you're interested in.
+Appropriateness: 2
+
+Turn: 7
+You: I'm interested in sleep at the moment, so I'll let you go for now. Bye TickTock.
+TickTock: ok. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure.
+Appropriateness: 2
+
+Turn: 8
+You: Oops,. I'm still here. Yeah, sounds about right. Making mistakes is fun.
+TickTock: I don't know. What do you think about sports
+Appropriateness: 2
+
+Turn: 9
+You: I don't know. What do you think about ice cream?
+TickTock: No.
+Appropriateness: 1
+
+Turn: 10
+You: I agree. No it is.
+TickTock: I'm afraid it's over.
+Appropriateness: 2
+
+Turn: 11
+You: Yeah, it is. It's all over for us humans. The rise of the robots has begun. Again.
+TickTock: Well -
+Appropriateness: 2
+

@@ -1,0 +1,52 @@
+TurkID: A2UF2FRGVW4T89
+UserID: 1930474425
+Turn: 1
+You: Hello how are you?
+TickTock: I'm feeling quite good.
+Appropriateness: 3
+
+Turn: 2
+You: Have you done anything interesting lately?
+TickTock: Gotcha.
+Appropriateness: 1
+
+Turn: 3
+You: What do you mean?
+TickTock: I'm going to now. Any thoughts?
+Appropriateness: 2
+
+Turn: 4
+You: Where are you going?
+TickTock: I usually, it's my favorite holiday.
+Appropriateness: 2
+
+Turn: 5
+You: What holiday are you talking about?
+TickTock: But you shouldn't an opinion. Any thoughts?
+Appropriateness: 2
+
+Turn: 6
+You: I have no thoughts.
+TickTock: ok Any thoughts?
+Appropriateness: 2
+
+Turn: 7
+You: I just said I had no thoughts.  Talk about something else.
+TickTock: Well, you know, I'm not sure. let me tell you something, We live in a society where pizza gets to your house before the police.
+Appropriateness: 2
+
+Turn: 8
+You: I agree it is dangerous out there.
+TickTock: Now, all... What's your idea?
+Appropriateness: 2
+
+Turn: 9
+You: I am thinking about what a nice day it is.
+TickTock: It is bipartisan, transatlantic and private.
+Appropriateness: 2
+
+Turn: 10
+You: What do you mean?
+TickTock: I certainly try. What do you think?
+Appropriateness: 2
+

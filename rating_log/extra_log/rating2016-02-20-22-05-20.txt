@@ -1,0 +1,62 @@
+TurkID: A3HMBHM8HJLKRD
+UserID: 979902852
+Turn: 1
+You: Tell me about yourself.
+TickTock: No, I'm not angry.
+Appropriateness: 1
+
+Turn: 2
+You: Are you a computer?
+TickTock: No. What do you think?
+Appropriateness: 3
+
+Turn: 3
+You: I think you are a computer because your answers don't make sense.
+TickTock: ddd Any thoughts?
+Appropriateness: 1
+
+Turn: 4
+You: No, sorry, no thoughts.
+TickTock: ddd What do you think?
+Appropriateness: 1
+
+Turn: 5
+You: No, sorry, no thoughts.
+TickTock: ok
+Appropriateness: 3
+
+Turn: 6
+You: Glad you're responding.
+TickTock: Uh-huh, I do.
+Appropriateness: 1
+
+Turn: 7
+You: Are you in America?
+TickTock: Of course.
+Appropriateness: 3
+
+Turn: 8
+You: Good to know.
+TickTock: No, my brother has a sense of humor.
+Appropriateness: 1
+
+Turn: 9
+You: I know how that is.
+TickTock: Yeah, I think that's very good. What do you think?
+Appropriateness: 2
+
+Turn: 10
+You: No, it's not good.
+TickTock: Yes.
+Appropriateness: 2
+
+Turn: 11
+You: What round is this?
+TickTock: That's interesting. Can we talk about something else?
+Appropriateness: 1
+
+Turn: 12
+You: Got to go, doing laundry.
+TickTock: That's interesting. let me tell you something, Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.
+Appropriateness: 2
+

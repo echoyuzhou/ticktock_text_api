@@ -1,0 +1,52 @@
+TurkID: A2UF2FRGVW4T89
+UserID: 2048858002
+Turn: 1
+You: Hello how are you?
+TickTock: I'm feeling quite good.
+Appropriateness: 3
+
+Turn: 2
+You: Anything new going on with you?
+TickTock: Of course. What do you think?
+Appropriateness: 3
+
+Turn: 3
+You: I am not sure.  What's on your mind?
+TickTock: Well, you know, I'm not sure. let me tell you something, Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.
+Appropriateness: 3
+
+Turn: 4
+You: Wow. That funny and insightful.
+TickTock: Uhh, I can't answer this. Can we talk about something else?
+Appropriateness: 2
+
+Turn: 5
+You: How about movies.  Have you seen any good movies?
+TickTock: Of course. What do you think?
+Appropriateness: 2
+
+Turn: 6
+You: What have you seen?
+TickTock: Yes.
+Appropriateness: 2
+
+Turn: 7
+You: Are you a comic book fan?
+TickTock: Uh-huh, I do. Any thoughts?
+Appropriateness: 2
+
+Turn: 8
+You: I love super hero movies. Have you seen Deadpool?
+TickTock: Uh-huh, I do.
+Appropriateness: 2
+
+Turn: 9
+You: What kind of music do you listen too?
+TickTock: Well, ideally, I listen to music like that. What do you think?
+Appropriateness: 2
+
+Turn: 10
+You: I have to go now. Goodbye.
+TickTock: That's interesting. let me tell you something, We never really grow up, we only learn how to act in public.
+Appropriateness: 1
+

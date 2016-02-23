@@ -1,0 +1,62 @@
+TurkID: A323WW03VM8089
+UserID: 96169815
+Turn: 1
+You: Hi, how are you today?
+TickTock: Great! Isn't it gorgeous out? Any thoughts?
+Appropriateness: 3
+
+Turn: 2
+You: Yeah, it's very nice today. Finally. Where in the world are you?
+TickTock: Yes.
+Appropriateness: 1
+
+Turn: 3
+You: Is Yes a place or just a state of mind?
+TickTock: do you like to play some board games together next time
+Appropriateness: 1
+
+Turn: 4
+You: Sure board games could be fun. What do you like best?
+TickTock: I love Larry King.
+Appropriateness: 1
+
+Turn: 5
+You: Is Larry a board game?
+TickTock: ok. let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience.
+Appropriateness: 1
+
+Turn: 6
+You: So true. Idiots abound but the Dude abides. Or something like that.
+TickTock: do you want to go to my friends' party tonight
+Appropriateness: 1
+
+Turn: 7
+You: Is this another chatbot friend or a real person?
+TickTock: That's interesting. let me tell you something, We live in a society where pizza gets to your house before the police.
+Appropriateness: 1
+
+Turn: 8
+You: Yeah, but I don't eat pizza. And I'm a cop.
+TickTock: let us do something fun together
+Appropriateness: 2
+
+Turn: 9
+You: Sure, let's all go to the fair.
+TickTock: let us make a plan to see the latest star war movies together
+Appropriateness: 3
+
+Turn: 10
+You: Yeah, no. Star Wars is for children. And neckbeards. Who are also children.
+TickTock: how about we do something we both like
+Appropriateness: 2
+
+Turn: 11
+You: How about we go take some photos?
+TickTock: Only way is up, Charlie.
+Appropriateness: 1
+
+Turn: 12
+You: I guess so. Okay I have to go now. You have a great day, TickTock. 
+TickTock: I don't know. But anyway, I'd like to chat with you.
+Appropriateness: 2
+

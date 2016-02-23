@@ -1,0 +1,52 @@
+TurkID: A3E8SXH0BAYG85
+UserID: 73523359
+Turn: 1
+You: Hello Ticktock
+TickTock: Uhh, I can't answer this. Can you share some interesting stuff with me?
+Appropriateness: 2
+
+Turn: 2
+You: What is my favorite color?
+TickTock: My favorite one is blue
+Appropriateness: 3
+
+Turn: 3
+You: How much money do you make?
+TickTock: I'm going to now.
+Appropriateness: 1
+
+Turn: 4
+You: Where are you?
+TickTock: Uh-huh, I do.
+Appropriateness: 1
+
+Turn: 5
+You: Do you know what day it is?
+TickTock: Yes.
+Appropriateness: 2
+
+Turn: 6
+You: What day is it?
+TickTock: Now, all...
+Appropriateness: 1
+
+Turn: 7
+You: Are you aware?
+TickTock: Maybe you haven't done it yet.
+Appropriateness: 1
+
+Turn: 8
+You: I like visiting the ocean
+TickTock: ok. What do you think about your life
+Appropriateness: 1
+
+Turn: 9
+You: It is okay most of the time
+TickTock: It's three o'clock What's your idea?
+Appropriateness: 1
+
+Turn: 10
+You: I wish it was 10 o'clock
+TickTock: Yes.
+Appropriateness: 2
+

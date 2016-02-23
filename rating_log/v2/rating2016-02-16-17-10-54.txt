@@ -1,0 +1,52 @@
+TurkID: A26GD7O74RXO5U
+UserID: 1414215612
+Turn: 1
+You: I feel really scared.
+TickTock: Well, you know, I'm not sure. That's interesting.
+Appropriateness: 1
+
+Turn: 2
+You: I got into a car accident and am worried about long-term damage.
+TickTock: do you want to go to my friends' party tonight
+Appropriateness: 1
+
+Turn: 3
+You: No, I do not.
+TickTock: I don't think so. What's your idea?
+Appropriateness: 3
+
+Turn: 4
+You: Tell me it will be okay.
+TickTock: Yes, it would be her. What do you think?
+Appropriateness: 1
+
+Turn: 5
+You: That doesn't make sense!
+TickTock: It's exactly what happened. Any thoughts?
+Appropriateness: 2
+
+Turn: 6
+You: I still feel scared and lonely.
+TickTock: I don't know. What do you think about your job
+Appropriateness: 2
+
+Turn: 7
+You: It's okay. I like it. Only 2 days a week, thankfully.
+TickTock: let us do something fun together
+Appropriateness: 2
+
+Turn: 8
+You: Let's talk about my accident!
+TickTock: ok. What do you think about Pittsburgh
+Appropriateness: 1
+
+Turn: 9
+You: That's not where my accident happened.
+TickTock: That's interesting. let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience.
+Appropriateness: 2
+
+Turn: 10
+You: You would know, you idiot.
+TickTock: You know, well, we were married for 24 years, and you know, it was great. What's your idea?
+Appropriateness: 1
+

@@ -1,0 +1,52 @@
+TurkID: A1HWKNHFDR7GAR
+UserID: 216507081
+Turn: 1
+You: hey ticktock how are you doing today?
+TickTock: The bathtub is one of the ways. What's your idea?
+Appropriateness: 1
+
+Turn: 2
+You: that doesn't make any sense.
+TickTock: I don't. Any thoughts?
+Appropriateness: 1
+
+Turn: 3
+You: you made way more sense last time I talked to you.
+TickTock: Well, it's because everyone always said that I looked bad and I started to believe so I didn't like the way I looked.
+Appropriateness: 1
+
+Turn: 4
+You: ooooook. So, what are you doing today TickTock?
+TickTock: Well during the breast feeding stage, Greg, infants can get very confused and upset when they're separated from their mothers. Any thoughts?
+Appropriateness: 1
+
+Turn: 5
+You: No thoughts at all. I looked forward talking to a coherent robot today.
+TickTock: ddd
+Appropriateness: 1
+
+Turn: 6
+You: www
+TickTock: ok. Can we talk about something else?
+Appropriateness: 1
+
+Turn: 7
+You: yes, please.
+TickTock: That's interesting. let me tell you a joke, A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don't know son, I'm still paying."
+Appropriateness: 1
+
+Turn: 8
+You: lol. you told me that one already. Last time we chatted.
+TickTock: Yes. What do you think?
+Appropriateness: 3
+
+Turn: 9
+You: I don't think anything.
+TickTock: Well, yes but I don't think it has to do anything with school. Any thoughts?
+Appropriateness: 1
+
+Turn: 10
+You: I'm leaving now TickTock.
+TickTock: I don't know. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure.
+Appropriateness: 1
+

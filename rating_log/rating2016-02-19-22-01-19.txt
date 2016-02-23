@@ -1,0 +1,52 @@
+TurkID: ARYGQ46IMW8AU
+UserID: 224067829
+Turn: 1
+You: Hi there
+TickTock: do you like to play some board games together next time
+Appropriateness: 2
+
+Turn: 2
+You: What board games do you like?
+TickTock: I would always try to. Any thoughts?
+Appropriateness: 2
+
+Turn: 3
+You: Sorry and Monopoly are good.
+TickTock: I don't know. What do you think about music
+Appropriateness: 1
+
+Turn: 4
+You: What music do you like
+TickTock: Yes. I like classical musics. What do you think?
+Appropriateness: 1
+
+Turn: 5
+You: Classical is okay.
+TickTock: do you want to go to my friends' party tonight
+Appropriateness: 2
+
+Turn: 6
+You: What are they up to? Sure.
+TickTock: Yes, unfortunately, we did lose all our materialistic items. Any thoughts?
+Appropriateness: 1
+
+Turn: 7
+You: Not a great answer my friend.
+TickTock: I actually ended up not even asking him why. Any thoughts?
+Appropriateness: 3
+
+Turn: 8
+You: Not really, I'm confused. What party?
+TickTock: let us do something fun together
+Appropriateness: 2
+
+Turn: 9
+You: Like what?
+TickTock: I like what you like.
+Appropriateness: 2
+
+Turn: 10
+You: Oh, that's dangerous.
+TickTock: ok. What do you think about sports
+Appropriateness: 2
+

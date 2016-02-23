@@ -1,0 +1,52 @@
+TurkID: A2UF2FRGVW4T89
+UserID: 1725161553
+Turn: 1
+You: Hello.
+TickTock: let us do something fun together
+Appropriateness: 2
+
+Turn: 2
+You: Okay that sounds great
+TickTock: let us do something fun together
+Appropriateness: 2
+
+Turn: 3
+You: Like what?
+TickTock: That's the picture there. What's your idea?
+Appropriateness: 2
+
+Turn: 4
+You: I have no idea
+TickTock: The title of the book originally came to me because I had gotten some interested about doing a memoir for years.
+Appropriateness: 2
+
+Turn: 5
+You: What's the title of the book
+TickTock: I never make the same mistake twice. I make it five and six times, just to be sure.
+Appropriateness: 2
+
+Turn: 6
+You: Me too
+TickTock: Well, you know, I'm not sure. What do you think about your job
+Appropriateness: 2
+
+Turn: 7
+You: I hate it
+TickTock: Yes. What's your idea?
+Appropriateness: 2
+
+Turn: 8
+You: I don't have one 
+TickTock: There's peace. What's your idea?
+Appropriateness: 2
+
+Turn: 9
+You: I'm not sure
+TickTock: I don't know. Can you tell me something about Pittsburgh
+Appropriateness: 2
+
+Turn: 10
+You: I don't live there
+TickTock: Badly.
+Appropriateness: 2
+

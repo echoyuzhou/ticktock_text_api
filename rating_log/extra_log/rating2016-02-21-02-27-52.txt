@@ -1,0 +1,52 @@
+TurkID: A1VI3SOIHT6Y0D
+UserID: 1388949808
+Turn: 1
+You: Do you know how many rounds of chat I have to do?
+TickTock: No.
+Appropriateness: 3
+
+Turn: 2
+You: Do you know anything about this task?
+TickTock: Of course. Any thoughts?
+Appropriateness: 2
+
+Turn: 3
+You: Do you know anything about this task?
+TickTock: 
+Appropriateness: 1
+
+Turn: 4
+You: Sorry I didn't mean to submit twice.
+TickTock: do you want to go to my friends' party tonight
+Appropriateness: 1
+
+Turn: 5
+You: Um, TickTock, who is your friend?
+TickTock: That's interesting. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure.
+Appropriateness: 1
+
+Turn: 6
+You: Do you actually have a friend?
+TickTock: Yes.
+Appropriateness: 3
+
+Turn: 7
+You: What is your friend's name?
+TickTock: let us do something fun together
+Appropriateness: 1
+
+Turn: 8
+You: What is your friend's name?
+TickTock: ok. Let me know something you're interested in.
+Appropriateness: 1
+
+Turn: 9
+You: What is your friend's name?
+TickTock: You know, I think, first of all, he's president of America.
+Appropriateness: 2
+
+Turn: 10
+You: So you are friends with President Obama?
+TickTock: No.
+Appropriateness: 3
+

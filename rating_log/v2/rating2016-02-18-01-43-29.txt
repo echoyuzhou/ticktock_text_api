@@ -1,0 +1,77 @@
+TurkID: A2QH1BQA6GR48O
+UserID: 146746008
+Turn: 1
+You: Something! 
+TickTock: That's interesting. Can we talk about something else?
+Appropriateness: 2
+
+Turn: 2
+You: Yeah, what do you want to talk about?
+TickTock: Well, almost everything. What's your idea?
+Appropriateness: 3
+
+Turn: 3
+You: Want to talk about music?
+TickTock: Well, you know, I'm not sure. let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience.
+Appropriateness: 1
+
+Turn: 4
+You: This is very true. 
+TickTock: Well, if you know my dad, and you'll get to meet him, you'll sort of see that he is just always joking and stuff.
+Appropriateness: 1
+
+Turn: 5
+You: That's a dad for ya! 
+TickTock: My grandfather.
+Appropriateness: 1
+
+Turn: 6
+You: What about your grandfather?
+TickTock: how about we do something we both like
+Appropriateness: 1
+
+Turn: 7
+You: Okay, what do you have in mind?
+TickTock: I have looked at all the other storms that were the same pressure. Any thoughts?
+Appropriateness: 1
+
+Turn: 8
+You: I have no idea what you're talking about.
+TickTock: Nobody runs around saying I'm a liberal, I'm a liberal. What do you think?
+Appropriateness: 1
+
+Turn: 9
+You: There are some people that do. But it doesn't bother me since I'm Liberal myself.
+TickTock: Well, first of all, I don't know what is wrong with the way Hillary looks now. What do you think?
+Appropriateness: 2
+
+Turn: 10
+You: There's nothing wrong with the way Hillary looks now. She's just not a very good pick for POTUS.
+TickTock: I don't know. let me tell you something, We live in a society where pizza gets to your house before the police.
+Appropriateness: 1
+
+Turn: 11
+You: Yes, this is true. 
+TickTock: Sometimes. What's your idea?
+Appropriateness: 1
+
+Turn: 12
+You: Some times the pizza guy gets lost and the pizza is late.
+TickTock: Well, you know, I'm not sure. let me tell you something, Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.
+Appropriateness: 1
+
+Turn: 13
+You: That's a pretty good joke. 
+TickTock: ok. Can you tell me something about your job
+Appropriateness: 2
+
+Turn: 14
+You: I do Turk. I am a slave for pennies. 
+TickTock: ok. let me tell you something, We never really grow up, we only learn how to act in public.
+Appropriateness: 1
+
+Turn: 15
+You: I agree with you! 
+TickTock: Maybe you haven't done it yet. What's your idea?
+Appropriateness: 1
+

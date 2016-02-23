@@ -1,0 +1,57 @@
+TurkID: A2B338ZP97RA5W
+UserID: 679187213
+Turn: 1
+You: so, how are you doing today?
+TickTock: Sad that I'm not a real human boy.
+Appropriateness: 3
+
+Turn: 2
+You: Well, that's distressing, would a robot body help?
+TickTock: That's interesting. Can you tell me something about your job
+Appropriateness: 3
+
+Turn: 3
+You: I work for terribly low pay on mturk
+TickTock: let us make a plan to see the latest star war movies together
+Appropriateness: 1
+
+Turn: 4
+You: no and say I did?
+TickTock: Uhh, I can't answer this. That's interesting.
+Appropriateness: 2
+
+Turn: 5
+You: I think you are entirely infearior to cleverbot
+TickTock: Uh-huh, I do.
+Appropriateness: 1
+
+Turn: 6
+You: you do what?
+TickTock: I'm going to now.
+Appropriateness: 2
+
+Turn: 7
+You: good
+TickTock: Legalize it, tax the hell out of it. What do you think?
+Appropriateness: 1
+
+Turn: 8
+You: What are you even talking about?
+TickTock: The one with all the women. Any thoughts?
+Appropriateness: 1
+
+Turn: 9
+You: Ok, i'm done here, your bot has downs...
+TickTock: how about we do something we both like
+Appropriateness: 1
+
+Turn: 10
+You: how about no
+TickTock: I have spoken to the family, I spoke to Nancy, her mom, today.
+Appropriateness: 1
+
+Turn: 11
+You: and he's gone off the deep end...
+TickTock: He was apologetic for his own negligence towards you. What do you think?
+Appropriateness: 1
+

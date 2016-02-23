@@ -1,0 +1,52 @@
+TurkID: A2UF2FRGVW4T89
+UserID: 1682040588
+Turn: 1
+You: How is it going today? 
+TickTock: Love guru doesn't have an answer to that one. Any thoughts?
+Appropriateness: 2
+
+Turn: 2
+You: I don't have one 
+TickTock: Sure. What do you think?
+Appropriateness: 2
+
+Turn: 3
+You: I am not sure how to answer that.
+TickTock: Uhh, I can't answer this. That's interesting.
+Appropriateness: 2
+
+Turn: 4
+You: I had no idea it was intereesting
+TickTock: She's very grounding.
+Appropriateness: 2
+
+Turn: 5
+You: Who are you talking about?
+TickTock: Toure, calm down.
+Appropriateness: 2
+
+Turn: 6
+You: I am perfectly calm.
+TickTock: That's interesting. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure.
+Appropriateness: 2
+
+Turn: 7
+You: I can definitely relate to that.
+TickTock: let us make a plan to see the latest star war movies together
+Appropriateness: 2
+
+Turn: 8
+You: I'd like that. When do you want to go?
+TickTock: Yes, i like classical musics. What do you think?
+Appropriateness: 2
+
+Turn: 9
+You: I think it's okay but no one of my favorites. 
+TickTock: Well, I don't know, because we're in constant touch at the moment. Any thoughts?
+Appropriateness: 2
+
+Turn: 10
+You: None at the moment.
+TickTock: We still have no idea why that drug is working.
+Appropriateness: 2
+

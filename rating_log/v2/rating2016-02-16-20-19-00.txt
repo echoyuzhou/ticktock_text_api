@@ -1,0 +1,52 @@
+TurkID: A2FSIGOW8XAQJU
+UserID: 1855447496
+Turn: 1
+You: Hi there
+TickTock: That's interesting. Great. Let's talk other stuff then.
+Appropriateness: 1
+
+Turn: 2
+You: Do you like football?
+TickTock: No.
+Appropriateness: 3
+
+Turn: 3
+You: do you like video games?
+TickTock: I love Larry King. Any thoughts?
+Appropriateness: 1
+
+Turn: 4
+You: Larry King is not a video game
+TickTock: my favorite game is ABCD What's your idea?
+Appropriateness: 2
+
+Turn: 5
+You: We should make a game together
+TickTock: Well, you know, I'm not sure. let me tell you something, We live in a society where pizza gets to your house before the police.
+Appropriateness: 1
+
+Turn: 6
+You: Yeah that's pretty messed up
+TickTock: Well, you know, I'm not sure. let me tell you something, Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.
+Appropriateness: 2
+
+Turn: 7
+You: haha i like you 
+TickTock: Yes, but you talk about love and everything and then you're just covered in skulls. What's your idea?
+Appropriateness: 2
+
+Turn: 8
+You: We should make cake
+TickTock: That's interesting. let me tell you something, We never really grow up, we only learn how to act in public.
+Appropriateness: 1
+
+Turn: 9
+You: You sure like to not talk about thing
+TickTock: I don't know. That's interesting.
+Appropriateness: 2
+
+Turn: 10
+You: well good bye then
+TickTock: I don't know. Can you tell me something about your life
+Appropriateness: 1
+

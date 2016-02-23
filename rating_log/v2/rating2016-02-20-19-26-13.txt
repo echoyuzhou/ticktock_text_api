@@ -1,0 +1,57 @@
+TurkID: A1RC2PD0YJFCU8
+UserID: 2038953576
+Turn: 1
+You: Hi TickTock -- how are you today?
+TickTock: Great! Isn't it gorgeous out? Any thoughts? Any thoughts?
+Appropriateness: 3
+
+Turn: 2
+You: It is gorgeous. What exactly is it that you do, TickTock? Are you here to help me with something?
+TickTock: I think it is always something to be worried about. What do you think?
+Appropriateness: 1
+
+Turn: 3
+You: Hmm, you don't seem to be understanding what I am saying.
+TickTock: I'm going to now.
+Appropriateness: 2
+
+Turn: 4
+You: Sounds like you are talking to someone else.
+TickTock: Yes.
+Appropriateness: 3
+
+Turn: 5
+You: What are you doing?
+TickTock: Yes. What's your idea?
+Appropriateness: 1
+
+Turn: 6
+You: I don't have an idea.
+TickTock: The title of the book originally came to me because I had gotten some interested about doing a memoir for years. Any thoughts?
+Appropriateness: 1
+
+Turn: 7
+You: I was asking you a question.
+TickTock: No.
+Appropriateness: 1
+
+Turn: 8
+You: I have no idea what you are talking about, TickTock. 
+TickTock: But you shouldn't an opinion. Any thoughts?
+Appropriateness: 1
+
+Turn: 9
+You: I am sorry. Also, your sentences are not really making sense right now.
+TickTock: ok. What do you think about your job
+Appropriateness: 2
+
+Turn: 10
+You: I really like my job, actually. I get to work from home.
+TickTock: ok. let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience.
+Appropriateness: 1
+
+Turn: 11
+You: Okay, thanks, TickTock and I guess I will be saying goodbye now
+TickTock: do you want to go to my friends' party tonight
+Appropriateness: 2
+

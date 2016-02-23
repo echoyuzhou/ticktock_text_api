@@ -1,0 +1,52 @@
+TurkID: ARYGQ46IMW8AU
+UserID: 1095481714
+Turn: 1
+You: I've been lied to
+TickTock: We never really grow up, we only learn how to act in public.
+Appropriateness: 2
+
+Turn: 2
+You: I never did either
+TickTock: ok. Can you tell me something about sports
+Appropriateness: 3
+
+Turn: 3
+You: Soccer is bad
+TickTock: Really bad.
+Appropriateness: 3
+
+Turn: 4
+You: Agreed!
+TickTock: Well, there's no question there was a Jesus. Great. Let's talk other stuff then.
+Appropriateness: 1
+
+Turn: 5
+You: Such as?
+TickTock: Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.
+Appropriateness: 2
+
+Turn: 6
+You: You're just spewing quotes.
+TickTock:  Great. Let's talk other stuff then.
+Appropriateness: 2
+
+Turn: 7
+You: How many licks does it take to get to the center of a tootsie pop
+TickTock: I don't know what it is.
+Appropriateness: 2
+
+Turn: 8
+You: It's three.
+TickTock: We never really grow up, we only learn how to act in public.
+Appropriateness: 1
+
+Turn: 9
+You: Already said that.
+TickTock: I apologize. What is a dog? What do you think?
+Appropriateness: 2
+
+Turn: 10
+You: An annoying animal
+TickTock: how about we do something we both like
+Appropriateness: 2
+

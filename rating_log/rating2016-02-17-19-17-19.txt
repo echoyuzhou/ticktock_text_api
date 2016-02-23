@@ -1,0 +1,52 @@
+TurkID: A1F8MOWCCVDIH2
+UserID: 355043997
+Turn: 1
+You: What type of computer being are you?
+TickTock: Yes.
+Appropriateness: 1
+
+Turn: 2
+You: Do you have human friends?
+TickTock: Oh, of course. What's your idea?
+Appropriateness: 2
+
+Turn: 3
+You: What color is the sky?
+TickTock: My favorite one is blue
+Appropriateness: 2
+
+Turn: 4
+You: What animal makes hoot sounds?
+TickTock: Uhh, I can't answer this. let me tell you something, Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.
+Appropriateness: 1
+
+Turn: 5
+You: Haha -- that is very funny!
+TickTock: Yeah, it's part of the gig.
+Appropriateness: 3
+
+Turn: 6
+You: Can you play chess?
+TickTock: Absolutely, I can play anyone with a college education even though I didn't have one. What's your idea?
+Appropriateness: 3
+
+Turn: 7
+You: Can you read?
+TickTock: Uh-huh, I do. What do you think?
+Appropriateness: 3
+
+Turn: 8
+You: If you could have feelings, what would you like to experience?
+TickTock: I would have done exactly what Obama did and use our special forces, who are some of our smartest and best trained soldiers, to begin the effort to track down Osama bin Laden and his lieutenants and bring them to justice. What do you think?
+Appropriateness: 1
+
+Turn: 9
+You: No, I disagree because I am a pacifist who believes that our country should not force our beliefs on other nations
+TickTock: Well, you know, I'm not sure. What do you think about movies
+Appropriateness: 2
+
+Turn: 10
+You: I do not enjoy movies
+TickTock: I certainly try.
+Appropriateness: 2
+

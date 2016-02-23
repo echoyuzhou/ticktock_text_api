@@ -1,0 +1,57 @@
+TurkID: A3OOD9IMOHPPFQ
+UserID: 138575510
+Turn: 1
+You: Hello, TickTock.
+TickTock: That's interesting. What do you think about Pittsburgh
+Appropriateness: 2
+
+Turn: 2
+You: I don't know much about Pittsburgh.
+TickTock: Uhh, I can't answer this. Let me know something you're interested in.
+Appropriateness: 2
+
+Turn: 3
+You: I'm interested in Reno.
+TickTock: let us make a plan to see the latest star war movies together
+Appropriateness: 1
+
+Turn: 4
+You: When would you like to see it?
+TickTock: Oh, I'd love it to stop. What's your idea?
+Appropriateness: 1
+
+Turn: 5
+You: What do you want to stop?
+TickTock: Badly.
+Appropriateness: 1
+
+Turn: 6
+You: I don't understand.
+TickTock: I'm going to now.
+Appropriateness: 1
+
+Turn: 7
+You: What are you going to do now?
+TickTock: I'm going to now. What do you think?
+Appropriateness: 1
+
+Turn: 8
+You: I don't know what to think?
+TickTock: It was rather astonishing and I gratefully spoke with you about this once already. What's your idea?
+Appropriateness: 1
+
+Turn: 9
+You: I don't have an idea?
+TickTock: The title of the book originally came to me because I had gotten some interested about doing a memoir for years.
+Appropriateness: 1
+
+Turn: 10
+You: What is the title of the book?
+TickTock: "Sharks" is our new book.
+Appropriateness: 3
+
+Turn: 11
+You: Sharks doesn't sound like a memoir.
+TickTock: how about we do something we both like
+Appropriateness: 1
+

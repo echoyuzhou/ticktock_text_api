@@ -1,0 +1,57 @@
+TurkID: A2AB2LSLME1VLP
+UserID: 1053507927
+Turn: 1
+You: Hello, how are you doing?
+TickTock: Great! Isn't it gorgeous out? Any thoughts? Any thoughts?
+Appropriateness: 3
+
+Turn: 2
+You: Today was cold, I think its going to snow this weekend. 
+TickTock: We live in a society where pizza gets to your house before the police.
+Appropriateness: 1
+
+Turn: 3
+You: Not in my neighborhood, where do you live?
+TickTock: I live in Squirrel Hill
+Appropriateness: 3
+
+Turn: 4
+You: What state is that in?
+TickTock: She really believes that she's not getting a fair shake and that Jim especially isn't getting a share shake, that, you know, everybody is very upset and it's tragic what's happened.
+Appropriateness: 1
+
+Turn: 5
+You: What happened to Jim?
+TickTock: I don't know. What do you think about your life
+Appropriateness: 3
+
+Turn: 6
+You: Its going good, not rich but happy. 
+TickTock: Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.
+Appropriateness: 2
+
+Turn: 7
+You: I agree with that, they should put term limits on congressmen.
+TickTock: I don't know. What do you think about movies
+Appropriateness: 3
+
+Turn: 8
+You: Id rather watch movies at home, the theaters can be annoying.
+TickTock: how about we do something we both like
+Appropriateness: 2
+
+Turn: 9
+You: What do you have in mind?
+TickTock: I'm going to now. Any thoughts?
+Appropriateness: 1
+
+Turn: 10
+You: Not sure what you are going to do. 
+TickTock: There's a great deal of enthusiasm.
+Appropriateness: 3
+
+Turn: 11
+You: Im trying, but you can be confusing. 
+TickTock: Uh-huh, I do. Any thoughts?
+Appropriateness: 1
+

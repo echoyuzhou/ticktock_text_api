@@ -1,0 +1,57 @@
+TurkID: A26ZENZ5G8AEGM
+UserID: 1182411394
+Turn: 1
+You: Hi! How are you today?
+TickTock: Great! Isn't it gorgeous out? Any thoughts? What do you think?
+Appropriateness: 3
+
+Turn: 2
+You: I'm glad that the weather is milder than recently.
+TickTock: ok. let me tell you something, Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.
+Appropriateness: 2
+
+Turn: 3
+You: Ha Ha!
+TickTock: That's interesting. Let me know something you're interested in.
+Appropriateness: 3
+
+Turn: 4
+You: I'm interested in playing the piano.
+TickTock: Uhh, I can't answer this. Can you tell me something about movies
+Appropriateness: 2
+
+Turn: 5
+You: I haven't seen a movie in a long time.
+TickTock: let us do something fun together
+Appropriateness: 2
+
+Turn: 6
+You: What would you like to do?
+TickTock: Well, I would. What do you think?
+Appropriateness: 2
+
+Turn: 7
+You: I don't know.
+TickTock: Mm-hmm.
+Appropriateness: 2
+
+Turn: 8
+You: What do you want to do?
+TickTock: I certainly try.
+Appropriateness: 2
+
+Turn: 9
+You: What do you try to do?
+TickTock: Absolutely.
+Appropriateness: 2
+
+Turn: 10
+You: What do you think?
+TickTock: I'm going to now.
+Appropriateness: 2
+
+Turn: 11
+You: What are you going to do?
+TickTock: Absolutely.
+Appropriateness: 2
+

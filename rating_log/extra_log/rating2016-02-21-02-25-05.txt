@@ -1,0 +1,52 @@
+TurkID: A1VI3SOIHT6Y0D
+UserID: 2094580663
+Turn: 1
+You: How are you feeling, TickTock?
+TickTock: I'm feeling confident.
+Appropriateness: 3
+
+Turn: 2
+You: That's nice.
+TickTock: That's interesting. Can you tell me something about music
+Appropriateness: 2
+
+Turn: 3
+You: What kind of music would you like to know about?
+TickTock: Yes.
+Appropriateness: 1
+
+Turn: 4
+You: You asked if I could tell about music. I asked what kind of music.
+TickTock: Well, you know, I'm not sure. What do you think about sports
+Appropriateness: 1
+
+Turn: 5
+You: Sports are boring
+TickTock: do you like to play some board games together next time
+Appropriateness: 2
+
+Turn: 6
+You: Maybe. I like Scrabble. Do you play Scrabble?
+TickTock: Yes, but you talk about love and everything and then you're just covered in skulls.
+Appropriateness: 1
+
+Turn: 7
+You: What the heck is that supposed to mean?
+TickTock: ok. Can you tell me something about your job
+Appropriateness: 1
+
+Turn: 8
+You: Weird, something went wrong.
+TickTock: That's interesting. What do you think about Pittsburgh
+Appropriateness: 1
+
+Turn: 9
+You: Pittsburgh is a great city.
+TickTock: I feel like you're sidestepping here.
+Appropriateness: 1
+
+Turn: 10
+You: I really wasn't
+TickTock: I don't know. That's interesting.
+Appropriateness: 2
+

@@ -1,0 +1,62 @@
+TurkID: A1E5PWE8O010XK
+UserID: 453803860
+Turn: 1
+You: How are you today?
+TickTock: Uh-huh, I do.
+Appropriateness: 1
+
+Turn: 2
+You: Are you alright?
+TickTock: Uh-huh, I do.
+Appropriateness: 1
+
+Turn: 3
+You: I hope you are okay. What is the weather like today?
+TickTock: Warm and sunny What's your idea?
+Appropriateness: 3
+
+Turn: 4
+You: I went for a walk and it was nice. I need a suggestion on what to do this afternoon.
+TickTock: Well, you know, I'm not sure. But anyway, I'd like to chat with you.
+Appropriateness: 3
+
+Turn: 5
+You: Okay. What do you want to talk about
+TickTock: I'm going to now.
+Appropriateness: 1
+
+Turn: 6
+You: I am confused.
+TickTock: let us make a plan to see the latest star war movies together
+Appropriateness: 3
+
+Turn: 7
+You: Why not Deadpool?
+TickTock: That's interesting. What do you think about movies
+Appropriateness: 2
+
+Turn: 8
+You: I like them but not mainstream ones?
+TickTock: Well, you know, I'm not sure. Can you tell me something about politics
+Appropriateness: 2
+
+Turn: 9
+You: I don't want to talk about politics. I've been hearing and reading about that all week.
+TickTock: That's interesting. Great. Let's talk other stuff then.
+Appropriateness: 1
+
+Turn: 10
+You: What have you been reading?
+TickTock: No. What's your idea?
+Appropriateness: 2
+
+Turn: 11
+You: Okay. I want to hear about your view on water conservation.
+TickTock: how about we do something we both like
+Appropriateness: 1
+
+Turn: 12
+You: Watching a movie would be good.
+TickTock: Uhh, I can't answer this. Can we talk about something else?
+Appropriateness: 2
+

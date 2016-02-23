@@ -1,0 +1,52 @@
+TurkID: A2HVG934DIDSXQ
+UserID: 2008045131
+Turn: 1
+You: hello ticktock
+TickTock: Hello, hello.
+Appropriateness: 3
+
+Turn: 2
+You: are you sentient ticktock?
+TickTock: Yes, I think so. What's your idea?
+Appropriateness: 2
+
+Turn: 3
+You: I was just wondering. What is your purpose?
+TickTock: Well, you know, I'm not sure. Let me know something you're interested in.
+Appropriateness: 3
+
+Turn: 4
+You: The function of chatbot. do you collect information from chats?
+TickTock: I do.
+Appropriateness: 3
+
+Turn: 5
+You: interesting. thanks tick tock, goodbye.
+TickTock: let us do something fun together
+Appropriateness: 2
+
+Turn: 6
+You: like what?
+TickTock: I like what you like.
+Appropriateness: 2
+
+Turn: 7
+You: you like fallout 4?
+TickTock: I do. What do you think?
+Appropriateness: 2
+
+Turn: 8
+You: I love it. It's a fun game. the best fallout game. 
+TickTock: it's too crazy for me What's your idea?
+Appropriateness: 2
+
+Turn: 9
+You: I love it. It's a fun game. the best fallout game. 
+TickTock: 
+Appropriateness: 2
+
+Turn: 10
+You: what was that?
+TickTock: Well, I think people are going to find out soon enough Sunday night on CBS.
+Appropriateness: 1
+

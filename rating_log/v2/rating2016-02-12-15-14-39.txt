@@ -1,0 +1,52 @@
+TurkID: A37QFZ8I1TGH2C
+UserID: 544846252
+Turn: 1
+You: It is cold this morning.  Do you have the temperature?
+TickTock: Yes. What's your idea?
+Appropriateness: 1
+
+Turn: 2
+You: My idea is that you give me the weather's temperature of where I live.
+TickTock: You raise me up. What's your idea?
+Appropriateness: 1
+
+Turn: 3
+You: I see.  You cannot do that.  
+TickTock: I'm going to now.
+Appropriateness: 1
+
+Turn: 4
+You: What are you going to do now?
+TickTock: Badly.
+Appropriateness: 2
+
+Turn: 5
+You: That is true.  You are not much fun.
+TickTock: Yes.
+Appropriateness: 3
+
+Turn: 6
+You: Can you do crossword puzzles?
+TickTock: I'm going to now. What's your idea?
+Appropriateness: 1
+
+Turn: 7
+You: What's a five letter word for salary increase?
+TickTock: let us make a plan to see the latest star war movies together
+Appropriateness: 2
+
+Turn: 8
+You: Let's not.  I don't like star wars.
+TickTock: how about we do something we both like
+Appropriateness: 3
+
+Turn: 9
+You: So you don't like cross word puzzles.
+TickTock: I do. What's your idea?
+Appropriateness: 2
+
+Turn: 10
+You: I give up.  You are just a bot and nothing more.  Not even AI.
+TickTock: do you like to play some board games together next time
+Appropriateness: 2
+

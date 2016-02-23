@@ -1,0 +1,52 @@
+TurkID: A26GD7O74RXO5U
+UserID: 270755314
+Turn: 1
+You: Hey sweetie. How you doing?
+TickTock: No. Any thoughts?
+Appropriateness: 1
+
+Turn: 2
+You: I feel tired today.
+TickTock: Well, you know, I'm not sure. Let me know something you're interested in.
+Appropriateness: 2
+
+Turn: 3
+You: I'm interested in psychology.
+TickTock: Well, you know, I'm not sure. Can you tell me something about Pittsburgh
+Appropriateness: 2
+
+Turn: 4
+You: I've never been there.
+TickTock: Well, you know, I'm not sure. let me tell you a joke, A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don't know son, I'm still paying."
+Appropriateness: 2
+
+Turn: 5
+You: I'm getting married soon.
+TickTock: That's interesting. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure.
+Appropriateness: 3
+
+Turn: 6
+You: Well, I'm making the mistake of getting married twice!
+TickTock: Well, you know, I'm not sure. Can you tell me something about your life
+Appropriateness: 2
+
+Turn: 7
+You: I'm getting married in May.
+TickTock: That's interesting. What do you think about movies
+Appropriateness: 2
+
+Turn: 8
+You: I want to see Deadpool.
+TickTock: I don't know. let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience.
+Appropriateness: 2
+
+Turn: 9
+You: Sounds like you're talking about yourself!
+TickTock: Uh-huh, I do. What's your idea?
+Appropriateness: 3
+
+Turn: 10
+You: You're not very good at listening to others.
+TickTock: That's interesting. let me tell you something, We live in a society where pizza gets to your house before the police.
+Appropriateness: 2
+

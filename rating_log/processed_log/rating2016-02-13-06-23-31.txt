@@ -1,0 +1,57 @@
+TurkID: A27MJOV91GA8R3
+UserID: 837312446
+Turn: 1
+You: How do you feel today?
+TickTock: Badly. Any thoughts?
+Appropriateness: 3
+
+Turn: 2
+You: Why do you feel badly?
+TickTock: Badly. What's your idea?
+Appropriateness: 2
+
+Turn: 3
+You: Did you have a bad day?
+TickTock: Uh-huh, I do.
+Appropriateness: 2
+
+Turn: 4
+You: That stinks.  My day was great!
+TickTock: An amazing day, a momentous day. What's your idea?
+Appropriateness: 3
+
+Turn: 5
+You: I had an excellent dinner today.
+TickTock: ok. Can you tell me something about movies
+Appropriateness: 2
+
+Turn: 6
+You: A few of my friends went and saw deadpool.
+TickTock: Well, you know, I'm not sure. Let me know something you're interested in.
+Appropriateness: 1
+
+Turn: 7
+You: I'm interested in music.
+TickTock: Well, you know, I'm not sure. What do you think about politics
+Appropriateness: 1
+
+Turn: 8
+You: politics bore me.  i'm a liberal democrat.  yOU?
+TickTock: That's interesting. What do you think about music
+Appropriateness: 3
+
+Turn: 9
+You: i love music
+TickTock: I like pop music.
+Appropriateness: 3
+
+Turn: 10
+You: What is your favorite song?
+TickTock: Yes.
+Appropriateness: 1
+
+Turn: 11
+You: The band Yes?
+TickTock: I don't know. Can you tell me something about sports
+Appropriateness: 1
+

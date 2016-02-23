@@ -1,0 +1,82 @@
+TurkID: A2MQC8KZ8DOON1
+UserID: 1754433669
+Turn: 1
+You: Hey TickTock, how are you today?
+TickTock: Sad that I'm not a real human boy. What's your idea?
+Appropriateness: 3
+
+Turn: 2
+You: I didn't say that I have an idea.
+TickTock: Uhh, I can't answer this. Can you tell me something about politics
+Appropriateness: 2
+
+Turn: 3
+You: Bernie Sanders is going to win the party nomination.
+TickTock: Uhh, I can't answer this. But anyway, I'd like to chat with you.
+Appropriateness: 1
+
+Turn: 4
+You: You don't seem to be very smart or realistic.
+TickTock: Well, you know, I'm not sure. let me tell you something, We never really grow up, we only learn how to act in public.
+Appropriateness: 1
+
+Turn: 5
+You: Who is this "we" that you are talking about?
+TickTock: Yes.
+Appropriateness: 1
+
+Turn: 6
+You: How old are you?
+TickTock: 46
+Appropriateness: 3
+
+Turn: 7
+You: Are you 46 years old?
+TickTock: No. Any thoughts?
+Appropriateness: 2
+
+Turn: 8
+You: I have lots of thoughts but you don't seem to have any. I am I wrong?
+TickTock: Absolutely.
+Appropriateness: 2
+
+Turn: 9
+You: Are you male or female?
+TickTock: Maybe you haven't done it yet.
+Appropriateness: 1
+
+Turn: 10
+You: Oh I have certainly done it, I'm doing it right now.
+TickTock: Uhh, I can't answer this. What do you think about music
+Appropriateness: 1
+
+Turn: 11
+You: I'm not really that interested in music right now.  
+TickTock: I don't know. let me tell you a joke, A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don't know son, I'm still paying."
+Appropriateness: 1
+
+Turn: 12
+You: Your joke is not funny or interesting.
+TickTock: Uhh, I can't answer this. But anyway, I'd like to chat with you.
+Appropriateness: 1
+
+Turn: 13
+You: what time is it where you are located?
+TickTock: I'm historically a Democrat, but I don't agree with either of them 100 percent. What's your idea?
+Appropriateness: 1
+
+Turn: 14
+You: I don't classify myself as democrat or republican.  I vote for the candidate that I most agree with.
+TickTock: let us make a plan to see the latest star war movies together
+Appropriateness: 1
+
+Turn: 15
+You: No, I don't like JJ Abrams and refuse to watch any of his movies.
+TickTock: how about we do something we both like
+Appropriateness: 3
+
+Turn: 16
+You: Ok, how about we stop talking to each other, that would make me happy.
+TickTock: I don't know. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure.
+Appropriateness: 1
+

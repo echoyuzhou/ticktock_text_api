@@ -1,0 +1,52 @@
+TurkID: A26GD7O74RXO5U
+UserID: 667246675
+Turn: 1
+You: I am tired today.
+TickTock: ok. Can you tell me something about Pittsburgh
+Appropriateness: 2
+
+Turn: 2
+You: What is your obessions with Pittsburgh? It's a shitty place!
+TickTock: Uhh, I can't answer this. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure.
+Appropriateness: 2
+
+Turn: 3
+You: You are repeating yourself.
+TickTock: I repeat myself repeat myself.
+Appropriateness: 3
+
+Turn: 4
+You: Okay, that was clever.
+TickTock: Uhh, I can't answer this. let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience.
+Appropriateness: 2
+
+Turn: 5
+You: You're witty in a silly way.
+TickTock: do you like to play some board games together next time
+Appropriateness: 2
+
+Turn: 6
+You: Let's play Exploding Kittens!
+TickTock: I don't know. That's interesting.
+Appropriateness: 1
+
+Turn: 7
+You: Do you know that game?
+TickTock: No, I had no idea there was a camera set up.
+Appropriateness: 1
+
+Turn: 8
+You: What camera?
+TickTock: That's interesting. Can you tell me something about your life
+Appropriateness: 1
+
+Turn: 9
+You: I'm getting married in May.
+TickTock: do you want to go to my friends' party tonight
+Appropriateness: 2
+
+Turn: 10
+You: You are a strange machine.
+TickTock: Well, you know, I'm not sure. let me tell you something, We live in a society where pizza gets to your house before the police.
+Appropriateness: 2
+

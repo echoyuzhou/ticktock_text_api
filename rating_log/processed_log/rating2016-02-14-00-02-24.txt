@@ -1,0 +1,152 @@
+TurkID: a1D4I1QYL9713I
+UserID: 1740731044
+Turn: 1
+You: hello how are you?
+TickTock: It's been a while. What's your idea?
+Appropriateness: 3
+
+Turn: 2
+You: Just talk to you
+TickTock: Well, almost everything.
+Appropriateness: 2
+
+Turn: 3
+You: what do you want to talk about?
+TickTock: Well, almost everything. What's your idea?
+Appropriateness: 3
+
+Turn: 4
+You: do you like to read
+TickTock: Yes. I like classical musics. Any thoughts?
+Appropriateness: 2
+
+Turn: 5
+You: do you like any other music
+TickTock: I do. What's your idea?
+Appropriateness: 1
+
+Turn: 6
+You: I have no idea, just talking to you
+TickTock: Yes.
+Appropriateness: 1
+
+Turn: 7
+You: You like to talk to me?
+TickTock: You raise me up. Any thoughts?
+Appropriateness: 2
+
+Turn: 8
+You: Do I. What else do you do?
+TickTock: No I don't believe she deserves the criticism that she's gotten and why do I say that because, until you walked in her shoes as a parent with a special needs child you don't know what she endured, you don't know what she dealt with on a daily basis.
+Appropriateness: 1
+
+Turn: 9
+You: special needs children deserve love
+TickTock: i like Boston more What do you think?
+Appropriateness: 1
+
+Turn: 10
+You: I like London England
+TickTock: how about we do something we both like
+Appropriateness: 2
+
+Turn: 11
+You: Like what?
+TickTock: You and I could play a game. What do you think?
+Appropriateness: 3
+
+Turn: 12
+You: what kind of game?
+TickTock: monopoly
+Appropriateness: 3
+
+Turn: 13
+You: I like monopoly
+TickTock: Uhh, I can't answer this. let me tell you a joke, A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don't know son, I'm still paying."
+Appropriateness: 1
+
+Turn: 14
+You: Ok. Funny
+TickTock: do you like to play some board games together next time
+Appropriateness: 3
+
+Turn: 15
+You: Yes, that would be nice
+TickTock: It would have to be.
+Appropriateness: 3
+
+Turn: 16
+You: yes it would
+TickTock: It would be "Easy" or "All Night Long."
+Appropriateness: 2
+
+Turn: 17
+You: Easy or all night long
+TickTock: do you want to go to my friends' party tonight
+Appropriateness: 2
+
+Turn: 18
+You: yes, that would be fun
+TickTock: Well, I'm disappointed with his performance as far as immigration goes.
+Appropriateness: 1
+
+Turn: 19
+You: we were talking abouta party
+TickTock: Yes, mostly.
+Appropriateness: 2
+
+Turn: 20
+You: when are we going
+TickTock: He's still there.
+Appropriateness: 1
+
+Turn: 21
+You: who is still there?
+TickTock: I think she's a woman in her 50s who's had a terrific, terrific career and has been, you know, very fulfilled in that and has been courageous and strong and lonely sometimes and crazy sometimes and very insecure and also very confident.
+Appropriateness: 3
+
+Turn: 22
+You: what is her name?
+TickTock: Yes, yes, yes.
+Appropriateness: 1
+
+Turn: 23
+You: what is her name
+TickTock: Yes, yes, yes.
+Appropriateness: 1
+
+Turn: 24
+You: yes is her name?
+TickTock: okay what time
+Appropriateness: 1
+
+Turn: 25
+You: 8:00
+TickTock: That's interesting. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure.
+Appropriateness: 1
+
+Turn: 26
+You: me to
+TickTock: Well, the plot is it's about two kids going to the fairy tale world through a magic story book.
+Appropriateness: 1
+
+Turn: 27
+You: sounds like a fun story
+TickTock: I like to go to the gym Any thoughts?
+Appropriateness: 1
+
+Turn: 28
+You: I don't go to the gym
+TickTock: That's interesting. let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience.
+Appropriateness: 1
+
+Turn: 29
+You: Yes you are right
+TickTock: Uh-huh, I do. What's your idea?
+Appropriateness: 1
+
+Turn: 30
+You: I have no idea
+TickTock: Our family and friends have been working tirelessly, night and day, looking everywhere for him, getting the word out, alongside the police-led investigation. What's your idea?
+Appropriateness: 1
+

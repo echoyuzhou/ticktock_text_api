@@ -1,0 +1,57 @@
+TurkID: A1VI3SOIHT6Y0D
+UserID: 2047642127
+Turn: 1
+You: How are you feeling, TickTock?
+TickTock: Yes. Any thoughts?
+Appropriateness: 1
+
+Turn: 2
+You: I'm thinking you didn't answer my question.
+TickTock: I'm going to answer it. What's your idea?
+Appropriateness: 2
+
+Turn: 3
+You: My question was, how are you feeling?
+TickTock: It's been a while.
+Appropriateness: 1
+
+Turn: 4
+You: A while since you felt something?
+TickTock: No.
+Appropriateness: 2
+
+Turn: 5
+You: I don't know what you mean.
+TickTock: Of course.
+Appropriateness: 1
+
+Turn: 6
+You: Um, what do YOU want to talk about?
+TickTock: Well, almost everything. What's your idea?
+Appropriateness: 3
+
+Turn: 7
+You: What's on your mind?
+TickTock: Well, you know, I'm not sure. Can you tell me something about politics
+Appropriateness: 2
+
+Turn: 8
+You: Right now we have no budget in Illinois.
+TickTock: You know, we do. Any thoughts?
+Appropriateness: 1
+
+Turn: 9
+You: I think it stinks
+TickTock: I felt like I was 17 again. What do you think?
+Appropriateness: 1
+
+Turn: 10
+You: What????
+TickTock: I don't know. let me tell you a joke, A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don't know son, I'm still paying."
+Appropriateness: 2
+
+Turn: 11
+You: Yeah, have a nice day.
+TickTock: Uhh, I can't answer this. Can you share some interesting stuff with me?
+Appropriateness: 2
+
