@@ -1,19 +1,30 @@
-import logging
+import nltk
 import re
 import pickle
-from nltk.corpus import stopwords
-logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
-from gensim import corpora,models, similarities
-#def oov_out(user_input, dictionry_value):
-#	print user_input
-	#documents=[]
-	#with open('documents.txt') as f:
-	#	for line in f:
-	#		documents.append(line)
-#	stoplist = stopwords.words('english')
-	#texts =[[word for word in document.lower().split() if word not in stoplist] for document in documents]
-dictionary = corpora.Dictionary.load('/tmp/deerwester.dic')
-dictionary_value = dictionary.values()
+import json
+import os.path as path
+def LoadData(datalist):
+	database = []
+	for datafile in datalist:
+		f = open(datafile)
+		line = f.readline()
+		f.close()
+		raw_data = json.loads(str(line.strip()))
+		database = PushData(raw_data, database)
+	return database
+
+def PushData(data, database):
+    for pair in data:
+        word = nltk.word_tokenize(pair['question']) +nltk.word_tokenize(pair['answer'])
+        database = database +[item.lower() for item in word]
+    return database
+
+datalist =[line.strip() for line in open('cnn_qa_human_response_name_high_app.list')]
+database = LoadData(datalist)
+database = list(set(database))
+
 with open('dictionary_value.pkl','w') as f:
-	pickle.dump(dictionary_value,f)
+    pickle.dump(database,f)
+
+
 

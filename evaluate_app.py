@@ -42,23 +42,35 @@ def readall(dir_path):
 
 def get_log(rating_logs):
   inapp = 0
+  inte = 0
+  app = 0
   ttl = 0
   for f,r in rating_logs.iteritems():
     num_turns = len(r["Turns"])
     for i in range(1, num_turns + 1):
       if r["Turns"][i]["Appropriateness"] == "1":
 	inapp = inapp + 1
-	#print str(inapp)
+      if r["Turns"][i]["Appropriateness"] == "2":
+	inte = inte + 1
+      if r["Turns"][i]["Appropriateness"] == "3":
+	app = app + 1
+        #print str(inapp)
       ttl = ttl+1
-  return inapp, ttl
+  return inapp, inte, app, ttl
         #yield "Participant: " + r["Turns"][i-1]["You"] + "<br>\nTickTock: " + r["Turns"][i-1]["TickTock"] + "<br>\n Participant: " + r["Turns"][i]["You"]
 
 
-rating_logs = readall("/home/ubuntu/zhou/Backend/rating_log/processed_log")
-inapp, ttl = get_log(rating_logs)
+rating_logs = readall("/home/ubuntu/zhou/Backend/rating_log/v2")
+inapp, inte, app, ttl = get_log(rating_logs)
+print "the number of inapproprate turns"
 print str(inapp)
+print "the number of interpretable turns"
+print str(inte)
+print "the number of appropriate nurns"
+print str(app)
+print "the total number of turns"
 print str(ttl)
 percent = float(inapp)/float(ttl)*100
-print "the percent of inapproprate responses in this version: " 
+print "the percent of inapproprate responses in this version: "
 print "%.2f" %percent
 

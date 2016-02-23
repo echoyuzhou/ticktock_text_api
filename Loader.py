@@ -38,9 +38,9 @@ def LoadData(datalist):
 def PushData(data, database):
 	last = len(database.keys())
 	for pair in data:
-		database[last] = pair['question'].split()
+		database[last] = nltk.word_tokenize(pair['question'])
 		last += 1
-		database[last] = pair['answer'].split()		
+		database[last] = nltk.word_tokenize(pair['answer'])
 		last += 1
 	return database
 
@@ -60,15 +60,15 @@ def LoadDataPair(datalist):
 def PushDataPair(data, database):
         last = len(database['Q'].keys())
         for pair in data:
-                database['Q'][last] = pair['question'].split()
-                database['A'][last] = pair['answer'].split()
+                database['Q'][last] = nltk.word_tokenize(pair['question'])
+                database['A'][last] = nltk.word_tokenize(pair['answer'])
                 last += 1
         return database
 
 def LoadTemplate(filelist):
 	Library = {}
 	for filepath in filelist:
-		name = path.splitext(path.basename(filepath))[0]	
+		name = path.splitext(path.basename(filepath))[0]
 		Library[name] = [line.strip() for line in open(filepath)]
 	return Library
 

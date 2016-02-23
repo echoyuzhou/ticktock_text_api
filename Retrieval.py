@@ -7,7 +7,7 @@ import random
 from collections import defaultdict
 
 #penalize too long sentence/ low relavance
-def Select(Candidates):
+def Select(Candidates,history,word2vec_ranking_mode):
     threshold = 50
     answer_list = []
     answer_strings = []
@@ -22,14 +22,7 @@ def Select(Candidates):
         print "Matched Q or A: ", Candidate[3]
         ids=ids+1
     print "================="
-
-    fileout = open('60question.txt', 'a') ## only for the use of retrieval_question
     candidate_range = min(len(Candidates),3)
-    for i in range(0,candidate_range ):
-        fileout.write(' '.join(Candidates[i][1]))
-        fileout.write(' '.join(Candidates[i][2])+'\n')
-    fileout.write('\n')
-    fileout.close
     for score, question, answer, tag in Candidates:
         if len(answer) > threshold:
             continue
@@ -41,7 +34,26 @@ def Select(Candidates):
         answer_strings.append(astring)
         answer_list += [(score, answer, tag)]
     if len(answer_list) > 0:
-        return random.choice(answer_list)
+        #return random.choice(answer_list)
+        if word2vec_ranking_mode==1 and history:
+            print 'the word2vec_ranking_mode is triggered'
+            # based on how similar the previous TickTock utterance to choose
+            import gensim
+            from sklearn.metrics.pairwise import cosine_similarity
+            model = gensim.models.Doc2Vec.load('/tmp/doc2vec_50')
+            ticktock_pre = model[history.pop()]
+            big_score = -1
+            for score, question, answer,tag in Candidates:
+                array = model[answer]
+                answer_score = cosine_similarity(array,ticktock_pre)
+                if big_score < answer_score:
+                    answer_chosen = answer
+                    big_score = answer_score
+            print 'this is the big score'
+            print big_score
+            return answer_chosen
+        else:
+            return answer_list[0]
     else:
         return (0, [], '')
 def FreqPairMatch(info, database, select=5):

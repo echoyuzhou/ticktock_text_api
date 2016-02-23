@@ -4,7 +4,7 @@ import sys
 import time
 import os
 import json
-
+import pickle
 def readfile(fn):
   result = {}
   result["Turns"] = {}
@@ -34,13 +34,14 @@ def readfile(fn):
 def readall(dir_path):
   result = {}
   for f in os.listdir(dir_path):
+    print f
     if ".txt" in f and "rating" in f:
       full_path = os.path.join(dir_path, f)
       result[full_path] = readfile(full_path)
   return result
 
 def get_log(rating_logs):
-  writelist =[]	
+  writelist =[]
   for f,r in rating_logs.iteritems():
     num_turns = len(r["Turns"])
     for i in range(1, num_turns + 1):
@@ -48,20 +49,20 @@ def get_log(rating_logs):
 		tmpdict ={}
 		tmpdict["question"]= r["Turns"][i]["You"]
 		tmpdict["answer"] = r["Turns"][i]["TickTock"]
-		tmpdict["docId"]='a'
+		tmpdict["app_value"]=r["Turns"][i]["Appropriateness"]
 		tmpdict["qSentId"]=2016
 		tmpdict["aSentId"]=2016
 		writelist.append(tmpdict)
-    writelist.append(tmpdict)
+    #writelist.append(tmpdict)
   return writelist
-  #json.dump(writelist,open("high_app_data.json",'w'))	        
-	#yield "Participant: " + r["Turns"][i-1]["You"] + "<br>\nTickTock: " + r["Turns"][i-1]["TickTock"] + "<br>\n Participant: " + r["Turns"][i]["You"]
-    #os.system("mv %s /home/ubuntu/zhou/Backend/rating_log/processed_log/" % f)
 
 
-rating_logs = readall("/home/ubuntu/zhou/Backend/rating_log/v1")
+rating_logs = readall("/home/ubuntu/zhou/Backend/rating_log/v2")
 writelist = get_log(rating_logs)
-with open('user_input_v1.txt','w') as f:
+with open('user_input_v2.txt','w') as f:
 	for tmpdict in writelist:
 		f.write(tmpdict["question"]+'\n')
+
+with open('user_input_v2.pkl','w') as f:
+    pickle.dump(writelist,f)
 

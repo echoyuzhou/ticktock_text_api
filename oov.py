@@ -1,5 +1,6 @@
 import logging
 import re
+import nltk
 from nltk.corpus import stopwords
 #logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 #from gensim import corpora,models, similarities
@@ -19,13 +20,12 @@ def oov_out(user_input, dictionary_value):
 	#new_vec = dictionary.doc2bow(user_input.lower().split())
 	#print "we are pring the new vec"
 	#print(new_vec)
-	user_input = re.sub('[?.,()!:]','', user_input)
-	user_input = [ word for word in user_input.lower().split() if word not in stoplist]
+	#user_input = re.sub('[?.,()!:]','', user_input)
+	user_input = nltk.word_tokenize(user_input)
 	for word in user_input:
-		if word not in dictionary_value:
+		if (word not in dictionary_value) and (word.lower() not in dictionary_value):
 			is_triggered =1
-			output = 'what is '+word +'?'
+			output = "what is '"+word +"'?"
 			return is_triggered, output
-		
 	return 0, None
 

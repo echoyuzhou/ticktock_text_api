@@ -13,8 +13,16 @@ def Init():
 	return Tree, Template
 
 
-def FindCandidate(database, resource, input_utter, isAlltag, history = []):
-        meta_info = Understand.InfoExtractor(input_utter, resource,isAlltag)
+def FindCandidate(database, resource, input_utter, isAlltag, history, word2vec_ranking_mode, tfidfmodel=None, tfidfdict=None):
+        print "In Control tfidfmodel: "
+        print tfidfmodel
+        print 'In Control tfidfdict '
+        print tfidfdict
+
+        if not tfidfmodel == None and not tfidfdict == None:
+                meta_info = Understand.InfoExtractor(input_utter, resource, isAlltag, history, tfidfmodel, tfidfdict)
+        else:
+                meta_info = Understand.InfoExtractor(input_utter, resource,isAlltag,history)
         print "Understand"
         print meta_info
         print ""
@@ -23,7 +31,7 @@ def FindCandidate(database, resource, input_utter, isAlltag, history = []):
                 answer = 'Can you say something longer.'.split(' ')
         else:
                 Candidates, TopicLevel = Retrieval.FreqPairMatch(meta_info, database)
-                relavance, answer, tag = Retrieval.Select(Candidates)
+                relavance, answer, tag = Retrieval.Select(Candidates,history,word2vec_ranking_mode)
                 print "answer from ", tag
         return relavance, answer
 #@based on response weight
@@ -31,7 +39,9 @@ def SelectState_rel_only(relavance, TreeState):
 	branch_idx = TreeState.keys()[0]
 	branch = TreeState[branch_idx]['node']
 	if relavance >= branch['threshold_relavance']:
-		return random.choice(TreeState[branch_idx][True]) #random selection between the tree leaves.
+		#print 'we are in the true branch'
+                return TreeState[branch_idx][True][0] # only use the continue, don't expand
+
 	else:
 		return random.choice(TreeState[branch_idx][False][0:-1])# don't choose the last leave, go back
 		#return TreeState[branch_idx][False][2]
@@ -57,7 +67,8 @@ def SelectState_rel(relavance, engagement, TreeState, engaged_list):
 		return random.choice(TreeState[branch_idx][False])
 def ConstructTree():
         Tree = {}
-        branch = {'tag':'criteria', 'name':'relavance', 'threshold_relavance':0.2, 'threshold_engagement':3}
+        #changed threshold relevance here from 0.2 to 0.12
+        branch = {'tag':'criteria', 'name':'relavance', 'threshold_relavance':0.12, 'threshold_engagement':3}
         switch_state = {'tag':'state', 'name':'switch'}
         end_state = {'tag':'state', 'name':'end'}
         init_state = {'tag':'state', 'name':'init'} #initiate things to do
@@ -90,4 +101,3 @@ def ConstructTemplate():
         template['back'] = ['template_end', 'template_back,topic_back']
         template['joke'] = ['template_end','template_joke']
         return template
-
