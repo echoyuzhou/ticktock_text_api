@@ -1,3 +1,16 @@
+<html>
+<head>
+<title>TickTock</title>
+</head>
+<body>
+<style>
+    * {
+      font-family: verdana,sans-serif;
+    }
+</style>
+<table border="0" width="600" align="center">
+<tr>
+<td>
 <?php
   #ini_set('display_errors', 1);
   #ini_set('display_startup_errors', 1);
@@ -142,10 +155,14 @@ function done(){
   return confirm('Are you sure?')
 }
 
+window.onload = function() {
+  document.getElementById("msg1").focus();
+};
+
 </script>
 
 <label>Press Enter to submit<br>
-<i>You</i>: <input type="text" size="50" name="message" onkeypress="return entsub(event,this.form)" ></label></p>
+<i>You</i>: <input type="text" size="50" id="msg1" name="message" onkeypress="return entsub(event,this.form)" ></label></p>
 <p><input type="submit" name="action" value="Send Message"></p>
 <p><input type="submit" name="action" value="I am done!" onclick="return done()"></p>
 </form>
@@ -153,3 +170,9 @@ function done(){
 <?php
   }
 ?>
+
+</td>
+</tr>
+</table>
+</body>
+</html>
