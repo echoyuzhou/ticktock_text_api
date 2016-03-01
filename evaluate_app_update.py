@@ -11,7 +11,7 @@ def readfile(fn):
   result["Turns"] = {}
   current_turn = 0
   key_index = 0
-  keys = ["Turn", "You", "TickTock", "Appropriateness"]
+  keys = ["Turn", "You", "TickTock", "Appropriateness", "Strategy"]
   for l in open(fn):
     if ":" in l:
       key = l.split(":")[0]
@@ -19,14 +19,14 @@ def readfile(fn):
       if key == "TurkID" or key == "UserID":
         result[key] = value
       else:
-        if keys[key_index%4] != key:
-          print l
-          assert(False)
+       # if keys[key_index%5] != key:
+       #   print l
+       #   assert(False)
         key_index += 1
         if key == "Turn":
           current_turn = int(value)
           result["Turns"][current_turn] = {}
-        elif key in keys[1:4]:
+        elif key in keys[1:]:
           result["Turns"][current_turn][key] = value
         else:
           assert(False)
@@ -61,6 +61,7 @@ def get_log(rating_logs):
 
 
 rating_logs = readall("/home/ubuntu/zhou/Backend/rating_log/")
+#print rating_logs
 inapp, inte, app, ttl = get_log(rating_logs)
 print "the number of inapproprate turns"
 print str(inapp), float(inapp)/float(ttl)

@@ -1,11 +1,10 @@
 #!/usr/bin/etc python
 
 import sys
-import socket
 import time
-import sqlite3
 import os
-
+import json
+import pickle
 def readfile(fn):
   result = {}
   result["Turns"] = {}
@@ -35,42 +34,32 @@ def readfile(fn):
 def readall(dir_path):
   result = {}
   for f in os.listdir(dir_path):
+    print f
     if ".txt" in f and "rating" in f:
       full_path = os.path.join(dir_path, f)
       result[full_path] = readfile(full_path)
   return result
 
 def get_log(rating_logs):
-  inapp = 0
-  inte = 0
-  app = 0
-  ttl = 0
+  writelist =[]
   for f,r in rating_logs.iteritems():
     num_turns = len(r["Turns"])
     for i in range(1, num_turns + 1):
-      if r["Turns"][i]["Appropriateness"] == "1":
-	inapp = inapp + 1
-      if r["Turns"][i]["Appropriateness"] == "2":
-	inte = inte + 1
-      if r["Turns"][i]["Appropriateness"] == "3":
-	app = app + 1
-        #print str(inapp)
-      ttl = ttl+1
-  return inapp, inte, app, ttl
-        #yield "Participant: " + r["Turns"][i-1]["You"] + "<br>\nTickTock: " + r["Turns"][i-1]["TickTock"] + "<br>\n Participant: " + r["Turns"][i]["You"]
+		tmpdict ={}
+		tmpdict["question"]= r["Turns"][i]["You"]
+		tmpdict["answer"] = r["Turns"][i]["TickTock"]
+		tmpdict["app_value"]=r["Turns"][i]["Appropriateness"]
+		tmpdict["user_id"]=r["TurkID"]
+		#tmpdict["aSentId"]=2016
+		writelist.append(tmpdict)
+  return writelist
 
 
-rating_logs = readall("/home/ubuntu/zhou/Backend/rating_log/")
-inapp, inte, app, ttl = get_log(rating_logs)
-print "the number of inapproprate turns"
-print str(inapp), float(inapp)/float(ttl)
-print "the number of interpretable turns"
-print str(inte), float(inte)/float(ttl)
-print "the number of appropriate nurns"
-print str(app), float(app)/float(ttl)
-print "the total number of turns"
-print str(ttl)
-percent = float(inapp)/float(ttl)*100
-print "the percent of inapproprate responses in this version: "
-print "%.2f" %percent
-
+rating_logs = readall("/home/ubuntu/zhou/Backend/rating_log/v2")
+writelist = get_log(rating_logs)
+with open('v2_app_high_pairs.txt','w') as f:
+	for tmpdict in writelist:
+	    if tmpdict['app_value']=='3':
+                f.write(tmpdict["question"]+'\n')
+                f.write(tmpdict["answer"]+'\n')
+                f.write('\n')

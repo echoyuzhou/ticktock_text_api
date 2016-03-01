@@ -41,18 +41,39 @@ def Select(Candidates,history,word2vec_ranking_mode):
             import gensim
             from sklearn.metrics.pairwise import cosine_similarity
             model = gensim.models.Doc2Vec.load('/tmp/doc2vec_50')
-            ticktock_pre = model[history.pop()]
+            sentence = history.pop()
+            ticktock_pre=0
+            for word in sentence.split():
+                try:
+                    ticktock_pre = ticktock_pre + model[word]
+                except:
+                    print word
             big_score = -1
+            relevance =0
             for score, question, answer,tag in Candidates:
-                array = model[answer]
-                answer_score = cosine_similarity(array,ticktock_pre)
+                array = 0
+                print answer
+                for word in answer:
+                    try:
+                        array = array + model[word]
+                    except:
+                        print word
+                try:
+                    answer_score = cosine_similarity(array,ticktock_pre)
+                except:
+                    print array
+                    print ticktock_pre
+                    answer_score = -1
                 if big_score < answer_score:
                     answer_chosen = answer
                     big_score = answer_score
+                    relevance = score
             print 'this is the big score'
             print big_score
-            return answer_chosen
+            return (relevance, answer_chosen,'Q')
         else:
+            #print 'this is the answer list'
+            #print answer_list[0]
             return answer_list[0]
     else:
         return (0, [], '')
@@ -61,8 +82,8 @@ def FreqPairMatch(info, database, select=5):
         occur_dict.clear()
         info_dict = {}
         for word, pos, weight in info:
-                occur_dict[word] = True
-                info_dict[word] = (pos, weight)
+                occur_dict[word.lower()] = True
+                info_dict[word.lower()] = (pos, weight)
 
         Candidate = []
         for idx, utter in database['Q'].items():

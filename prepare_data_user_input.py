@@ -45,15 +45,13 @@ def get_log(rating_logs):
   for f,r in rating_logs.iteritems():
     num_turns = len(r["Turns"])
     for i in range(1, num_turns + 1):
-     # if r["Turns"][i]["Appropriateness"] == "3":
 		tmpdict ={}
 		tmpdict["question"]= r["Turns"][i]["You"]
 		tmpdict["answer"] = r["Turns"][i]["TickTock"]
 		tmpdict["app_value"]=r["Turns"][i]["Appropriateness"]
-		tmpdict["qSentId"]=2016
-		tmpdict["aSentId"]=2016
+		tmpdict["user_id"]=r["TurkID"]
+		#tmpdict["aSentId"]=2016
 		writelist.append(tmpdict)
-    #writelist.append(tmpdict)
   return writelist
 
 

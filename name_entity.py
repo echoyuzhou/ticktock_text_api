@@ -1,4 +1,3 @@
-
 # this is to detect the name entity of a sentence, the return value [['New York'],[Pittsburgh]]
 import nltk
 #import fileinput
@@ -63,9 +62,12 @@ def NE_kb(name_entity_list):
         #print response['itemListElement'][0]['result']['detailedDescription']['articleBody']
     return response_disp_list
 #
-def name_entity_generation(response_disp_list):
+def name_entity_generation(name_entity_list, response_disp_list):
 # we only talk about the first name entity
     response = response_disp_list[0]
-    output = 'Are you talking about the ' +response
+    name = name_entity_list[0]
+    #if type(name) is 'list':
+    name_al = ' '.join(name)
+    output = 'Are you talking about '+ name_al + ', the ' +response
     return output
 

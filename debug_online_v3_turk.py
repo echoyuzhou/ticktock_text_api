@@ -19,7 +19,7 @@ while True:
         serversocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         #Log('serversocket')
         serversocket.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
-        serversocket.bind(('localhost', 13112))
+        serversocket.bind(('localhost', 13113))
         serversocket.listen(5)
         connection, address = serversocket.accept()
         #Log('connection established')

@@ -31,22 +31,27 @@ def FillTemplate(theme, TemplateLib, TopicLib, template, topic_id, init_id, joke
                 else:
                     unit = random.choice(['joke','init','switch'])
             elif unit == 'topic':
+                #topic_history = [line.strip() for line in open('topic_history.txt')]
+                #fileout = open('topic_history.txt', 'a')
+                #while unit == 'topic':
+                #    topic_id = random.randint(1, topic_number)
+                #    if int(topic_history[-1]) != topic_id:
+                #        break
+                #fileout.write(str(topic_id)+'\n')
 		print topic_id
                 index = topic_id % len(TopicLib)
 		sent_list.append(TopicLib[index])
                 topic_id = topic_id +1
             elif unit == 'template_init':
-                print TemplateLib['template_init']
-# here we use initiation that is attached to certain topic.
-		init_index = init_id %len(TemplateLib['template_init'][theme])
-                sent_list.append(TemplateLib['template_init'][theme][init_index])
+		#print "we are  in init"
+		#print init_id
+		#print TemplateLib
+		init_index = init_id %len(TemplateLib['template_init'])
+                sent_list.append(TemplateLib['template_init'][init_index])
 		init_id = init_id + 1
 	    elif unit == 'template_joke':
-# we use joke that is attached to certain topic.
-                print theme
-		print TemplateLib['template_joke']
-                joke_index = joke_id%len(TemplateLib['template_joke'][theme])
-		sent_list.append(TemplateLib['template_joke'][theme][joke_index])
+		joke_index = joke_id%len(TemplateLib['template_joke'])
+		sent_list.append(TemplateLib['template_joke'][joke_index])
 		joke_id = joke_id + 1
 	    else:
 		sent_list.append(random.choice(TemplateLib[unit]))

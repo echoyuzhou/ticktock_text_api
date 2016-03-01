@@ -13,19 +13,19 @@ def Init():
 	return Tree, Template
 
 
-def FindCandidate(database, resource, input_utter, isAlltag, history, word2vec_ranking_mode, tfidfmodel=None, tfidfdict=None):
-        print "In Control tfidfmodel: "
-        print tfidfmodel
-        print 'In Control tfidfdict '
-        print tfidfdict
+def FindCandidate(database, resource, input_utter, isAlltag, history,anaphora_mode, word2vec_ranking_mode, tfidfmodel=None, tfidfdict=None):
+        #print "In Control tfidfmodel: "
+        #print tfidfmodel
+        #print 'In Control tfidfdict '
+        #print tfidfdict
 
         if not tfidfmodel == None and not tfidfdict == None:
-                meta_info = Understand.InfoExtractor(input_utter, resource, isAlltag, history, tfidfmodel, tfidfdict)
+                meta_info, anaphora_trigger = Understand.InfoExtractor(input_utter, resource, isAlltag, history, anaphora_mode, tfidfmodel, tfidfdict)
         else:
-                meta_info = Understand.InfoExtractor(input_utter, resource,isAlltag,history)
-        print "Understand"
-        print meta_info
-        print ""
+                meta_info, anaphora_trigger = Understand.InfoExtractor(input_utter, resource,isAlltag,history,anaphora_mode)
+        #print "Understand"
+        #print meta_info
+        #print ""
         if meta_info.__len__()==0:
                 relavance = 0
                 answer = 'Can you say something longer.'.split(' ')
@@ -33,7 +33,7 @@ def FindCandidate(database, resource, input_utter, isAlltag, history, word2vec_r
                 Candidates, TopicLevel = Retrieval.FreqPairMatch(meta_info, database)
                 relavance, answer, tag = Retrieval.Select(Candidates,history,word2vec_ranking_mode)
                 print "answer from ", tag
-        return relavance, answer
+        return relavance, answer, anaphora_trigger
 #@based on response weight
 def SelectState_rel_only(relavance, TreeState):
 	branch_idx = TreeState.keys()[0]
@@ -76,9 +76,10 @@ def ConstructTree():
         back_state = {'tag':'state', 'name':'back'} #mention the high engagement point back in history
         continue_state = {'tag':'state', 'name':'continue'}
         expand_state = {'tag':'state', 'name':'expand'}
+        more_state = {'tag': 'state', 'name': 'more'}
         Tree[0] = {'node':branch}
         Tree[0][True] = [continue_state, expand_state]
-        Tree[0][False] = [switch_state, end_state, init_state, joke_state, back_state] # switch state here means strategy selection selection state.
+        Tree[0][False] = [switch_state, end_state, init_state, joke_state, more_state, back_state] # switch state here means strategy selection selection state.
         return Tree
 
 #construct a tree based on confidence.
@@ -99,5 +100,6 @@ def ConstructTemplate():
         template['continue']=['answer']
         template['expand'] = ['answer', 'template_expand']
         template['back'] = ['template_end', 'template_back,topic_back']
+        template['more'] = ['template_more']
         template['joke'] = ['template_end','template_joke']
         return template

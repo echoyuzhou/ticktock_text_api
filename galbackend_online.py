@@ -48,7 +48,7 @@ from random import randint
 from threading import Thread, Timer
 import logging
 import os.path as path
-import Control #@yipeiw
+import Control
 import Loader
 import NLG
 import sys
@@ -58,7 +58,6 @@ import datetime
 import pickle
 import unicodedata
 import zmq
-import threading
 import threading
 import oov
 import name_entity
@@ -110,7 +109,7 @@ topic_id = 0 # the index of the starting topic
 init_id =0
 joke_id =0
 rescource_root = 'resource'
-template_list=['template/template_new.txt', 'template/template_end.txt', 'template/template_open.txt', 'template/template_expand.txt', 'template/template_init.txt', 'template/template_joke.txt', 'template/template_back.txt']
+template_list=['template/template_new.txt', 'template/template_end.txt', 'template/template_open.txt', 'template/template_expand.txt', 'template/template_init.txt', 'template/template_joke.txt', 'template/template_back.txt', 'template/template_more.txt']
 template_list = [path.join(rescource_root, name) for name in template_list]
 topicfile = path.join(rescource_root, 'topic.txt')
 tfidfname = 'tfidf_reference'
@@ -123,11 +122,15 @@ def InitResource(version):
 		listfile = 'cnn_qa_human_response_name.list'
 	if version is 'v2':
 		listfile = 'cnn_qa_human_response_name_high_app.list'
-        if version is 'v3':
+        if version is 'v2.5':
 		listfile = 'cnn_qa_human_response_name_high_app.list'
                 tfidfdict = corpora.Dictionary.load(tfidfname + '.dict')
                 tfidfmodel = models.tfidfmodel.TfidfModel.load(tfidfname + '.tfidf')
-	datalist=[line.strip() for line in open(listfile)]
+        if version is 'v3':
+                listfile = 'cnn_hr_v1_v2.list'
+                tfidfdict = corpora.Dictionary.load(tfidfname + '.dict')
+                tfidfmodel = models.tfidfmodel.TfidfModel.load(tfidfname + '.tfidf')
+        datalist=[line.strip() for line in open(listfile)]
 	database = Loader.LoadDataPair(datalist)
 	resource = Loader.LoadLanguageResource()
 	global TemplateLib, TopicLib, TreeState, Template
@@ -139,32 +142,41 @@ def InitResource(version):
 	#print("connectting to server")
 		socket = context.socket(zmq.REQ)
 		socket.connect("tcp://localhost:5555")
-def get_response(user_input,user_id,previous_history, oov_mode,name_entity_mode, short_answer_mode,anaphra_mode, word2vec_ranking_mode,tfidf_mode=0):
+def get_response(user_input,user_id,previous_history, theme, oov_mode,name_entity_mode, short_answer_mode,anaphora_mode, word2vec_ranking_mode,tfidf_mode=0):
 	#oov_mode is used to switch on and off if we ask the unkonwn words
 	#name_entity_mode is used to switch on and off if we will detect the name_entity and use the wiki api to get some knowledge expansion.
         global database, resource, turn_id, time, wizard, socket,isAlltag, tfidfmodel, tfidfdict
 	global TemplateLib, TopicLib, TreeState, Template, connection, filepointer,engaged_input, topic_id, init_id,joke_id,dictionary_value
-	strategy = []
+        print 'user_input: ' + user_input
+        strategy = []
         filepointer.write('turn_id: ' + str(turn_id) + '\n')
 	filepointer.write('user_id: ' + user_id + '\n')
 	turn_id = turn_id+1
 	filepointer.write('time:' + str(datetime.datetime.now())+ '\n')
 	filepointer.write('user_input:' + user_input + '\n')
-        print 'tfidfmodel: '
-        print tfidfmodel
-        print 'tfidfdict: '
-        print tfidfdict
+        #print 'tfidfmodel: '
+        #print tfidfmodel
+        #print 'tfidfdict: '
+        #print tfidfdict
         if user_id in previous_history.keys():
             history = previous_history[user_id]
         else:
             history = []
+            theme[user_id] = random.choice(TopicLib)
+            output = 'Hello, I really like ' + theme[user_id] + '. How about we talk about ' + theme[user_id]
+            previous_history[user_id]=[user_input,output]
+            return theme, 'new', output, previous_history
         if tfidf_mode is 1:
-	        relavance, answer = Control.FindCandidate(database, resource, user_input,isAlltag,history,word2vec_ranking_mode, tfidfmodel=tfidfmodel, tfidfdict=tfidfdict)
+	        relavance, answer, anaphora_trigger = Control.FindCandidate(database, resource, user_input,isAlltag,history,anaphora_mode, word2vec_ranking_mode, tfidfmodel=tfidfmodel, tfidfdict=tfidfdict)
         else:
-	        relavance, answer = Control.FindCandidate(database, resource, user_input,isAlltag,history,word2vec_ranking_mode)
+	        relavance, answer, anaphora_trigger  = Control.FindCandidate(database, resource, user_input,isAlltag,history,anaphora_mode,word2vec_ranking_mode)
 	filepointer.write('relevance: ' + str(relavance)+ '\n')
 	filepointer.write('RetrievedAnswer: ' + str(answer) + '\n')
-	if engagement_mode is 1:
+        #print 'anaphora trigger'
+        #print anaphora_trigger
+        if anaphora_trigger is 1:
+            strategy.append('anaphora')
+        if engagement_mode is 1:
 		if wizard is 1:
 			if connection is None:
 				#Log('I asm here')
@@ -177,8 +189,6 @@ def get_response(user_input,user_id,previous_history, oov_mode,name_entity_mode,
 				print connection
 			connection.send('ready')
 			engagement = connection.recv(64)
-			#engagement = raw_input('What is the engagement state of the user of this turn?, score 1-5.  ')
-		#engagement = 2
 		elif wizard is 2: # this is taking the automatic engagement computed as the engagement input
 			print 'Sending request'
 			socket.send("ready\0")
@@ -195,12 +205,7 @@ def get_response(user_input,user_id,previous_history, oov_mode,name_entity_mode,
 	else:
 		state = Control.SelectState_rel_only(relavance,TreeState)
         strategy.append(state['name'])
-                #filepointer.write('State:' + str(state['name']) + '\n')
-	#Log('DM STATE is [ %s ]' %(state))
-	#print 'state:', state['name']
-	#print "candidate answer ", answer #relavance, unicodedata.normalize('NFKD',answer).encode('ascii','ignore')#answer
-	#make an exception to back_state.
-	output,topic_id,init_id,joke_id, engagement_input = NLG.FillTemplate(TemplateLib, TopicLib, Template[state['name']],topic_id, init_id,joke_id, engaged_input, answer)
+        output,topic_id,init_id,joke_id, engagement_input = NLG.FillTemplate(theme[user_id], TemplateLib, TopicLib, Template[state['name']],topic_id, init_id,joke_id, engaged_input, answer)
 	if isinstance(output, unicode):
 		output = unicodedata.normalize('NFKD',output).encode('ascii','ignore')
         if state['name'] is not 'continue':
@@ -217,9 +222,10 @@ def get_response(user_input,user_id,previous_history, oov_mode,name_entity_mode,
                    if name_entity_disp:
                         print 'name entity is triggerd'
                         strategy.append('name_entity')
-                        output = name_entity.name_entity_generation(name_entity_disp)
+                        output = name_entity.name_entity_generation(name_entity_list, name_entity_disp)
             if short_answer_mode is 1:
                 if (user_input.find(' ')==-1):
+                    print 'it is a single word'
                     word_list = nltk.word_tokenize(user_input)
                     for word in word_list:
                         if word not in dictionary_value:
@@ -230,18 +236,23 @@ def get_response(user_input,user_id,previous_history, oov_mode,name_entity_mode,
 	if output.find("Piers") is not -1:
 		output = output.replace("Piers","dear")
 	filepointer.write('TickTockResponse:' + output + '\n')
-        if anaphra_mode is 1:
-            if user_id in previous_history.keys():
+
+        if user_id in previous_history.keys():
                 previous_history[user_id].append(user_input)
                 previous_history[user_id].append(output)
-            else:
+        else:
                 previous_history[user_id] = [user_input,output]
+        if output[-2:-1]==' ':
+            output = output[0:-2] +output[-1]
 
-        print output
+        if strategy[-1] =='switch':
+            theme[user_id] = output.split()[-1]
+        print 'strategy' +  str(strategy)
+        print 'response: ' + output
         print "end response generation =================="
 	print "==========================================="
         filepointer.flush()
 
-        return strategy,output,previous_history
+        return theme, strategy,output,previous_history
 
 

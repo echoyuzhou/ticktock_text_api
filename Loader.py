@@ -69,7 +69,19 @@ def LoadTemplate(filelist):
 	Library = {}
 	for filepath in filelist:
 		name = path.splitext(path.basename(filepath))[0]
-		Library[name] = [line.strip() for line in open(filepath)]
+                if name in ['template_init','template_joke']:
+                    Library[name]={}
+                    for line in open(filepath):
+                        print line
+                        theme, line_real = line.strip().split(';')
+                        print theme
+                        try:
+                            Library[name][theme].append(line_real)
+                        except KeyError:
+                            Library[name][theme] = []
+                            Library[name][theme].append(line_real)
+                else:
+                    Library[name] = [line.strip() for line in open(filepath)]
 	return Library
 
 def LoadTopic(topicfile):
