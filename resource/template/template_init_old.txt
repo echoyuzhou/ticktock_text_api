@@ -1,0 +1,10 @@
+movies, Let's find a time to see the latest super hero movie.
+movies, Let us make a plan to see the latest star war movies together.
+politics, Let's watch a debate together some time.
+politics, Would you like to start a discussion group with me on this topic with me?
+music, Do you want to go to a concert together some time.
+music, Let's find a singer we both like.
+sports, Do you want to see a game together some time?
+sports, Let us plan to watch a game together some time.
+board games, Do you like to play some board games together next time with me?
+board games, Do you want to go to my friends' goard game party tonight?
