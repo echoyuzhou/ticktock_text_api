@@ -1,6 +1,7 @@
 import logging, gensim, pickle, re
 from gensim import corpora,models
 from nltk.corpus import stopwords
+import nltk
 from nltk.stem.lancaster import LancasterStemmer
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
 from gensim import corpora,models, similarities
@@ -8,7 +9,7 @@ pronounlist = ['he','she','his','her','him','they','their','them','it','its','we
 with open('user_input_v1.txt') as f:
 	documents = f.readlines()
 
-stoplist = stopwords.words('english')
+stoplist = [stopwords.words('english'),'d','dd','ddd','dddd']
 print stoplist
 #texts =[[word for word in ' '.join(document).lower().split() if word not in stoplist] for document in documents]
 with open('contraction.pkl') as f:
@@ -18,8 +19,10 @@ texts_all = []
 n_pronoun = []
 n_word = []
 for document in documents:
+        print document
         n_word_i = 0
         n_pronoun_i =0
+        texts_stemmed = []
 	for text in document.split():
 		text = re.sub('[?!,.]', ' ', text)
 		text = text.lower()
@@ -46,13 +49,16 @@ for document in documents:
                         if text in pronounlist:
                                 n_pronoun_i = n_pronoun_i +1
                 n_pronoun.append(n_pronoun_i)
-	texts_all.append(texts_stemmed)
+        print "this is one document"
+        texts_all.append(texts_stemmed)
 
 print "pronoun percentage"
 print sum(n_pronoun)
 print sum(n_word)
 print float(sum(n_pronoun))/float(sum(n_word))
-
+print 'this is the texts_all'
+fdist = nltk.FreqDist([item for sublist in texts_all for item in sublist])
+print fdist.most_common(50)
 
 with open('texts_all.txt','w') as f:
 	for texts in texts_all:
@@ -81,5 +87,5 @@ corpus = [dictionary.doc2bow(text) for text in text_all_nf]
 corpora.MmCorpus.serialize('user_input.mm',corpus)
 id2word = dictionary
 mm = corpus
-lda = gensim.models.ldamodel.LdaModel(corpus=mm,id2word = id2word,num_topics=50,update_every=0,chunksize=10, passes=20)
-lda.print_topics(5)
+#lda = gensim.models.ldamodel.LdaModel(corpus=mm,id2word = id2word,num_topics=10,update_every=0,chunksize=10, passes=20)
+#lda.print_topics(10)
