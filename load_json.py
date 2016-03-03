@@ -1,4 +1,5 @@
 import json
+import nltk
 
 def LoadData(datalist):
          database = []
@@ -13,10 +14,8 @@ def LoadData(datalist):
 def PushData(data, database):
          #last = len(database)
          for pair in data:
-                 database.append(pair['question'].split())
-                 #last += 1
-                 database.append(pair['answer'].split())
-                 #last += 1
+                 database.append(nltk.word_tokenize(pair['question']))
+                 database.append(nltk.word_tokenize(pair['answer']))
          return database
 
 def PushDataPair(data, database):

@@ -72,9 +72,9 @@ def LoadTemplate(filelist):
                 if name in ['template_init','template_joke']:
                     Library[name]={}
                     for line in open(filepath):
-                        print line
+                        #print line
                         theme, line_real = line.strip().split(';')
-                        print theme
+                        #print theme
                         try:
                             Library[name][theme].append(line_real)
                         except KeyError:

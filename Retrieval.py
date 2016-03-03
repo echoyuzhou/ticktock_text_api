@@ -4,10 +4,12 @@
 find answer in database and by search engine
 """
 import random
+import nltk
 from collections import defaultdict
 
 #penalize too long sentence/ low relavance
-def Select(Candidates,history,word2vec_ranking_mode):
+def Select(Candidates,history,word2vec_ranking_mode,model):
+    #print history
     threshold = 50
     answer_list = []
     answer_strings = []
@@ -38,42 +40,25 @@ def Select(Candidates,history,word2vec_ranking_mode):
         if word2vec_ranking_mode==1 and history:
             print 'the word2vec_ranking_mode is triggered'
             # based on how similar the previous TickTock utterance to choose
-            import gensim
-            from sklearn.metrics.pairwise import cosine_similarity
-            model = gensim.models.Doc2Vec.load('/tmp/doc2vec_50')
-            sentence = history.pop()
-            ticktock_pre=0
-            for word in sentence.split():
-                try:
-                    ticktock_pre = ticktock_pre + model[word]
-                except:
-                    print word
-            big_score = -1
-            relevance =0
+            sentence = history[-1]
+            token = nltk.word_tokenize(sentence)
+            big_score = 0
             for score, question, answer,tag in Candidates:
-                array = 0
-                print answer
-                for word in answer:
-                    try:
-                        array = array + model[word]
-                    except:
-                        print word
                 try:
-                    answer_score = cosine_similarity(array,ticktock_pre)
+                    sim_score = model.n_similarity(token, answer)
                 except:
-                    print array
-                    print ticktock_pre
-                    answer_score = -1
-                if big_score < answer_score:
-                    answer_chosen = answer
-                    big_score = answer_score
+                    print "out of vocabulariy word happened"
+                    return answer_list[0]
+                print sim_score
+                if big_score < sim_score*0.5 + score:
+                    big_score = sim_score*0.5 + score
+                    best_answer = answer
                     relevance = score
-            print 'this is the big score'
-            print big_score
-            return (relevance, answer_chosen,'Q')
+                #print best_answer
+            if relevance != answer_list[0][0]:
+                print "picked the non-first response based on the word2vec rank"
+            return relevance, best_answer, 'Q'
         else:
-            #print 'this is the answer list'
-            #print answer_list[0]
             return answer_list[0]
     else:
         return (0, [], '')

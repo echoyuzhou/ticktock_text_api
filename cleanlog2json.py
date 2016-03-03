@@ -12,9 +12,9 @@ def readfile(fn):
     for line in lines:
         if line_num%3 ==1:
 		tmpdict ={}
-                tmpdict["question"]= line[0:-2]
+                tmpdict["question"]= line[0:-1]
         if line_num%3 ==2:
-                tmpdict["answer"] = line[0:-2]
+                tmpdict["answer"] = line[0:-1]
 		tmpdict["docId"]='v2'
 		tmpdict["qSentId"]=2016
 		tmpdict["aSentId"]=2016

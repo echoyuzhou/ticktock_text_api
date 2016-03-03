@@ -9,11 +9,11 @@ from gensim import models, corpora
 def AddWeight(tag_list, rules, stop_dict,isAlltag, tfidfvalues=None):
 	result = []
         #print str(tag_list)
-        #if not tfidfvalues == None:
-        #    for k in tfidfvalues.keys():
-                #print k, tfidfvalues[k]
-        #else:
-        #    print "tfidf is not active"
+        if not tfidfvalues == None:
+            for k in tfidfvalues.keys():
+                print k, tfidfvalues[k]
+        else:
+            print "tfidf is not active"
 	for token, pos in tag_list:
 		if rules[pos]>0:
                         if not tfidfvalues == None:
@@ -51,11 +51,12 @@ def InfoExtractor(utter, resource,isAlltag, history, anaphora,tfidfmodel=None, t
                     #if item[] for item[0] in tag_list in ['him','her','them','it'] and history:
                     noun_list=[]
                     for tag in tag_list:
-                        if tag[1] in ['PRP','PRP$'] and (tag[0].lower() not in ['you','i','we']):
+                        if tag[1] in ['PRP','PRP$'] and (tag[0].lower() not in ['you','i','we', 'my', 'me','yours','our' ]):
                             #print tag
-                            TickTock_previous = history.pop()
-                            tag_list_previous = nltk.pos_tag(nltk.word_tokenize(TickTock_previous))
-                            noun_list = [item for item in tag_list_previous if item[1] in ['NN','NNS','NNP','NNPS']]
+                            if history:
+                                TickTock_previous = history[-1]
+                                tag_list_previous = nltk.pos_tag(nltk.word_tokenize(TickTock_previous))
+                                noun_list = [item for item in tag_list_previous if item[1] in ['NN','NNS','NNP','NNPS']]
                             #print 'this is noun list'
                             #print noun_list
                     if noun_list:

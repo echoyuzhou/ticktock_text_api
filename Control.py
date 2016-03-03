@@ -13,12 +13,12 @@ def Init():
 	return Tree, Template
 
 
-def FindCandidate(database, resource, input_utter, isAlltag, history,anaphora_mode, word2vec_ranking_mode, tfidfmodel=None, tfidfdict=None):
+def FindCandidate(model,database, resource, input_utter, isAlltag, history,anaphora_mode, word2vec_ranking_mode, tfidfmodel=None, tfidfdict=None):
         #print "In Control tfidfmodel: "
         #print tfidfmodel
         #print 'In Control tfidfdict '
         #print tfidfdict
-
+        word2vec = 0
         if not tfidfmodel == None and not tfidfdict == None:
                 meta_info, anaphora_trigger = Understand.InfoExtractor(input_utter, resource, isAlltag, history, anaphora_mode, tfidfmodel, tfidfdict)
         else:
@@ -31,9 +31,17 @@ def FindCandidate(database, resource, input_utter, isAlltag, history,anaphora_mo
                 answer = 'Can you say something longer.'.split(' ')
         else:
                 Candidates, TopicLevel = Retrieval.FreqPairMatch(meta_info, database)
-                relavance, answer, tag = Retrieval.Select(Candidates,history,word2vec_ranking_mode)
-                print "answer from ", tag
-        return relavance, answer, anaphora_trigger
+                #print word2vec_ranking_mode
+                print 'history'
+                print history
+                #print Candidates
+                relavance, answer, tag = Retrieval.Select(Candidates,history,word2vec_ranking_mode,model)
+                #print "answer from ", tag
+                print 'Candidates[0][0]'
+                print Candidates[0][0]
+                if relavance != Candidates[0][0]:
+                    word2vec = 1
+        return relavance, answer, anaphora_trigger, word2vec
 #@based on response weight
 def SelectState_rel_only(relavance, TreeState):
 	branch_idx = TreeState.keys()[0]
@@ -68,7 +76,7 @@ def SelectState_rel(relavance, engagement, TreeState, engaged_list):
 def ConstructTree():
         Tree = {}
         #changed threshold relevance here from 0.2 to 0.12
-        branch = {'tag':'criteria', 'name':'relavance', 'threshold_relavance':0.12, 'threshold_engagement':3}
+        branch = {'tag':'criteria', 'name':'relavance', 'threshold_relavance':0.2, 'threshold_engagement':3}
         switch_state = {'tag':'state', 'name':'switch'}
         end_state = {'tag':'state', 'name':'end'}
         init_state = {'tag':'state', 'name':'init'} #initiate things to do

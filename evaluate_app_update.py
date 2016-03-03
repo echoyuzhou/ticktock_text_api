@@ -5,6 +5,32 @@ import socket
 import time
 import sqlite3
 import os
+def readfile(fn):
+  result = {}
+  result["Turns"] = {}
+  current_turn = 0
+  key_index = 0
+  keys = ["Turn", "You", "TickTock", "Appropriateness","Strategy"]
+  for l in open(fn):
+    if ":" in l:
+      key = l.split(":")[0]
+      value = ":".join(l.split(":")[1:]).strip()
+      if key == "TurkID" or key == "UserID":
+        result[key] = value
+      else:
+        #if keys[key_index%4] != key:
+         # print l
+         # assert(False)
+        key_index += 1
+        if key == "Turn":
+          current_turn = int(value)
+          result["Turns"][current_turn] = {}
+        elif key in keys[1:]:
+          result["Turns"][current_turn][key] = value
+        else:
+          assert(False)
+  return result
+'''
 
 def readfile(fn):
   result = {}
@@ -31,6 +57,7 @@ def readfile(fn):
         else:
           assert(False)
   return result
+'''
 
 def readall(dir_path):
   result = {}

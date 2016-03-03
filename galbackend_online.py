@@ -48,9 +48,7 @@ from random import randint
 from threading import Thread, Timer
 import logging
 import os.path as path
-import Control
-import Loader
-import NLG
+import Control,Loader,NLG
 import sys
 import socket
 import time
@@ -133,21 +131,22 @@ def InitResource(version):
         datalist=[line.strip() for line in open(listfile)]
 	database = Loader.LoadDataPair(datalist)
 	resource = Loader.LoadLanguageResource()
-	global TemplateLib, TopicLib, TreeState, Template
+	global TemplateLib, TopicLib, TreeState, Template,model
 	TemplateLib = Loader.LoadTemplate(template_list)
 	TopicLib = Loader.LoadTopic(topicfile)
 	TreeState, Template = Control.Init()
-	if wizard is 2:
+        model = models.Doc2Vec.load('/tmp/word2vec_50')
+        if wizard is 2:
 		context= zmq.Context()
-	#print("connectting to server")
 		socket = context.socket(zmq.REQ)
 		socket.connect("tcp://localhost:5555")
 def get_response(user_input,user_id,previous_history, theme, oov_mode,name_entity_mode, short_answer_mode,anaphora_mode, word2vec_ranking_mode,tfidf_mode=0):
 	#oov_mode is used to switch on and off if we ask the unkonwn words
 	#name_entity_mode is used to switch on and off if we will detect the name_entity and use the wiki api to get some knowledge expansion.
         global database, resource, turn_id, time, wizard, socket,isAlltag, tfidfmodel, tfidfdict
-	global TemplateLib, TopicLib, TreeState, Template, connection, filepointer,engaged_input, topic_id, init_id,joke_id,dictionary_value
+	global TemplateLib, TopicLib, TreeState, Template, connection, filepointer,engaged_input, topic_id, init_id,joke_id,dictionary_value,model
         print 'user_input: ' + user_input
+        print 'user_id:' + user_id
         strategy = []
         filepointer.write('turn_id: ' + str(turn_id) + '\n')
 	filepointer.write('user_id: ' + user_id + '\n')
@@ -160,16 +159,24 @@ def get_response(user_input,user_id,previous_history, theme, oov_mode,name_entit
         #print tfidfdict
         if user_id in previous_history.keys():
             history = previous_history[user_id]
+            print 'we are here in history'
+            print history
         else:
-            history = []
+            previous_history = {}
             theme[user_id] = random.choice(TopicLib)
             output = 'Hello, I really like ' + theme[user_id] + '. How about we talk about ' + theme[user_id]
             previous_history[user_id]=[user_input,output]
-            return theme, 'new', output, previous_history
+            print 'previous history'
+            print previous_history
+            return theme, 'new', output, previous_history, 0
         if tfidf_mode is 1:
-	        relavance, answer, anaphora_trigger = Control.FindCandidate(database, resource, user_input,isAlltag,history,anaphora_mode, word2vec_ranking_mode, tfidfmodel=tfidfmodel, tfidfdict=tfidfdict)
+	        print '====history before response====='
+                print history
+                relavance, answer, anaphora_trigger,word2vec = Control.FindCandidate(model,database, resource, user_input,isAlltag,history,anaphora_mode, word2vec_ranking_mode, tfidfmodel=tfidfmodel, tfidfdict=tfidfdict)
+                print '====history after response====='
+                print history
         else:
-	        relavance, answer, anaphora_trigger  = Control.FindCandidate(database, resource, user_input,isAlltag,history,anaphora_mode,word2vec_ranking_mode)
+	        relavance, answer, anaphora_trigger,word2vec  = Control.FindCandidate(model,database, resource, user_input,isAlltag,history,anaphora_mode,word2vec_ranking_mode)
 	filepointer.write('relevance: ' + str(relavance)+ '\n')
 	filepointer.write('RetrievedAnswer: ' + str(answer) + '\n')
         #print 'anaphora trigger'
@@ -241,6 +248,7 @@ def get_response(user_input,user_id,previous_history, theme, oov_mode,name_entit
                 previous_history[user_id].append(user_input)
                 previous_history[user_id].append(output)
         else:
+                print "we are in the else user_id"
                 previous_history[user_id] = [user_input,output]
         if output[-2:-1]==' ':
             output = output[0:-2] +output[-1]
@@ -252,7 +260,8 @@ def get_response(user_input,user_id,previous_history, theme, oov_mode,name_entit
         print "end response generation =================="
 	print "==========================================="
         filepointer.flush()
-
-        return theme, strategy,output,previous_history
+        print "this is previous history"
+        print previous_history
+        return theme, strategy,output,previous_history,word2vec
 
 
