@@ -140,7 +140,7 @@ def InitResource(version):
 		context= zmq.Context()
 		socket = context.socket(zmq.REQ)
 		socket.connect("tcp://localhost:5555")
-def get_response(user_input,user_id,previous_history, theme, oov_mode,name_entity_mode, short_answer_mode,anaphora_mode, word2vec_ranking_mode,tfidf_mode=0):
+def get_response(user_input,user_id,previous_history, theme, oov_mode,name_entity_mode, short_answer_mode,anaphora_mode, word2vec_ranking_mode,tfidf_mode=0, force_strategy=None):
 	#oov_mode is used to switch on and off if we ask the unkonwn words
 	#name_entity_mode is used to switch on and off if we will detect the name_entity and use the wiki api to get some knowledge expansion.
         global database, resource, turn_id, time, wizard, socket,isAlltag, tfidfmodel, tfidfdict
@@ -170,11 +170,11 @@ def get_response(user_input,user_id,previous_history, theme, oov_mode,name_entit
             print previous_history
             return theme, 'new', output, previous_history, 0
         if tfidf_mode is 1:
-	        print '====history before response====='
-                print history
+	        #print '====history before response====='
+                #print history
                 relavance, answer, anaphora_trigger,word2vec = Control.FindCandidate(model,database, resource, user_input,isAlltag,history,anaphora_mode, word2vec_ranking_mode, tfidfmodel=tfidfmodel, tfidfdict=tfidfdict)
-                print '====history after response====='
-                print history
+                #print '====history after response====='
+                #print history
         else:
 	        relavance, answer, anaphora_trigger,word2vec  = Control.FindCandidate(model,database, resource, user_input,isAlltag,history,anaphora_mode,word2vec_ranking_mode)
 	filepointer.write('relevance: ' + str(relavance)+ '\n')
@@ -210,12 +210,12 @@ def get_response(user_input,user_id,previous_history, theme, oov_mode,name_entit
 			engaged_input.append(user_input)
 		state = Control.SelectState_rel(relavance, int(engagement), TreeState,engaged_input)
 	else:
-		state = Control.SelectState_rel_only(relavance,TreeState)
+		state = Control.SelectState_rel_only(relavance,TreeState,force_strategy=force_strategy)
         strategy.append(state['name'])
         output,topic_id,init_id,joke_id, engagement_input = NLG.FillTemplate(theme[user_id], TemplateLib, TopicLib, Template[state['name']],topic_id, init_id,joke_id, engaged_input, answer)
 	if isinstance(output, unicode):
 		output = unicodedata.normalize('NFKD',output).encode('ascii','ignore')
-        if state['name'] is not 'continue':
+        if state['name'] is not 'continue' and force_strategy == None:
             if oov_mode is 1:
 		is_chosen, output_oov = oov.oov_out(user_input,dictionary_value)
                 if is_chosen is 1:
@@ -254,14 +254,17 @@ def get_response(user_input,user_id,previous_history, theme, oov_mode,name_entit
             output = output[0:-2] +output[-1]
 
         if strategy[-1] =='switch':
-            theme[user_id] = output.split()[-1]
+            if output.split()[-1] == 'games':
+                theme[user_id] = 'board games'
+            else:
+                theme[user_id] = output.split()[-1]
         print 'strategy' +  str(strategy)
         print 'response: ' + output
         print "end response generation =================="
 	print "==========================================="
         filepointer.flush()
-        print "this is previous history"
-        print previous_history
+        #print "this is previous history"
+        #print previous_history
         return theme, strategy,output,previous_history,word2vec
 
 

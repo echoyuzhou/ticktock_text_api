@@ -43,7 +43,7 @@ def FillTemplate(theme, TemplateLib, TopicLib, template, topic_id, init_id, joke
 		init_id = init_id + 1
 	    elif unit == 'template_joke':
 # we use joke that is attached to certain topic.
-                print theme
+                print 'The theme is ' + theme
 		print TemplateLib['template_joke']
                 joke_index = joke_id%len(TemplateLib['template_joke'][theme])
 		sent_list.append(TemplateLib['template_joke'][theme][joke_index])

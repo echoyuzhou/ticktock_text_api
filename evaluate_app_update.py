@@ -5,6 +5,7 @@ import socket
 import time
 import sqlite3
 import os
+'''
 def readfile(fn):
   result = {}
   result["Turns"] = {}
@@ -57,7 +58,6 @@ def readfile(fn):
         else:
           assert(False)
   return result
-'''
 
 def readall(dir_path):
   result = {}

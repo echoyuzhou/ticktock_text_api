@@ -37,15 +37,19 @@ def FindCandidate(model,database, resource, input_utter, isAlltag, history,anaph
                 #print Candidates
                 relavance, answer, tag = Retrieval.Select(Candidates,history,word2vec_ranking_mode,model)
                 #print "answer from ", tag
-                print 'Candidates[0][0]'
-                print Candidates[0][0]
-                if relavance != Candidates[0][0]:
-                    word2vec = 1
+                #print 'Candidates[0][0]'
+                #print Candidates[0][0]
+                if Candidates:
+                    if relavance != Candidates[0][0]:
+                        word2vec = 1
         return relavance, answer, anaphora_trigger, word2vec
 #@based on response weight
-def SelectState_rel_only(relavance, TreeState):
+def SelectState_rel_only(relavance, TreeState, force_strategy=None):
 	branch_idx = TreeState.keys()[0]
 	branch = TreeState[branch_idx]['node']
+        if not force_strategy == None:
+            bool_idx, int_idx = force_strategy
+            return TreeState[branch_idx][bool_idx][int_idx]
 	if relavance >= branch['threshold_relavance']:
 		#print 'we are in the true branch'
                 return TreeState[branch_idx][True][0] # only use the continue, don't expand

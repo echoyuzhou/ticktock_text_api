@@ -20,7 +20,7 @@ def readfile(fn):
 		tmpdict["aSentId"]=2016
 		writelist.append(tmpdict)
         line_num = line_num+1
-    json.dump(writelist,open("high_app_data_v2.json",'w'))
+    json.dump(writelist,open("v3/high_app_data_v2.json",'w'))
 
 fn = open('v2_app_high_pairs.txt')
 rating_logs = readfile(fn)
