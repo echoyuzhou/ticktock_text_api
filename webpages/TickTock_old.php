@@ -1,16 +1,3 @@
-<html>
-<head>
-<title>TickTock</title>
-</head>
-<body>
-<style>
-    * {
-      font-family: verdana,sans-serif;
-    }
-</style>
-<table border="0" width="600" align="center">
-<tr>
-<td>
 <?php
   #ini_set('display_errors', 1);
   #ini_set('display_startup_errors', 1);
@@ -48,7 +35,7 @@
          }
       }
       </script>";
-      echo "<form name=\"rateform\" method=\"POST\" action=\"a.php\" accept-charset=\"UTF-8\" onsubmit=\"return validateForm()\">\n";
+      echo "<form name=\"rateform\" method=\"POST\" action=\"TickTock.php\" accept-charset=\"UTF-8\" onsubmit=\"return validateForm()\">\n";
       echo "Rate how appropriate you feel the system's response with respect to your input.  Try to make the decision for each round independently, try not to take context into consideration.<br><br>\n
 
 \"Not appropriate\" means the system response is not coherent at all, e.g. Participant:  How old are you? TickTock:  Apple<br><br>\n
@@ -76,7 +63,7 @@
 </form>";
   }
   else if ($_REQUEST["action"] == "Submit Ratings"){
-      $fn = "/home/ubuntu/zhou/Backend/rating_log/rating" . date("Y-m-d-H-i-s", time()) . ".txt";
+      $fn = "/home/ubuntu/zhou/Backend/rating_log_public/rating" . date("Y-m-d-H-i-s", time()) . ".txt";
       $file = fopen($fn, "w");
       fwrite($file, "TurkID: " . $_REQUEST["turkid"] . "\n");
       fwrite($file, "UserID: " . $_SESSION["user"] . "\n");
@@ -88,7 +75,7 @@
           fwrite($file, "Appropriateness: " . $_REQUEST["turn" . $i] . "\n\n");
       }
       fclose($file);
-      echo "Thank you. <a = href=\"a.php\">One more time.</a>";
+      echo "Thank you. <a = href=\"TickTock.php\">One more time.</a>";
       unset($_SESSION["c"]);
   }
   else
@@ -96,11 +83,11 @@
 
 ?>
 
-<form method="POST" action="a.php" accept-charset="UTF-8">
+<form method="POST" action="TickTock.php" accept-charset="UTF-8">
 <p>
 <?php
 
-   echo "<i>TickTock</i>: Please type in the box below and press 'Send Message' to talk to me. <br> <i>TickTock</i>: You can send multiple rounds of messages to me.<br> <i>TickTock</i>: Click 'I am done!' when you don't want to talk to me anymore<br> <i>TickTock</i>: Then you will rate how well I did.<br> <i>TickTock</i>: Now you can say `Hello' to me to start!  <br>\n";
+   echo "<i>TickTock</i>: Please type in the box below and press 'Send Message' to talk to me. <br> <i>TickTock</i>: You can send multiple rounds of messages to me.<br> <i>TickTock</i>: Click 'I am done!' when you don't want to talk to me anymore<br> <i>TickTock</i>: Then you will rate how well I did.<br> <i>TickTock</i>: Now it is your turn to say something!  <br>\n";
   if(!array_key_exists("user", $_SESSION))
   {
      $_SESSION["user"] = rand();
@@ -117,7 +104,7 @@
       echo "socket_create() fail\n";
     else
     {
-      $result = socket_connect($s, "localhost", 13111);
+      $result = socket_connect($s, "localhost", 13112);
       if ($result === false)
         echo "socket_connect() failed.\nReason: ($result) " . socket_strerror(socket_last_error($s)) . "\n";
     }
@@ -155,14 +142,10 @@ function done(){
   return confirm('Are you sure?')
 }
 
-window.onload = function() {
-  document.getElementById("msg1").focus();
-};
-
 </script>
 
 <label>Press Enter to submit<br>
-<i>You</i>: <input type="text" size="50" id="msg1" name="message" onkeypress="return entsub(event,this.form)" ></label></p>
+<i>You</i>: <input type="text" size="50" name="message" onkeypress="return entsub(event,this.form)" ></label></p>
 <p><input type="submit" name="action" value="Send Message"></p>
 <p><input type="submit" name="action" value="I am done!" onclick="return done()"></p>
 </form>
@@ -170,9 +153,3 @@ window.onload = function() {
 <?php
   }
 ?>
-
-</td>
-</tr>
-</table>
-</body>
-</html>

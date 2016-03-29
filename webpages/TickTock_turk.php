@@ -48,7 +48,7 @@
          }
       }
       </script>";
-      echo "<form name=\"rateform\" method=\"POST\" action=\"a.php\" accept-charset=\"UTF-8\" onsubmit=\"return validateForm()\">\n";
+      echo "<form name=\"rateform\" method=\"POST\" action=\"TickTock_turk.php\" accept-charset=\"UTF-8\" onsubmit=\"return validateForm()\">\n";
       echo "Rate how appropriate you feel the system's response with respect to your input.  Try to make the decision for each round independently, try not to take context into consideration.<br><br>\n
 
 \"Not appropriate\" means the system response is not coherent at all, e.g. Participant:  How old are you? TickTock:  Apple<br><br>\n
@@ -85,10 +85,12 @@
           fwrite($file, "Turn: " . ($i + 1) . "\n");
           fwrite($file, "You: " . $_SESSION["c"][$i]["user"] . "\n");
           fwrite($file, "TickTock: " . $_SESSION["c"][$i]["ticktock"] . "\n");
-          fwrite($file, "Appropriateness: " . $_REQUEST["turn" . $i] . "\n\n");
+          fwrite($file, "Appropriateness: " . $_REQUEST["turn" . $i] . "\n");
+          fwrite($file, "Strategy: " . $_SESSION["c"][$i]["strategy"] . "\n\n");
+
       }
       fclose($file);
-      echo "Thank you. <a = href=\"a.php\">One more time.</a>";
+      echo "Thank you. <a = href=\"TickTock_turk.php\">One more time.</a>";
       unset($_SESSION["c"]);
   }
   else
@@ -96,11 +98,11 @@
 
 ?>
 
-<form method="POST" action="a.php" accept-charset="UTF-8">
+<form method="POST" action="TickTock_turk.php" accept-charset="UTF-8">
 <p>
 <?php
 
-   echo "<i>TickTock</i>: Please type in the box below and press 'Send Message' to talk to me. <br> <i>TickTock</i>: You can send multiple rounds of messages to me.<br> <i>TickTock</i>: Click 'I am done!' when you don't want to talk to me anymore<br> <i>TickTock</i>: Then you will rate how well I did.<br> <i>TickTock</i>: Now you can say `Hello' to me to start!  <br>\n";
+   echo "<i>TickTock</i>: Please type in the box below and press 'Send Message' to talk to me. <br> <i>TickTock</i>: You can send multiple rounds of messages to me.<br> <i>TickTock</i>: Click 'I am done!' when you don't want to talk to me anymore<br> <i>TickTock</i>: Then you will rate how well I did.<br> <i>TickTock</i>: Now it is your turn to say `Hello' to me!  <br>\n";
   if(!array_key_exists("user", $_SESSION))
   {
      $_SESSION["user"] = rand();
@@ -117,17 +119,20 @@
       echo "socket_create() fail\n";
     else
     {
-      $result = socket_connect($s, "localhost", 13111);
+      $result = socket_connect($s, "localhost", 13113);
       if ($result === false)
         echo "socket_connect() failed.\nReason: ($result) " . socket_strerror(socket_last_error($s)) . "\n";
     }
     $msg = $_SESSION["user"] . "|" . $_REQUEST["message"];
     socket_write($s, $msg, strlen($msg));
-    $ans = socket_read($s, 2048);
+    $content = explode("|", socket_read($s, 2048));
+    $ans = $content[0];
+    $strategy = $content[1];
     $turn = count($_SESSION["c"]);
 
     $_SESSION["c"][$turn]["user"] = $_REQUEST["message"];
     $_SESSION["c"][$turn]["ticktock"] = $ans;
+    $_SESSION["c"][$turn]["strategy"] = $strategy;
     for($i = 0; $i < count($_SESSION["c"]); $i++)
     {
         echo "<i>You</i>: " . $_SESSION["c"][$i]["user"] . "<br>\n";

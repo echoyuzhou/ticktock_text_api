@@ -16,7 +16,7 @@
     }
     else
     {
-      $result = socket_connect($s, "localhost", 11322);
+      $result = socket_connect($s, "localhost", 11332);
       if ($result === false)
         echo "socket_connect() failed.\nReason: ($result) " . socket_strerror(socket_last_error($s)) . "\n";
       return $result;
@@ -40,13 +40,13 @@
     {
        echo "Pretend that you are TickTock, a chatbot, what would you respond to the participant that is talking to you. Fill in the blank of what you think TickTock should reply to the user given the conversation history displayed.<br>\nPlease input your TurkID first and press 'send message' to start the task.<br>";
        $msg_type = "turkid";
-  
+
 
 ?>
 TurkID:<input type="text" name="turkid" cols="48" rows="8"></label></p>
-<?php   
-     
-    
+<?php
+
+
     }
     else
     {
@@ -62,7 +62,7 @@ TurkID:<input type="text" name="turkid" cols="48" rows="8"></label></p>
         echo "socket_create() fail\n";
       else
       {
-        $result = socket_connect($s, "localhost", 11322);
+        $result = socket_connect($s, "localhost", 11332);
         if ($result === false)
           echo "socket_connect() failed.\nReason: ($result) " . socket_strerror(socket_last_error($s)) . "\n";
       }
@@ -83,12 +83,12 @@ TurkID:<input type="text" name="turkid" cols="48" rows="8"></label></p>
         	echo "Press submit to begin!";
         }
         else
-        {	
+        {
          	echo $_SESSION["c"];
         }
         socket_close($s);
     //}
-   
+
 ?>
 <br>
 <!--<label>User Input<br>-->
