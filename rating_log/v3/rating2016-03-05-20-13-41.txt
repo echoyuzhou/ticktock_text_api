@@ -1,0 +1,86 @@
+TurkID: A27MJOV91GA8R3
+UserID: 1161488595
+Turn: 1
+You: Hello TickTock
+TickTock: Hello, I really like board games. How about we talk about board games
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Sure, what's your favorite board game?
+TickTock: That's interesting.  Let me tell you a joke, What does a gamer take for an upset stomach? Settlers.
+Appropriateness: 1
+Strategy: ['anaphora', 'joke']
+
+Turn: 3
+You: Tell me another joke please
+TickTock: I don't know.  I almost got caught trying to steal a board game yesterday. It was a Risk I was willing to take.
+Appropriateness: 3
+Strategy: ['joke']
+
+Turn: 4
+You: Haha!  Tell me another.
+TickTock: Well , she is -- first of all , she did something , you had my dad saying earlier which is , she provided unconditional love to all three of us.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 5
+You: That's pretty weird.
+TickTock: Well , that 's when I get up early.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 6
+You: How early do you usually wake up?
+TickTock: ok. Can you tell me something about politics
+Appropriateness: 1
+Strategy: ['switch']
+
+Turn: 7
+You: Sure.  I'm going to vote for Bernie Sanders
+TickTock: I like eggs as much as politics
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 8
+You: How do you like your eggs?
+TickTock: Not ten hours a day , but I do like to exercise.
+Appropriateness: 2
+Strategy: ['anaphora', 'continue']
+
+Turn: 9
+You: That doesn't make much sense TickTock.
+TickTock: What are your ideas?
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 10
+You: Hey TickTock when is your birthday?
+TickTock: Sad that I 'm not a real human boy . What 's your idea?
+Appropriateness: 2
+Strategy: ['anaphora', 'continue']
+
+Turn: 11
+You: That is very sad.  Pinnochio wasn't real either.
+TickTock: Are you talking about Pinnochio, the Song by Svedbanken
+Appropriateness: 3
+Strategy: ['end', 'oov', 'name_entity']
+
+Turn: 12
+You: No I'm talking about the wooden boy.
+TickTock: Tell me what it 's like to be a boring.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 13
+You: Do you like Led Zeppelin?
+TickTock: I 'm going to now.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 14
+You: Excellent.  Can you recommend me a song to listen to?
+TickTock:  Let's watch a debate together some time.
+Appropriateness: 1
+Strategy: ['init']
+

@@ -1,0 +1,68 @@
+TurkID: A1BAEFJ2OG7NJ0
+UserID: 1719394198
+Turn: 1
+You: What are you doing?
+TickTock: Hello, I really like politics. How about we talk about politics
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Okay, who are you voting for?
+TickTock: Well it 's great.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 3
+You: What is great?
+TickTock: Well , let 's see.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 4
+You: Are you thinking about what's great? 
+TickTock: I think I fell in love with Lorri pretty much from the very first letter . What do you think?
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 5
+You: Good for you, who is Lorri?
+TickTock: Are you talking about Lorri, the Actress
+Appropriateness: 1
+Strategy: ['init', 'name_entity']
+
+Turn: 6
+You: I wasn't talkinng about Lorri, you were
+TickTock: Well no.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 7
+You: No what?  You weren't talking about Lorri?
+TickTock: Yes.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 8
+You: Okay, I'm confused.
+TickTock: Tell me what it 's like to be a boring.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 9
+You: I don't know, because I'm not, and I don't think most people are.
+TickTock: What 's he -- what 's he like --
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 10
+You: I guess a boring person would have nothing to say.
+TickTock: Hello, I really like politics. How about we talk about politics
+Appropriateness: 3
+Strategy: new
+
+Turn: 11
+You: We tried that, I asked who you were voting for, and you responded in an irrelevant manner
+TickTock: Hello, I really like movies. How about we talk about movies
+Appropriateness: 3
+Strategy: new
+

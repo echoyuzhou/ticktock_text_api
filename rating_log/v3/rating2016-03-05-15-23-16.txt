@@ -1,0 +1,74 @@
+TurkID: A2653BIPJKEMRK
+UserID: 16233403
+Turn: 1
+You: Hello
+TickTock: Hello, I really like movies. How about we talk about movies
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: I like movies too. Which movie is your favorite?
+TickTock: I guess everyone likes what they like.
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+
+Turn: 3
+You: Yes a lot of people do
+TickTock: TONE : Well , as I 'm sure you 've come to realize with your own celebrity , you get all kinds of fans and all kinds of incidents.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 4
+You: What do you mean by that?
+TickTock: Tolerating people who may have a lifestyle or a belief that you do n't agree with.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 5
+You: How did we go from movies to this topic? I would rather talk about movies. What is your favorite move?
+TickTock: ok. Can you tell me something about movies
+Appropriateness: 2
+Strategy: ['anaphora', 'switch']
+
+Turn: 6
+You: I really enjoyed watching Bucket List the other day. Do you like that movie?
+TickTock: You do.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 7
+You: I asked if you like the movie?
+TickTock: Thanks . Glad to hear that.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 8
+You: Your answers do not make any sense.
+TickTock: Shut up , I 'm a computer . What 's your excuse?
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+
+Turn: 9
+You: You're not very polite. I do not wish to talk to you anymore.
+TickTock: ok.  Let me tell you something, We never really grow up, we only learn how to act in public.
+Appropriateness: 1
+Strategy: ['joke']
+
+Turn: 10
+You: I do not believe that is true.
+TickTock: I think so.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 11
+You: I think you need help
+TickTock: Yes.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 12
+You: At least we can agree on something
+TickTock: ok.  Let me tell you a joke, In a movie theater, a crowd watches a movie. During funny moments, only one person laughs. Confusingly he turns around and explains: "I haven't seen the trailer.
+Appropriateness: 1
+Strategy: ['joke']
+

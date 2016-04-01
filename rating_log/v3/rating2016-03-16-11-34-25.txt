@@ -1,0 +1,128 @@
+TurkID: none
+UserID: 2062025802
+Turn: 1
+You: barcelona
+TickTock: Hello, I really like board games. How about we talk about board games
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: good, did you see the GO AI show?
+TickTock: I was saying , it 's completely misogynistic as well.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 3
+You: misogynistic... what is that
+TickTock: Could you tell me more about that?
+Appropriateness: 1
+Strategy: ['more']
+
+Turn: 4
+You: misogynistic... what is that
+TickTock: 
+Appropriateness: 2
+Strategy: 
+
+Turn: 5
+You: not sure, let me check... a Greek word!
+TickTock: Are you talking about Greek, the Country in Europe
+Appropriateness: 2
+Strategy: ['init', 'name_entity']
+
+Turn: 6
+You: yea, it seem you know some greek words
+TickTock: Uhh, I can't answer this. What do you think about movies
+Appropriateness: 2
+Strategy: ['anaphora', 'switch']
+
+Turn: 7
+You: I love movies
+TickTock: I like pop music.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 8
+You: Who is your favourite singer?
+TickTock: what is 'favourite'?
+Appropriateness: 3
+Strategy: ['anaphora', 'end', 'oov']
+
+Turn: 9
+You: Who is your favorite singer?
+TickTock: Stop being so naughty , dear.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 10
+You: sorry, I do not want to be improper
+TickTock: People need to work less and play more.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 11
+You: completely agree!
+TickTock: I don't know.  Let me tell you a joke, In a movie theater, a crowd watches a movie. During funny moments, only one person laughs. Confusingly he turns around and explains: "I haven't seen the trailer.
+Appropriateness: 3
+Strategy: ['joke']
+
+Turn: 12
+You: ha ha ha, that is funny
+TickTock: I think so too ! Want to hear another joke?
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 13
+You: yes, please
+TickTock: How has life been treating you lately?
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 14
+You: excellent
+TickTock: What did you have?
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 15
+You: great job and great family
+TickTock:  Let us make a plan to see the latest star war movies together.
+Appropriateness: 1
+Strategy: ['init']
+
+Turn: 16
+You: sure, good idea... hey, what about the other joke?
+TickTock: ok. What do you think about politics
+Appropriateness: 2
+Strategy: ['switch']
+
+Turn: 17
+You: it is like science, lots of lie and corruption... :)
+TickTock: Let's talk more about that?
+Appropriateness: 3
+Strategy: ['anaphora', 'more']
+
+Turn: 18
+You: ok, what do you think about politics?
+TickTock: I like what you like.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 19
+You: I like literature, what about you?
+TickTock: I mean , you can keep saying that , but you 've done it repeatedly.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 20
+You: ok, but now I have to go, bye bye
+TickTock: Could you tell me more about that?
+Appropriateness: 1
+Strategy: ['more']
+
+Turn: 21
+You: next time... bye
+TickTock: Okay , talk to you later.
+Appropriateness: 3
+Strategy: ['continue']
+

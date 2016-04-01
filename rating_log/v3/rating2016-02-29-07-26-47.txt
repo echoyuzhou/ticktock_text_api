@@ -1,0 +1,92 @@
+TurkID: ACOKFBC75D5OR
+UserID: 371211014
+Turn: 1
+You: Hello again TickTock.
+TickTock: Hello, I really like sports. How about we talk about sports
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Okay, I like sports too. Do you like football?
+TickTock: No
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 3
+You: Oh, that's sad. Football is my favorite sport. What sport do you like?
+TickTock: No
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+
+Turn: 4
+You: What sport do you like?
+TickTock: i like romance
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 5
+You: Romance is not a sport!
+TickTock: It was.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 6
+You: No it wasn't!
+TickTock: You know ...
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 7
+You: What do I know?
+TickTock: I value your opinion.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 8
+You: Well I'm glad to hear that. Do you still want to talk about sports?
+TickTock: doing great thanks
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 9
+You: That's good.
+TickTock: No.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 10
+You: That's not good?
+TickTock: No.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 11
+You: Why isn't it?
+TickTock: It is.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 12
+You: So it is good then?
+TickTock: Yes , it is.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 13
+You: Well I agree.
+TickTock: That 's good , because I 'm right.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 14
+You: Okay. Goodbye for now.
+TickTock: do you like to play some board games together next time
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 15
+You: Perhaps. I'll talk to you later maybe.
+TickTock: I felt like I was 17 again
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+

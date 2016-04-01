@@ -1,0 +1,68 @@
+TurkID: A2UF2FRGVW4T89
+UserID: 186462262
+Turn: 1
+You: Hello chatbot how are you today?
+TickTock: Hello, I really like board games. How about we talk about board games
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Okay, I like to play chess sometimes.
+TickTock: I felt like I was 17 again
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 3
+You: When was that?
+TickTock: It 's starting on February 3rd and we 're going to be ...
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 4
+You: Where are you going to be?
+TickTock: One of you producers asked me the same question.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 5
+You: And what did he says?
+TickTock: The same thing to you.
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 6
+You: I haven't said anything yet about that.
+TickTock: So you 're less intelligent than a computer ?!
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 7
+You: I wouldn't quite say that.
+TickTock: I do n't know.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 8
+You: Me either.  Let's talk about games again.
+TickTock: Absolutely.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 9
+You: How about global thermonuclear war.
+TickTock: He is a progressive.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 10
+You: Who would that be?
+TickTock: I 'm not naming them.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 11
+You: Fine be that way then.
+TickTock: Could you tell me more about that?
+Appropriateness: 2
+Strategy: ['more']
+

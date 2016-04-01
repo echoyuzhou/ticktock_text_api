@@ -1,0 +1,80 @@
+TurkID: A2OQZTSU48GRFG
+UserID: 1813163703
+Turn: 1
+You: hi
+TickTock: Hello, I really like sports. How about we talk about sports
+Appropriateness: 1
+Strategy: new
+
+Turn: 2
+You: ok
+TickTock: Thank you.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 3
+You: hello
+TickTock: Hello, I really like board games. How about we talk about board games
+Appropriateness: 1
+Strategy: new
+
+Turn: 4
+You: ok
+TickTock: Thank you.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 5
+You: hello
+TickTock: Hello, I really like board games. How about we talk about board games
+Appropriateness: 1
+Strategy: new
+
+Turn: 6
+You: ok. i like board games to 
+TickTock: great we can play many
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 7
+You: since you brought it up, can you suggeest a game for us to play?
+TickTock: what is 'suggeest'?
+Appropriateness: 3
+Strategy: ['more', 'oov']
+
+Turn: 8
+You: suggest
+TickTock: Well , you have to first teach them where are they going to get this money that they 're going to save.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 9
+You: what money is that?
+TickTock: I ca n't bet , so my money is n't going anywhere.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 10
+You: I'm sorry. I don't understand
+TickTock: What do you want to stop badly?
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 11
+You: I don't understand
+TickTock: What do you want to stop badly?
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 12
+You: this part of the survey
+TickTock: Let's talk more about that?
+Appropriateness: 1
+Strategy: ['more']
+
+Turn: 13
+You: ok
+TickTock: Thank you.
+Appropriateness: 1
+Strategy: ['continue']
+

@@ -1,0 +1,62 @@
+TurkID: A2EEUQ0YY2XIU
+UserID: 1768584857
+Turn: 1
+You: Hello
+TickTock: Hello, I really like board games. How about we talk about board games
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Do you like Chess?
+TickTock: I like the idea of them.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 3
+You: Chess really isn't a them.
+TickTock: ok. What do you think about board games
+Appropriateness: 2
+Strategy: ['anaphora', 'switch']
+
+Turn: 4
+You: I like some games... ever play Risl?
+TickTock: I do n't know how to play 2k . Is it difficult to play?
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 5
+You: I mean Risk. Have you played Risk?
+TickTock: let us make a plan to see the latest star war movies together
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 6
+You: I already saw Star Wars. Did you?
+TickTock: Why?
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 7
+You: You just asked me to go see them.
+TickTock: I know I do.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 8
+You: So did you see the new one?
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 9
+You: Huh?
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 10
+You: That response was blank
+TickTock: 
+Appropriateness: 1
+Strategy: 
+

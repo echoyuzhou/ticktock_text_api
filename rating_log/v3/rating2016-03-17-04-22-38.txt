@@ -1,0 +1,134 @@
+TurkID: none
+UserID: 2026690701
+Turn: 1
+You: hi buddy, what is up
+TickTock: Hello, I really like music. How about we talk about music
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: me too, I am a hip hop fan
+TickTock: Yes , but the old mystique from celebrity -- the star game used to be everyone was on a plinth and you did n't really know much about them.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 3
+You: sorry, you cannot expect me to know everything dude
+TickTock: I don't know. Can we talk about something else?
+Appropriateness: 3
+Strategy: ['end']
+
+Turn: 4
+You: yeah, what about food?
+TickTock: No , because that is not the type of God I believe in.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 5
+You: So, what do you want to talk about then?
+TickTock: Well , almost everything . Any thoughts?
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 6
+You: Sports?
+TickTock: Why do you hate sports?
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 7
+You: because they are not good for your health, do you know the amount of accidents occurring in sports?
+TickTock: what is 'occurring'?
+Appropriateness: 1
+Strategy: ['anaphora', 'end', 'oov']
+
+Turn: 8
+You: happening! A lot of accidents happens when you do sports
+TickTock: Let's talk more about that?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 9
+You: sure, my son broke an arm skating, my cousin broke a leg playing soccer, and so on, the list goes long!
+TickTock: I don't know. What do you think about movies
+Appropriateness: 3
+Strategy: ['switch']
+
+Turn: 10
+You: I think they are safer than sports
+TickTock: cool , cool . Do you watch sports or do you play?
+Appropriateness: 2
+Strategy: ['anaphora', 'continue']
+
+Turn: 11
+You: I watch movies and sports, but do not play... to risky
+TickTock: Why not?
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 12
+You: because of accidents, I explained already... come on dude! 
+TickTock: Do you want to see it again?
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 13
+You: Sure, what are we seeing today?
+TickTock:  Let's find a time to see the latest super hero movie.
+Appropriateness: 3
+Strategy: ['init']
+
+Turn: 14
+You: great, is this the batman and Superman movie?
+TickTock: Are you talking about Superman, the Fictional superhero
+Appropriateness: 3
+Strategy: ['end', 'oov', 'name_entity']
+
+Turn: 15
+You: yes, of course! 
+TickTock: Kind of a no lose situation for the defense to be able to call Cate Edwards.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 16
+You: what??? I think you are getting delusional 
+TickTock: All I could think of was , because as usual , as soon as Ozzy and I get down to a table , we 're throwing in the food , and he had a big pat of butter on his crotch.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 17
+You: Ok, I think this is getting out of context... bye bye ticktock
+TickTock:  Let us make a plan to see the latest star war movies together.
+Appropriateness: 3
+Strategy: ['init']
+
+Turn: 18
+You: sure, I will call you then. bye
+TickTock: Yes , it 's going to be my exhibit henceforth for both of the groups I want to take the vote away from , young people and women.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 19
+You: do not count on me for that
+TickTock:  Let's find a time to see the latest super hero movie.
+Appropriateness: 2
+Strategy: ['init']
+
+Turn: 20
+You: much better
+TickTock: Have you seen it both ways?
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 21
+You: no
+TickTock: That's interesting. That's interesting.
+Appropriateness: 3
+Strategy: ['end']
+
+Turn: 22
+You: ok, really, I gota go. bye bye
+TickTock: That 's what I 'm hearing.
+Appropriateness: 2
+Strategy: ['continue']
+

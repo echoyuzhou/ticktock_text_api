@@ -1,0 +1,62 @@
+TurkID: A1WJQFUJFDCST5
+UserID: 2031364561
+Turn: 1
+You: Hello, TickTock!
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 2
+You: Hello, thank you for coming in today. How are you?
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 3
+You: Hello
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 4
+You: You're quiet, TickTock
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 5
+You: Did I insult you?
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 6
+You: Right.
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 7
+You: What do you have stuck in your mouth?
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 8
+You: Shut up, TickTock
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 9
+You: Yep. Broken bot.
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 10
+You: You're going to ignore me for 10 rounds?
+TickTock: 
+Appropriateness: 1
+Strategy: 
+

@@ -1,0 +1,110 @@
+TurkID: none
+UserID: 1650048032
+Turn: 1
+You: hi ticktock
+TickTock: Hello, I really like movies. How about we talk about movies
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: did you see zootopia?
+TickTock: I do n't understand what issue you have with that.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 3
+You: it is a movie, you wanted to talk about movies
+TickTock: That's interesting. What do you think about sports
+Appropriateness: 2
+Strategy: ['anaphora', 'switch']
+
+Turn: 4
+You: I hate sports
+TickTock: cool , cool . Do you watch sports or do you play?
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 5
+You: I do not watch and do not play, I think sports are bad for the health
+TickTock:  Do you want to see a game together some time?
+Appropriateness: 2
+Strategy: ['init']
+
+Turn: 6
+You: nope
+TickTock: Why not?
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 7
+You: because I hate sports
+TickTock: cool , cool . Do you watch sports or do you play?
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 8
+You: came on, are you teasing me?
+TickTock: what is 'teasing'?
+Appropriateness: 3
+Strategy: ['joke', 'oov']
+
+Turn: 9
+You: fooling
+TickTock: Will you be serious, and say something in a complete sentence?
+Appropriateness: 2
+Strategy: ['end', 'oov', 'short_answer']
+
+Turn: 10
+You: ok
+TickTock: Thank you.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 11
+You: you are more than welcome
+TickTock: I 'm not twerking , I 'm a little tired and , you know , I like to twerk.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 12
+You: ha, so you are into dancing! Me too but I do not twerk
+TickTock: Yes , dear , I 'm really pleased to tell you that the Oakland County Police Department did in fact arrest and has now arraigned Bobby Lee Taylor , he was a 42-year-old Pontiac man.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 13
+You: wow, poor guy
+TickTock: It 's good to see you old chap.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 14
+You: if you say so
+TickTock: Of course , really -- he can not -- I mean , Todd seriously ca n't believe that I have an obsession with his wife.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 15
+You: you better do not get in trouble with Todd, he is a good guy
+TickTock: Yes , I think that 's absolutely true.
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 16
+You: you bet
+TickTock: Uh-huh , I do.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 17
+You: ok, nice talking to you. bye
+TickTock: ok. That's interesting.
+Appropriateness: 2
+Strategy: ['end']
+
+Turn: 18
+You: good bye ticktock
+TickTock: Okay , talk to you later.
+Appropriateness: 3
+Strategy: ['continue']
+

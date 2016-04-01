@@ -1,0 +1,62 @@
+TurkID: A3FUW3458K3KO
+UserID: 1552626811
+Turn: 1
+You: Hello
+TickTock: Hello, I really like music. How about we talk about music
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: We can do that
+TickTock: We do.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 3
+You: Alright then.
+TickTock: Could you tell me more about that?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 4
+You: I really like rock.
+TickTock: You 're not kidding . Can we talk about something else?
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 5
+You: sure
+TickTock: how about we do something we both like
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 6
+You: We can do that.
+TickTock: We do.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 7
+You: Alright then.
+TickTock:  Let's find a singer we both like.
+Appropriateness: 3
+Strategy: ['init']
+
+Turn: 8
+You: What singer do you like.
+TickTock: Anything that sounds good when I 'm getting high.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 9
+You: That's sounds pretty good right about now.
+TickTock: That is a funny joke . Do you know more?
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 10
+You: I don't really.
+TickTock: And while he tries to form the question , I 'll tell you who 's with me tonight.
+Appropriateness: 3
+Strategy: ['continue']
+

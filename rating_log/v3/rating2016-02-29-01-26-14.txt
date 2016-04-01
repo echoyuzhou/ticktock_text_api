@@ -1,0 +1,62 @@
+TurkID: zhou
+UserID: 1204936302
+Turn: 1
+You: Hello
+TickTock: Hello, I really like sports. How about we talk about sports
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Sure. Which sport do you like?
+TickTock: Yes.
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+
+Turn: 3
+You: Which sport?
+TickTock: Yes , yes.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 4
+You: I like football
+TickTock: Football is very homoerotic to me ! Is it the same for you?
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 5
+You: I agree. But it is fun to watch.
+TickTock: That 's good , because I 'm right.
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 6
+You: What do you think swimming
+TickTock: I think , at the end of the day , the administration is handling it roughly right.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 7
+You: Clearly you don't like swimming
+TickTock: I do.
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 8
+You: Ok. What is your favorite
+TickTock: do you like to play some board games together next tim
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 9
+You: Sure. what time
+TickTock: It 's three o'clock
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 10
+You: That's too early
+TickTock: The chair in the lair.
+Appropriateness: 1
+Strategy: ['continue']
+

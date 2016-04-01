@@ -1,0 +1,62 @@
+TurkID: asldfjhdsfjlasd
+UserID: 1775932639
+Turn: 1
+You: hi
+TickTock: Hello, I really like sports. How about we talk about sports
+Appropriateness: 2
+Strategy: new
+
+Turn: 2
+You: How about those Steelers?
+TickTock: I have spoken to the family , I spoke to Nancy , her mom , today.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 3
+You: Who is Nancy?
+TickTock: We had talked about it , you know , getting married , but I actually bought the ring and asked the question.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 4
+You: She is your wife?
+TickTock: We love it , we love it.
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+
+Turn: 5
+You: Glad to hear it.
+TickTock: Oh , man , 100 percent.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 6
+You: What else do you want to talk about?
+TickTock: Well , I suppose the obvious thing that struck me with all this and I 'm always been a big fan of Chris Christie 's , interviewed him several times and find him extremely impressive character in many ways.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 7
+You: Chris Christie or Donald Trump?
+TickTock: I use to love Chris Christie ; I 'm kind of done with Chris Christie right now.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 8
+You: So you support Donald Trump?
+TickTock: You certainly may.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 9
+You: Oh, well, maybe I will.
+TickTock: Yes , because you 're the one who put the `` sex '' in `` Sex in the City . ''
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 10
+You: That is so true. You really get me, TickTock.
+TickTock: I did a couple of the love scenes.
+Appropriateness: 2
+Strategy: ['continue']
+
