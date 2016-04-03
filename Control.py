@@ -3,7 +3,7 @@ import Understand
 import Retrieval
 import random
 import sys
-
+import sentiment
 #for line in sys.stdin:
 #    print line
 
@@ -44,19 +44,24 @@ def FindCandidate(model,database, resource, input_utter, isAlltag, history,anaph
                         word2vec = 1
         return relavance, answer, anaphora_trigger, word2vec
 #@based on response weight
-def SelectState_rel_only(relavance, TreeState, force_strategy=None):
+def SelectState_rel_only(str_str,str_rule, relavance,pre_history, TreeState, force_strategy=None):
 	branch_idx = TreeState.keys()[0]
 	branch = TreeState[branch_idx]['node']
         if not force_strategy == None:
             bool_idx, int_idx = force_strategy
             return TreeState[branch_idx][bool_idx][int_idx]
 	if relavance >= branch['threshold_relavance']:
-		#print 'we are in the true branch'
+		#print 'we are in the h'
                 return TreeState[branch_idx][True][0] # only use the continue, don't expand
 
 	else:
+            if str_str ==0:
 		return random.choice(TreeState[branch_idx][False][0:-1])# don't choose the last leave, go back
-		#return TreeState[branch_idx][False][2]
+	    else:
+                #choose this based on the previous utterances' sentiment.
+                curr = sentiment.get_sentiment(pre_history[-1])
+                return {'name':strategy}
+                #return TreeState[branch_idx][False][2]
 
 def SelectState(relavance, engagement, TreeState, engaged_list):
 	branch_idx = TreeState.keys()[0]
