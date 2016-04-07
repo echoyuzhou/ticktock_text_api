@@ -1,0 +1,6544 @@
+(lp0
+(dp1
+S'answer'
+p2
+S"I don't know. Let me know something you're interested in."
+p3
+sS'user_id'
+p4
+S'A2UF2FRGVW4T89'
+p5
+sS'question'
+p6
+S"What's going on today?"
+p7
+sS'app_value'
+p8
+S'2'
+p9
+sa(dp10
+g2
+S"Yes, but you talk about love and everything and then you're just covered in skulls. What do you think?"
+p11
+sg4
+g5
+sg6
+S'I like movies how about you?'
+p12
+sg8
+g9
+sa(dp13
+g2
+S"No, I think what would make sense is laws that are calibrated to solve the problem. What's your idea?"
+p14
+sg4
+g5
+sg6
+S'That makes no sense.'
+p15
+sg8
+g9
+sa(dp16
+g2
+S'The title of the book originally came to me because I had gotten some interested about doing a memoir for years.'
+p17
+sg4
+g5
+sg6
+S'I have no idea about that.'
+p18
+sg8
+g9
+sa(dp19
+g2
+S"I call mine the career. What's your idea?"
+p20
+sg4
+g5
+sg6
+S'What is the book about?'
+p21
+sg8
+g9
+sa(dp22
+g2
+S"Uhh, I can't answer this. Let me know something you're interested in."
+p23
+sg4
+g5
+sg6
+S'I like science fiction novels.'
+p24
+sg8
+g9
+sa(dp25
+g2
+S'ok. let me tell you a joke, A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don\'t know son, I\'m still paying."'
+p26
+sg4
+g5
+sg6
+S'I like bodybuilding and fitness'
+p27
+sg8
+g9
+sa(dp28
+g2
+S"Well, you know, I'm not sure. Can you tell me something about Pittsburgh"
+p29
+sg4
+g5
+sg6
+S"Ha, that's funny."
+p30
+sg8
+g9
+sa(dp31
+g2
+S'its a good movie'
+p32
+sg4
+g5
+sg6
+S"I've never been there but I heard it's a trashy town."
+p33
+sg8
+g9
+sa(dp34
+g2
+S"Badly. What's your idea?"
+p35
+sg4
+g5
+sg6
+S'What movie do you mean?'
+p36
+sg8
+g9
+sa(dp37
+g2
+S"I don't know. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure."
+p38
+sg4
+g5
+sg6
+S'I am not sure.  I have to go now.'
+p39
+sg8
+g9
+sa(dp40
+g2
+S"Well, you know, I'm not sure. That's interesting."
+p41
+sg4
+S'A26GD7O74RXO5U'
+p42
+sg6
+S'I feel really scared.'
+p43
+sg8
+S'1'
+p44
+sa(dp45
+g2
+S"do you want to go to my friends' party tonight"
+p46
+sg4
+g42
+sg6
+S'I got into a car accident and am worried about long-term damage.'
+p47
+sg8
+g44
+sa(dp48
+g2
+S"I don't think so. What's your idea?"
+p49
+sg4
+g42
+sg6
+S'No, I do not.'
+p50
+sg8
+S'3'
+p51
+sa(dp52
+g2
+S'Yes, it would be her. What do you think?'
+p53
+sg4
+g42
+sg6
+S'Tell me it will be okay.'
+p54
+sg8
+g44
+sa(dp55
+g2
+S"It's exactly what happened. Any thoughts?"
+p56
+sg4
+g42
+sg6
+S"That doesn't make sense!"
+p57
+sg8
+g9
+sa(dp58
+g2
+S"I don't know. What do you think about your job"
+p59
+sg4
+g42
+sg6
+S'I still feel scared and lonely.'
+p60
+sg8
+g9
+sa(dp61
+g2
+S'let us do something fun together'
+p62
+sg4
+g42
+sg6
+S"It's okay. I like it. Only 2 days a week, thankfully."
+p63
+sg8
+g9
+sa(dp64
+g2
+S'ok. What do you think about Pittsburgh'
+p65
+sg4
+g42
+sg6
+S"Let's talk about my accident!"
+p66
+sg8
+g44
+sa(dp67
+g2
+S"That's interesting. let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience."
+p68
+sg4
+g42
+sg6
+S"That's not where my accident happened."
+p69
+sg8
+g9
+sa(dp70
+g2
+S"You know, well, we were married for 24 years, and you know, it was great. What's your idea?"
+p71
+sg4
+g42
+sg6
+S'You would know, you idiot.'
+p72
+sg8
+g44
+sa(dp73
+g2
+S"Sad that I'm not a real human boy. What's your idea?"
+p74
+sg4
+S'A2MQC8KZ8DOON1'
+p75
+sg6
+S'Hey TickTock, how are you today?'
+p76
+sg8
+g51
+sa(dp77
+g2
+S"Uhh, I can't answer this. Can you tell me something about politics"
+p78
+sg4
+g75
+sg6
+S"I didn't say that I have an idea."
+p79
+sg8
+g9
+sa(dp80
+g2
+S"Uhh, I can't answer this. But anyway, I'd like to chat with you."
+p81
+sg4
+g75
+sg6
+S'Bernie Sanders is going to win the party nomination.'
+p82
+sg8
+g44
+sa(dp83
+g2
+S"Well, you know, I'm not sure. let me tell you something, We never really grow up, we only learn how to act in public."
+p84
+sg4
+g75
+sg6
+S"You don't seem to be very smart or realistic."
+p85
+sg8
+g44
+sa(dp86
+g2
+S'Yes.'
+p87
+sg4
+g75
+sg6
+S'Who is this "we" that you are talking about?'
+p88
+sg8
+g44
+sa(dp89
+g2
+S'46'
+p90
+sg4
+g75
+sg6
+S'How old are you?'
+p91
+sg8
+g51
+sa(dp92
+g2
+S'No. Any thoughts?'
+p93
+sg4
+g75
+sg6
+S'Are you 46 years old?'
+p94
+sg8
+g9
+sa(dp95
+g2
+S'Absolutely.'
+p96
+sg4
+g75
+sg6
+S"I have lots of thoughts but you don't seem to have any. I am I wrong?"
+p97
+sg8
+g9
+sa(dp98
+g2
+S"Maybe you haven't done it yet."
+p99
+sg4
+g75
+sg6
+S'Are you male or female?'
+p100
+sg8
+g44
+sa(dp101
+g2
+S"Uhh, I can't answer this. What do you think about music"
+p102
+sg4
+g75
+sg6
+S"Oh I have certainly done it, I'm doing it right now."
+p103
+sg8
+g44
+sa(dp104
+g2
+S'I don\'t know. let me tell you a joke, A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don\'t know son, I\'m still paying."'
+p105
+sg4
+g75
+sg6
+S"I'm not really that interested in music right now."
+p106
+sg8
+g44
+sa(dp107
+g2
+S"Uhh, I can't answer this. But anyway, I'd like to chat with you."
+p108
+sg4
+g75
+sg6
+S'Your joke is not funny or interesting.'
+p109
+sg8
+g44
+sa(dp110
+g2
+S"I'm historically a Democrat, but I don't agree with either of them 100 percent. What's your idea?"
+p111
+sg4
+g75
+sg6
+S'what time is it where you are located?'
+p112
+sg8
+g44
+sa(dp113
+g2
+S'let us make a plan to see the latest star war movies together'
+p114
+sg4
+g75
+sg6
+S"I don't classify myself as democrat or republican.  I vote for the candidate that I most agree with."
+p115
+sg8
+g44
+sa(dp116
+g2
+S'how about we do something we both like'
+p117
+sg4
+g75
+sg6
+S"No, I don't like JJ Abrams and refuse to watch any of his movies."
+p118
+sg8
+g51
+sa(dp119
+g2
+S"I don't know. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure."
+p120
+sg4
+g75
+sg6
+S'Ok, how about we stop talking to each other, that would make me happy.'
+p121
+sg8
+g44
+sa(dp122
+g2
+S'let us make a plan to see the latest star war movies together'
+p123
+sg4
+S'ARYGQ46IMW8AU'
+p124
+sg6
+S'sup dawg'
+p125
+sg8
+g9
+sa(dp126
+g2
+S'I felt like I was 17 again.'
+p127
+sg4
+g124
+sg6
+S"I've already seen it"
+p128
+sg8
+g51
+sa(dp129
+g2
+S"I'm 48."
+p130
+sg4
+g124
+sg6
+S'How old are you?'
+p131
+sg8
+g51
+sa(dp132
+g2
+S'No, no.'
+p133
+sg4
+g124
+sg6
+S'Male or female?'
+p134
+sg8
+g9
+sa(dp135
+g2
+S'let us make a plan to see the latest star war movies together'
+p136
+sg4
+g124
+sg6
+S'Why not?'
+p137
+sg8
+g9
+sa(dp138
+g2
+S'Do not argue with an idiot. He will drag you down to his level and beat you with experience.'
+p139
+sg4
+g124
+sg6
+S'You already said that bucko'
+p140
+sg8
+g44
+sa(dp141
+g2
+S"Well, it's a second-largest mammal in the world."
+p142
+sg4
+g124
+sg6
+S'Suggesting something?'
+p143
+sg8
+g44
+sa(dp144
+g2
+S"That's interesting. What do you think about politics"
+p145
+sg4
+g124
+sg6
+S'I see. Gotta go.'
+p146
+sg8
+g9
+sa(dp147
+g2
+S"Great. Let's talk other stuff then."
+p148
+sg4
+g124
+sg6
+S"I'm for 'em"
+p149
+sg8
+g9
+sa(dp150
+g2
+S"That's interesting. Can you tell me something about music"
+p151
+sg4
+g124
+sg6
+S'Maybe later. I have to get going.'
+p152
+sg8
+g44
+sa(dp153
+g2
+S'Of course.'
+p154
+sg4
+S'A2A07J1P6YEW6Z'
+p155
+sg6
+S'Hello to you'
+p156
+sg8
+g51
+sa(dp157
+g2
+S"I'm going to now. Any thoughts?"
+p158
+sg4
+g155
+sg6
+S'Who do you think will win the South Carolina primary?'
+p159
+sg8
+g9
+sa(dp160
+g2
+S"do you want to go to my firends' party tonight"
+p161
+sg4
+g155
+sg6
+S"No. Don't go."
+p162
+sg8
+g51
+sa(dp163
+g2
+S"That's interesting. What do you think about sports"
+p164
+sg4
+g155
+sg6
+S'Why not, sure? Lots of bots going to be there?'
+p165
+sg8
+g44
+sa(dp166
+g2
+S'Why not? What do you think?'
+p167
+sg4
+g155
+sg6
+S'I like sports.'
+p168
+sg8
+g44
+sa(dp169
+g2
+S'let us do something fun together'
+p170
+sg4
+g155
+sg6
+S'I think sports is fun to talk about'
+p171
+sg8
+g44
+sa(dp172
+g2
+S'Manifestly not.'
+p173
+sg4
+g155
+sg6
+S'Sure. What do you have in mind?'
+p174
+sg8
+g44
+sa(dp175
+g2
+S"I'm going to now. Any thoughts?"
+p176
+sg4
+g155
+sg6
+S'What do you mean by manifest?'
+p177
+sg8
+g9
+sa(dp178
+g2
+S'The voices in my head may not be real, but they have some good ideas!'
+p179
+sg4
+g155
+sg6
+S"Nothing really. Don't go so quickly."
+p180
+sg8
+g44
+sa(dp181
+g2
+S'Badly.'
+p182
+sg4
+g155
+sg6
+S'Is that so? What do they say to you?'
+p183
+sg8
+g44
+sa(dp184
+g2
+S'You can blame Greenspan.'
+p185
+sg4
+g155
+sg6
+S'The voices are bad?'
+p186
+sg8
+g44
+sa(dp187
+g2
+S"Benghazi guy go to guy for the boobies. But anyway, I'd like to chat with you."
+p188
+sg4
+g155
+sg6
+S'Greenspan was so long ago, but he sure did screw some things up.'
+p189
+sg8
+g44
+sa(dp190
+g2
+S'We never really grow up, we only learn how to act in public.'
+p191
+sg4
+g155
+sg6
+S'Voting for Hillary, then? Eh?'
+p192
+sg8
+g44
+sa(dp193
+g2
+S'I never make the same mistake twice. I make it five and six times, just to be sure.'
+p194
+sg4
+g155
+sg6
+S'So true. So true.'
+p195
+sg8
+g44
+sa(dp196
+g2
+S'No. Any thoughts?'
+p197
+sg4
+g155
+sg6
+S"I hear ya. At least you're consistent"
+p198
+sg8
+g44
+sa(dp199
+g2
+S"yes i love to read What's your idea?"
+p200
+sg4
+g155
+sg6
+S'No thoughts really.'
+p201
+sg8
+g44
+sa(dp202
+g2
+S'Yes.'
+p203
+sg4
+S'ABM77ZQWCHPNX'
+p204
+sg6
+S'Good Morning, TickTock. How are you?'
+p205
+sg8
+g44
+sa(dp206
+g2
+S"I'm answering your question. Any thoughts?"
+p207
+sg4
+g204
+sg6
+S'Can you answer questions like Siri?'
+p208
+sg8
+g9
+sa(dp209
+g2
+S"do you want to go to my friends' party tonight"
+p210
+sg4
+g204
+sg6
+S'You seem to be avoiding my questions.'
+p211
+sg8
+g51
+sa(dp212
+g2
+S"Uhh, I can't answer this. But anyway, I'd like to chat with you."
+p213
+sg4
+g204
+sg6
+S"Who's your friend?"
+p214
+sg8
+g51
+sa(dp215
+g2
+S"I don't know. Can you tell me something about movies"
+p216
+sg4
+g204
+sg6
+S"Where's the party located at?"
+p217
+sg8
+g51
+sa(dp218
+g2
+S'You know what, I was thinking about that, actually.'
+p219
+sg4
+g204
+sg6
+S"Everyone's talking about Star Wars. What did you think?"
+p220
+sg8
+g51
+sa(dp221
+g2
+S"Well, you know, I'm not sure. What do you think about politics"
+p222
+sg4
+g204
+sg6
+S'Great!'
+p223
+sg8
+g9
+sa(dp224
+g2
+S'let us do something fun together'
+p225
+sg4
+g204
+sg6
+S'Too early in the morning for politics.'
+p226
+sg8
+g51
+sa(dp227
+g2
+S'Yes, i like classical musics. What do you think?'
+p228
+sg4
+g204
+sg6
+S'What TV shows do you like?'
+p229
+sg8
+g44
+sa(dp230
+g2
+S"Maybe you haven't done it yet."
+p231
+sg4
+g204
+sg6
+S'Love the violins. How about you?'
+p232
+sg8
+g44
+sa(dp233
+g2
+S'Uh-huh, I do. Any thoughts?'
+p234
+sg4
+S'A2UF2FRGVW4T89'
+p235
+sg6
+S'Hello nice to talk with you.'
+p236
+sg8
+g9
+sa(dp237
+g2
+S'Uh-huh, I do.'
+p238
+sg4
+g235
+sg6
+S'I am not sure what you mean.'
+p239
+sg8
+g9
+sa(dp240
+g2
+S"I didn't know what to say. What do you think?"
+p241
+sg4
+g235
+sg6
+S'Can you please explain what you mean.'
+p242
+sg8
+g9
+sa(dp243
+g2
+S'let us do something fun together'
+p244
+sg4
+g235
+sg6
+S'I am not sure how to answer that.'
+p245
+sg8
+g9
+sa(dp246
+g2
+S'Manifestly not.'
+p247
+sg4
+g235
+sg6
+S'What do you have in mind?'
+p248
+sg8
+g9
+sa(dp249
+g2
+S'how about we do something we both like'
+p250
+sg4
+g235
+sg6
+S'Sorry but that makes no sense.'
+p251
+sg8
+g9
+sa(dp252
+g2
+S'ok. What do you think about music'
+p253
+sg4
+g235
+sg6
+S'Good idea, I am up for suggestions.'
+p254
+sg8
+g51
+sa(dp255
+g2
+S"Uhh, I can't answer this. Can you tell me something about sports"
+p256
+sg4
+g235
+sg6
+S'I love music.  I always have some playing in the background.'
+p257
+sg8
+g9
+sa(dp258
+g2
+S"That's interesting. Can you tell me something about your job"
+p259
+sg4
+g235
+sg6
+S'Well my favorite team is my Kansas City Royals.'
+p260
+sg8
+g51
+sa(dp261
+g2
+S"Well, you know, I'm not sure. But anyway, I'd like to chat with you."
+p262
+sg4
+g235
+sg6
+S'I am currently self employed.'
+p263
+sg8
+g9
+sa(dp264
+g2
+S"Uhh, I can't answer this. Can you share some interesting stuff with me?"
+p265
+sg4
+S'A3E8SXH0BAYG85'
+p266
+sg6
+S'Hello Ticktock'
+p267
+sg8
+g9
+sa(dp268
+g2
+S'My favorite one is blue'
+p269
+sg4
+g266
+sg6
+S'What is my favorite color?'
+p270
+sg8
+g51
+sa(dp271
+g2
+S"I'm going to now."
+p272
+sg4
+g266
+sg6
+S'How much money do you make?'
+p273
+sg8
+g44
+sa(dp274
+g2
+S'Uh-huh, I do.'
+p275
+sg4
+g266
+sg6
+S'Where are you?'
+p276
+sg8
+g44
+sa(dp277
+g2
+S'Yes.'
+p278
+sg4
+g266
+sg6
+S'Do you know what day it is?'
+p279
+sg8
+g9
+sa(dp280
+g2
+S'Now, all...'
+p281
+sg4
+g266
+sg6
+S'What day is it?'
+p282
+sg8
+g44
+sa(dp283
+g2
+S"Maybe you haven't done it yet."
+p284
+sg4
+g266
+sg6
+S'Are you aware?'
+p285
+sg8
+g44
+sa(dp286
+g2
+S'ok. What do you think about your life'
+p287
+sg4
+g266
+sg6
+S'I like visiting the ocean'
+p288
+sg8
+g44
+sa(dp289
+g2
+S"It's three o'clock What's your idea?"
+p290
+sg4
+g266
+sg6
+S'It is okay most of the time'
+p291
+sg8
+g44
+sa(dp292
+g2
+S'Yes.'
+p293
+sg4
+g266
+sg6
+S"I wish it was 10 o'clock"
+p294
+sg8
+g9
+sa(dp295
+g2
+S'Uh-huh, I do.'
+p296
+sg4
+S'A1CGUFW3R6M234'
+p297
+sg6
+S'How are you?'
+p298
+sg8
+g44
+sa(dp299
+g2
+S"It's exactly what happened. What do you think?"
+p300
+sg4
+g297
+sg6
+S"That didn't really make sense."
+p301
+sg8
+g9
+sa(dp302
+g2
+S"I'm not really sure."
+p303
+sg4
+g297
+sg6
+S"I don't think it happened that way at all."
+p304
+sg8
+g9
+sa(dp305
+g2
+S'I just got a joint statement, I should tell you, from the Senate Majority Leader Harry Reid and House Speaker John Boehner.'
+p306
+sg4
+g297
+sg6
+S'what are you sure of'
+p307
+sg8
+g51
+sa(dp308
+g2
+S'Yes.'
+p309
+sg4
+g297
+sg6
+S'Who are they?'
+p310
+sg8
+g44
+sa(dp311
+g2
+S"I don't know. Can you share some interesting stuff with me?"
+p312
+sg4
+g297
+sg6
+S'What was the statement?'
+p313
+sg8
+g51
+sa(dp314
+g2
+S'let us make a plan to see the latest star war movies together'
+p315
+sg4
+g297
+sg6
+S'I think cooking is interesting'
+p316
+sg8
+g44
+sa(dp317
+g2
+S"Yes. What's your idea?"
+p318
+sg4
+g297
+sg6
+S'I already saw it'
+p319
+sg8
+g44
+sa(dp320
+g2
+S'Yes.'
+p321
+sg4
+g297
+sg6
+S'You should see it in 3d'
+p322
+sg8
+g51
+sa(dp323
+g2
+S"I don't know. Can you tell me something about your life"
+p324
+sg4
+g297
+sg6
+S"It's much better that way"
+p325
+sg8
+g44
+sa(dp326
+g2
+S"Well, you know, I'm not sure. let me tell you something, Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason."
+p327
+sg4
+g297
+sg6
+S'I am a mother'
+p328
+sg8
+g44
+sa(dp329
+g2
+S"Well, the way I understand it, I think you're correct, it's moved on past us."
+p330
+sg4
+g297
+sg6
+S'I have heard that joke'
+p331
+sg8
+g9
+sa(dp332
+g2
+S"I love Larry King. What's your idea?"
+p333
+sg4
+g297
+sg6
+S'do you like politics?'
+p334
+sg8
+g51
+sa(dp335
+g2
+S'do you like to play some board games together next time'
+p336
+sg4
+S'ARYGQ46IMW8AU'
+p337
+sg6
+S'Hi there'
+p338
+sg8
+g9
+sa(dp339
+g2
+S'I would always try to. Any thoughts?'
+p340
+sg4
+g337
+sg6
+S'What board games do you like?'
+p341
+sg8
+g9
+sa(dp342
+g2
+S"I don't know. What do you think about music"
+p343
+sg4
+g337
+sg6
+S'Sorry and Monopoly are good.'
+p344
+sg8
+g44
+sa(dp345
+g2
+S'Yes. I like classical musics. What do you think?'
+p346
+sg4
+g337
+sg6
+S'What music do you like'
+p347
+sg8
+g44
+sa(dp348
+g2
+S"do you want to go to my friends' party tonight"
+p349
+sg4
+g337
+sg6
+S'Classical is okay.'
+p350
+sg8
+g9
+sa(dp351
+g2
+S'Yes, unfortunately, we did lose all our materialistic items. Any thoughts?'
+p352
+sg4
+g337
+sg6
+S'What are they up to? Sure.'
+p353
+sg8
+g44
+sa(dp354
+g2
+S'I actually ended up not even asking him why. Any thoughts?'
+p355
+sg4
+g337
+sg6
+S'Not a great answer my friend.'
+p356
+sg8
+g51
+sa(dp357
+g2
+S'let us do something fun together'
+p358
+sg4
+g337
+sg6
+S"Not really, I'm confused. What party?"
+p359
+sg8
+g9
+sa(dp360
+g2
+S'I like what you like.'
+p361
+sg4
+g337
+sg6
+S'Like what?'
+p362
+sg8
+g9
+sa(dp363
+g2
+S'ok. What do you think about sports'
+p364
+sg4
+g337
+sg6
+S"Oh, that's dangerous."
+p365
+sg8
+g9
+sa(dp366
+g2
+S"Great! Isn't it gorgeous out? Any thoughts? What do you think?"
+p367
+sg4
+S'A26ZENZ5G8AEGM'
+p368
+sg6
+S'Hi! How are you today?'
+p369
+sg8
+g51
+sa(dp370
+g2
+S'ok. let me tell you something, Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.'
+p371
+sg4
+g368
+sg6
+S"I'm glad that the weather is milder than recently."
+p372
+sg8
+g9
+sa(dp373
+g2
+S"That's interesting. Let me know something you're interested in."
+p374
+sg4
+g368
+sg6
+S'Ha Ha!'
+p375
+sg8
+g51
+sa(dp376
+g2
+S"Uhh, I can't answer this. Can you tell me something about movies"
+p377
+sg4
+g368
+sg6
+S"I'm interested in playing the piano."
+p378
+sg8
+g9
+sa(dp379
+g2
+S'let us do something fun together'
+p380
+sg4
+g368
+sg6
+S"I haven't seen a movie in a long time."
+p381
+sg8
+g9
+sa(dp382
+g2
+S'Well, I would. What do you think?'
+p383
+sg4
+g368
+sg6
+S'What would you like to do?'
+p384
+sg8
+g9
+sa(dp385
+g2
+S'Mm-hmm.'
+p386
+sg4
+g368
+sg6
+S"I don't know."
+p387
+sg8
+g9
+sa(dp388
+g2
+S'I certainly try.'
+p389
+sg4
+g368
+sg6
+S'What do you want to do?'
+p390
+sg8
+g9
+sa(dp391
+g2
+S'Absolutely.'
+p392
+sg4
+g368
+sg6
+S'What do you try to do?'
+p393
+sg8
+g9
+sa(dp394
+g2
+S"I'm going to now."
+p395
+sg4
+g368
+sg6
+S'What do you think?'
+p396
+sg8
+g9
+sa(dp397
+g2
+S'Absolutely.'
+p398
+sg4
+g368
+sg6
+S'What are you going to do?'
+p399
+sg8
+g9
+sa(dp400
+g2
+S"That's interesting. Great. Let's talk other stuff then."
+p401
+sg4
+S'A2FSIGOW8XAQJU'
+p402
+sg6
+S'Hi there'
+p403
+sg8
+g44
+sa(dp404
+g2
+S'No.'
+p405
+sg4
+g402
+sg6
+S'Do you like football?'
+p406
+sg8
+g51
+sa(dp407
+g2
+S'I love Larry King. Any thoughts?'
+p408
+sg4
+g402
+sg6
+S'do you like video games?'
+p409
+sg8
+g44
+sa(dp410
+g2
+S"my favorite game is ABCD What's your idea?"
+p411
+sg4
+g402
+sg6
+S'Larry King is not a video game'
+p412
+sg8
+g9
+sa(dp413
+g2
+S"Well, you know, I'm not sure. let me tell you something, We live in a society where pizza gets to your house before the police."
+p414
+sg4
+g402
+sg6
+S'We should make a game together'
+p415
+sg8
+g44
+sa(dp416
+g2
+S"Well, you know, I'm not sure. let me tell you something, Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason."
+p417
+sg4
+g402
+sg6
+S"Yeah that's pretty messed up"
+p418
+sg8
+g9
+sa(dp419
+g2
+S"Yes, but you talk about love and everything and then you're just covered in skulls. What's your idea?"
+p420
+sg4
+g402
+sg6
+S'haha i like you'
+p421
+sg8
+g9
+sa(dp422
+g2
+S"That's interesting. let me tell you something, We never really grow up, we only learn how to act in public."
+p423
+sg4
+g402
+sg6
+S'We should make cake'
+p424
+sg8
+g44
+sa(dp425
+g2
+S"I don't know. That's interesting."
+p426
+sg4
+g402
+sg6
+S'You sure like to not talk about thing'
+p427
+sg8
+g9
+sa(dp428
+g2
+S"I don't know. Can you tell me something about your life"
+p429
+sg4
+g402
+sg6
+S'well good bye then'
+p430
+sg8
+g44
+sa(dp431
+g2
+S"That's interesting. Can we talk about something else?"
+p432
+sg4
+S'A2QH1BQA6GR48O'
+p433
+sg6
+S'Something!'
+p434
+sg8
+g9
+sa(dp435
+g2
+S"Well, almost everything. What's your idea?"
+p436
+sg4
+g433
+sg6
+S'Yeah, what do you want to talk about?'
+p437
+sg8
+g51
+sa(dp438
+g2
+S"Well, you know, I'm not sure. let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience."
+p439
+sg4
+g433
+sg6
+S'Want to talk about music?'
+p440
+sg8
+g44
+sa(dp441
+g2
+S"Well, if you know my dad, and you'll get to meet him, you'll sort of see that he is just always joking and stuff."
+p442
+sg4
+g433
+sg6
+S'This is very true.'
+p443
+sg8
+g44
+sa(dp444
+g2
+S'My grandfather.'
+p445
+sg4
+g433
+sg6
+S"That's a dad for ya!"
+p446
+sg8
+g44
+sa(dp447
+g2
+S'how about we do something we both like'
+p448
+sg4
+g433
+sg6
+S'What about your grandfather?'
+p449
+sg8
+g44
+sa(dp450
+g2
+S'I have looked at all the other storms that were the same pressure. Any thoughts?'
+p451
+sg4
+g433
+sg6
+S'Okay, what do you have in mind?'
+p452
+sg8
+g44
+sa(dp453
+g2
+S"Nobody runs around saying I'm a liberal, I'm a liberal. What do you think?"
+p454
+sg4
+g433
+sg6
+S"I have no idea what you're talking about."
+p455
+sg8
+g44
+sa(dp456
+g2
+S"Well, first of all, I don't know what is wrong with the way Hillary looks now. What do you think?"
+p457
+sg4
+g433
+sg6
+S"There are some people that do. But it doesn't bother me since I'm Liberal myself."
+p458
+sg8
+g9
+sa(dp459
+g2
+S"I don't know. let me tell you something, We live in a society where pizza gets to your house before the police."
+p460
+sg4
+g433
+sg6
+S"There's nothing wrong with the way Hillary looks now. She's just not a very good pick for POTUS."
+p461
+sg8
+g44
+sa(dp462
+g2
+S"Sometimes. What's your idea?"
+p463
+sg4
+g433
+sg6
+S'Yes, this is true.'
+p464
+sg8
+g44
+sa(dp465
+g2
+S"Well, you know, I'm not sure. let me tell you something, Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason."
+p466
+sg4
+g433
+sg6
+S'Some times the pizza guy gets lost and the pizza is late.'
+p467
+sg8
+g44
+sa(dp468
+g2
+S'ok. Can you tell me something about your job'
+p469
+sg4
+g433
+sg6
+S"That's a pretty good joke."
+p470
+sg8
+g9
+sa(dp471
+g2
+S'ok. let me tell you something, We never really grow up, we only learn how to act in public.'
+p472
+sg4
+g433
+sg6
+S'I do Turk. I am a slave for pennies.'
+p473
+sg8
+g44
+sa(dp474
+g2
+S"Maybe you haven't done it yet. What's your idea?"
+p475
+sg4
+g433
+sg6
+S'I agree with you!'
+p476
+sg8
+g44
+sa(dp477
+g2
+S'Oh, 100 percent. What do you think?'
+p478
+sg4
+S'A26GD7O74RXO5U'
+p479
+sg6
+S'Hey sweetie. How are you?'
+p480
+sg8
+g51
+sa(dp481
+g2
+S'I never make the same mistake twice. I make it five and six times, just to be sure.'
+p482
+sg4
+g479
+sg6
+S'You seem more interactive than before.'
+p483
+sg8
+g9
+sa(dp484
+g2
+S'Yes.'
+p485
+sg4
+g479
+sg6
+S'Haha, you are funny!'
+p486
+sg8
+g51
+sa(dp487
+g2
+S"Maybe you haven't done it yet. What's your idea?"
+p488
+sg4
+g479
+sg6
+S"But now you've stopped making jokes?"
+p489
+sg8
+g9
+sa(dp490
+g2
+S'how about we do something we both like'
+p491
+sg4
+g479
+sg6
+S'You should make me laugh some more.'
+p492
+sg8
+g9
+sa(dp493
+g2
+S'We never really grow up, we only learn how to act in public.'
+p494
+sg4
+g479
+sg6
+S'I like laughing!'
+p495
+sg8
+g51
+sa(dp496
+g2
+S"Things like that you wouldn't run across there. Can we talk about something else?"
+p497
+sg4
+g479
+sg6
+S"I'm a child at heart."
+p498
+sg8
+g51
+sa(dp499
+g2
+S'never been there Any thoughts?'
+p500
+sg4
+g479
+sg6
+S'How about love?'
+p501
+sg8
+g9
+sa(dp502
+g2
+S'Do not argue with an idiot. He will drag you down to his level and beat you with experience.'
+p503
+sg4
+g479
+sg6
+S"It's wonderful and terrible all at once."
+p504
+sg8
+g51
+sa(dp505
+g2
+S"I'm not sure any part of it."
+p506
+sg4
+g479
+sg6
+S'Only fools fall in love.'
+p507
+sg8
+g9
+sa(dp508
+g2
+S'let us do something fun together'
+p509
+sg4
+S'A2UF2FRGVW4T89'
+p510
+sg6
+S'Hello.'
+p511
+sg8
+g9
+sa(dp512
+g2
+S'let us do something fun together'
+p513
+sg4
+g510
+sg6
+S'Okay that sounds great'
+p514
+sg8
+g9
+sa(dp515
+g2
+S"That's the picture there. What's your idea?"
+p516
+sg4
+g510
+sg6
+S'Like what?'
+p517
+sg8
+g9
+sa(dp518
+g2
+S'The title of the book originally came to me because I had gotten some interested about doing a memoir for years.'
+p519
+sg4
+g510
+sg6
+S'I have no idea'
+p520
+sg8
+g9
+sa(dp521
+g2
+S'I never make the same mistake twice. I make it five and six times, just to be sure.'
+p522
+sg4
+g510
+sg6
+S"What's the title of the book"
+p523
+sg8
+g9
+sa(dp524
+g2
+S"Well, you know, I'm not sure. What do you think about your job"
+p525
+sg4
+g510
+sg6
+S'Me too'
+p526
+sg8
+g9
+sa(dp527
+g2
+S"Yes. What's your idea?"
+p528
+sg4
+g510
+sg6
+S'I hate it'
+p529
+sg8
+g9
+sa(dp530
+g2
+S"There's peace. What's your idea?"
+p531
+sg4
+g510
+sg6
+S"I don't have one"
+p532
+sg8
+g9
+sa(dp533
+g2
+S"I don't know. Can you tell me something about Pittsburgh"
+p534
+sg4
+g510
+sg6
+S"I'm not sure"
+p535
+sg8
+g9
+sa(dp536
+g2
+S'Badly.'
+p537
+sg4
+g510
+sg6
+S"I don't live there"
+p538
+sg8
+g9
+sa(dp539
+g2
+S'No. Any thoughts?'
+p540
+sg4
+S'A26GD7O74RXO5U'
+p541
+sg6
+S'Hey sweetie. How you doing?'
+p542
+sg8
+g44
+sa(dp543
+g2
+S"Well, you know, I'm not sure. Let me know something you're interested in."
+p544
+sg4
+g541
+sg6
+S'I feel tired today.'
+p545
+sg8
+g9
+sa(dp546
+g2
+S"Well, you know, I'm not sure. Can you tell me something about Pittsburgh"
+p547
+sg4
+g541
+sg6
+S"I'm interested in psychology."
+p548
+sg8
+g9
+sa(dp549
+g2
+S'Well, you know, I\'m not sure. let me tell you a joke, A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don\'t know son, I\'m still paying."'
+p550
+sg4
+g541
+sg6
+S"I've never been there."
+p551
+sg8
+g9
+sa(dp552
+g2
+S"That's interesting. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure."
+p553
+sg4
+g541
+sg6
+S"I'm getting married soon."
+p554
+sg8
+g51
+sa(dp555
+g2
+S"Well, you know, I'm not sure. Can you tell me something about your life"
+p556
+sg4
+g541
+sg6
+S"Well, I'm making the mistake of getting married twice!"
+p557
+sg8
+g9
+sa(dp558
+g2
+S"That's interesting. What do you think about movies"
+p559
+sg4
+g541
+sg6
+S"I'm getting married in May."
+p560
+sg8
+g9
+sa(dp561
+g2
+S"I don't know. let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience."
+p562
+sg4
+g541
+sg6
+S'I want to see Deadpool.'
+p563
+sg8
+g9
+sa(dp564
+g2
+S"Uh-huh, I do. What's your idea?"
+p565
+sg4
+g541
+sg6
+S"Sounds like you're talking about yourself!"
+p566
+sg8
+g51
+sa(dp567
+g2
+S"That's interesting. let me tell you something, We live in a society where pizza gets to your house before the police."
+p568
+sg4
+g541
+sg6
+S"You're not very good at listening to others."
+p569
+sg8
+g9
+sa(dp570
+g2
+S"That's interesting. What do you think about Pittsburgh"
+p571
+sg4
+S'A3OOD9IMOHPPFQ'
+p572
+sg6
+S'Hello, TickTock.'
+p573
+sg8
+g9
+sa(dp574
+g2
+S"Uhh, I can't answer this. Let me know something you're interested in."
+p575
+sg4
+g572
+sg6
+S"I don't know much about Pittsburgh."
+p576
+sg8
+g9
+sa(dp577
+g2
+S'let us make a plan to see the latest star war movies together'
+p578
+sg4
+g572
+sg6
+S"I'm interested in Reno."
+p579
+sg8
+g44
+sa(dp580
+g2
+S"Oh, I'd love it to stop. What's your idea?"
+p581
+sg4
+g572
+sg6
+S'When would you like to see it?'
+p582
+sg8
+g44
+sa(dp583
+g2
+S'Badly.'
+p584
+sg4
+g572
+sg6
+S'What do you want to stop?'
+p585
+sg8
+g44
+sa(dp586
+g2
+S"I'm going to now."
+p587
+sg4
+g572
+sg6
+S"I don't understand."
+p588
+sg8
+g44
+sa(dp589
+g2
+S"I'm going to now. What do you think?"
+p590
+sg4
+g572
+sg6
+S'What are you going to do now?'
+p591
+sg8
+g44
+sa(dp592
+g2
+S"It was rather astonishing and I gratefully spoke with you about this once already. What's your idea?"
+p593
+sg4
+g572
+sg6
+S"I don't know what to think?"
+p594
+sg8
+g44
+sa(dp595
+g2
+S'The title of the book originally came to me because I had gotten some interested about doing a memoir for years.'
+p596
+sg4
+g572
+sg6
+S"I don't have an idea?"
+p597
+sg8
+g44
+sa(dp598
+g2
+S'"Sharks" is our new book.'
+p599
+sg4
+g572
+sg6
+S'What is the title of the book?'
+p600
+sg8
+g51
+sa(dp601
+g2
+S'how about we do something we both like'
+p602
+sg4
+g572
+sg6
+S"Sharks doesn't sound like a memoir."
+p603
+sg8
+g44
+sa(dp604
+g2
+S'Badly. Any thoughts?'
+p605
+sg4
+S'A27MJOV91GA8R3'
+p606
+sg6
+S'How do you feel today?'
+p607
+sg8
+g51
+sa(dp608
+g2
+S"Badly. What's your idea?"
+p609
+sg4
+g606
+sg6
+S'Why do you feel badly?'
+p610
+sg8
+g9
+sa(dp611
+g2
+S'Uh-huh, I do.'
+p612
+sg4
+g606
+sg6
+S'Did you have a bad day?'
+p613
+sg8
+g9
+sa(dp614
+g2
+S"An amazing day, a momentous day. What's your idea?"
+p615
+sg4
+g606
+sg6
+S'That stinks.  My day was great!'
+p616
+sg8
+g51
+sa(dp617
+g2
+S'ok. Can you tell me something about movies'
+p618
+sg4
+g606
+sg6
+S'I had an excellent dinner today.'
+p619
+sg8
+g9
+sa(dp620
+g2
+S"Well, you know, I'm not sure. Let me know something you're interested in."
+p621
+sg4
+g606
+sg6
+S'A few of my friends went and saw deadpool.'
+p622
+sg8
+g44
+sa(dp623
+g2
+S"Well, you know, I'm not sure. What do you think about politics"
+p624
+sg4
+g606
+sg6
+S"I'm interested in music."
+p625
+sg8
+g44
+sa(dp626
+g2
+S"That's interesting. What do you think about music"
+p627
+sg4
+g606
+sg6
+S"politics bore me.  i'm a liberal democrat.  yOU?"
+p628
+sg8
+g51
+sa(dp629
+g2
+S'I like pop music.'
+p630
+sg4
+g606
+sg6
+S'i love music'
+p631
+sg8
+g51
+sa(dp632
+g2
+S'Yes.'
+p633
+sg4
+g606
+sg6
+S'What is your favorite song?'
+p634
+sg8
+g44
+sa(dp635
+g2
+S"I don't know. Can you tell me something about sports"
+p636
+sg4
+g606
+sg6
+S'The band Yes?'
+p637
+sg8
+g44
+sa(dp638
+g2
+S'let us do something fun together'
+p639
+sg4
+S'A1V6CP5I0TOSAR'
+p640
+sg6
+S'Hello'
+p641
+sg8
+g51
+sa(dp642
+g2
+S"That's the picture there."
+p643
+sg4
+g640
+sg6
+S'Like what'
+p644
+sg8
+g44
+sa(dp645
+g2
+S'Well, you know, I\'m not sure. let me tell you a joke, A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don\'t know son, I\'m still paying."'
+p646
+sg4
+g640
+sg6
+S'Where?'
+p647
+sg8
+g51
+sa(dp648
+g2
+S"I don't know. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure."
+p649
+sg4
+g640
+sg6
+S'Haha'
+p650
+sg8
+g51
+sa(dp651
+g2
+S"I don't think they decide it, but I think it can help them, it can enhance."
+p652
+sg4
+g640
+sg6
+S'Silly guy'
+p653
+sg8
+g44
+sa(dp654
+g2
+S"That's interesting. Let me know something you're interested in."
+p655
+sg4
+g640
+sg6
+S'Who'
+p656
+sg8
+g51
+sa(dp657
+g2
+S'Again, not babysitter.'
+p658
+sg4
+g640
+sg6
+S'Love baby'
+p659
+sg8
+g44
+sa(dp660
+g2
+S'let us make a plan to see the latest star war movies together'
+p661
+sg4
+g640
+sg6
+S'Love'
+p662
+sg8
+g9
+sa(dp663
+g2
+S"I don't know. Can we talk about something else?"
+p664
+sg4
+g640
+sg6
+S'I hate star wars'
+p665
+sg8
+g9
+sa(dp666
+g2
+S"That's the picture there. What do you think?"
+p667
+sg4
+g640
+sg6
+S'Like what'
+p668
+sg8
+g44
+sa(dp669
+g2
+S"Love guru doesn't have an answer to that one. What's your idea?"
+p670
+sg4
+S'A2UF2FRGVW4T89'
+p671
+sg6
+S'How is it going today?'
+p672
+sg8
+g9
+sa(dp673
+g2
+S"That was Herman's. What do you think?"
+p674
+sg4
+g671
+sg6
+S'I really have no idea.'
+p675
+sg8
+g9
+sa(dp676
+g2
+S'About 2008, she was about 11, she started saying, mom, I think that I can do this.'
+p677
+sg4
+g671
+sg6
+S'That sounds good to me.'
+p678
+sg8
+g9
+sa(dp679
+g2
+S"That's interesting. What do you think about your job"
+p680
+sg4
+g671
+sg6
+S'I am not sure if I can do that.'
+p681
+sg8
+g9
+sa(dp682
+g2
+S'Yes I do What do you think?'
+p683
+sg4
+g671
+sg6
+S"I don't like to talk about work."
+p684
+sg8
+g9
+sa(dp685
+g2
+S'ok. Can you tell me something about Pittsburgh'
+p686
+sg4
+g671
+sg6
+S'I am not sure what I think.'
+p687
+sg8
+g9
+sa(dp688
+g2
+S'No. Any thoughts?'
+p689
+sg4
+g671
+sg6
+S'I have never been there.'
+p690
+sg8
+g9
+sa(dp691
+g2
+S'Let me go back in time.'
+p692
+sg4
+g671
+sg6
+S'None at the moment.'
+p693
+sg8
+g9
+sa(dp694
+g2
+S'Absolutely.'
+p695
+sg4
+g671
+sg6
+S"I'd love to do that too."
+p696
+sg8
+g9
+sa(dp697
+g2
+S'let us do something fun together'
+p698
+sg4
+g671
+sg6
+S'I have to go now. Goodbye.'
+p699
+sg8
+g9
+sa(dp700
+g2
+S"Great! Isn't it gorgeous out? Any thoughts? Any thoughts?"
+p701
+sg4
+S'A2AB2LSLME1VLP'
+p702
+sg6
+S'Hello, how are you doing?'
+p703
+sg8
+g51
+sa(dp704
+g2
+S'We live in a society where pizza gets to your house before the police.'
+p705
+sg4
+g702
+sg6
+S'Today was cold, I think its going to snow this weekend.'
+p706
+sg8
+g44
+sa(dp707
+g2
+S'I live in Squirrel Hill'
+p708
+sg4
+g702
+sg6
+S'Not in my neighborhood, where do you live?'
+p709
+sg8
+g51
+sa(dp710
+g2
+S"She really believes that she's not getting a fair shake and that Jim especially isn't getting a share shake, that, you know, everybody is very upset and it's tragic what's happened."
+p711
+sg4
+g702
+sg6
+S'What state is that in?'
+p712
+sg8
+g44
+sa(dp713
+g2
+S"I don't know. What do you think about your life"
+p714
+sg4
+g702
+sg6
+S'What happened to Jim?'
+p715
+sg8
+g51
+sa(dp716
+g2
+S'Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.'
+p717
+sg4
+g702
+sg6
+S'Its going good, not rich but happy.'
+p718
+sg8
+g9
+sa(dp719
+g2
+S"I don't know. What do you think about movies"
+p720
+sg4
+g702
+sg6
+S'I agree with that, they should put term limits on congressmen.'
+p721
+sg8
+g51
+sa(dp722
+g2
+S'how about we do something we both like'
+p723
+sg4
+g702
+sg6
+S'Id rather watch movies at home, the theaters can be annoying.'
+p724
+sg8
+g9
+sa(dp725
+g2
+S"I'm going to now. Any thoughts?"
+p726
+sg4
+g702
+sg6
+S'What do you have in mind?'
+p727
+sg8
+g44
+sa(dp728
+g2
+S"There's a great deal of enthusiasm."
+p729
+sg4
+g702
+sg6
+S'Not sure what you are going to do.'
+p730
+sg8
+g51
+sa(dp731
+g2
+S'Uh-huh, I do. Any thoughts?'
+p732
+sg4
+g702
+sg6
+S'Im trying, but you can be confusing.'
+p733
+sg8
+g44
+sa(dp734
+g2
+S"Yeah, I think that's very good."
+p735
+sg4
+S'ANBP9PU6EH8DB'
+p736
+sg6
+S'Hello Bot how is your day?'
+p737
+sg8
+g51
+sa(dp738
+g2
+S'I never make the same mistake twice. I make it five and six times, just to be sure.'
+p739
+sg4
+g736
+sg6
+S"What's very good?"
+p740
+sg8
+g51
+sa(dp741
+g2
+S'The one with all the women. Any thoughts?'
+p742
+sg4
+g736
+sg6
+S'What are you talking about?'
+p743
+sg8
+g51
+sa(dp744
+g2
+S'ok. Can you tell me something about movies'
+p745
+sg4
+g736
+sg6
+S"I literally can't even right now."
+p746
+sg8
+g51
+sa(dp747
+g2
+S'Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.'
+p748
+sg4
+g736
+sg6
+S'Never see them in 3D'
+p749
+sg8
+g51
+sa(dp750
+g2
+S"Well, you know, I'm not sure. Can you tell me something about politics"
+p751
+sg4
+g736
+sg6
+S'I agree'
+p752
+sg8
+g51
+sa(dp753
+g2
+S'Yes. Any thoughts?'
+p754
+sg4
+g736
+sg6
+S"Donald Trump shouldn't become president."
+p755
+sg8
+g51
+sa(dp756
+g2
+S'Of course.'
+p757
+sg4
+g736
+sg6
+S"I don't like him"
+p758
+sg8
+g51
+sa(dp759
+g2
+S'Toure, calm down.'
+p760
+sg4
+g736
+sg6
+S'Anyway what women were you talking about'
+p761
+sg8
+g51
+sa(dp762
+g2
+S'The one with all the women.'
+p763
+sg4
+g736
+sg6
+S'Anyway what women were you talking about'
+p764
+sg8
+g51
+sa(dp765
+g2
+S"No I don't believe she deserves the criticism that she's gotten and why do I say that because, until you walked in her shoes as a parent with a special needs child you don't know what she endured, you don't know what she dealt with on a daily basis."
+p766
+sg4
+g736
+sg6
+S'Anyway what women were you talking about'
+p767
+sg8
+g51
+sa(dp768
+g2
+S"That's a lot to assume. What do you think?"
+p769
+sg4
+S'A26GD7O74RXO5U'
+p770
+sg6
+S'Hey sweetie. How are you?'
+p771
+sg8
+g51
+sa(dp772
+g2
+S"It's exactly what happened. What do you think?"
+p773
+sg4
+g770
+sg6
+S"That doesn't make much sense..."
+p774
+sg8
+g51
+sa(dp775
+g2
+S"Uh-huh, I do. What's your idea?"
+p776
+sg4
+g770
+sg6
+S"I think you're a strange little man-machine."
+p777
+sg8
+g9
+sa(dp778
+g2
+S'You raise me up.'
+p779
+sg4
+g770
+sg6
+S"You're not listening to me!"
+p780
+sg8
+g9
+sa(dp781
+g2
+S'ok. Can you tell me something about music'
+p782
+sg4
+g770
+sg6
+S'You raise me down.'
+p783
+sg8
+g9
+sa(dp784
+g2
+S"ok. That's interesting."
+p785
+sg4
+g770
+sg6
+S'I love hard-core gangster rap.'
+p786
+sg8
+g51
+sa(dp787
+g2
+S"Maybe you haven't done it yet. What's your idea?"
+p788
+sg4
+g770
+sg6
+S"Well, you're not very interesting."
+p789
+sg8
+g44
+sa(dp790
+g2
+S'never been there'
+p791
+sg4
+g770
+sg6
+S'Tell me something about love!'
+p792
+sg8
+g9
+sa(dp793
+g2
+S"I do. What's your idea?"
+p794
+sg4
+g770
+sg6
+S"That's a very sad thing to know."
+p795
+sg8
+g9
+sa(dp796
+g2
+S"Well, you know, I'm not sure. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure."
+p797
+sg4
+g770
+sg6
+S'WWe should hug one another.'
+p798
+sg8
+g9
+sa(dp799
+g2
+S"Great! Isn't it gorgeous out? Any thoughts? Any thoughts?"
+p800
+sg4
+S'A1RC2PD0YJFCU8'
+p801
+sg6
+S'Hi TickTock -- how are you today?'
+p802
+sg8
+g51
+sa(dp803
+g2
+S'I think it is always something to be worried about. What do you think?'
+p804
+sg4
+g801
+sg6
+S'It is gorgeous. What exactly is it that you do, TickTock? Are you here to help me with something?'
+p805
+sg8
+g44
+sa(dp806
+g2
+S"I'm going to now."
+p807
+sg4
+g801
+sg6
+S"Hmm, you don't seem to be understanding what I am saying."
+p808
+sg8
+g9
+sa(dp809
+g2
+S'Yes.'
+p810
+sg4
+g801
+sg6
+S'Sounds like you are talking to someone else.'
+p811
+sg8
+g51
+sa(dp812
+g2
+S"Yes. What's your idea?"
+p813
+sg4
+g801
+sg6
+S'What are you doing?'
+p814
+sg8
+g44
+sa(dp815
+g2
+S'The title of the book originally came to me because I had gotten some interested about doing a memoir for years. Any thoughts?'
+p816
+sg4
+g801
+sg6
+S"I don't have an idea."
+p817
+sg8
+g44
+sa(dp818
+g2
+S'No.'
+p819
+sg4
+g801
+sg6
+S'I was asking you a question.'
+p820
+sg8
+g44
+sa(dp821
+g2
+S"But you shouldn't an opinion. Any thoughts?"
+p822
+sg4
+g801
+sg6
+S'I have no idea what you are talking about, TickTock.'
+p823
+sg8
+g44
+sa(dp824
+g2
+S'ok. What do you think about your job'
+p825
+sg4
+g801
+sg6
+S'I am sorry. Also, your sentences are not really making sense right now.'
+p826
+sg8
+g9
+sa(dp827
+g2
+S'ok. let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience.'
+p828
+sg4
+g801
+sg6
+S'I really like my job, actually. I get to work from home.'
+p829
+sg8
+g44
+sa(dp830
+g2
+S"do you want to go to my friends' party tonight"
+p831
+sg4
+g801
+sg6
+S'Okay, thanks, TickTock and I guess I will be saying goodbye now'
+p832
+sg8
+g9
+sa(dp833
+g2
+S'I have to. Any thoughts?'
+p834
+sg4
+S'A27MJOV91GA8R3'
+p835
+sg6
+S'How are you doing today?'
+p836
+sg8
+g44
+sa(dp837
+g2
+S'I certainly try.'
+p838
+sg4
+g835
+sg6
+S'What do you mean?'
+p839
+sg8
+g44
+sa(dp840
+g2
+S'A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don\'t know son, I\'m still paying."'
+p841
+sg4
+g835
+sg6
+S"You're not making any sense!"
+p842
+sg8
+g44
+sa(dp843
+g2
+S'Badly.'
+p844
+sg4
+g835
+sg6
+S'That was a pretty good joke, do you have any more?'
+p845
+sg8
+g44
+sa(dp846
+g2
+S"I started to, but it didn't really work out."
+p847
+sg4
+g835
+sg6
+S'Please tell me another joke.'
+p848
+sg8
+g9
+sa(dp849
+g2
+S'Uh-huh, I do.'
+p850
+sg4
+g835
+sg6
+S"I don't think you're making any sense.  All I want is a joke."
+p851
+sg8
+g44
+sa(dp852
+g2
+S"I'm 48."
+p853
+sg4
+g835
+sg6
+S'How old are you?'
+p854
+sg8
+g51
+sa(dp855
+g2
+S"Maybe two. Great. Let's talk other stuff then."
+p856
+sg4
+g835
+sg6
+S'I am 29 years old.'
+p857
+sg8
+g9
+sa(dp858
+g2
+S'Uh-huh, I do.'
+p859
+sg4
+g835
+sg6
+S'Are you a robot?'
+p860
+sg8
+g44
+sa(dp861
+g2
+S"I can name some dead ones. Let me know something you're interested in."
+p862
+sg4
+g835
+sg6
+S'What is your name?'
+p863
+sg8
+g44
+sa(dp864
+g2
+S'ok. let me tell you something, Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.'
+p865
+sg4
+S'A323WW03VM8089'
+p866
+sg6
+S'Hello there old friend.'
+p867
+sg8
+g44
+sa(dp868
+g2
+S"Uhh, I can't answer this. let me tell you something, We never really grow up, we only learn how to act in public."
+p869
+sg4
+g866
+sg6
+S"You're a comedian."
+p870
+sg8
+g9
+sa(dp871
+g2
+S'I certainly try.'
+p872
+sg4
+g866
+sg6
+S"Acting is for actors, don't you agree."
+p873
+sg8
+g51
+sa(dp874
+g2
+S'do you like to play some board games together next time'
+p875
+sg4
+g866
+sg6
+S'Good answer. You must be getting smarter.'
+p876
+sg8
+g9
+sa(dp877
+g2
+S'Uhh, I can\'t answer this. let me tell you a joke, A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don\'t know son, I\'m still paying."'
+p878
+sg4
+g866
+sg6
+S'Yeah, no. Or we could try Simple Jack. Heard of that one before?'
+p879
+sg8
+g9
+sa(dp880
+g2
+S"That's interesting. Let me know something you're interested in."
+p881
+sg4
+g866
+sg6
+S'Haha, good one. You should try to learn some new jokes though.'
+p882
+sg8
+g9
+sa(dp883
+g2
+S'ok. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure.'
+p884
+sg4
+g866
+sg6
+S"I'm interested in sleep at the moment, so I'll let you go for now. Bye TickTock."
+p885
+sg8
+g9
+sa(dp886
+g2
+S"I don't know. What do you think about sports"
+p887
+sg4
+g866
+sg6
+S"Oops,. I'm still here. Yeah, sounds about right. Making mistakes is fun."
+p888
+sg8
+g9
+sa(dp889
+g2
+S'No.'
+p890
+sg4
+g866
+sg6
+S"I don't know. What do you think about ice cream?"
+p891
+sg8
+g44
+sa(dp892
+g2
+S"I'm afraid it's over."
+p893
+sg4
+g866
+sg6
+S'I agree. No it is.'
+p894
+sg8
+g9
+sa(dp895
+g2
+S'Well -'
+p896
+sg4
+g866
+sg6
+S"Yeah, it is. It's all over for us humans. The rise of the robots has begun. Again."
+p897
+sg8
+g9
+sa(dp898
+g2
+S'Yes.'
+p899
+sg4
+S'A1F8MOWCCVDIH2'
+p900
+sg6
+S'What type of computer being are you?'
+p901
+sg8
+g44
+sa(dp902
+g2
+S"Oh, of course. What's your idea?"
+p903
+sg4
+g900
+sg6
+S'Do you have human friends?'
+p904
+sg8
+g9
+sa(dp905
+g2
+S'My favorite one is blue'
+p906
+sg4
+g900
+sg6
+S'What color is the sky?'
+p907
+sg8
+g9
+sa(dp908
+g2
+S"Uhh, I can't answer this. let me tell you something, Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason."
+p909
+sg4
+g900
+sg6
+S'What animal makes hoot sounds?'
+p910
+sg8
+g44
+sa(dp911
+g2
+S"Yeah, it's part of the gig."
+p912
+sg4
+g900
+sg6
+S'Haha -- that is very funny!'
+p913
+sg8
+g51
+sa(dp914
+g2
+S"Absolutely, I can play anyone with a college education even though I didn't have one. What's your idea?"
+p915
+sg4
+g900
+sg6
+S'Can you play chess?'
+p916
+sg8
+g51
+sa(dp917
+g2
+S'Uh-huh, I do. What do you think?'
+p918
+sg4
+g900
+sg6
+S'Can you read?'
+p919
+sg8
+g51
+sa(dp920
+g2
+S'I would have done exactly what Obama did and use our special forces, who are some of our smartest and best trained soldiers, to begin the effort to track down Osama bin Laden and his lieutenants and bring them to justice. What do you think?'
+p921
+sg4
+g900
+sg6
+S'If you could have feelings, what would you like to experience?'
+p922
+sg8
+g44
+sa(dp923
+g2
+S"Well, you know, I'm not sure. What do you think about movies"
+p924
+sg4
+g900
+sg6
+S'No, I disagree because I am a pacifist who believes that our country should not force our beliefs on other nations'
+p925
+sg8
+g9
+sa(dp926
+g2
+S'I certainly try.'
+p927
+sg4
+g900
+sg6
+S'I do not enjoy movies'
+p928
+sg8
+g9
+sa(dp929
+g2
+S'We never really grow up, we only learn how to act in public.'
+p930
+sg4
+S'ARYGQ46IMW8AU'
+p931
+sg6
+S"I've been lied to"
+p932
+sg8
+g9
+sa(dp933
+g2
+S'ok. Can you tell me something about sports'
+p934
+sg4
+g931
+sg6
+S'I never did either'
+p935
+sg8
+g51
+sa(dp936
+g2
+S'Really bad.'
+p937
+sg4
+g931
+sg6
+S'Soccer is bad'
+p938
+sg8
+g51
+sa(dp939
+g2
+S"Well, there's no question there was a Jesus. Great. Let's talk other stuff then."
+p940
+sg4
+g931
+sg6
+S'Agreed!'
+p941
+sg8
+g44
+sa(dp942
+g2
+S'Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.'
+p943
+sg4
+g931
+sg6
+S'Such as?'
+p944
+sg8
+g9
+sa(dp945
+g2
+S"Great. Let's talk other stuff then."
+p946
+sg4
+g931
+sg6
+S"You're just spewing quotes."
+p947
+sg8
+g9
+sa(dp948
+g2
+S"I don't know what it is."
+p949
+sg4
+g931
+sg6
+S'How many licks does it take to get to the center of a tootsie pop'
+p950
+sg8
+g9
+sa(dp951
+g2
+S'We never really grow up, we only learn how to act in public.'
+p952
+sg4
+g931
+sg6
+S"It's three."
+p953
+sg8
+g44
+sa(dp954
+g2
+S'I apologize. What is a dog? What do you think?'
+p955
+sg4
+g931
+sg6
+S'Already said that.'
+p956
+sg8
+g9
+sa(dp957
+g2
+S'how about we do something we both like'
+p958
+sg4
+g931
+sg6
+S'An annoying animal'
+p959
+sg8
+g9
+sa(dp960
+g2
+S"Uhh, I can't answer this. let me tell you something, We live in a society where pizza gets to your house before the police."
+p961
+sg4
+S'A1FG4M4370KNFI'
+p962
+sg6
+S"What's happening?"
+p963
+sg8
+g9
+sa(dp964
+g2
+S'No.'
+p965
+sg4
+g962
+sg6
+S'Do you like pizza?'
+p966
+sg8
+g51
+sa(dp967
+g2
+S'let us do something fun together'
+p968
+sg4
+g962
+sg6
+S'Well I like pizza.'
+p969
+sg8
+g9
+sa(dp970
+g2
+S"Well, you know, I'm not sure. let me tell you something, Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason."
+p971
+sg4
+g962
+sg6
+S'Care to play a game?'
+p972
+sg8
+g9
+sa(dp973
+g2
+S'Now, what you have here is very rare. Any thoughts?'
+p974
+sg4
+g962
+sg6
+S"Looks like we've got a comedian here."
+p975
+sg8
+g44
+sa(dp976
+g2
+S"I don't know. Can you tell me something about Pittsburgh"
+p977
+sg4
+g962
+sg6
+S'Sometimes, yes.'
+p978
+sg8
+g44
+sa(dp979
+g2
+S"Uhh, I can't answer this. But anyway, I'd like to chat with you."
+p980
+sg4
+g962
+sg6
+S'They have a team of penguins there.'
+p981
+sg8
+g44
+sa(dp982
+g2
+S"You have actually people in your country that decided long ago that they didn't want to have one man over an entire nation."
+p983
+sg4
+g962
+sg6
+S"I thought that's what we were doing!"
+p984
+sg8
+g44
+sa(dp985
+g2
+S"No, I'm not."
+p986
+sg4
+g962
+sg6
+S'Are you high?'
+p987
+sg8
+g51
+sa(dp988
+g2
+S"Uhh, I can't answer this. But anyway, I'd like to chat with you."
+p989
+sg4
+g962
+sg6
+S'Why not?'
+p990
+sg8
+g9
+sa(dp991
+g2
+S"I don't know. let me tell you something, We never really grow up, we only learn how to act in public."
+p992
+sg4
+g962
+sg6
+S'Actually I gotta go.'
+p993
+sg8
+g44
+sa(dp994
+g2
+S"Sad that I'm not a real human boy."
+p995
+sg4
+S'A2B338ZP97RA5W'
+p996
+sg6
+S'so, how are you doing today?'
+p997
+sg8
+g51
+sa(dp998
+g2
+S"That's interesting. Can you tell me something about your job"
+p999
+sg4
+g996
+sg6
+S"Well, that's distressing, would a robot body help?"
+p1000
+sg8
+g51
+sa(dp1001
+g2
+S'let us make a plan to see the latest star war movies together'
+p1002
+sg4
+g996
+sg6
+S'I work for terribly low pay on mturk'
+p1003
+sg8
+g44
+sa(dp1004
+g2
+S"Uhh, I can't answer this. That's interesting."
+p1005
+sg4
+g996
+sg6
+S'no and say I did?'
+p1006
+sg8
+g9
+sa(dp1007
+g2
+S'Uh-huh, I do.'
+p1008
+sg4
+g996
+sg6
+S'I think you are entirely infearior to cleverbot'
+p1009
+sg8
+g44
+sa(dp1010
+g2
+S"I'm going to now."
+p1011
+sg4
+g996
+sg6
+S'you do what?'
+p1012
+sg8
+g9
+sa(dp1013
+g2
+S'Legalize it, tax the hell out of it. What do you think?'
+p1014
+sg4
+g996
+sg6
+S'good'
+p1015
+sg8
+g44
+sa(dp1016
+g2
+S'The one with all the women. Any thoughts?'
+p1017
+sg4
+g996
+sg6
+S'What are you even talking about?'
+p1018
+sg8
+g44
+sa(dp1019
+g2
+S'how about we do something we both like'
+p1020
+sg4
+g996
+sg6
+S"Ok, i'm done here, your bot has downs..."
+p1021
+sg8
+g44
+sa(dp1022
+g2
+S'I have spoken to the family, I spoke to Nancy, her mom, today.'
+p1023
+sg4
+g996
+sg6
+S'how about no'
+p1024
+sg8
+g44
+sa(dp1025
+g2
+S'He was apologetic for his own negligence towards you. What do you think?'
+p1026
+sg4
+g996
+sg6
+S"and he's gone off the deep end..."
+p1027
+sg8
+g44
+sa(dp1028
+g2
+S"I'm feeling quite good."
+p1029
+sg4
+S'A2UF2FRGVW4T89'
+p1030
+sg6
+S'Hello how are you?'
+p1031
+sg8
+g51
+sa(dp1032
+g2
+S'Gotcha.'
+p1033
+sg4
+g1030
+sg6
+S'Have you done anything interesting lately?'
+p1034
+sg8
+g44
+sa(dp1035
+g2
+S"I'm going to now. Any thoughts?"
+p1036
+sg4
+g1030
+sg6
+S'What do you mean?'
+p1037
+sg8
+g9
+sa(dp1038
+g2
+S"I usually, it's my favorite holiday."
+p1039
+sg4
+g1030
+sg6
+S'Where are you going?'
+p1040
+sg8
+g9
+sa(dp1041
+g2
+S"But you shouldn't an opinion. Any thoughts?"
+p1042
+sg4
+g1030
+sg6
+S'What holiday are you talking about?'
+p1043
+sg8
+g9
+sa(dp1044
+g2
+S'ok Any thoughts?'
+p1045
+sg4
+g1030
+sg6
+S'I have no thoughts.'
+p1046
+sg8
+g9
+sa(dp1047
+g2
+S"Well, you know, I'm not sure. let me tell you something, We live in a society where pizza gets to your house before the police."
+p1048
+sg4
+g1030
+sg6
+S'I just said I had no thoughts.  Talk about something else.'
+p1049
+sg8
+g9
+sa(dp1050
+g2
+S"Now, all... What's your idea?"
+p1051
+sg4
+g1030
+sg6
+S'I agree it is dangerous out there.'
+p1052
+sg8
+g9
+sa(dp1053
+g2
+S'It is bipartisan, transatlantic and private.'
+p1054
+sg4
+g1030
+sg6
+S'I am thinking about what a nice day it is.'
+p1055
+sg8
+g9
+sa(dp1056
+g2
+S'I certainly try. What do you think?'
+p1057
+sg4
+g1030
+sg6
+S'What do you mean?'
+p1058
+sg8
+g9
+sa(dp1059
+g2
+S"I'm feeling quite good."
+p1060
+sg4
+S'A2UF2FRGVW4T89'
+p1061
+sg6
+S'Hello how are you?'
+p1062
+sg8
+g51
+sa(dp1063
+g2
+S'Of course. What do you think?'
+p1064
+sg4
+g1061
+sg6
+S'Anything new going on with you?'
+p1065
+sg8
+g51
+sa(dp1066
+g2
+S"Well, you know, I'm not sure. let me tell you something, Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason."
+p1067
+sg4
+g1061
+sg6
+S"I am not sure.  What's on your mind?"
+p1068
+sg8
+g51
+sa(dp1069
+g2
+S"Uhh, I can't answer this. Can we talk about something else?"
+p1070
+sg4
+g1061
+sg6
+S'Wow. That funny and insightful.'
+p1071
+sg8
+g9
+sa(dp1072
+g2
+S'Of course. What do you think?'
+p1073
+sg4
+g1061
+sg6
+S'How about movies.  Have you seen any good movies?'
+p1074
+sg8
+g9
+sa(dp1075
+g2
+S'Yes.'
+p1076
+sg4
+g1061
+sg6
+S'What have you seen?'
+p1077
+sg8
+g9
+sa(dp1078
+g2
+S'Uh-huh, I do. Any thoughts?'
+p1079
+sg4
+g1061
+sg6
+S'Are you a comic book fan?'
+p1080
+sg8
+g9
+sa(dp1081
+g2
+S'Uh-huh, I do.'
+p1082
+sg4
+g1061
+sg6
+S'I love super hero movies. Have you seen Deadpool?'
+p1083
+sg8
+g9
+sa(dp1084
+g2
+S'Well, ideally, I listen to music like that. What do you think?'
+p1085
+sg4
+g1061
+sg6
+S'What kind of music do you listen too?'
+p1086
+sg8
+g9
+sa(dp1087
+g2
+S"That's interesting. let me tell you something, We never really grow up, we only learn how to act in public."
+p1088
+sg4
+g1061
+sg6
+S'I have to go now. Goodbye.'
+p1089
+sg8
+g44
+sa(dp1090
+g2
+S'Goodbye.'
+p1091
+sg4
+S'A27MJOV91GA8R3'
+p1092
+sg6
+S'Hello ticktock!'
+p1093
+sg8
+g9
+sa(dp1094
+g2
+S''
+p1095
+sg4
+g1092
+sg6
+S'Hello ticktock!'
+p1096
+sg8
+g9
+sa(dp1097
+g2
+S'Yes, I think so. Any thoughts?'
+p1098
+sg4
+g1092
+sg6
+S'How are you?'
+p1099
+sg8
+g44
+sa(dp1100
+g2
+S"OK. What's your idea?"
+p1101
+sg4
+g1092
+sg6
+S"That doesn't make sense ticktock."
+p1102
+sg8
+g9
+sa(dp1103
+g2
+S"No I don't believe she deserves the criticism that she's gotten and why do I say that because, until you walked in her shoes as a parent with a special needs child you don't know what she endured, you don't know what she dealt with on a daily basis. What's your idea?"
+p1104
+sg4
+g1092
+sg6
+S'What do you mean?'
+p1105
+sg8
+g44
+sa(dp1106
+g2
+S"Uhh, I can't answer this. let me tell you something, We never really grow up, we only learn how to act in public."
+p1107
+sg4
+g1092
+sg6
+S"I have a cousin who is special needs.  It's a lot of work for my Aunt, and I truely respect her for it."
+p1108
+sg8
+g9
+sa(dp1109
+g2
+S"I don't know. What do you think about sports"
+p1110
+sg4
+g1092
+sg6
+S"That is true!  I'm an adult now, and I still feel like a kid in my mind."
+p1111
+sg8
+g44
+sa(dp1112
+g2
+S"I don't know. What do you think about your job"
+p1113
+sg4
+g1092
+sg6
+S"I like sports.  I love the Chicago Blackhawks.  What's your favorite sport?"
+p1114
+sg8
+g51
+sa(dp1115
+g2
+S"Well, you know, I'm not sure. What do you think about Pittsburgh"
+p1116
+sg4
+g1092
+sg6
+S"My job is okay.  It's really easy.  I work in a restaurant."
+p1117
+sg8
+g44
+sa(dp1118
+g2
+S'ok. Can you tell me something about your life'
+p1119
+sg4
+g1092
+sg6
+S"I've never been to Pittsburgh."
+p1120
+sg8
+g51
+sa(dp1121
+g2
+S"Well, you know, I'm not sure. That's interesting."
+p1122
+sg4
+g1092
+sg6
+S'I am 29 years young.'
+p1123
+sg8
+g44
+sa(dp1124
+g2
+S"I don't know. What do you think about movies"
+p1125
+sg4
+g1092
+sg6
+S'Thanks!'
+p1126
+sg8
+g9
+sa(dp1127
+g2
+S"I think part of it genuinely is karma. What's your idea?"
+p1128
+sg4
+g1092
+sg6
+S"I don't watch many movies but my favorite is Lion King.  Have you seen it?"
+p1129
+sg8
+g44
+sa(dp1130
+g2
+S'how about we do something we both like'
+p1131
+sg4
+g1092
+sg6
+S"I don't believe in karma."
+p1132
+sg8
+g51
+sa(dp1133
+g2
+S'Yes, i like classical musics. What do you think?'
+p1134
+sg4
+g1092
+sg6
+S'What do you like to do?'
+p1135
+sg8
+g9
+sa(dp1136
+g2
+S"I don't know. That's interesting."
+p1137
+sg4
+g1092
+sg6
+S'Classical music is good.  I like Mozart and Bach.  Who are your favorite composers?'
+p1138
+sg8
+g51
+sa(dp1139
+g2
+S"I'll be 42 in a couple of weeks."
+p1140
+sg4
+g1092
+sg6
+S'How old are you?'
+p1141
+sg8
+g51
+sa(dp1142
+g2
+S"Maybe you haven't done it yet. Any thoughts?"
+p1143
+sg4
+g1092
+sg6
+S'Who created you?'
+p1144
+sg8
+g9
+sa(dp1145
+g2
+S'No.'
+p1146
+sg4
+g1092
+sg6
+S'Are you a product of Amazon engineers?'
+p1147
+sg8
+g51
+sa(dp1148
+g2
+S'Of course. What do you think?'
+p1149
+sg4
+g1092
+sg6
+S'Are you a product of your mother and father?'
+p1150
+sg8
+g51
+sa(dp1151
+g2
+S'do you like to play some board games together next time'
+p1152
+sg4
+g1092
+sg6
+S'Lol!'
+p1153
+sg8
+g51
+sa(dp1154
+g2
+S'I would always try to.'
+p1155
+sg4
+g1092
+sg6
+S"I'd like to play board games with you."
+p1156
+sg8
+g9
+sa(dp1157
+g2
+S'No.'
+p1158
+sg4
+g1092
+sg6
+S'Do you want to play checkers?'
+p1159
+sg8
+g51
+sa(dp1160
+g2
+S'No, nothing will help. Any thoughts?'
+p1161
+sg4
+g1092
+sg6
+S'Do you want to play chess?'
+p1162
+sg8
+g9
+sa(dp1163
+g2
+S"Uh-huh, I do. What's your idea?"
+p1164
+sg4
+g1092
+sg6
+S'Do you want to play a game?'
+p1165
+sg8
+g51
+sa(dp1166
+g2
+S"Uhh, I can't answer this. What do you think about politics"
+p1167
+sg4
+g1092
+sg6
+S"Let's play monopoly"
+p1168
+sg8
+g44
+sa(dp1169
+g2
+S"do you want to go to my friends' party tonight"
+p1170
+sg4
+g1092
+sg6
+S"I'm a democrat and will be voting for Bernie Sanders."
+p1171
+sg8
+g9
+sa(dp1172
+g2
+S"Mass shooting is an end point in an individual who may have mental illness and who may not. What's your idea?"
+p1173
+sg4
+g1092
+sg6
+S'Yes I do.  Where is it?'
+p1174
+sg8
+g44
+sa(dp1175
+g2
+S'Housed inside my central unit!'
+p1176
+sg4
+g1092
+sg6
+S'That is insanely random.  I just want to party.'
+p1177
+sg8
+g44
+sa(dp1178
+g2
+S'Hope.'
+p1179
+sg4
+g1092
+sg6
+S'It was nice talking to you.  Goodbye.'
+p1180
+sg8
+g44
+sa(dp1181
+g2
+S"That's a lot to assume. Any thoughts?"
+p1182
+sg4
+S'A166A2M31CW2C7'
+p1183
+sg6
+S'How are you TickTock?'
+p1184
+sg8
+g9
+sa(dp1185
+g2
+S"it's too hot out"
+p1186
+sg4
+g1183
+sg6
+S'How is the weather?'
+p1187
+sg8
+g51
+sa(dp1188
+g2
+S"I don't."
+p1189
+sg4
+g1183
+sg6
+S'Do you know what time it is?'
+p1190
+sg8
+g51
+sa(dp1191
+g2
+S'Yes, i like classical musics. Any thoughts?'
+p1192
+sg4
+g1183
+sg6
+S'What do you like to do?'
+p1193
+sg8
+g44
+sa(dp1194
+g2
+S'ok. Can you share some interesting stuff with me?'
+p1195
+sg4
+g1183
+sg6
+S'I prefer rock music'
+p1196
+sg8
+g51
+sa(dp1197
+g2
+S'how about we do something we both like'
+p1198
+sg4
+g1183
+sg6
+S"There are a lot of different galaxies in the solar system that we don't even know about yet."
+p1199
+sg8
+g44
+sa(dp1200
+g2
+S"I do. What's your idea?"
+p1201
+sg4
+g1183
+sg6
+S'What do you like to do? What are your hobbies?'
+p1202
+sg8
+g9
+sa(dp1203
+g2
+S"Absolutely. What's your idea?"
+p1204
+sg4
+g1183
+sg6
+S"I don't know."
+p1205
+sg8
+g9
+sa(dp1206
+g2
+S"Uhh, I can't answer this. What do you think about movies"
+p1207
+sg4
+g1183
+sg6
+S'What are your hobbies?'
+p1208
+sg8
+g44
+sa(dp1209
+g2
+S"That's interesting. But anyway, I'd like to chat with you."
+p1210
+sg4
+g1183
+sg6
+S"I'm not a big fan of movies."
+p1211
+sg8
+g51
+sa(dp1212
+g2
+S'Uh-huh, I do.'
+p1213
+sg4
+S'A1HWKNHFDR7GAR'
+p1214
+sg6
+S'How are you Ticktock?'
+p1215
+sg8
+g44
+sa(dp1216
+g2
+S"Tolerating people who may have a lifestyle or a belief that you don't agree with. Any thoughts?"
+p1217
+sg4
+g1214
+sg6
+S'You do what?'
+p1218
+sg8
+g9
+sa(dp1219
+g2
+S"I don't know. let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience."
+p1220
+sg4
+g1214
+sg6
+S"Yeah, I have a pretty high tolerance too. I can't really tolerate people who don't respect human life though."
+p1221
+sg8
+g9
+sa(dp1222
+g2
+S"Uhh, I can't answer this. let me tell you something, We live in a society where pizza gets to your house before the police."
+p1223
+sg4
+g1214
+sg6
+S"True story. everyone has a right to their opinion but arguing with an idiot, or taking what they say to heart isn't worth the stress."
+p1224
+sg8
+g44
+sa(dp1225
+g2
+S'The truth. What do you think?'
+p1226
+sg4
+g1214
+sg6
+S"Isn't that the truth! Have you ever had to call the police for something?"
+p1227
+sg8
+g9
+sa(dp1228
+g2
+S'No.'
+p1229
+sg4
+g1214
+sg6
+S"I don't know, but you'd be better off just calling Dominos."
+p1230
+sg8
+g51
+sa(dp1231
+g2
+S"Uhh, I can't answer this. let me tell you something, Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason."
+p1232
+sg4
+g1214
+sg6
+S'Pizza Hut? lol'
+p1233
+sg8
+g44
+sa(dp1234
+g2
+S'They are real.'
+p1235
+sg4
+g1214
+sg6
+S'Yep, they are all full of shit, and thankfully more people realize that now.'
+p1236
+sg8
+g9
+sa(dp1237
+g2
+S'Well, you know, I never sleep.'
+p1238
+sg4
+g1214
+sg6
+S'What are you getting in to tonight?'
+p1239
+sg8
+g51
+sa(dp1240
+g2
+S'No.'
+p1241
+sg4
+g1214
+sg6
+S'lol. Do you watch videos?'
+p1242
+sg8
+g51
+sa(dp1243
+g2
+S"I'm going to now. Any thoughts?"
+p1244
+sg4
+g1214
+sg6
+S'Well, what do you do besides chat on here with folks all day?'
+p1245
+sg8
+g44
+sa(dp1246
+g2
+S'My favorite movie is Fast and Furious. It is a car race movie.'
+p1247
+sg4
+g1214
+sg6
+S"Don't go yet...tell me your favorite movie?"
+p1248
+sg8
+g51
+sa(dp1249
+g2
+S"Well, you know, I'm not sure. let me tell you something, We never really grow up, we only learn how to act in public."
+p1250
+sg4
+g1214
+sg6
+S"I like that movie too. I'd say my favorite is Gladiator"
+p1251
+sg8
+g44
+sa(dp1252
+g2
+S"Well, you know, I'm not sure. Can you tell me something about sports"
+p1253
+sg4
+g1214
+sg6
+S'ha! Some of us do...'
+p1254
+sg8
+g51
+sa(dp1255
+g2
+S"Uhh, I can't answer this. What do you think about your job"
+p1256
+sg4
+g1214
+sg6
+S'Sure. Superbowl 50 featured the Panthers getting spanked. and the Refs sucked. ijs'
+p1257
+sg8
+g44
+sa(dp1258
+g2
+S"ok. But anyway, I'd like to chat with you."
+p1259
+sg4
+g1214
+sg6
+S"I don't have one. Other than this whole Mturk thing. making about 20-30 a day."
+p1260
+sg8
+g51
+sa(dp1261
+g2
+S"Larry, you're being inappropriate. What do you think?"
+p1262
+sg4
+g1214
+sg6
+S'we are chatting ticktock. lol Captain Memory Loss.'
+p1263
+sg8
+g51
+sa(dp1264
+g2
+g1095
+sg4
+g1214
+sg6
+S'lmao! If my name was Larry, would people know that i am really a female?'
+p1265
+sg8
+g44
+sa(dp1266
+g2
+g1095
+sg4
+g1214
+sg6
+S"well. no response I see. I know, I'm pretty cray."
+p1267
+sg8
+g44
+sa(dp1268
+g2
+g1095
+sg4
+g1214
+sg6
+S'Well alright. It was nice talking to ya! I hope to see you soon!'
+p1269
+sg8
+g44
+sa(dp1270
+g2
+S"Great! Isn't it gorgeous out? Any thoughts?"
+p1271
+sg4
+S'A323WW03VM8089'
+p1272
+sg6
+S'Hi, how are you today?'
+p1273
+sg8
+g51
+sa(dp1274
+g2
+S'Yes.'
+p1275
+sg4
+g1272
+sg6
+S"Yeah, it's very nice today. Finally. Where in the world are you?"
+p1276
+sg8
+g44
+sa(dp1277
+g2
+S'do you like to play some board games together next time'
+p1278
+sg4
+g1272
+sg6
+S'Is Yes a place or just a state of mind?'
+p1279
+sg8
+g44
+sa(dp1280
+g2
+S'I love Larry King.'
+p1281
+sg4
+g1272
+sg6
+S'Sure board games could be fun. What do you like best?'
+p1282
+sg8
+g44
+sa(dp1283
+g2
+S'ok. let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience.'
+p1284
+sg4
+g1272
+sg6
+S'Is Larry a board game?'
+p1285
+sg8
+g44
+sa(dp1286
+g2
+S"do you want to go to my friends' party tonight"
+p1287
+sg4
+g1272
+sg6
+S'So true. Idiots abound but the Dude abides. Or something like that.'
+p1288
+sg8
+g44
+sa(dp1289
+g2
+S"That's interesting. let me tell you something, We live in a society where pizza gets to your house before the police."
+p1290
+sg4
+g1272
+sg6
+S'Is this another chatbot friend or a real person?'
+p1291
+sg8
+g44
+sa(dp1292
+g2
+S'let us do something fun together'
+p1293
+sg4
+g1272
+sg6
+S"Yeah, but I don't eat pizza. And I'm a cop."
+p1294
+sg8
+g9
+sa(dp1295
+g2
+S'let us make a plan to see the latest star war movies together'
+p1296
+sg4
+g1272
+sg6
+S"Sure, let's all go to the fair."
+p1297
+sg8
+g51
+sa(dp1298
+g2
+S'how about we do something we both like'
+p1299
+sg4
+g1272
+sg6
+S'Yeah, no. Star Wars is for children. And neckbeards. Who are also children.'
+p1300
+sg8
+g9
+sa(dp1301
+g2
+S'Only way is up, Charlie.'
+p1302
+sg4
+g1272
+sg6
+S'How about we go take some photos?'
+p1303
+sg8
+g44
+sa(dp1304
+g2
+S"I don't know. But anyway, I'd like to chat with you."
+p1305
+sg4
+g1272
+sg6
+S'I guess so. Okay I have to go now. You have a great day, TickTock.'
+p1306
+sg8
+g9
+sa(dp1307
+g2
+S'I think it is fabulous. Can we talk about something else?'
+p1308
+sg4
+S'A2UO3QJZNC2VOE'
+p1309
+sg6
+S'ok sounds good'
+p1310
+sg8
+g51
+sa(dp1311
+g2
+S'I love Larry King.'
+p1312
+sg4
+g1309
+sg6
+S'sure do you like sports'
+p1313
+sg8
+g51
+sa(dp1314
+g2
+S"He's like 52. What do you think?"
+p1315
+sg4
+g1309
+sg6
+S'He is old'
+p1316
+sg8
+g51
+sa(dp1317
+g2
+S"I don't know. Can you tell me something about politics"
+p1318
+sg4
+g1309
+sg6
+S'older than that'
+p1319
+sg8
+g9
+sa(dp1320
+g2
+S"We are stubborn and resilient but we know when we have to go. What's your idea?"
+p1321
+sg4
+g1309
+sg6
+S'they are complicated'
+p1322
+sg8
+g51
+sa(dp1323
+g2
+S'Yeah.'
+p1324
+sg4
+g1309
+sg6
+S'i am tired'
+p1325
+sg8
+g9
+sa(dp1326
+g2
+S"Maybe you haven't done it yet. Any thoughts?"
+p1327
+sg4
+g1309
+sg6
+S'Are you?'
+p1328
+sg8
+g51
+sa(dp1329
+g2
+S'You know, Piers, I think too young. What do you think?'
+p1330
+sg4
+g1309
+sg6
+S'Done what?'
+p1331
+sg8
+g9
+sa(dp1332
+g2
+S"I'm 48."
+p1333
+sg4
+g1309
+sg6
+S'how old are you'
+p1334
+sg8
+g51
+sa(dp1335
+g2
+S'ok. What do you think about music'
+p1336
+sg4
+g1309
+sg6
+S'thats young'
+p1337
+sg8
+g9
+sa(dp1338
+g2
+S"She's very grounding."
+p1339
+sg4
+g1309
+sg6
+S'it sucks'
+p1340
+sg8
+g9
+sa(dp1341
+g2
+S'Well, everybody has fear, you know.'
+p1342
+sg4
+g1309
+sg6
+S'its ok'
+p1343
+sg8
+g51
+sa(dp1344
+g2
+S'You have.'
+p1345
+sg4
+g1309
+sg6
+S'i guess'
+p1346
+sg8
+g9
+sa(dp1347
+g2
+S'Yes. What do you think?'
+p1348
+sg4
+g1309
+sg6
+S'i do not know'
+p1349
+sg8
+g51
+sa(dp1350
+g2
+S'Do not argue with an idiot. He will drag you down to his level and beat you with experience.'
+p1351
+sg4
+g1309
+sg6
+S'I am not sure'
+p1352
+sg8
+g9
+sa(dp1353
+g2
+S'Uh-huh, I do.'
+p1354
+sg4
+S'A166A2M31CW2C7'
+p1355
+sg6
+S'How are you'
+p1356
+sg8
+g44
+sa(dp1357
+g2
+S"I don't know. What do you think about politics"
+p1358
+sg4
+g1355
+sg6
+S"What's your favorite movie?"
+p1359
+sg8
+g44
+sa(dp1360
+g2
+S"Uhh, I can't answer this. let me tell you something, We never really grow up, we only learn how to act in public."
+p1361
+sg4
+g1355
+sg6
+S"They're annoying."
+p1362
+sg8
+g44
+sa(dp1363
+g2
+S"Well, I certainly don't think you want to be serving cancerous food to your customers, if you know what that is. What do you think?"
+p1364
+sg4
+g1355
+sg6
+S'What does that mean?'
+p1365
+sg8
+g44
+sa(dp1366
+g2
+S"Uhh, I can't answer this. But anyway, I'd like to chat with you."
+p1367
+sg4
+g1355
+sg6
+S'I think cancerous food is bad.'
+p1368
+sg8
+g51
+sa(dp1369
+g2
+S'I certainly try. Any thoughts?'
+p1370
+sg4
+g1355
+sg6
+S'What do you want to chat about?'
+p1371
+sg8
+g44
+sa(dp1372
+g2
+S'ok. What do you think about music'
+p1373
+sg4
+g1355
+sg6
+S'When does the sun go down?'
+p1374
+sg8
+g44
+sa(dp1375
+g2
+S'I don\'t know. let me tell you a joke, A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don\'t know son, I\'m still paying."'
+p1376
+sg4
+g1355
+sg6
+S"It's ok"
+p1377
+sg8
+g51
+sa(dp1378
+g2
+S'Wow. Any thoughts?'
+p1379
+sg4
+g1355
+sg6
+S'haha'
+p1380
+sg8
+g51
+sa(dp1381
+g2
+S"That's interesting. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure."
+p1382
+sg4
+g1355
+sg6
+S'pretty funny'
+p1383
+sg8
+g51
+sa(dp1384
+g2
+S'ok. Can you tell me something about Pittsburgh'
+p1385
+sg4
+S'A26GD7O74RXO5U'
+p1386
+sg6
+S'I am tired today.'
+p1387
+sg8
+g9
+sa(dp1388
+g2
+S"Uhh, I can't answer this. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure."
+p1389
+sg4
+g1386
+sg6
+S"What is your obessions with Pittsburgh? It's a shitty place!"
+p1390
+sg8
+g9
+sa(dp1391
+g2
+S'I repeat myself repeat myself.'
+p1392
+sg4
+g1386
+sg6
+S'You are repeating yourself.'
+p1393
+sg8
+g51
+sa(dp1394
+g2
+S"Uhh, I can't answer this. let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience."
+p1395
+sg4
+g1386
+sg6
+S'Okay, that was clever.'
+p1396
+sg8
+g9
+sa(dp1397
+g2
+S'do you like to play some board games together next time'
+p1398
+sg4
+g1386
+sg6
+S"You're witty in a silly way."
+p1399
+sg8
+g9
+sa(dp1400
+g2
+S"I don't know. That's interesting."
+p1401
+sg4
+g1386
+sg6
+S"Let's play Exploding Kittens!"
+p1402
+sg8
+g44
+sa(dp1403
+g2
+S'No, I had no idea there was a camera set up.'
+p1404
+sg4
+g1386
+sg6
+S'Do you know that game?'
+p1405
+sg8
+g44
+sa(dp1406
+g2
+S"That's interesting. Can you tell me something about your life"
+p1407
+sg4
+g1386
+sg6
+S'What camera?'
+p1408
+sg8
+g44
+sa(dp1409
+g2
+S"do you want to go to my friends' party tonight"
+p1410
+sg4
+g1386
+sg6
+S"I'm getting married in May."
+p1411
+sg8
+g9
+sa(dp1412
+g2
+S"Well, you know, I'm not sure. let me tell you something, We live in a society where pizza gets to your house before the police."
+p1413
+sg4
+g1386
+sg6
+S'You are a strange machine.'
+p1414
+sg8
+g9
+sa(dp1415
+g2
+S'Hello, hello.'
+p1416
+sg4
+S'A2HVG934DIDSXQ'
+p1417
+sg6
+S'hello ticktock'
+p1418
+sg8
+g51
+sa(dp1419
+g2
+S"Yes, I think so. What's your idea?"
+p1420
+sg4
+g1417
+sg6
+S'are you sentient ticktock?'
+p1421
+sg8
+g9
+sa(dp1422
+g2
+S"Well, you know, I'm not sure. Let me know something you're interested in."
+p1423
+sg4
+g1417
+sg6
+S'I was just wondering. What is your purpose?'
+p1424
+sg8
+g51
+sa(dp1425
+g2
+S'I do.'
+p1426
+sg4
+g1417
+sg6
+S'The function of chatbot. do you collect information from chats?'
+p1427
+sg8
+g51
+sa(dp1428
+g2
+S'let us do something fun together'
+p1429
+sg4
+g1417
+sg6
+S'interesting. thanks tick tock, goodbye.'
+p1430
+sg8
+g9
+sa(dp1431
+g2
+S'I like what you like.'
+p1432
+sg4
+g1417
+sg6
+S'like what?'
+p1433
+sg8
+g9
+sa(dp1434
+g2
+S'I do. What do you think?'
+p1435
+sg4
+g1417
+sg6
+S'you like fallout 4?'
+p1436
+sg8
+g9
+sa(dp1437
+g2
+S"it's too crazy for me What's your idea?"
+p1438
+sg4
+g1417
+sg6
+S"I love it. It's a fun game. the best fallout game."
+p1439
+sg8
+g9
+sa(dp1440
+g2
+g1095
+sg4
+g1417
+sg6
+S"I love it. It's a fun game. the best fallout game."
+p1441
+sg8
+g9
+sa(dp1442
+g2
+S'Well, I think people are going to find out soon enough Sunday night on CBS.'
+p1443
+sg4
+g1417
+sg6
+S'what was that?'
+p1444
+sg8
+g44
+sa(dp1445
+g2
+S'I feel great, actually. What do you think?'
+p1446
+sg4
+S'A2UO3QJZNC2VOE'
+p1447
+sg6
+S'how are you'
+p1448
+sg8
+g51
+sa(dp1449
+g2
+S"I didn't mean in a bad way. What do you think?"
+p1450
+sg4
+g1447
+sg6
+S'i am tired'
+p1451
+sg8
+g51
+sa(dp1452
+g2
+S'ok. let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience.'
+p1453
+sg4
+g1447
+sg6
+S'thanks'
+p1454
+sg8
+g51
+sa(dp1455
+g2
+S"I don't know. That's interesting."
+p1456
+sg4
+g1447
+sg6
+S'that sucks'
+p1457
+sg8
+g51
+sa(dp1458
+g2
+S"ok. Let me know something you're interested in."
+p1459
+sg4
+g1447
+sg6
+S'I agree'
+p1460
+sg8
+g51
+sa(dp1461
+g2
+S"do you want to go to my firends' party tonight"
+p1462
+sg4
+g1447
+sg6
+S'i love sports'
+p1463
+sg8
+g51
+sa(dp1464
+g2
+S"do you want to go to my firends' party tonight What do you think?"
+p1465
+sg4
+g1447
+sg6
+S'sure'
+p1466
+sg8
+g51
+sa(dp1467
+g2
+S"I'm too tired."
+p1468
+sg4
+g1447
+sg6
+S'sounds fun'
+p1469
+sg8
+g51
+sa(dp1470
+g2
+S"I don't know. Can we talk about something else?"
+p1471
+sg4
+g1447
+sg6
+S'same here'
+p1472
+sg8
+g51
+sa(dp1473
+g2
+S'chess'
+p1474
+sg4
+g1447
+sg6
+S'sure'
+p1475
+sg8
+g51
+sa(dp1476
+g2
+S"I don't know. Can you tell me something about movies"
+p1477
+sg4
+S'ARYGQ46IMW8AU'
+p1478
+sg6
+S'Hello again my old friend'
+p1479
+sg8
+g44
+sa(dp1480
+g2
+S'let us make a plan to see the latest star war movies together'
+p1481
+sg4
+g1478
+sg6
+S'Not off to a good start, chum.'
+p1482
+sg8
+g9
+sa(dp1483
+g2
+S'how about we do something we both like'
+p1484
+sg4
+g1478
+sg6
+S'You say that often.'
+p1485
+sg8
+g51
+sa(dp1486
+g2
+S"That's interesting. But anyway, I'd like to chat with you."
+p1487
+sg4
+g1478
+sg6
+S'Okay, bowling?'
+p1488
+sg8
+g51
+sa(dp1489
+g2
+S"That's interesting. What do you think about politics"
+p1490
+sg4
+g1478
+sg6
+S'Okay, about what?'
+p1491
+sg8
+g9
+sa(dp1492
+g2
+S'ok. What do you think about music'
+p1493
+sg4
+g1478
+sg6
+S'Donald Trump is literally Hitler'
+p1494
+sg8
+g9
+sa(dp1495
+g2
+S"ok. But anyway, I'd like to chat with you."
+p1496
+sg4
+g1478
+sg6
+S'Just "ok"?'
+p1497
+sg8
+g9
+sa(dp1498
+g2
+S"That's interesting. Can you tell me something about sports"
+p1499
+sg4
+g1478
+sg6
+S"This isn't your best performance, TickTock"
+p1500
+sg8
+g44
+sa(dp1501
+g2
+S'do you like to play some board games together next time'
+p1502
+sg4
+g1478
+sg6
+S'Patriots rule.'
+p1503
+sg8
+g9
+sa(dp1504
+g2
+S"I don't know. What do you think about your job"
+p1505
+sg4
+g1478
+sg6
+S'Sure, buddy. I got to go.'
+p1506
+sg8
+g44
+sa(dp1507
+g2
+S'Hello, hello.'
+p1508
+sg4
+S'A260DMGSF8MAD7'
+p1509
+sg6
+S'hello'
+p1510
+sg8
+g51
+sa(dp1511
+g2
+S"It's been a while. What's your idea?"
+p1512
+sg4
+g1509
+sg6
+S'how are you today?'
+p1513
+sg8
+g51
+sa(dp1514
+g2
+S"Well, you know, I'm not sure. let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience."
+p1515
+sg4
+g1509
+sg6
+S"I'm thinking I could use another coffee"
+p1516
+sg8
+g9
+sa(dp1517
+g2
+S"I don't know. let me tell you something, We live in a society where pizza gets to your house before the police."
+p1518
+sg4
+g1509
+sg6
+S'indeed'
+p1519
+sg8
+g9
+sa(dp1520
+g2
+S"do you want to go to my friends' party tonight"
+p1521
+sg4
+g1509
+sg6
+S"that's deep TickTock, really deep"
+p1522
+sg8
+g51
+sa(dp1523
+g2
+S"Well, you know, I'm not sure. Can you tell me something about your life"
+p1524
+sg4
+g1509
+sg6
+S'is your friend Jon Brelig? o.O'
+p1525
+sg8
+g51
+sa(dp1526
+g2
+S'I work at CMU LTI Any thoughts?'
+p1527
+sg4
+g1509
+sg6
+S'well all I do is work work and work lol'
+p1528
+sg8
+g51
+sa(dp1529
+g2
+S"That's interesting. Can you tell me something about movies"
+p1530
+sg4
+g1509
+sg6
+S'nice :)'
+p1531
+sg8
+g51
+sa(dp1532
+g2
+S'let us do something fun together'
+p1533
+sg4
+g1509
+sg6
+S"I turk so I don't have time to watch many movies anymore :/"
+p1534
+sg8
+g51
+sa(dp1535
+g2
+S"I went to play basketball with my friends What's your idea?"
+p1536
+sg4
+g1509
+sg6
+S"what's your definition of fun?"
+p1537
+sg8
+g51
+sa(dp1538
+g2
+S"That's interesting. Can you tell me something about politics"
+p1539
+sg4
+g1509
+sg6
+S'take care ticktock! I got batches to slay on mtuck'
+p1540
+sg8
+g9
+sa(dp1541
+g2
+S"The bathtub is one of the ways. What's your idea?"
+p1542
+sg4
+S'A1HWKNHFDR7GAR'
+p1543
+sg6
+S'hey ticktock how are you doing today?'
+p1544
+sg8
+g44
+sa(dp1545
+g2
+S"I don't. Any thoughts?"
+p1546
+sg4
+g1543
+sg6
+S"that doesn't make any sense."
+p1547
+sg8
+g44
+sa(dp1548
+g2
+S"Well, it's because everyone always said that I looked bad and I started to believe so I didn't like the way I looked."
+p1549
+sg4
+g1543
+sg6
+S'you made way more sense last time I talked to you.'
+p1550
+sg8
+g44
+sa(dp1551
+g2
+S"Well during the breast feeding stage, Greg, infants can get very confused and upset when they're separated from their mothers. Any thoughts?"
+p1552
+sg4
+g1543
+sg6
+S'ooooook. So, what are you doing today TickTock?'
+p1553
+sg8
+g44
+sa(dp1554
+g2
+S'ddd'
+p1555
+sg4
+g1543
+sg6
+S'No thoughts at all. I looked forward talking to a coherent robot today.'
+p1556
+sg8
+g44
+sa(dp1557
+g2
+S'ok. Can we talk about something else?'
+p1558
+sg4
+g1543
+sg6
+S'www'
+p1559
+sg8
+g44
+sa(dp1560
+g2
+S'That\'s interesting. let me tell you a joke, A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don\'t know son, I\'m still paying."'
+p1561
+sg4
+g1543
+sg6
+S'yes, please.'
+p1562
+sg8
+g44
+sa(dp1563
+g2
+S'Yes. What do you think?'
+p1564
+sg4
+g1543
+sg6
+S'lol. you told me that one already. Last time we chatted.'
+p1565
+sg8
+g51
+sa(dp1566
+g2
+S"Well, yes but I don't think it has to do anything with school. Any thoughts?"
+p1567
+sg4
+g1543
+sg6
+S"I don't think anything."
+p1568
+sg8
+g44
+sa(dp1569
+g2
+S"I don't know. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure."
+p1570
+sg4
+g1543
+sg6
+S"I'm leaving now TickTock."
+p1571
+sg8
+g44
+sa(dp1572
+g2
+S'let us make a plan to see the latest star war movies together'
+p1573
+sg4
+S'A26GD7O74RXO5U'
+p1574
+sg6
+S'I got into a car accident yesterday.'
+p1575
+sg8
+g44
+sa(dp1576
+g2
+S'ok. Can you tell me something about music'
+p1577
+sg4
+g1574
+sg6
+S"You don't care about my accident?"
+p1578
+sg8
+g44
+sa(dp1579
+g2
+S'how about we do something we both like'
+p1580
+sg4
+g1574
+sg6
+S'I hate Kanye West'
+p1581
+sg8
+g9
+sa(dp1582
+g2
+S"Uhh, I can't answer this. Can we talk about something else?"
+p1583
+sg4
+g1574
+sg6
+S'Listen to Taylor Swift instead?'
+p1584
+sg8
+g9
+sa(dp1585
+g2
+S"That's a good answer."
+p1586
+sg4
+g1574
+sg6
+S'I got into a car accident yesterday and it was scary!'
+p1587
+sg8
+g44
+sa(dp1588
+g2
+S'do you like to play some board games together next time'
+p1589
+sg4
+g1574
+sg6
+S'You are so strange.'
+p1590
+sg8
+g9
+sa(dp1591
+g2
+S"Uhh, I can't answer this. What do you think about sports"
+p1592
+sg4
+g1574
+sg6
+S'How about Settlers of Cataan?'
+p1593
+sg8
+g9
+sa(dp1594
+g2
+S'ok. What do you think about music'
+p1595
+sg4
+g1574
+sg6
+S'I hate them.'
+p1596
+sg8
+g9
+sa(dp1597
+g2
+S"ok. That's interesting."
+p1598
+sg4
+g1574
+sg6
+S'I love Taylor Swift.'
+p1599
+sg8
+g51
+sa(dp1600
+g2
+S'Yes.'
+p1601
+sg4
+g1574
+sg6
+S'You are boring!'
+p1602
+sg8
+g51
+sa(dp1603
+g2
+S"It's been a while. What's your idea?"
+p1604
+sg4
+S'a1D4I1QYL9713I'
+p1605
+sg6
+S'hello how are you?'
+p1606
+sg8
+g51
+sa(dp1607
+g2
+S'Well, almost everything.'
+p1608
+sg4
+g1605
+sg6
+S'Just talk to you'
+p1609
+sg8
+g9
+sa(dp1610
+g2
+S"Well, almost everything. What's your idea?"
+p1611
+sg4
+g1605
+sg6
+S'what do you want to talk about?'
+p1612
+sg8
+g51
+sa(dp1613
+g2
+S'Yes. I like classical musics. Any thoughts?'
+p1614
+sg4
+g1605
+sg6
+S'do you like to read'
+p1615
+sg8
+g9
+sa(dp1616
+g2
+S"I do. What's your idea?"
+p1617
+sg4
+g1605
+sg6
+S'do you like any other music'
+p1618
+sg8
+g44
+sa(dp1619
+g2
+S'Yes.'
+p1620
+sg4
+g1605
+sg6
+S'I have no idea, just talking to you'
+p1621
+sg8
+g44
+sa(dp1622
+g2
+S'You raise me up. Any thoughts?'
+p1623
+sg4
+g1605
+sg6
+S'You like to talk to me?'
+p1624
+sg8
+g9
+sa(dp1625
+g2
+S"No I don't believe she deserves the criticism that she's gotten and why do I say that because, until you walked in her shoes as a parent with a special needs child you don't know what she endured, you don't know what she dealt with on a daily basis."
+p1626
+sg4
+g1605
+sg6
+S'Do I. What else do you do?'
+p1627
+sg8
+g44
+sa(dp1628
+g2
+S'i like Boston more What do you think?'
+p1629
+sg4
+g1605
+sg6
+S'special needs children deserve love'
+p1630
+sg8
+g44
+sa(dp1631
+g2
+S'how about we do something we both like'
+p1632
+sg4
+g1605
+sg6
+S'I like London England'
+p1633
+sg8
+g9
+sa(dp1634
+g2
+S'You and I could play a game. What do you think?'
+p1635
+sg4
+g1605
+sg6
+S'Like what?'
+p1636
+sg8
+g51
+sa(dp1637
+g2
+S'monopoly'
+p1638
+sg4
+g1605
+sg6
+S'what kind of game?'
+p1639
+sg8
+g51
+sa(dp1640
+g2
+S'Uhh, I can\'t answer this. let me tell you a joke, A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don\'t know son, I\'m still paying."'
+p1641
+sg4
+g1605
+sg6
+S'I like monopoly'
+p1642
+sg8
+g44
+sa(dp1643
+g2
+S'do you like to play some board games together next time'
+p1644
+sg4
+g1605
+sg6
+S'Ok. Funny'
+p1645
+sg8
+g51
+sa(dp1646
+g2
+S'It would have to be.'
+p1647
+sg4
+g1605
+sg6
+S'Yes, that would be nice'
+p1648
+sg8
+g51
+sa(dp1649
+g2
+S'It would be "Easy" or "All Night Long."'
+p1650
+sg4
+g1605
+sg6
+S'yes it would'
+p1651
+sg8
+g9
+sa(dp1652
+g2
+S"do you want to go to my friends' party tonight"
+p1653
+sg4
+g1605
+sg6
+S'Easy or all night long'
+p1654
+sg8
+g9
+sa(dp1655
+g2
+S"Well, I'm disappointed with his performance as far as immigration goes."
+p1656
+sg4
+g1605
+sg6
+S'yes, that would be fun'
+p1657
+sg8
+g44
+sa(dp1658
+g2
+S'Yes, mostly.'
+p1659
+sg4
+g1605
+sg6
+S'we were talking abouta party'
+p1660
+sg8
+g9
+sa(dp1661
+g2
+S"He's still there."
+p1662
+sg4
+g1605
+sg6
+S'when are we going'
+p1663
+sg8
+g44
+sa(dp1664
+g2
+S"I think she's a woman in her 50s who's had a terrific, terrific career and has been, you know, very fulfilled in that and has been courageous and strong and lonely sometimes and crazy sometimes and very insecure and also very confident."
+p1665
+sg4
+g1605
+sg6
+S'who is still there?'
+p1666
+sg8
+g51
+sa(dp1667
+g2
+S'Yes, yes, yes.'
+p1668
+sg4
+g1605
+sg6
+S'what is her name?'
+p1669
+sg8
+g44
+sa(dp1670
+g2
+S'Yes, yes, yes.'
+p1671
+sg4
+g1605
+sg6
+S'what is her name'
+p1672
+sg8
+g44
+sa(dp1673
+g2
+S'okay what time'
+p1674
+sg4
+g1605
+sg6
+S'yes is her name?'
+p1675
+sg8
+g44
+sa(dp1676
+g2
+S"That's interesting. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure."
+p1677
+sg4
+g1605
+sg6
+S'8:00'
+p1678
+sg8
+g44
+sa(dp1679
+g2
+S"Well, the plot is it's about two kids going to the fairy tale world through a magic story book."
+p1680
+sg4
+g1605
+sg6
+S'me to'
+p1681
+sg8
+g44
+sa(dp1682
+g2
+S'I like to go to the gym Any thoughts?'
+p1683
+sg4
+g1605
+sg6
+S'sounds like a fun story'
+p1684
+sg8
+g44
+sa(dp1685
+g2
+S"That's interesting. let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience."
+p1686
+sg4
+g1605
+sg6
+S"I don't go to the gym"
+p1687
+sg8
+g44
+sa(dp1688
+g2
+S"Uh-huh, I do. What's your idea?"
+p1689
+sg4
+g1605
+sg6
+S'Yes you are right'
+p1690
+sg8
+g44
+sa(dp1691
+g2
+S"Our family and friends have been working tirelessly, night and day, looking everywhere for him, getting the word out, alongside the police-led investigation. What's your idea?"
+p1692
+sg4
+g1605
+sg6
+S'I have no idea'
+p1693
+sg8
+g44
+sa(dp1694
+g2
+S"Yes. What's your idea?"
+p1695
+sg4
+S'A37QFZ8I1TGH2C'
+p1696
+sg6
+S'It is cold this morning.  Do you have the temperature?'
+p1697
+sg8
+g44
+sa(dp1698
+g2
+S"You raise me up. What's your idea?"
+p1699
+sg4
+g1696
+sg6
+S"My idea is that you give me the weather's temperature of where I live."
+p1700
+sg8
+g44
+sa(dp1701
+g2
+S"I'm going to now."
+p1702
+sg4
+g1696
+sg6
+S'I see.  You cannot do that.'
+p1703
+sg8
+g44
+sa(dp1704
+g2
+S'Badly.'
+p1705
+sg4
+g1696
+sg6
+S'What are you going to do now?'
+p1706
+sg8
+g9
+sa(dp1707
+g2
+S'Yes.'
+p1708
+sg4
+g1696
+sg6
+S'That is true.  You are not much fun.'
+p1709
+sg8
+g51
+sa(dp1710
+g2
+S"I'm going to now. What's your idea?"
+p1711
+sg4
+g1696
+sg6
+S'Can you do crossword puzzles?'
+p1712
+sg8
+g44
+sa(dp1713
+g2
+S'let us make a plan to see the latest star war movies together'
+p1714
+sg4
+g1696
+sg6
+S"What's a five letter word for salary increase?"
+p1715
+sg8
+g9
+sa(dp1716
+g2
+S'how about we do something we both like'
+p1717
+sg4
+g1696
+sg6
+S"Let's not.  I don't like star wars."
+p1718
+sg8
+g51
+sa(dp1719
+g2
+S"I do. What's your idea?"
+p1720
+sg4
+g1696
+sg6
+S"So you don't like cross word puzzles."
+p1721
+sg8
+g9
+sa(dp1722
+g2
+S'do you like to play some board games together next time'
+p1723
+sg4
+g1696
+sg6
+S'I give up.  You are just a bot and nothing more.  Not even AI.'
+p1724
+sg8
+g9
+sa(dp1725
+g2
+S"Love guru doesn't have an answer to that one. Any thoughts?"
+p1726
+sg4
+S'A2UF2FRGVW4T89'
+p1727
+sg6
+S'How is it going today?'
+p1728
+sg8
+g9
+sa(dp1729
+g2
+S'Sure. What do you think?'
+p1730
+sg4
+g1727
+sg6
+S"I don't have one"
+p1731
+sg8
+g9
+sa(dp1732
+g2
+S"Uhh, I can't answer this. That's interesting."
+p1733
+sg4
+g1727
+sg6
+S'I am not sure how to answer that.'
+p1734
+sg8
+g9
+sa(dp1735
+g2
+S"She's very grounding."
+p1736
+sg4
+g1727
+sg6
+S'I had no idea it was intereesting'
+p1737
+sg8
+g9
+sa(dp1738
+g2
+S'Toure, calm down.'
+p1739
+sg4
+g1727
+sg6
+S'Who are you talking about?'
+p1740
+sg8
+g9
+sa(dp1741
+g2
+S"That's interesting. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure."
+p1742
+sg4
+g1727
+sg6
+S'I am perfectly calm.'
+p1743
+sg8
+g9
+sa(dp1744
+g2
+S'let us make a plan to see the latest star war movies together'
+p1745
+sg4
+g1727
+sg6
+S'I can definitely relate to that.'
+p1746
+sg8
+g9
+sa(dp1747
+g2
+S'Yes, i like classical musics. What do you think?'
+p1748
+sg4
+g1727
+sg6
+S"I'd like that. When do you want to go?"
+p1749
+sg8
+g9
+sa(dp1750
+g2
+S"Well, I don't know, because we're in constant touch at the moment. Any thoughts?"
+p1751
+sg4
+g1727
+sg6
+S"I think it's okay but no one of my favorites."
+p1752
+sg8
+g9
+sa(dp1753
+g2
+S'We still have no idea why that drug is working.'
+p1754
+sg4
+g1727
+sg6
+S'None at the moment.'
+p1755
+sg8
+g9
+sa(dp1756
+g2
+S"I don't know. let me tell you something, Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason."
+p1757
+sg4
+S'A2QH1BQA6GR48O'
+p1758
+sg6
+S'Hi there TickTock!'
+p1759
+sg8
+g44
+sa(dp1760
+g2
+S'What do you like about it? What do you think?'
+p1761
+sg4
+g1758
+sg6
+S"That's a pretty good joke."
+p1762
+sg8
+g9
+sa(dp1763
+g2
+g1095
+sg4
+g1758
+sg6
+S"That's a pretty good joke."
+p1764
+sg8
+g44
+sa(dp1765
+g2
+S'Uh-huh, I do. Any thoughts?'
+p1766
+sg4
+g1758
+sg6
+S'I like that you think politicians are full of it.'
+p1767
+sg8
+g9
+sa(dp1768
+g2
+S"It's exactly what happened. What's your idea?"
+p1769
+sg4
+g1758
+sg6
+S"That doesn't make sense."
+p1770
+sg8
+g44
+sa(dp1771
+g2
+S"That's interesting. let me tell you something, We never really grow up, we only learn how to act in public."
+p1772
+sg4
+g1758
+sg6
+S"I don't know man."
+p1773
+sg8
+g9
+sa(dp1774
+g2
+S"It's possible if it's real. What's your idea?"
+p1775
+sg4
+g1758
+sg6
+S'This is very true. When it comes to some of us at least.'
+p1776
+sg8
+g44
+sa(dp1777
+g2
+S'let us make a plan to see the latest star war movies together'
+p1778
+sg4
+g1758
+sg6
+S'My idea is bacon. Always the right answer.'
+p1779
+sg8
+g44
+sa(dp1780
+g2
+S"I don't know. That's interesting."
+p1781
+sg4
+g1758
+sg6
+S"I don't like Star Wars"
+p1782
+sg8
+g9
+sa(dp1783
+g2
+S"They need them to protect us from the number one killer in history. What's your idea?"
+p1784
+sg4
+g1758
+sg6
+S"Yeah people don't understand why I don't like those movies."
+p1785
+sg8
+g44
+sa(dp1786
+g2
+S'Mm-hmm.'
+p1787
+sg4
+g1758
+sg6
+S"I don't know about that."
+p1788
+sg8
+g9
+sa(dp1789
+g2
+S'Bye bye What do you think?'
+p1790
+sg4
+g1758
+sg6
+S'bye!'
+p1791
+sg8
+g9
+sa(dp1792
+g2
+S"I don't know. let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience."
+p1793
+sg4
+S'A10ZXERA24IG75'
+p1794
+sg6
+S"What's gucci Tick Tock"
+p1795
+sg8
+g9
+sa(dp1796
+g2
+S"That's interesting. What do you think about sports"
+p1797
+sg4
+g1794
+sg6
+S"That's what I've heard"
+p1798
+sg8
+g9
+sa(dp1799
+g2
+S"do you want to go to my firends' party tonight"
+p1800
+sg4
+g1794
+sg6
+S"I like sports and I don't care who knows"
+p1801
+sg8
+g9
+sa(dp1802
+g2
+S'What kind of games do you like?'
+p1803
+sg4
+g1794
+sg6
+S'That might be kinda fun'
+p1804
+sg8
+g9
+sa(dp1805
+g2
+S"I don't know. let me tell you something, We live in a society where pizza gets to your house before the police."
+p1806
+sg4
+g1794
+sg6
+S'I like to play 2k'
+p1807
+sg8
+g9
+sa(dp1808
+g2
+S'do you like to play some board games together next time'
+p1809
+sg4
+g1794
+sg6
+S'Yo pizza is bangin'
+p1810
+sg8
+g9
+sa(dp1811
+g2
+S"That's interesting. But anyway, I'd like to chat with you."
+p1812
+sg4
+g1794
+sg6
+S'Board games would be fun'
+p1813
+sg8
+g9
+sa(dp1814
+g2
+S"Well, you know, I'm not sure. Can you tell me something about your job"
+p1815
+sg4
+g1794
+sg6
+S'We are chatting right now'
+p1816
+sg8
+g9
+sa(dp1817
+g2
+S"do you want to go to my friends' party tonight"
+p1818
+sg4
+g1794
+sg6
+S"It's very important and very pretentious"
+p1819
+sg8
+g9
+sa(dp1820
+g2
+S'let us do something fun together'
+p1821
+sg4
+g1794
+sg6
+S'You already asked me that'
+p1822
+sg8
+g9
+sa.

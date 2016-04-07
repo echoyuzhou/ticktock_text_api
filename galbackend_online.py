@@ -115,7 +115,7 @@ tfidfname = 'tfidf_reference'
 with open('dictionary_value.pkl') as f:
 	dictionary_value = pickle.load(f)
 def InitResource(version):
-	global database, resource, socket, listflie, tfidfmodel, tfidfdict
+	global database, resource, socket, listflie, tfidfmodel, tfidfdict, table_state_strategy
 	if version is 'v1':
 		listfile = 'cnn_qa_human_response_name.list'
 	if version is 'v2':
@@ -140,11 +140,13 @@ def InitResource(version):
 		context= zmq.Context()
 		socket = context.socket(zmq.REQ)
 		socket.connect("tcp://localhost:5555")
-def get_response(user_input,user_id,previous_history, theme, oov_mode,name_entity_mode, short_answer_mode,anaphora_mode, word2vec_ranking_mode,tfidf_mode=0, force_strategy=None):
+        with open('table_state_strategy.pkl') as f:
+            table_state_strategy = pickle.load(f)
+def get_response(policy_mode,user_input,user_id,previous_history, theme, oov_mode,name_entity_mode, short_answer_mode,anaphora_mode, word2vec_ranking_mode,tfidf_mode=0, force_strategy=None):
 	#oov_mode is used to switch on and off if we ask the unkonwn words
 	#name_entity_mode is used to switch on and off if we will detect the name_entity and use the wiki api to get some knowledge expansion.
         global database, resource, turn_id, time, wizard, socket,isAlltag, tfidfmodel, tfidfdict
-	global TemplateLib, TopicLib, TreeState, Template, connection, filepointer,engaged_input, topic_id, init_id,joke_id,dictionary_value,model
+	global TemplateLib, TopicLib, TreeState, Template, connection, filepointer,engaged_input, topic_id, init_id,joke_id,dictionary_value,model, table_state_strategy
         print 'user_input: ' + user_input
         print 'user_id:' + user_id
         strategy = []
@@ -210,7 +212,7 @@ def get_response(user_input,user_id,previous_history, theme, oov_mode,name_entit
 			engaged_input.append(user_input)
 		state = Control.SelectState_rel(relavance, int(engagement), TreeState,engaged_input)
 	else:
-		state = Control.SelectState_rel_only(relavance,TreeState,force_strategy=force_strategy)
+		state = Control.SelectState_rel_only(policy_mode, table_state_strategy, relavance, user_input,history, TreeState,force_strategy=force_strategy)
         strategy.append(state['name'])
         output,topic_id,init_id,joke_id, engagement_input = NLG.FillTemplate(theme[user_id], TemplateLib, TopicLib, Template[state['name']],topic_id, init_id,joke_id, engaged_input, answer)
 	if isinstance(output, unicode):
@@ -266,5 +268,6 @@ def get_response(user_input,user_id,previous_history, theme, oov_mode,name_entit
         #print "this is previous history"
         #print previous_history
         return theme, strategy,output,previous_history,word2vec
+
 
 

@@ -44,22 +44,29 @@ def FindCandidate(model,database, resource, input_utter, isAlltag, history,anaph
                         word2vec = 1
         return relavance, answer, anaphora_trigger, word2vec
 #@based on response weight
-def SelectState_rel_only(str_str,str_rule, relavance,pre_history, TreeState, force_strategy=None):
+def SelectState_rel_only(policy_mode,str_rule, relavance, user_input, pre_history, TreeState, force_strategy=None):
 	branch_idx = TreeState.keys()[0]
 	branch = TreeState[branch_idx]['node']
         if not force_strategy == None:
             bool_idx, int_idx = force_strategy
             return TreeState[branch_idx][bool_idx][int_idx]
-	if relavance >= branch['threshold_relavance']:
+        if relavance >= branch['threshold_relavance']:
 		#print 'we are in the h'
                 return TreeState[branch_idx][True][0] # only use the continue, don't expand
 
 	else:
-            if str_str ==0:
+            if policy_mode ==0 or  pre_history==None:
 		return random.choice(TreeState[branch_idx][False][0:-1])# don't choose the last leave, go back
 	    else:
                 #choose this based on the previous utterances' sentiment.
-                curr = sentiment.get_sentiment(pre_history[-1])
+                curr_1 = sentiment.get_sentiment(user_input)
+                curr_2 = sentiment.get_sentiment(pre_history[-1])
+                curr_3 = sentiment.get_sentiment(pre_history[-2])
+                print 'this is the previous history'
+                print curr_1
+                print curr_2
+                print curr_3
+                strategy = str_rule[(curr_1,curr_2,curr_3)]
                 return {'name':strategy}
                 #return TreeState[branch_idx][False][2]
 
