@@ -2,8 +2,10 @@ import sqlite3
 import pprint
 import sentiment
 import pickle
+
 def most_common(lst):
         return max(set(lst), key=lst.count)
+
 conn = sqlite3.connect('rs_ratings.db')
 c = conn.cursor()
 c.execute('''SELECT * FROM responses''')
@@ -33,13 +35,22 @@ for item in c.fetchall():
         table_num[key] = 1
 # create the table we need.
 print table_sum
+'''
+with open('table_value.pkl') as f:
+    table_sum = pickle.load(f)
+    table_num = pickle.load(f)
+    table_avg = pickle.load(f)
+'''
 entry_1 = ['pos','neg','neutral']
 entry_2 = entry_1
 entry_3 = entry_2
 entry_4 = ['end','switch','init','joke','more']
+table_avg = {}
+table_state_strategy = {}
 for item_1 in entry_1:
     for item_2 in entry_2:
         for item_3 in entry_3:
+            high_avg=0
             for item_4 in entry_4:
                 key = (item_1,item_2,item_3,item_4)
                 if table_sum.has_key(key):
@@ -49,12 +60,23 @@ for item_1 in entry_1:
                 #print value_sum
                     value_num = table_num[key]
                     value_avg = float(value_sum)/float(value_num)
+                    table_avg[key] = value_avg
+                    if high_avg < value_avg:
+                        table_state_strategy[(item_1,item_2,item_3)] = item_4
+                        high_avg = value_avg
                 else:
                     value_sum = 0
                     value_num = 0
                     value_avg = 0
-                print (item_1 +' , ' + item_2 +' , '+ item_3 +' , '+ item_4 + ' , ' + str(value_avg) + '\n' )
+                print (item_1 +' , ' + item_2 +' , '+ item_3 +' , '+ item_4 + ' , ' + str(value_avg) + ' , ' + str(value_num)+'\n' )
+# save a dictionary that for each situation, pick the one with highest value average.
+with open('table_state_strategy.pkl','wb') as f:
+    pickle.dump(table_state_strategy,f)
 
-
+with open('table_value.pkl','wb') as f:
+    pickle.dump(table_sum,f)
+    pickle.dump(table_num,f)
+    pickle.dump(table_avg,f)
 #a = c.fetchall()
 #pprint.pprint(a)
+
