@@ -8,6 +8,7 @@ Instruction to install TickTock:
 Simply execute the script below:
 
 #!/bin/bash
+sudo apt-get update
 sudo apt-get install git
 mkdir ticktock
 cd ticktock
