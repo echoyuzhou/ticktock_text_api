@@ -40,7 +40,7 @@ sudo apt-get install php5-common libapache2-mod-php5 php5-cli
 /etc/init.d/apache2 start
 sudo apt-get install php5-mysql php5-curl
 sudo cp webpages/* /var/www/html/
-sudo python debug_online_v3_turk.py
+sudo python debug_online_v4_turk.py
 
 Data Collected: The conversations collectd using TickTock 1.0 is in rating_log/v1, and uisng TickTock 2.0 is in rating_log/v2
 
