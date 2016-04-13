@@ -15,7 +15,7 @@ cd ticktock
 git clone https://github.com/echoyuzhou/ticktock_text_api.git
 cd ticktock_text_api
 wget https://bootstrap.pypa.io/get-pip.py
-python get-pip.py
+sudo python get-pip.py
 sudo pip install -U nltk
 sudo apt-get install gcc
 sudo apt-get install python-dev
