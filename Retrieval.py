@@ -43,14 +43,16 @@ def Select(Candidates,history,word2vec_ranking_mode,model):
             sentence = history[-1]
             token = nltk.word_tokenize(sentence)
             big_score = 0
-            for score, question, answer,tag in Candidates:
+            for score,answer,tag in answer_list:
                 try:
                     sim_score = model.n_similarity(token, answer)
                 except:
                     print "out of vocabulariy word happened"
+                    if sentence ==answer_list[0][2]: # make sure there is no repeat of the same utterance
+                        return answer_list[0]
                     return answer_list[0]
                 print sim_score
-                if big_score < sim_score*0.5 + score:
+                if big_score < sim_score*0.5 + score and sim_score!=1:
                     big_score = sim_score*0.5 + score
                     best_answer = answer
                     relevance = score

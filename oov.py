@@ -26,6 +26,8 @@ def oov_out(user_input, dictionary_value):
 		if (word not in dictionary_value) and (word.lower() not in dictionary_value):
 			is_triggered =1
 			output = "what is '"+word +"'?"
-			return is_triggered, output
-	return 0, None
+			dictionary_value.append(word)
+                        return is_triggered, dictionary_value, output
+
+	return 0, dictionary_value,None
 

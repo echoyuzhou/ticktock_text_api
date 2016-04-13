@@ -7,7 +7,7 @@ from random import shuffle
 
 
 def get_need_rating(c):
-    c.execute('''SELECT rowid, PrevHist, Response FROM fullconvoresponses WHERE IDOne IS NULL AND IDTwo IS NULL AND IDThree IS NULL''')
+    c.execute('''SELECT rowid, PrevHist, Response FROM fullconvoresponses WHERE IDOne IS NULL OR IDTwo IS NULL OR IDThree IS NULL''')
     return c.fetchall()
 
 def store_response(c, conn, rowid, turkid, rating):

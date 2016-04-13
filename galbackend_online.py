@@ -106,6 +106,7 @@ listfile = None
 topic_id = 0 # the index of the starting topic
 init_id =0
 joke_id =0
+more_id =0
 rescource_root = 'resource'
 template_list=['template/template_new.txt', 'template/template_end.txt', 'template/template_open.txt', 'template/template_expand.txt', 'template/template_init.txt', 'template/template_joke.txt', 'template/template_back.txt', 'template/template_more.txt']
 template_list = [path.join(rescource_root, name) for name in template_list]
@@ -151,7 +152,7 @@ def get_response(policy_mode,user_input,user_id,previous_history, theme, oov_mod
 	#oov_mode is used to switch on and off if we ask the unkonwn words
 	#name_entity_mode is used to switch on and off if we will detect the name_entity and use the wiki api to get some knowledge expansion.
         global database, resource, turn_id, time, wizard, socket,isAlltag, tfidfmodel, tfidfdict
-	global TemplateLib, TopicLib, TreeState, Template, connection, filepointer,engaged_input, topic_id, init_id,joke_id,dictionary_value,model, table_state_strategy
+	global TemplateLib, TopicLib, TreeState, Template, connection, filepointer,engaged_input, topic_id, init_id,joke_id,more_id,dictionary_value,model, table_state_strategy
         print 'user_input: ' + user_input
         print 'user_id:' + user_id
         strategy = []
@@ -219,12 +220,12 @@ def get_response(policy_mode,user_input,user_id,previous_history, theme, oov_mod
 	else:
 		state = Control.SelectState_rel_only(policy_mode, table_state_strategy, relavance, user_input,history, TreeState,force_strategy=force_strategy)
         strategy.append(state['name'])
-        output,topic_id,init_id,joke_id, engagement_input = NLG.FillTemplate(theme[user_id], TemplateLib, TopicLib, Template[state['name']],topic_id, init_id,joke_id, engaged_input, answer)
+        output,topic_id,init_id,joke_id,more_id, engagement_input = NLG.FillTemplate(theme[user_id], TemplateLib, TopicLib, Template[state['name']],topic_id, init_id,joke_id,more_id,engaged_input, answer)
 	if isinstance(output, unicode):
 		output = unicodedata.normalize('NFKD',output).encode('ascii','ignore')
         if state['name'] is not 'continue' and force_strategy == None:
             if oov_mode is 1:
-		is_chosen, output_oov = oov.oov_out(user_input,dictionary_value)
+		is_chosen, dictionary_value,output_oov = oov.oov_out(user_input,dictionary_value)
                 if is_chosen is 1:
 			print 'oov is triggerd'
                         strategy.append('oov')
@@ -272,7 +273,7 @@ def get_response(policy_mode,user_input,user_id,previous_history, theme, oov_mod
         filepointer.flush()
         #print "this is previous history"
         #print previous_history
-        return theme, strategy,output,previous_history,word2vec
+        return theme, strategy,output,previous_history,word2vec #,dictionary_value
 
 
 

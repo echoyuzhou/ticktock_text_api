@@ -12,7 +12,7 @@ def GenerateResponsePair(TopicLevel, Candidates, refine_strategy=-1):
 
         return output
 
-def FillTemplate(theme, TemplateLib, TopicLib, template, topic_id, init_id, joke_id, engaged_input, answer=[]):
+def FillTemplate(theme, TemplateLib, TopicLib, template, topic_id, init_id, joke_id,more_id, engaged_input, answer=[]):
     answerString = ' '.join(answer)
     topic_number = len(TopicLib)
     sent_list = []
@@ -48,7 +48,11 @@ def FillTemplate(theme, TemplateLib, TopicLib, template, topic_id, init_id, joke
                 joke_index = joke_id%len(TemplateLib['template_joke'][theme])
 		sent_list.append(TemplateLib['template_joke'][theme][joke_index])
 		joke_id = joke_id + 1
+            elif unit == 'template_more':
+                more_index = more_id%len(TemplateLib['template_more'])
+                sent_list.append(TemplateLib['template_more'][more_index])
+                more_id = more_id + 1
 	    else:
 		sent_list.append(random.choice(TemplateLib[unit]))
     print "template answer ", sent_list
-    return ' '.join(sent_list), topic_id, init_id, joke_id, engaged_input
+    return ' '.join(sent_list), topic_id, init_id, joke_id, more_id, engaged_input
