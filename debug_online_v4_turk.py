@@ -5,7 +5,7 @@ import sys
 import socket
 import time
 galbackend_online.InitLogging()
-galbackend_online.InitResource('v3')
+galbackend_online.InitResource('v4')
 oov_state =1
 name_entity_state =1
 anaphra_state =1

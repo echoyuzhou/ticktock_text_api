@@ -92,7 +92,7 @@ def SelectState_rel(relavance, engagement, TreeState, engaged_list):
 def ConstructTree():
         Tree = {}
         #changed threshold relevance here from 0.2 to 0.12
-        branch = {'tag':'criteria', 'name':'relavance', 'threshold_relavance':0.2, 'threshold_engagement':3}
+        branch = {'tag':'criteria', 'name':'relavance', 'threshold_relavance':0.3, 'threshold_engagement':3}
         switch_state = {'tag':'state', 'name':'switch'}
         end_state = {'tag':'state', 'name':'end'}
         init_state = {'tag':'state', 'name':'init'} #initiate things to do
