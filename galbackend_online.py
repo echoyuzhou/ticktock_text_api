@@ -128,6 +128,11 @@ def InitResource(version):
                 listfile = 'cnn_hr_v1_v2.list'
                 tfidfdict = corpora.Dictionary.load(tfidfname + '.dict')
                 tfidfmodel = models.tfidfmodel.TfidfModel.load(tfidfname + '.tfidf')
+        if version is 'v4':
+                listfile = 'cnn_hr_v1_v2_v4.list'
+                tfidfdict = corpora.Dictionary.load(tfidfname + '.dict')
+                tfidfmodel = models.tfidfmodel.TfidfModel.load(tfidfname + '.tfidf')
+
         datalist=[line.strip() for line in open(listfile)]
 	database = Loader.LoadDataPair(datalist)
 	resource = Loader.LoadLanguageResource()
