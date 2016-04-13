@@ -1,0 +1,62 @@
+TurkID: A2OQZTSU48GRFG
+UserID: 977906367
+Turn: 1
+You: hello
+TickTock: Hello, I really like movies. How about we talk about movies
+Appropriateness: 2
+Strategy: new
+
+Turn: 2
+You: i like movies too
+TickTock: Why do you like those?
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 3
+You: because I like them.
+TickTock: ok. What do you think about music
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 4
+You: I love music. I'm trying to learn jazz piano
+TickTock: what type of musics do you like
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 5
+You: jazz and classical and vintage pop music
+TickTock: what is 'vintage'?
+Appropriateness: 1
+Strategy: ['joke', 'oov']
+
+Turn: 6
+You: vintage means old
+TickTock: what is 'vintage'?
+Appropriateness: 1
+Strategy: ['joke', 'oov']
+
+Turn: 7
+You: vintage means antique
+TickTock: what is 'vintage'?
+Appropriateness: 1
+Strategy: ['joke', 'oov']
+
+Turn: 8
+You: let's change the subject
+TickTock: monopoly is fun
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 9
+You: it is. so is candyland
+TickTock: what is 'candyland'?
+Appropriateness: 1
+Strategy: ['anaphora', 'switch', 'oov']
+
+Turn: 10
+You: candyland is another board game
+TickTock: Lary King is a talk show host
+Appropriateness: 1
+Strategy: ['continue']
+

@@ -1,0 +1,62 @@
+TurkID: A2UF2FRGVW4T89
+UserID: 1806003356
+Turn: 1
+You: Hello chatbot how are you today?
+TickTock: Hello, I really like politics. How about we talk about politics
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Okay, I'm a Democrat.  What party do you support?
+TickTock: I understand exactly what you 're saying.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 3
+You: Okay, what political party do you support?
+TickTock: What do yiou want to chat about?
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 4
+You: Let's talk about movies
+TickTock: ok.  Let me tell you something, The difference between organized crime and politics is that the second one is organized.
+Appropriateness: 2
+Strategy: ['joke']
+
+Turn: 5
+You: Well, that's funny but let's talk about movies.
+TickTock: It 's amazing after everything that we 've been through especially over the last couple of years to be able to live our dream and perform in Carnegie Hall , we have a new album that 's coming out that was a dream project that we 've wanted to do our whole performing lives.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 6
+You: Are you in a musical group?
+TickTock: I used to be a top gymnast , actually.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 7
+You: Wow, did you go to the Olympics?
+TickTock: It 's good to see you old chap.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 8
+You: I can't see you at all.
+TickTock: You can go through my publicist.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 9
+You: Why is that? Are you a celebrity?
+TickTock: I 'm saying how -- how do you avoid ...
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 10
+You: What are you trying to avoid?
+TickTock: I was -- well , see I -- now , I did n't even see that.
+Appropriateness: 2
+Strategy: ['continue']
+

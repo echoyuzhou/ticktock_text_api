@@ -1,0 +1,62 @@
+TurkID: AMUC6OI4A2GY4
+UserID: 437293982
+Turn: 1
+You: Hello
+TickTock: Hello, I really like board games. How about we talk about board games
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Are you sure? I don't know much about them.
+TickTock: I used to be a top gymnast , actually.
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 3
+You: Me two, I had great fun.
+TickTock: let us make a plan to see the latest star war movies together
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 4
+You: I don't like star wars. 
+TickTock: I 'm in love with R2D2.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 5
+You: Can we see a RomCom instead?
+TickTock: Are you talking about RomCom, the Song by Parc En Ciel
+Appropriateness: 3
+Strategy: ['init', 'oov', 'name_entity']
+
+Turn: 6
+You: no the movie type
+TickTock: Do you want to share more about that with me?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 7
+You: no the movie type
+TickTock: 
+Appropriateness: 3
+Strategy: 
+
+Turn: 8
+You: Like when Harry met Sally.
+TickTock: what is 'Sally'?
+Appropriateness: 3
+Strategy: ['end', 'oov']
+
+Turn: 9
+You: Like when Harry met Sally.
+TickTock: 
+Appropriateness: 3
+Strategy: 
+
+Turn: 10
+You: A lady that harry went out with.
+TickTock: Uhh, I can't answer this. Let me know something you're interested in.
+Appropriateness: 3
+Strategy: ['end']
+

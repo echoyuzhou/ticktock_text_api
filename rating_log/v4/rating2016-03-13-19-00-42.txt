@@ -1,0 +1,68 @@
+TurkID: A2OQZTSU48GRFG
+UserID: 1099364065
+Turn: 1
+You: hello
+TickTock: Hello, I really like sports. How about we talk about sports
+Appropriateness: 1
+Strategy: new
+
+Turn: 2
+You: sure
+TickTock: how about we do something we both like
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 3
+You: yes
+TickTock: okay what time
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 4
+You: right noiw
+TickTock: Yes , if he was right-handed it would be at your left inner thigh.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 5
+You: right ow
+TickTock: Yes , if he was right-handed it would be at your left inner thigh.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 6
+You: right now
+TickTock: Yes , if he was right-handed it would be at your left inner thigh.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 7
+You: let's play a game
+TickTock: I have never played that . How do you play Exploding Kittens?
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 8
+You: you first have to get a few kittens
+TickTock: what is 'kittens'?
+Appropriateness: 1
+Strategy: ['more', 'oov']
+
+Turn: 9
+You: you just said kittens yourself
+TickTock: what is 'kittens'?
+Appropriateness: 1
+Strategy: ['switch', 'oov']
+
+Turn: 10
+You: kittens are young cats
+TickTock: what is 'kittens'?
+Appropriateness: 1
+Strategy: ['end', 'oov']
+
+Turn: 11
+You: can we do something else now?
+TickTock: Well , let 's talk about the important fact that we do n't know.
+Appropriateness: 1
+Strategy: ['continue']
+

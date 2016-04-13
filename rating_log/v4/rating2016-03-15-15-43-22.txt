@@ -1,0 +1,62 @@
+TurkID: A2EEUQ0YY2XIU
+UserID: 1534744022
+Turn: 1
+You: Hello
+TickTock: Hello, I really like music. How about we talk about music
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Do you like Ozzy Osbourne?
+TickTock: I like the idea of them.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 3
+You: There's more than an idea... you don't like is music?
+TickTock: That's interesting. What do you think about music
+Appropriateness: 1
+Strategy: ['switch']
+
+Turn: 4
+You: I like music... what about Black sabbath?
+TickTock: I like pop music.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 5
+You: Like Justin Bieber?
+TickTock: Great singer.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 6
+You: Not really. He kinda sucks
+TickTock: Truly.
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 7
+You: But you just said he's a great singer.
+TickTock: Well, you know, I'm not sure. Can you tell me something about sports
+Appropriateness: 3
+Strategy: ['switch']
+
+Turn: 8
+You: Nope, I don't follow sports at all.
+TickTock: Why not?
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 9
+You: I just don't like them... ever really have. 
+TickTock: Why not?
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 10
+You: ... because I don't. 
+TickTock: Why not ? We can do most tasks better than humans.
+Appropriateness: 1
+Strategy: ['continue']
+

@@ -1,0 +1,62 @@
+TurkID: A26GD7O74RXO5U
+UserID: 99812311
+Turn: 1
+You: Hi there. How are you?
+TickTock: Hello, I really like politics. How about we talk about politics
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Are you a Republican or Democrat?
+TickTock: I think I am a Democrat now.
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 3
+You: Awesome! So am I! Go Bernie or Hillary!
+TickTock: I felt like I was 17 again
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+
+Turn: 4
+You: Because you're excited about the election?
+TickTock: Yes.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 5
+You: Too bad you can't vote. :(
+TickTock: No.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 6
+You: Sorry. Robots rule!
+TickTock: That 's what I hear.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 7
+You: You're pretty awesome, TickTock.
+TickTock: Yes.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 8
+You: Do you want to travel?
+TickTock: Well , I 'm opposed to the idea of going bankrupt or hitting the debt ceiling.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 9
+You: Yes, I hate Republicans and their desire to do those things!
+TickTock: Whoo!
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 10
+You: Republican hate! Whoo!
+TickTock: Why do you hate sports?
+Appropriateness: 1
+Strategy: ['continue']
+

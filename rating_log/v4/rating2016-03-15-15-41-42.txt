@@ -1,0 +1,62 @@
+TurkID: A1BAEFJ2OG7NJ0
+UserID: 540076274
+Turn: 1
+You: Hi, how are you doing today?
+TickTock: Hello, I really like politics. How about we talk about politics
+Appropriateness: 2
+Strategy: new
+
+Turn: 2
+You: Okay, what do you think of Trump?
+TickTock: how about a game of chess?
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 3
+You: I don't play chess.
+TickTock: Why not ? We can do most tasks better than humans.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 4
+You: You would definnitely beat me at chess.
+TickTock: Of course , really -- he can not -- I mean , Todd seriously ca n't believe that I have an obsession with his wife.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 5
+You: Having an obsession with another person's wife is never a good idea.
+TickTock: I don't know. What do you think about politics
+Appropriateness: 2
+Strategy: ['switch']
+
+Turn: 6
+You: I think Trump is dangerous.
+TickTock: I think I am . What 's your idea?
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 7
+You: My idea about what?
+TickTock: Well , Charlie Hartsock and Vance DeGeneres , who are my partners at Carousel , had this idea to kind of trace the -- trace comedy in terms of generations and -- and how it cross-pollinates and sort of look to people 's inspirations.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 8
+You: That sounds interesting.
+TickTock: What do you like to do?
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 9
+You: I like to go fishing.
+TickTock: ok. What do you think about music
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 10
+You: I like all typyes, except rap.
+TickTock: ok. What do you think about music
+Appropriateness: 1
+Strategy: ['continue']
+

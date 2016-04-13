@@ -1,0 +1,74 @@
+TurkID: A1BAEFJ2OG7NJ0
+UserID: 1065804831
+Turn: 1
+You: Hey, how are you?
+TickTock: Hello, I really like music. How about we talk about music
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Okay, what's your favorite band?
+TickTock: What do yiou want to chat about?
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+
+Turn: 3
+You: I want to talk about OINTB
+TickTock: Well , you know , I 'm not sure . Can you tell me something about politics
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 4
+You: Sure, Donald Trump is a trainwreck.
+TickTock: I do n't know . Can you tell me something about politics
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 5
+You: The republican party is embarassing itself.
+TickTock: what is 'embarassing'?
+Appropriateness: 2
+Strategy: ['anaphora', 'end', 'oov']
+
+Turn: 6
+You: Embarassing means they are making themselves look bad.
+TickTock: what is 'Embarassing'?
+Appropriateness: 2
+Strategy: ['init', 'oov']
+
+Turn: 7
+You: embarassing is when you do something you are ashamed of
+TickTock: what is 'embarassing'?
+Appropriateness: 2
+Strategy: ['end', 'oov']
+
+Turn: 8
+You: Anyway, I wish they would act more mature.
+TickTock: Well educated ones , dear.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 9
+You: They are educated, but they aren't acting like they are.  They are acting like children.
+TickTock:  Let's find a singer we both like.
+Appropriateness: 3
+Strategy: ['anaphora', 'init']
+
+Turn: 10
+You: okay, one of my favorites is Hoozier, how about you?
+TickTock: what is 'Hoozier'?
+Appropriateness: 2
+Strategy: ['joke', 'oov']
+
+Turn: 11
+You: he is a singer
+TickTock: Amazing.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 12
+You: Who do you like?
+TickTock: .
+Appropriateness: 1
+Strategy: ['continue']
+

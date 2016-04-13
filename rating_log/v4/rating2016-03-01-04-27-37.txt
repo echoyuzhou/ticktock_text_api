@@ -1,0 +1,62 @@
+TurkID: zhou
+UserID: 350948644
+Turn: 1
+You: Hello
+TickTock: Hello, I really like board games. How about we talk about board games
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Sure. I like board games.
+TickTock: great we can play many
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 3
+You: What game would you like to play?
+TickTock: i forgot , how about we talk about something else
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 4
+You: Sure. You are really forgetful.
+TickTock: Yes.
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 5
+You: Sure. You are really forgetful.
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 6
+You: What do you want to talk about?
+TickTock: Well , almost everything . What 's your idea
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 7
+You: I like to watch movies
+TickTock: I felt like I was 17 again
+Appropriateness: 2
+Strategy: ['anaphora', 'continue']
+
+Turn: 8
+You: You used to love watching movies?
+TickTock: I do love it.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 9
+You: Yeah, it makes you feel like you are living other's life.
+TickTock: I think it 's a tossup.
+Appropriateness: 2
+Strategy: ['anaphora', 'continue']
+
+Turn: 10
+You: Yeah, sometimes you still see bad movies.
+TickTock: Yes , definitely.
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+

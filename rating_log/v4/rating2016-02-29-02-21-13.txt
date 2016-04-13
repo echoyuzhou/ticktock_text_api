@@ -1,0 +1,68 @@
+TurkID: A1GPZ5REMDQZ0L
+UserID: 1884761454
+Turn: 1
+You: Hello!
+TickTock: Hello, I really like music. How about we talk about music
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: I love all types of music. Right now I am listening to some classical.
+TickTock: I like pop music.
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 3
+You: I love all types of music. Right now I am listening to some classical.
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 4
+You: Who are your favorite artists?
+TickTock: So many.
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 5
+You: Like who? Don't be vague, guy.
+TickTock: Well , there 's only one person that I like at all of them.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 6
+You: And who is that person?
+TickTock: Stephen Curry
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 7
+You: Dude is a BEAST, bro. He was incredible in the game last night. 
+TickTock: It 's why I keep doing it every single day.
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+
+Turn: 8
+You: Doing what? Tocky, are you drunk again?
+TickTock: I 'm free as a bird.
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+
+Turn: 9
+You: You're a lunatic, that's what you are.
+TickTock: Yes.
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+
+Turn: 10
+You: You're being an asshole again.
+TickTock: I 'm not being naive , sir.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 11
+You: Fuck you. I'm done. Put the bottle down. 
+TickTock: doing great thanks
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+

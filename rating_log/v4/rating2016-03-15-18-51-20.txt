@@ -1,0 +1,68 @@
+TurkID: A347XXV5JH19PB
+UserID: 178644596
+Turn: 1
+You: hi
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 2
+You: hello
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 3
+You: how are you
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 4
+You: you aren't talking back
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 5
+You: why don't you answer me
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 6
+You: everything is blank from you
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 7
+You: you must not like me
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 8
+You: hi
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 9
+You: hi
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 10
+You: hi
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 11
+You: this is annoying
+TickTock: 
+Appropriateness: 1
+Strategy: 
+

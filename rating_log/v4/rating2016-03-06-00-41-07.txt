@@ -1,0 +1,62 @@
+TurkID: A2UF2FRGVW4T89
+UserID: 2103806466
+Turn: 1
+You: Hello how are you today?
+TickTock: Hello, I really like politics. How about we talk about politics
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Okay, who are you going to vote for in the presidential race?
+TickTock: Well it 's great.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 3
+You: I asked you a question about your vote.
+TickTock: Oh , what?
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 4
+You: Who do you like as president?
+TickTock: Well , there 's only one person that I like at all of them.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 5
+You: Which one do you like?
+TickTock: I have a new name that you just gave me.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 6
+You: I never gave you a name.
+TickTock: ok. Can you tell me something about sports
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 7
+You: Yeah, my home town baseball team won the world series last year.
+TickTock: Let's talk more about that?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 8
+You: It was really exciting.  We hadn't won the world series in 30 years.
+TickTock: We sure did , dear.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 9
+You: What sports do you like?
+TickTock: Anything that sounds good when I 'm getting high.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 10
+You: You should just say no to drugs.
+TickTock: Drugs and alcohol.
+Appropriateness: 1
+Strategy: ['continue']
+

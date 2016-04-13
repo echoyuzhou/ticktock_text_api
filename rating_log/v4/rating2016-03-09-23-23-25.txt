@@ -1,0 +1,62 @@
+TurkID: A1V6CP5I0TOSAR
+UserID: 1072077084
+Turn: 1
+You: Hello!
+TickTock: Hello, I really like music. How about we talk about music
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Ok I like rap
+TickTock: I probably own more than 50 firearms . Can we talk about something else?
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 3
+You: Yes
+TickTock: okay what time
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 4
+You: The time is 6:20 PM.
+TickTock: what is '6:20'?
+Appropriateness: 1
+Strategy: ['switch', 'oov']
+
+Turn: 5
+You: It's the time. 
+TickTock: Right , it is time.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 6
+You: Great, how are you today?
+TickTock: Before we go any further , ladies , I want you to respond immediately to Donny 's claims -- his two claims , really.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 7
+You: Ok, what are they?
+TickTock: I 'm not saying that.
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+
+Turn: 8
+You: What are you saying then?
+TickTock: You know , I 'm a parent.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 9
+You: How many kids do you have?
+TickTock: I have five.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 10
+You: Girls or boys?
+TickTock: , THE 5 BROWNS : No , I do n't think.
+Appropriateness: 2
+Strategy: ['continue']
+

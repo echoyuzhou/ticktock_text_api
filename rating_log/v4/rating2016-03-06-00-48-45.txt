@@ -1,0 +1,62 @@
+TurkID: A2UF2FRGVW4T89
+UserID: 35256514
+Turn: 1
+You: How you doing today? 
+TickTock: Hello, I really like sports. How about we talk about sports
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Okay, what sports do you like?
+TickTock: I like what you like.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 3
+You: I like bodybuilding and boxing.
+TickTock: ok. What do you think about music
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 4
+You: I love music.  I always have some playing in the background.
+TickTock: Who is your favorite?
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 5
+You: I don't really have a favorite right now.  Just anything that is good. 
+TickTock: What I meant to say was , what is it that you hate?
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 6
+You: I hate country music.
+TickTock: I like pop music.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 7
+You: Yes, I do too.  But I don't like Justin Beiber.
+TickTock: I -- you know , I feel like I 'm the last to know , if that makes any sense.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 8
+You: Honestly I really don't.
+TickTock: And while he tries to form the question , I 'll tell you who 's with me tonight.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 9
+You: So who is with you tonight?
+TickTock: Uhh, I can't answer this.  Do you know that the easiest sport to get into is limbo, they don't set the bar very high.
+Appropriateness: 2
+Strategy: ['joke']
+
+Turn: 10
+You: I have never tried that before.
+TickTock: I 'm sure you know something about it , though.
+Appropriateness: 2
+Strategy: ['continue']
+

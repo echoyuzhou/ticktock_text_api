@@ -1,0 +1,122 @@
+TurkID: none
+UserID: 1377573267
+Turn: 1
+You: hi can you help me to make a reservation?
+TickTock: Hello, I really like sports. How about we talk about sports
+Appropriateness: 1
+Strategy: new
+
+Turn: 2
+You: no, no, I need to make a reservation
+TickTock: Yeah , that --
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 3
+You: Can I book a table for six tonight at 7PM in a balcony table?
+TickTock: what is '7PM'?
+Appropriateness: 1
+Strategy: ['end', 'oov']
+
+Turn: 4
+You: I mean 7 hours tonight
+TickTock: That 's good , because I 'm right.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 5
+You: so, what is my reservation number?
+TickTock: what is 'reservation'?
+Appropriateness: 1
+Strategy: ['joke', 'oov']
+
+Turn: 6
+You: hey, are you fooling around or taking note of my booking?
+TickTock: what is 'fooling'?
+Appropriateness: 1
+Strategy: ['joke', 'oov']
+
+Turn: 7
+You: excuse me... is this the Tagliately Limoncelly Bambinoty Trattoria?
+TickTock: what is 'Tagliately'?
+Appropriateness: 1
+Strategy: ['init', 'oov']
+
+Turn: 8
+You: Italian pasta
+TickTock: That's interesting.  People usually spend much more time watching sports than actually playing any.
+Appropriateness: 2
+Strategy: ['joke']
+
+Turn: 9
+You: Ok, I think I am talking to the wrong person, can you call the manager?
+TickTock:  Do you want to see a game together some time?
+Appropriateness: 2
+Strategy: ['init']
+
+Turn: 10
+You: no, thanks, not interested
+TickTock: I don't know. Let me know something you're interested in.
+Appropriateness: 3
+Strategy: ['end']
+
+Turn: 11
+You: booking a table for dinner... ah?
+TickTock: Do you want to share more about that with me?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 12
+You: yeah, a table for six tonight at 7 over the balcony!
+TickTock:  Let us plan to watch a game together some time.
+Appropriateness: 2
+Strategy: ['init']
+
+Turn: 13
+You: oh my god! your are a thing!
+TickTock: You and nincompoop.
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+
+Turn: 14
+You: who is that guy?
+TickTock: It 's a guy named Danny.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 15
+You: Oh, so interesting, but I do not care
+TickTock: Yes , because you 're the one who put the `` sex '' in `` Sex in the City . ''
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 16
+You: You are nuts, and know what.. I will put the "punch" in your "face"
+TickTock: On top of that , there 's plenty of white people that do n't like me.
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 17
+You: That makes a lot of sense... bye bye
+TickTock: Could you tell me more about that?
+Appropriateness: 2
+Strategy: ['more']
+
+Turn: 18
+You: bye bye, so long, arrivederci, good bye
+TickTock: what is 'arrivederci'?
+Appropriateness: 3
+Strategy: ['switch', 'oov']
+
+Turn: 19
+You: bye
+TickTock: no do n't go
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 20
+You: sorry I gota go...
+TickTock: Is it right to apportion any blame or do you think --
+Appropriateness: 1
+Strategy: ['continue']
+

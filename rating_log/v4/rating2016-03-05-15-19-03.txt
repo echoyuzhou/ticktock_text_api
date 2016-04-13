@@ -1,0 +1,74 @@
+TurkID: A3FUW3458K3KO
+UserID: 819037091
+Turn: 1
+You: Hello
+TickTock: Hello, I really like board games. How about we talk about board games
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Sure, I'd like that.
+TickTock: I probably own more than 50 firearms . Can we talk about something else?
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 3
+You: Yes, we can.
+TickTock: We do.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 4
+You: Do we really?
+TickTock: We do.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 5
+You: That's pretty cool.
+TickTock: That is a funny joke . Do you know more?
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 6
+You: I sure do.
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 7
+You: Why so serious?
+TickTock: Hello, I really like movies. How about we talk about movies
+Appropriateness: 1
+Strategy: new
+
+Turn: 8
+You: If we must.
+TickTock: We do.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 9
+You: I guess that's that.
+TickTock: Hello, I really like movies. How about we talk about movies
+Appropriateness: 1
+Strategy: new
+
+Turn: 10
+You: Now that's nostalgic!
+TickTock: Hello, I really like politics. How about we talk about politics
+Appropriateness: 1
+Strategy: new
+
+Turn: 11
+You: Hell no.
+TickTock: -- base it on Keith Olbermann , I missed.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 12
+You: I am now confused.
+TickTock: Hello, I really like politics. How about we talk about politics
+Appropriateness: 1
+Strategy: new
+

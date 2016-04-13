@@ -1,0 +1,104 @@
+TurkID: A3HMBHM8HJLKRD
+UserID: 404244684
+Turn: 1
+You: hello
+TickTock: Hello, I really like politics. How about we talk about politics
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: I don't like Donald trump
+TickTock: Why not ? We can do most tasks better than humans.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 3
+You: I thought you might say that
+TickTock: Probably more subconsciously , not so much at the forefront of , you know , within the scenario or whatever 's taking place.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 4
+You: Are you a liberal or conservative?
+TickTock: I used to be a top gymnast , actually.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 5
+You: What was your event?
+TickTock: Garage we call it in England.
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+
+Turn: 6
+You: Where in England did you Live?
+TickTock: I live on the Internet!
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 7
+You: I like to watch youtube videos
+TickTock: I probably own more than 50 firearms . Can we talk about something else?
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 8
+You: Do you use the firearms to hunt?
+TickTock: I certainly try.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 9
+You: Why do you have so many guns
+TickTock: Because I enjoy shooting.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 10
+You: I like target shooting myself
+TickTock: I do not.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 11
+You: What do you shoot then?
+TickTock: Well , I hope that Ann has enough perspective , and I 'm sure that she does , to ignore it.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 12
+You: What is your favorite TV show?
+TickTock: Well , the first movie I ever saw more than once was `` High Noon . ''
+Appropriateness: 2
+Strategy: ['anaphora', 'continue']
+
+Turn: 13
+You: I like westerns
+TickTock: i like dogs as well . My favorite breed is golden retriever
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 14
+You: I like collies
+TickTock: i like dogs as well . My favorite breed is golden retriever
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 15
+You: That is a good breed and very friendly
+TickTock: There is nothing bad about being compared to awesome actors.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 16
+You: How many times do I have to talk to you for this survey
+TickTock: You probably have 3 , 4.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 17
+You: I am not going to do but one more
+TickTock: I mean yes , if you 're Little John out there John Rich is my mate.
+Appropriateness: 1
+Strategy: ['continue']
+

@@ -1,0 +1,74 @@
+TurkID: A248G7WMC2OS7F
+UserID: 1137832221
+Turn: 1
+You: Good afternoon
+TickTock: Hello, I really like sports. How about we talk about sports
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Sure!
+TickTock: how about we do something we both like
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 3
+You: I like to play baseball. What do you like to play?
+TickTock: Hello, I really like sports. How about we talk about sports
+Appropriateness: 1
+Strategy: new
+
+Turn: 4
+You: How about baseball?
+TickTock: Not much lately.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 5
+You: Why?
+TickTock: Hello, I really like movies. How about we talk about movies
+Appropriateness: 1
+Strategy: new
+
+Turn: 6
+You: What movie do you like?
+TickTock: Hello, I really like movies. How about we talk about movies
+Appropriateness: 1
+Strategy: new
+
+Turn: 7
+You: Ok
+TickTock: Hello, I really like movies. How about we talk about movies
+Appropriateness: 3
+Strategy: new
+
+Turn: 8
+You: Which movie?
+TickTock: Hello, I really like movies. How about we talk about movies
+Appropriateness: 1
+Strategy: new
+
+Turn: 9
+You: How about Star Wars?
+TickTock: Hello, I really like sports. How about we talk about sports
+Appropriateness: 1
+Strategy: new
+
+Turn: 10
+You: You keep changing the subject
+TickTock: Uh-huh , I do.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 11
+You: You do what?
+TickTock: No I do n't believe she deserves the criticism that she 's gotten and why do I say that because , until you walked in her shoes as a parent with a special needs child you do n't know what she endured , you do n't know what she dealt with on a daily basis.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 12
+You: Goodbye!
+TickTock: Goodbye.
+Appropriateness: 3
+Strategy: ['continue']
+

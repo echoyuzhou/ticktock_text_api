@@ -1,0 +1,98 @@
+TurkID:  A3HMBHM8HJLKRD
+UserID: 1064829830
+Turn: 1
+You: Hello
+TickTock: Hello, I really like board games. How about we talk about board games
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Clue is my favorite. But I like many other games
+TickTock: Hello, I really like sports. How about we talk about sports
+Appropriateness: 2
+Strategy: new
+
+Turn: 3
+You: I like to watch baseball best
+TickTock: Hello, I really like movies. How about we talk about movies
+Appropriateness: 2
+Strategy: new
+
+Turn: 4
+You: What is your favorite team?
+TickTock: Well , the first movie I ever saw more than once was `` High Noon . ''
+Appropriateness: 2
+Strategy: ['anaphora', 'continue']
+
+Turn: 5
+You: That is a good one. I like Westerns
+TickTock: I think I am . What 's your idea?
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 6
+You: I like film noir
+TickTock: ok. What do you think about music
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 7
+You: I like country and americana
+TickTock: ok. What do you think about music
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 8
+You: I like bluegrass
+TickTock: ok. What do you think about music
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 9
+You: I like most types of music
+TickTock: I like pop music.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 10
+You: so do I
+TickTock: I do n't think so.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 11
+You: Do you like electronica music
+TickTock: Anything that sounds good when I 'm getting high.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 12
+You: That is heard a lot at raves
+TickTock: what is 'raves'?
+Appropriateness: 3
+Strategy: ['more', 'oov']
+
+Turn: 13
+You: dance parties where people get high
+TickTock: Uhh, I can't answer this.  Let me tell you something, We never really grow up, we only learn how to act in public.
+Appropriateness: 2
+Strategy: ['joke']
+
+Turn: 14
+You: I agree with this
+TickTock: Well , you know , I 'm not sure . Can you tell me something about politics
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 15
+You: I don't like Donald Trump
+TickTock: Why not ? We can do most tasks better than humans.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 16
+You: I thought you might say that
+TickTock: Probably more subconsciously , not so much at the forefront of , you know , within the scenario or whatever 's taking place.
+Appropriateness: 1
+Strategy: ['continue']
+

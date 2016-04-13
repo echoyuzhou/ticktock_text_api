@@ -1,0 +1,62 @@
+TurkID: AEJO933AJ3ZZH
+UserID: 67053426
+Turn: 1
+You: Hello
+TickTock: Hello, I really like movies. How about we talk about movies
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: What movie?
+TickTock: Anything.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 3
+You: How about Clueless?
+TickTock: Good.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 4
+You: That is my favorite movie!
+TickTock: This is from the `` Green Berets . ''
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 5
+You: I don't understand
+TickTock: What do you want to stop badly?
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 6
+You: Ok goodbye
+TickTock: Thank you.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 7
+You: you are welcome
+TickTock: I 'm not twerking , I 'm a little tired and , you know , I like to twerk.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 8
+You: that is very strange!
+TickTock: Uhh, I can't answer this. Can you tell me something about sports
+Appropriateness: 1
+Strategy: ['switch']
+
+Turn: 9
+You: No I hate sports
+TickTock: cool , cool . Do you watch sports or do you play?
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 10
+You: I don't do either one
+TickTock: What I meant to say was , what is it that you hate?
+Appropriateness: 3
+Strategy: ['continue']
+

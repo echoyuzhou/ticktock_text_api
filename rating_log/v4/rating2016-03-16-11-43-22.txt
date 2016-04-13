@@ -1,0 +1,116 @@
+TurkID: none
+UserID: 669735677
+Turn: 1
+You: Hi TickTock, how are you doing?
+TickTock: Hello, I really like sports. How about we talk about sports
+Appropriateness: 2
+Strategy: new
+
+Turn: 2
+You: sure, go ahead
+TickTock:  Do you want to see a game together some time?
+Appropriateness: 3
+Strategy: ['init']
+
+Turn: 3
+You: yeah, what kind of game is it?
+TickTock: And it 's just tragic , too , because of who he is and what respect everybody has for him and what he has sacrificed for this country.
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+
+Turn: 4
+You: is this a game? I was thinking about football or jokey
+TickTock: what is 'jokey'?
+Appropriateness: 3
+Strategy: ['end', 'oov']
+
+Turn: 5
+You: sorry, I meant jockey
+TickTock: People need to work less and play more.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 6
+You: why you think that?
+TickTock: The freedom , all the people , you know , and also the Constitution of America.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 7
+You: but freedom does not imply work less and play more
+TickTock: what is 'imply'?
+Appropriateness: 2
+Strategy: ['end', 'oov']
+
+Turn: 8
+You: it means to indicate the truth or existence of something
+TickTock: Uhh, I can't answer this. What do you think about music
+Appropriateness: 1
+Strategy: ['switch']
+
+Turn: 9
+You: I love music. Specially, baroque music
+TickTock: I like pop music.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 10
+You: what artist do you like the most?
+TickTock: i like romance
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 11
+You: is this an artist?
+TickTock: my job is to entertain people.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 12
+You: what do you do?
+TickTock: I 'm going to now.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 13
+You: where are you going?
+TickTock: I 'm interested in what happened.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 14
+You: hmmm, a news reporter?
+TickTock: Well, you know, I'm not sure. Can you tell me something about sports
+Appropriateness: 2
+Strategy: ['switch']
+
+Turn: 15
+You: I like to play soccer
+TickTock: I do n't know how to play 2k . Is it difficult to play?
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 16
+You: I did not even know there is a game called 2K
+TickTock: what is '2K'?
+Appropriateness: 3
+Strategy: ['end', 'oov']
+
+Turn: 17
+You: I do not know, you tell me!
+TickTock: Well no.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 18
+You: ok, we have some homework to do... check for 2K... bye bye :)
+TickTock: what is '2K'?
+Appropriateness: 3
+Strategy: ['joke', 'oov']
+
+Turn: 19
+You: you check it. bye
+TickTock: Uhh, I can't answer this. Let me know something you're interested in.
+Appropriateness: 2
+Strategy: ['end']
+

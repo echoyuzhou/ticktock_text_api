@@ -1,0 +1,68 @@
+TurkID: A1C57DJF1HCR3Q
+UserID: 631207377
+Turn: 1
+You: Hello
+TickTock: Hello, I really like board games. How about we talk about board games
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: I like board games too
+TickTock: great we can play many
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 3
+You: Do you like trivial pursuit?
+TickTock: I like the idea of them.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 4
+You: ok, do you like scrabble?
+TickTock: Hello, I really like sports. How about we talk about sports
+Appropriateness: 1
+Strategy: new
+
+Turn: 5
+You: I like college basketball
+TickTock: Hello, I really like music. How about we talk about music
+Appropriateness: 1
+Strategy: new
+
+Turn: 6
+You: I like music too
+TickTock: I like pop music.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 7
+You: pop music is fun, do you like EDM?
+TickTock: Are you talking about EDM, the Song by Fridge
+Appropriateness: 3
+Strategy: ['end', 'oov', 'name_entity']
+
+Turn: 8
+You: No, I am talking about Electronic Dance Music
+TickTock: Hello, I really like music. How about we talk about music
+Appropriateness: 2
+Strategy: new
+
+Turn: 9
+You: we are talking about music
+TickTock: Hello, I really like movies. How about we talk about movies
+Appropriateness: 1
+Strategy: new
+
+Turn: 10
+You: movies are great, what is your favorite?
+TickTock: That's interesting. Let me know something you're interested in.
+Appropriateness: 1
+Strategy: ['anaphora', 'end']
+
+Turn: 11
+You: movies are great, what is your favorite?
+TickTock: 
+Appropriateness: 1
+Strategy: 
+

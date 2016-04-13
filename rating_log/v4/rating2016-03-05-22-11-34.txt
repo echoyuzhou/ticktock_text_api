@@ -1,0 +1,62 @@
+TurkID: A2KXMQWKUDMNGL
+UserID: 1811083144
+Turn: 1
+You: Hello
+TickTock: Hello, I really like music. How about we talk about music
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: No
+TickTock: God , you bore me -- and I 'm a computer!
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 3
+You: Don't be a dick, TickTock.
+TickTock: We ca n't all be winners.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 4
+You: that's depressing.
+TickTock: Let's talk more about that?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 5
+You: why?
+TickTock: Because potheads are incapable of following simple instructions and getting a job done.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 6
+You: woah, that's kinda messed up.
+TickTock: what is 'woah'?
+Appropriateness: 2
+Strategy: ['switch', 'oov']
+
+Turn: 7
+You: what is 'love'?
+TickTock: You know , one thing I 'm reminded of , Wolf , is how important presidential joke writers are.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 8
+You: what?
+TickTock: I do n't understand.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 9
+You: I  don't either
+TickTock: I do not know either.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 10
+You: bye
+TickTock: no do n't go
+Appropriateness: 3
+Strategy: ['continue']
+

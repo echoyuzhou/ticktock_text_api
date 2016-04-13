@@ -1,0 +1,74 @@
+TurkID: zhou
+UserID: 2134011557
+Turn: 1
+You: Hello
+TickTock: Hello, I really like politics. How about we talk about politics
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Sure. Are you a republican?
+TickTock: I used to be a top gymnast , actually.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 3
+You: Does that have anything to do with politics
+TickTock: I can be slightly naive.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 4
+You: Yeah, you can. 
+TickTock: Yes , definitely.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 5
+You: You want to talk more about politics
+TickTock: Uh-huh , I do.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 6
+You: Who are you supporting for the election
+TickTock: ok.  Let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience.
+Appropriateness: 2
+Strategy: ['joke']
+
+Turn: 7
+You: This is funny, you don't support anyone?
+TickTock: Yeah , I do.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 8
+You: Then who are you supporting?
+TickTock: Do you want to share more about that me more about that?
+Appropriateness: 1
+Strategy: ['more']
+
+Turn: 9
+You: Sure. I am supporting Bernie
+TickTock: I did n't mean in a bad way . What do you think?
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 10
+You: I think he is a good candidate. He cares about people.
+TickTock: Uhh, I can't answer this. Can you share some interesting stuff with me?
+Appropriateness: 1
+Strategy: ['anaphora', 'end']
+
+Turn: 11
+You: Sure. I really like red bean pancakes, you should try that some time.
+TickTock: I think that it definitely -- when people say -- I mean , I get the statement when they say `` more money , more problems '' -- I definitely get that.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 12
+You: Haha, you are being naugty.
+TickTock: Yes.
+Appropriateness: 3
+Strategy: ['continue']
+

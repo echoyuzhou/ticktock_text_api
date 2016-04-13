@@ -1,0 +1,80 @@
+TurkID: A248ARSA6FS20S
+UserID: 1877053248
+Turn: 1
+You: Hello. How are you today.
+TickTock: Hello, I really like sports. How about we talk about sports
+Appropriateness: 1
+Strategy: new
+
+Turn: 2
+You: What kind of sports do you like?
+TickTock: do you want to go to my firends ' party tonight
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+
+Turn: 3
+You: No. Not tonight.
+TickTock: yes i love to read
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 4
+You: I don't particularly like to read.
+TickTock: Why not ? We can do most tasks better than humans.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 5
+You: Can you eat a whole large pizza at one sitting?
+TickTock: ok. What do you think about music
+Appropriateness: 1
+Strategy: ['anaphora', 'switch']
+
+Turn: 6
+You: I love music!
+TickTock: I like pop music.
+Appropriateness: 2
+Strategy: ['anaphora', 'continue']
+
+Turn: 7
+You: I like rock n roll better.
+TickTock: You 're not kidding . Can we talk about something else?
+Appropriateness: 2
+Strategy: ['anaphora', 'continue']
+
+Turn: 8
+You: I think that I'm done now.
+TickTock: Tell me what it 's like to be a boring.
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+
+Turn: 9
+You: Well, it's hard to keep a conversation going.
+TickTock: Spectacular.
+Appropriateness: 2
+Strategy: ['anaphora', 'continue']
+
+Turn: 10
+You: I thought that you would like that.
+TickTock: I did , actually.
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 11
+You: You are easily amused, aren't you.
+TickTock: Yes.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 12
+You: Well, now I'm done.
+TickTock: I 'm going to come back to the campaign in just a moment.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 13
+You: I'll see you next time.
+TickTock: I felt like I was 17 again
+Appropriateness: 1
+Strategy: ['continue']
+
