@@ -266,6 +266,8 @@ def get_response(policy_mode,user_input,user_id,previous_history, theme, oov_mod
                 theme[user_id] = 'board games'
             else:
                 theme[user_id] = output.split()[-1]
+        if user_input in previous_history[user_id][:-2]:
+            output = "You already said that!"
         print 'strategy' +  str(strategy)
         print 'response: ' + output
         print "end response generation =================="
