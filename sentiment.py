@@ -1,7 +1,9 @@
 import commands
 
 def get_sentiment(response):
-    cmd = '''curl -d "text=great" http://text-processing.com/api/sentiment/'''.replace('great', response)
+    response_processed= response.replace('"','')
+    print response_processed
+    cmd = '''curl -d "text=great" http://text-processing.com/api/sentiment/'''.replace('great', response_processed)
     output_all = commands.getstatusoutput(cmd)
     output = output_all[1]
     value = output.split(':')

@@ -62,6 +62,12 @@ def SelectState_rel_only(policy_mode,str_rule, relavance, user_input, pre_histor
                 curr_1 = sentiment.get_sentiment(user_input)
                 curr_2 = sentiment.get_sentiment(pre_history[-1])
                 curr_3 = sentiment.get_sentiment(pre_history[-2])
+                if curr_1 not in ['neg','pos','neutral'] or curr_2 not in ['neg','pos','neutral'] or curr_3 not in ['neg','pos','neutral']:
+                    print "there is something wrong"
+                    print user_input
+                    print pre_history[-1]
+                    print pre_history[-2]
+
                 print 'this is the previous history'
                 print curr_1
                 print curr_2
