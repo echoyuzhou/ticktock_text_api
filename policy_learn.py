@@ -69,6 +69,7 @@ for tt_utt in user_input_all:
     theme[str(con_index)] = random.choice(TopicLib)
     previous_history[str(con_index)] = [tt_utt]
     for turn_id in range(1,10)
+        print turn_id
         al_utt = alice.alice(tt_utt)
         conv.append(al_utt)
         f.write('Turn: ' + str(turn_id) +'\n')
