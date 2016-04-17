@@ -1,5 +1,5 @@
 import random
-
+import pickle
 
 class QLearn:
     def __init__(self, actions, epsilon=0.1, alpha=0.2, gamma=0.9):
@@ -41,10 +41,8 @@ class QLearn:
         maxqnew = max([self.getQ(state2, a) for a in self.actions])
         self.learnQ(state1, action1, reward, reward + self.gamma*maxqnew)
 
-import math
-def ff(f,n):
-    fs = "{:f}".format(f)
-    if len(fs) < n:
-        return ("{:"+n+"s}").format(fs)
-    else:
-        return fs[:n]
+    def getReward(self,state,action,reward_table)
+        return(reward_table[state+action])
+
+
+

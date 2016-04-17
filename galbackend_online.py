@@ -148,7 +148,7 @@ def InitResource(version):
 		socket.connect("tcp://localhost:5555")
         with open('table_state_strategy.pkl') as f:
             table_state_strategy = pickle.load(f)
-def get_response(policy_mode,user_input,user_id,previous_history, theme, oov_mode,name_entity_mode, short_answer_mode,anaphora_mode, word2vec_ranking_mode,tfidf_mode=0, force_strategy=None):
+def get_response(fix_strategy,policy_mode,user_input,user_id,previous_history, theme, oov_mode,name_entity_mode, short_answer_mode,anaphora_mode, word2vec_ranking_mode,tfidf_mode=0, force_strategy=None):
 	#oov_mode is used to switch on and off if we ask the unkonwn words
 	#name_entity_mode is used to switch on and off if we will detect the name_entity and use the wiki api to get some knowledge expansion.
         global database, resource, turn_id, time, wizard, socket,isAlltag, tfidfmodel, tfidfdict
@@ -177,6 +177,8 @@ def get_response(policy_mode,user_input,user_id,previous_history, theme, oov_mod
             print 'previous history'
             print previous_history
             return theme, 'new', output, previous_history, 0
+        #if fix_strategy is not None:
+
         if tfidf_mode is 1:
 	        #print '====history before response====='
                 #print history
@@ -219,6 +221,8 @@ def get_response(policy_mode,user_input,user_id,previous_history, theme, oov_mod
 		state = Control.SelectState_rel(relavance, int(engagement), TreeState,engaged_input)
 	else:
 		state = Control.SelectState_rel_only(policy_mode, table_state_strategy, relavance, user_input,history, TreeState,force_strategy=force_strategy)
+        if fix_strategy is not None:
+            state['name'] = fix_strategy
         strategy.append(state['name'])
         output,topic_id,init_id,joke_id,more_id, engagement_input = NLG.FillTemplate(theme[user_id], TemplateLib, TopicLib, Template[state['name']],topic_id, init_id,joke_id,more_id,engaged_input, answer)
 	if isinstance(output, unicode):
@@ -268,6 +272,7 @@ def get_response(policy_mode,user_input,user_id,previous_history, theme, oov_mod
                 theme[user_id] = output.split()[-1]
         if user_input in previous_history[user_id][:-2]:
             output = "You already said that!"
+
         print 'strategy' +  str(strategy)
         print 'response: ' + output
         print "end response generation =================="
