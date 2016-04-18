@@ -12,6 +12,7 @@ c.execute('''SELECT * FROM responses''')
 table_num = {}
 table_sum = {}
 tmplist =[]
+'''
 for item in c.fetchall():
     print item
     #print item[0]
@@ -40,7 +41,7 @@ with open('table_value.pkl') as f:
     table_sum = pickle.load(f)
     table_num = pickle.load(f)
     table_avg = pickle.load(f)
-'''
+
 entry_1 = ['pos','neg','neutral']
 entry_2 = entry_1
 entry_3 = entry_2
@@ -69,7 +70,14 @@ for item_1 in entry_1:
                     value_num = 0
                     value_avg = 0
                     table_state_strategy[(item_1,item_2,item_3)] = 'end'
+                    table_avg[key] = 1
                 print (item_1 +' , ' + item_2 +' , '+ item_3 +' , '+ item_4 + ' , ' + str(value_avg) + ' , ' + str(value_num)+'\n' )
+
+print '-----------'
+for key in  table_avg.keys():
+    print key
+    print '\n'
+
 # save a dictionary that for each situation, pick the one with highest value average.
 with open('table_state_strategy.pkl','wb') as f:
     pickle.dump(table_state_strategy,f)

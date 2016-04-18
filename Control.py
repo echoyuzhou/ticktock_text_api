@@ -32,8 +32,8 @@ def FindCandidate(model,database, resource, input_utter, isAlltag, history,anaph
         else:
                 Candidates, TopicLevel = Retrieval.FreqPairMatch(meta_info, database)
                 #print word2vec_ranking_mode
-                print 'history'
-                print history
+#                print 'history'
+#                print history
                 #print Candidates
                 relavance, answer, tag = Retrieval.Select(Candidates,history,word2vec_ranking_mode,model)
                 #print "answer from ", tag
@@ -62,16 +62,16 @@ def SelectState_rel_only(policy_mode,str_rule, relavance, user_input, pre_histor
                 curr_1 = sentiment.get_sentiment(user_input)
                 curr_2 = sentiment.get_sentiment(pre_history[-1])
                 curr_3 = sentiment.get_sentiment(pre_history[-2])
-                if curr_1 not in ['neg','pos','neutral'] or curr_2 not in ['neg','pos','neutral'] or curr_3 not in ['neg','pos','neutral']:
-                    print "there is something wrong"
-                    print user_input
-                    print pre_history[-1]
-                    print pre_history[-2]
+#                if curr_1 not in ['neg','pos','neutral'] or curr_2 not in ['neg','pos','neutral'] or curr_3 not in ['neg','pos','neutral']:
+#                    print "there is something wrong"
+#                    print user_input
+#                    print pre_history[-1]
+#                    print pre_history[-2]
 
-                print 'this is the previous history'
-                print curr_1
-                print curr_2
-                print curr_3
+#                print 'this is the previous history'
+#                print curr_1
+#                print curr_2
+#                print curr_3
                 strategy = str_rule[(curr_1,curr_2,curr_3)]
                 return {'name':strategy}
                 #return TreeState[branch_idx][False][2]

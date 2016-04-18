@@ -65,12 +65,12 @@ def InfoExtractor(utter, resource,isAlltag, history, anaphora,tfidfmodel=None, t
                             anaphora_trigger = 1
                 else:
                     print "anaphra triggered, but cannot find a noun to refer to"
-                print 'these are all the token used'
-                print token
+#                print 'these are all the token used'
+#                print token
                 valList = tfidfmodel[tfidfdict.doc2bow(token)]
                 #valList = tfidfmodel[tfidfdict.doc2bow(utter.lower().split())] ## talk to Neil about should we use word_tokenize?
-                print "printing valList..."
-                print valList
+#                print "printing valList..."
+#                print valList
                 resDict = {}
                 for tup in valList:
                     key, score = tup

@@ -18,7 +18,7 @@ def LoadLanguageResource():
                 WeightRules[wh] =1
         #WeightRules['VBP','VB','VBG','VBZ','VBN','WDT','WP','WP$','WRB'] = 1
         stop_dict=defaultdict(bool)
-        for word in ltk.corpus.stopwords.words('english'):
+        for word in nltk.corpus.stopwords.words('english'):
                 stop_dict[word] = True
         resource = {}
         resource['rules'] = WeightRules

@@ -167,15 +167,15 @@ def get_response(fix_strategy,policy_mode,user_input,user_id,previous_history, t
         #print tfidfdict
         if user_id in previous_history.keys():
             history = previous_history[user_id]
-            print 'we are here in history'
-            print history
+        #    print 'we are here in history'
+        #    print history
         else:
             previous_history = {}
             theme[user_id] = random.choice(TopicLib)
             output = 'Hello, I really like ' + theme[user_id] + '. How about we talk about ' + theme[user_id]
             previous_history[user_id]=[user_input,output]
-            print 'previous history'
-            print previous_history
+        #    print 'previous history'
+        #    print previous_history
             return theme, 'new', output, previous_history, 0
         #if fix_strategy is not None:
 
@@ -225,9 +225,9 @@ def get_response(fix_strategy,policy_mode,user_input,user_id,previous_history, t
             state['name'] = fix_strategy
         strategy.append(state['name'])
         output,topic_id,init_id,joke_id,more_id, engagement_input = NLG.FillTemplate(theme[user_id], TemplateLib, TopicLib, Template[state['name']],topic_id, init_id,joke_id,more_id,engaged_input, answer)
-	if isinstance(output, unicode):
+        if isinstance(output, unicode):
 		output = unicodedata.normalize('NFKD',output).encode('ascii','ignore')
-        if state['name'] is not 'continue' and force_strategy == None:
+        if state['name'] is not 'continue' and force_strategy == None and fix_strategy ==None:
             if oov_mode is 1:
 		is_chosen, dictionary_value,output_oov = oov.oov_out(user_input,dictionary_value)
                 if is_chosen is 1:
@@ -248,7 +248,7 @@ def get_response(fix_strategy,policy_mode,user_input,user_id,previous_history, t
                     word_list = nltk.word_tokenize(user_input)
                     for word in word_list:
                         if word not in dictionary_value:
-                            print user_input not in dictionary_value
+                            #print 'user_input not in dictionary_value'
                             print 'short answer is triggered'
                             strategy.append('short_answer')
                             output = 'Will you be serious, and say something in a complete sentence?'
@@ -260,19 +260,24 @@ def get_response(fix_strategy,policy_mode,user_input,user_id,previous_history, t
                 previous_history[user_id].append(user_input)
                 previous_history[user_id].append(output)
         else:
+            #if fix_strategy is None:
                 print "we are in the else user_id"
                 previous_history[user_id] = [user_input,output]
         if output[-2:-1]==' ':
             output = output[0:-2] +output[-1]
-
-        if strategy[-1] =='switch':
+#this is if there is switch, we change the theme, and board game has a space which is a little different
+        if strategy[-1] =='switch': #and fix_strategy == None:
             if output.split()[-1] == 'games':
                 theme[user_id] = 'board games'
             else:
                 theme[user_id] = output.split()[-1]
         if user_input in previous_history[user_id][:-2]:
             output = "You already said that!"
-
+        punc_list = [".",",","?","'","!"]
+        # get rid of the space before the puncuation.
+        for punc in punc_list:
+            if punc in output:
+                output.replace(' '+punc,punc)
         print 'strategy' +  str(strategy)
         print 'response: ' + output
         print "end response generation =================="

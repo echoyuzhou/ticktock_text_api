@@ -33,7 +33,7 @@ sub_state_list = ['null','pos','neg','neutral']
 for state_1 in sub_state_list:
     for state_2 in sub_state_list:
         for state_3 in sub_state_list:
-            for turn_id in range(1,12):
+            for turn_id in range(1,11):
                 for action in action_list:
                     q_table[((state_1,state_2,state_3,turn_id),action)]=0
 
@@ -45,9 +45,7 @@ user_input_all = pickle.load(open('user_input_all.pkl'))
 
 #the conv is a list of the stored conversation, starting with ticktock's input.
 TopicLib = ['movies','politics','music','sports', 'board games']
-start_index = 1000
-conv_index = start_index
-reward_avg ={}
+conv_index = 1000
 def q_conv(q_table,q_table_old):
     value = 0
     for key in q_table.keys():
@@ -59,17 +57,7 @@ for tt_utt in user_input_all:
     conv.append(tt_utt)
     # clean the cash for alice
     commands.getstatusoutput("rm c.txt")
-    if conv_index > start_index+10:
-        epsilon = 0.1
-        if (conv_index-start_index)%20 == 0:
-        # here we do testing.
-            epsilon = 0
-            f = open('simulate_conv/'+str(conv_index)+'_test.txt','w')
-        else:
-            f = open('simulate_conv/'+str(conv_index)+'.txt','w')
-    else:
-        epsilon = 0.5
-        f = open('simulate_conv/'+str(conv_index)+'.txt','w')
+    f = open('simulate_conv/'+str(conv_index)+'.txt','w')
     f.write('Turn: 0'+'\n')
     f.write('You: Hello'+'\n' )
     f.write('TickTock: ' + tt_utt +'\n')
@@ -82,8 +70,7 @@ for tt_utt in user_input_all:
     sent_1 = 'null'
     theme[str(conv_index)] = random.choice(TopicLib)
     previous_history[str(conv_index)] = ['Hello',tt_utt]
-    reward_list = []
-    for turn_id in range(1,11):
+    for turn_id in range(1,10):
         print turn_id
         al_utt = alice.alice(tt_utt)
         conv.append(al_utt)
@@ -100,14 +87,14 @@ for tt_utt in user_input_all:
             utt_real = response
             conv.append(utt_real)
             next_sent_3 = sentiment.get_sentiment(utt_real)
-        #   q_value = 1000
-            action_selected = strategy[-1]
+            q_value = 1000
+            action_selected = strategy
         else:
         #action selection portion
             if random.random()<epsilon:
                 action_selected = random.choice(action_list)
             else:
-            #    q_value = q_table[(state,action)]
+                q_value = q_table[(state,action)]
                 q_list =[]
                 for action in action_list:
                     theme_new, strategy, utt,previous_history_new,word2vec = galbackend_online.get_response(action, policy_mode,al_utt, str(conv_index) ,previous_history,theme, oov_state,name_entity_state,short_answer_state,anaphra_state,word2vec_ranking_state,tfidf_state)
@@ -129,39 +116,34 @@ for tt_utt in user_input_all:
             next_sent_3 = sentiment.get_sentiment(utt_real)
             conv.append(utt_real)
             maxQ_real = q_table[((next_sent_1,next_sent_2,next_sent_3,turn_id +1),action_selected)]
-            #q_table_old = q_table
+            q_table_old = q_table
              # learning rate here is set to be 1
             q_table[(state,action_selected)] =  (1-alpha)*q_table[(state,action_selected)]+alpha*(reward_table[(state,action)] + gamma*maxQ_real)
             f.write('reward: ' + str(reward_table[(state,action)] )+'\n')
-            reward_list.append(reward_table[(state,action)])
+            if turn_id > 9:
+                con_reward = con_reword.con_reward(conv)
+                q_table[(state,action_selected)] =  q_table[(state,action_selected)] + con_reward
+                f.write('TickTock: ' +utt_real +'\n')
+                f.write('Appropriateness:' +'\n')
+                f.write('Strategy: '+ str(action_selected) +'\n')
+                f.write('Theme: ' + theme[str(conv_index)] + '\n')
+                f.write('\n')
+                f.write('Conversation Reward: ' +str(con_reward) + '\n')
+                break
+            q_value = q_conv(q_table,q_table_old)
+        if q_value < 0.1 and conv_index > 1000+10:
+                print q_value
+                pickle.dump(q_table, open('q_table.pkl','w'))
+                break
         f.write('TickTock: ' +utt_real +'\n')
         f.write('Appropriateness:' +'\n')
         f.write('Strategy: '+ str(action_selected) +'\n')
         f.write('Theme: ' + theme[str(conv_index)] + '\n')
         f.write('\n')
-        if turn_id > 9:
-                con_reward_value = con_reward.con_reward(conv)
-                print con_reward_value
-                if action_selected in action_list:
-                    q_table[(state,action_selected)] =  q_table[(state,action_selected)] + con_reward_value
-                f.write('Conversation Reward: ' +str(con_reward_value) + '\n')
-                reward_avg[str(conv_index)] = (sum(reward_list)+con_reward_value)/len(reward_list)
-                f.write('Average_reward:' + str(reward_avg[str(conv_index)]) +'\n')
-        #        break
-           #q_value = q_conv(q_table,q_table_old)
-        #f.write('TickTock: ' +utt_real +'\n')
-        #f.write('Appropriateness:' +'\n')
-        #f.write('Strategy: '+ str(action_selected) +'\n')
-        #f.write('Theme: ' + theme[str(conv_index)] + '\n')
-        #f.write('\n')
         sent_3 = next_sent_3
         sent_2 = next_sent_2
         sent_1 = next_sent_1
         tt_utt = utt_real
     f.close()
     conv_index = conv_index + 1
-    if conv_index > 1000+40:
-                #print q_value
-                pickle.dump(q_table, open('q_table.pkl','w'))
-                break
 

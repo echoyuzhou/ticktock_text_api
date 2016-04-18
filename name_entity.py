@@ -12,8 +12,8 @@ def find_NE(t,name_entity): # only return the first NE found, will ignore the re
     else:
         # now we know that t.node is defined
         if t.label() == 'NE':
-            print 'this is the NE'
-            print [item[0] for item in t]
+         #   print 'this is the NE'
+         #   print [item[0] for item in t]
             name_entity.append( [item[0] for item in t])
         else:
             for child in t:
@@ -23,18 +23,18 @@ def name_entity_detection(user_input):
         sent_token = nltk.word_tokenize(user_input)
         sent_postag = nltk.pos_tag(sent_token)
         sent_tree = nltk.ne_chunk(sent_postag,binary=True)
-        print sent_tree
+        #print sent_tree
         ne = find_NE(sent_tree,[])
-        print 'this is the name entity'
-        print ne
+        #print 'this is the name entity'
+        #print ne
         if ne:
-            print ne[0][0]
-            print sent_token[0]
+         #   print ne[0][0]
+         #   print sent_token[0]
             if ne[0][0]==sent_token[0]:
-                print 'it is the first word'
+          #      print 'it is the first word'
                 return []
             else:
-                print 'this is return the list'
+          #      print 'this is return the list'
                 return ne
 
 def NE_kb(name_entity_list):

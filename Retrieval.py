@@ -17,13 +17,13 @@ def Select(Candidates,history,word2vec_ranking_mode,model):
     print "Candidates for select "
     ids =1
     for Candidate in Candidates:
-        print "Ids ", ids
-        print "weight: ", Candidate[0]
-        print "Question: ", Candidate[1]
-        print "Answer: ", Candidate[2]
-        print "Matched Q or A: ", Candidate[3]
+#        print "Ids ", ids
+#        print "weight: ", Candidate[0]
+#        print "Question: ", Candidate[1]
+#        print "Answer: ", Candidate[2]
+#        print "Matched Q or A: ", Candidate[3]
         ids=ids+1
-    print "================="
+#    print "================="
     candidate_range = min(len(Candidates),3)
     for score, question, answer, tag in Candidates:
         if len(answer) > threshold:
@@ -113,5 +113,4 @@ def UpdateCandidatePair(idx, database, score, Candidate, select, tag):
                 return sorted(Candidate, key=lambda item:item[0], reverse=True)
         else:
                 return Candidate
-
 
