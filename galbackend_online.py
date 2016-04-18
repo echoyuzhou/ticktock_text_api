@@ -277,7 +277,7 @@ def get_response(fix_strategy,policy_mode,user_input,user_id,previous_history, t
         # get rid of the space before the puncuation.
         for punc in punc_list:
             if punc in output:
-                output.replace(' '+punc,punc)
+                output = output.replace(' '+punc,punc)
         print 'strategy' +  str(strategy)
         print 'response: ' + output
         print "end response generation =================="
