@@ -148,7 +148,7 @@ def InitResource(version):
 		socket.connect("tcp://localhost:5555")
         with open('table_state_strategy.pkl') as f:
             table_state_strategy = pickle.load(f)
-def get_response(fix_strategy,policy_mode,user_input,user_id,previous_history, theme, oov_mode,name_entity_mode, short_answer_mode,anaphora_mode, word2vec_ranking_mode,tfidf_mode=0, force_strategy=None):
+def get_response(fix_strategy,policy_mode,user_input,user_id,previous_history, theme, oov_mode =1,name_entity_mode=1, short_answer_mode=1,anaphora_mode=1, word2vec_ranking_mode=1,tfidf_mode=1, force_strategy=None):
 	#oov_mode is used to switch on and off if we ask the unkonwn words
 	#name_entity_mode is used to switch on and off if we will detect the name_entity and use the wiki api to get some knowledge expansion.
         global database, resource, turn_id, time, wizard, socket,isAlltag, tfidfmodel, tfidfdict
@@ -161,44 +161,28 @@ def get_response(fix_strategy,policy_mode,user_input,user_id,previous_history, t
 	turn_id = turn_id+1
 	filepointer.write('time:' + str(datetime.datetime.now())+ '\n')
 	filepointer.write('user_input:' + user_input + '\n')
-        #print 'tfidfmodel: '
-        #print tfidfmodel
-        #print 'tfidfdict: '
-        #print tfidfdict
-        if user_id in previous_history.keys():
-            history = previous_history[user_id]
-        #    print 'we are here in history'
-        #    print history
-        else:
-            previous_history = {}
-            theme[user_id] = random.choice(TopicLib)
-            output = 'Hello, I really like ' + theme[user_id] + '. How about we talk about ' + theme[user_id]
-            previous_history[user_id]=[user_input,output]
-        #    print 'previous history'
-        #    print previous_history
-            return theme, 'new', output, previous_history, 0
-        #if fix_strategy is not None:
-
-        if tfidf_mode is 1:
-	        #print '====history before response====='
-                #print history
+        if fix_strategy is None:
+            if user_id in previous_history.keys():
+                history = previous_history[user_id]
+            else:
+                previous_history = {}
+                if user_id not in theme.keys():
+                    theme[user_id] = random.choice(TopicLib)
+                output = 'Hello, I really like ' + theme[user_id] + '. How about we talk about ' + theme[user_id]
+                previous_history[user_id]=[user_input,output]
+                return theme, 'new', output, previous_history, 0
+            if tfidf_mode is 1:
                 relavance, answer, anaphora_trigger,word2vec = Control.FindCandidate(model,database, resource, user_input,isAlltag,history,anaphora_mode, word2vec_ranking_mode, tfidfmodel=tfidfmodel, tfidfdict=tfidfdict)
-                #print '====history after response====='
-                #print history
-        else:
+            else:
 	        relavance, answer, anaphora_trigger,word2vec  = Control.FindCandidate(model,database, resource, user_input,isAlltag,history,anaphora_mode,word2vec_ranking_mode)
-	filepointer.write('relevance: ' + str(relavance)+ '\n')
-	filepointer.write('RetrievedAnswer: ' + str(answer) + '\n')
-        #print 'anaphora trigger'
-        #print anaphora_trigger
-        if anaphora_trigger is 1:
-            strategy.append('anaphora')
-        if engagement_mode is 1:
+	    filepointer.write('relevance: ' + str(relavance)+ '\n')
+	    filepointer.write('RetrievedAnswer: ' + str(answer) + '\n')
+            if anaphora_trigger is 1:
+                strategy.append('anaphora')
+            if engagement_mode is 1:
 		if wizard is 1:
 			if connection is None:
-				#Log('I asm here')
 				serversocket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-				#Log('serversocket')
 				serversocket.bind(('localhost', 13011))
 				serversocket.listen(5)
 				connection, address = serversocket.accept()
@@ -219,10 +203,12 @@ def get_response(fix_strategy,policy_mode,user_input,user_id,previous_history, t
 		if int(engagement)>3:
 			engaged_input.append(user_input)
 		state = Control.SelectState_rel(relavance, int(engagement), TreeState,engaged_input)
-	else:
+	    else:
 		state = Control.SelectState_rel_only(policy_mode, table_state_strategy, relavance, user_input,history, TreeState,force_strategy=force_strategy)
-        if fix_strategy is not None:
-            state['name'] = fix_strategy
+        else:
+            state = {'name': fix_strategy}
+            answer = ''
+            word2vec = 0
         strategy.append(state['name'])
         output,topic_id,init_id,joke_id,more_id, engagement_input = NLG.FillTemplate(theme[user_id], TemplateLib, TopicLib, Template[state['name']],topic_id, init_id,joke_id,more_id,engaged_input, answer)
         if isinstance(output, unicode):
@@ -241,7 +227,9 @@ def get_response(fix_strategy,policy_mode,user_input,user_id,previous_history, t
                    if name_entity_disp:
                         print 'name entity is triggerd'
                         strategy.append('name_entity')
-                        output = name_entity.name_entity_generation(name_entity_list, name_entity_disp)
+                        output_oov = name_entity.name_entity_generation(name_entity_list, name_entity_disp)
+                        if output_oov != previous_history[user_id][-1]:
+                            output = output_oov
             if short_answer_mode is 1:
                 if (user_input.find(' ')==-1):
                     print 'it is a single word'
@@ -265,16 +253,19 @@ def get_response(fix_strategy,policy_mode,user_input,user_id,previous_history, t
                 previous_history[user_id] = [user_input,output]
         if output[-2:-1]==' ':
             output = output[0:-2] +output[-1]
-#this is if there is switch, we change the theme, and board game has a space which is a little different
+
+        #this is if there is switch, we change the theme, and board game has a space which is a little different
         if strategy[-1] =='switch': #and fix_strategy == None:
             if output.split()[-1] == 'games':
                 theme[user_id] = 'board games'
             else:
                 theme[user_id] = output.split()[-1]
+
         if user_input in previous_history[user_id][:-2]:
             output = "You already said that!"
         punc_list = [".",",","?","'","!"]
         # get rid of the space before the puncuation.
+
         for punc in punc_list:
             if punc in output:
                 output = output.replace(' '+punc,punc)

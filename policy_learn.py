@@ -81,6 +81,7 @@ for tt_utt in user_input_all:
     sent_2 = 'null'
     sent_1 = 'null'
     theme[str(conv_index)] = random.choice(TopicLib)
+    old_theme = theme[str(conv_index)]
     previous_history[str(conv_index)] = ['Hello',tt_utt]
     reward_list = []
     for turn_id in range(1,11):
@@ -120,11 +121,14 @@ for tt_utt in user_input_all:
                 count = q_list.index(maxQ)
                 if count>1:
                     best = [i for i in range(len(action_list)) if q_list[i]==maxQ]
-                    print best
+                    #print best
                     i = random.choice(best)
                 else:
                     i = q_list.index(maxQ)
                 action_selected = action_list[i]
+            if theme[str(conv_index)]!=old_theme:
+                print 'theme changed'
+                break
             theme, strategy, utt_real,previous_history_new,word2vec = galbackend_online.get_response(action_selected, policy_mode,al_utt, str(conv_index) ,previous_history,theme, oov_state,name_entity_state,short_answer_state,anaphra_state,word2vec_ranking_state,tfidf_state)
             next_sent_3 = sentiment.get_sentiment(utt_real)
             conv.append(utt_real)
@@ -145,7 +149,10 @@ for tt_utt in user_input_all:
                 if action_selected in action_list:
                     q_table[(state,action_selected)] =  q_table[(state,action_selected)] + con_reward_value
                 f.write('Conversation Reward: ' +str(con_reward_value) + '\n')
-                reward_avg[str(conv_index)] = (sum(reward_list)+con_reward_value)/len(reward_list)
+                if reward_list ==[]:
+                    reward_avg[str(conv_index)] =0 # no action is selected
+                else:
+                    reward_avg[str(conv_index)] = (sum(reward_list)+con_reward_value)/len(reward_list)
                 f.write('Average_reward:' + str(reward_avg[str(conv_index)]) +'\n')
         #        break
            #q_value = q_conv(q_table,q_table_old)

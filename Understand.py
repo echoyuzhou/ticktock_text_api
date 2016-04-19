@@ -9,12 +9,12 @@ from gensim import models, corpora
 def AddWeight(tag_list, rules, stop_dict,isAlltag, tfidfvalues=None):
 	result = []
         #print str(tag_list)
-        if not tfidfvalues == None:
-            for k in tfidfvalues.keys():
-                print k, tfidfvalues[k]
-        else:
-            print "tfidf is not active"
-	for token, pos in tag_list:
+#        if not tfidfvalues == None:
+#            for k in tfidfvalues.keys():
+#                print k, tfidfvalues[k]
+#        else:
+#            print "tfidf is not active"
+        for token, pos in tag_list:
 		if rules[pos]>0:
                         if not tfidfvalues == None:
                                 if token.lower() in tfidfvalues.keys():

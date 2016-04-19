@@ -59,15 +59,13 @@ def SelectState_rel_only(policy_mode,str_rule, relavance, user_input, pre_histor
 		return random.choice(TreeState[branch_idx][False][0:-1])# don't choose the last leave, go back
 	    else:
                 #choose this based on the previous utterances' sentiment.
+                #curr =[]
                 curr_1 = sentiment.get_sentiment(user_input)
                 curr_2 = sentiment.get_sentiment(pre_history[-1])
                 curr_3 = sentiment.get_sentiment(pre_history[-2])
-#                if curr_1 not in ['neg','pos','neutral'] or curr_2 not in ['neg','pos','neutral'] or curr_3 not in ['neg','pos','neutral']:
-#                    print "there is something wrong"
-#                    print user_input
-#                    print pre_history[-1]
-#                    print pre_history[-2]
-
+                if curr_1 not in ['neg','pos','neutral']:
+                    curr_1 = 'neg'
+                    print user_input
 #                print 'this is the previous history'
 #                print curr_1
 #                print curr_2

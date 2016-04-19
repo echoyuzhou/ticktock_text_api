@@ -38,7 +38,7 @@ def Select(Candidates,history,word2vec_ranking_mode,model):
     if len(answer_list) > 0:
         #return random.choice(answer_list)
         if word2vec_ranking_mode==1 and history:
-            print 'the word2vec_ranking_mode is triggered'
+            #print 'the word2vec_ranking_mode is triggered'
             # based on how similar the previous TickTock utterance to choose
             sentence = history[-1]
             token = nltk.word_tokenize(sentence)
@@ -51,14 +51,14 @@ def Select(Candidates,history,word2vec_ranking_mode,model):
                     if sentence ==answer_list[0][2]: # make sure there is no repeat of the same utterance
                         return answer_list[0]
                     return answer_list[0]
-                print sim_score
+                #print sim_score
                 if big_score < sim_score*0.5 + score and sim_score!=1:
                     big_score = sim_score*0.5 + score
                     best_answer = answer
                     relevance = score
                 #print best_answer
             if relevance != answer_list[0][0]:
-                print "picked the non-first response based on the word2vec rank"
+                #print "picked the non-first response based on the word2vec rank"
             return relevance, best_answer, 'Q'
         else:
             return answer_list[0]
