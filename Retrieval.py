@@ -57,7 +57,7 @@ def Select(Candidates,history,word2vec_ranking_mode,model):
                     best_answer = answer
                     relevance = score
                 #print best_answer
-            if relevance != answer_list[0][0]:
+            #if relevance != answer_list[0][0]:
                 #print "picked the non-first response based on the word2vec rank"
             return relevance, best_answer, 'Q'
         else:
