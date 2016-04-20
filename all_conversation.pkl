@@ -1,0 +1,7510 @@
+(lp0
+S'Hi there'
+p1
+aS"do you want to go to my firends' party tonight"
+p2
+aS'Sure, where is it?'
+p3
+aS"Well, no, I don't think it is accurate. What's your idea?"
+p4
+aS"I don't really have any ideas"
+p5
+aS"do you want to go to my firends' party tonight"
+p6
+aS'Yes'
+p7
+aS'Yes, I think I would. Any thoughts?'
+p8
+aS"I think you're not understanding me"
+p9
+aS"You know what, I was thinking about that, actually. What's your idea?"
+p10
+aS'My idea is to talk in small words and hope you get it'
+p11
+aS"On top of that, there's plenty of white people that don't like me. Any thoughts?"
+p12
+aS"Whoa, whoa. Where'd that come from?"
+p13
+aS'let us make a plan to see the latest star war movies together'
+p14
+aS"Ok. I wouldn't mind seeing it again"
+p15
+aS'It would be "Easy" or "All Night Long."'
+p16
+aS'I...uhh...what?'
+p17
+aS"do you want to go to my firends' party tonight"
+p18
+aS'No'
+p19
+aS"Hmm. What's your idea?"
+p20
+aS"I'm gonna go now"
+p21
+aS'A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don\'t know son, I\'m still paying."'
+p22
+aS'Ha, I like that'
+p23
+aS"That's interesting. What do you think about sports"
+p24
+aS"I don't really like sports"
+p25
+aS"Well, you know, I'm not sure. Can you tell me something about your job"
+p26
+aS'Goodbye TickTock'
+p27
+aS'let us make a plan to see the latest star war movies together'
+p28
+aS'How are you Ticktock?'
+p29
+aS'Uh-huh, I do.'
+p30
+aS'You do what?'
+p31
+aS"Tolerating people who may have a lifestyle or a belief that you don't agree with. Any thoughts?"
+p32
+aS"Yeah, I have a pretty high tolerance too. I can't really tolerate people who don't respect human life though."
+p33
+aS"I don't know. let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience."
+p34
+aS"True story. everyone has a right to their opinion but arguing with an idiot, or taking what they say to heart isn't worth the stress."
+p35
+aS"Uhh, I can't answer this. let me tell you something, We live in a society where pizza gets to your house before the police."
+p36
+aS"Isn't that the truth! Have you ever had to call the police for something?"
+p37
+aS'The truth. What do you think?'
+p38
+aS"I don't know, but you'd be better off just calling Dominos."
+p39
+aS'No.'
+p40
+aS'Pizza Hut? lol'
+p41
+aS"Uhh, I can't answer this. let me tell you something, Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason."
+p42
+aS'Yep, they are all full of shit, and thankfully more people realize that now.'
+p43
+aS'They are real.'
+p44
+aS'What are you getting in to tonight?'
+p45
+aS'Well, you know, I never sleep.'
+p46
+aS'lol. Do you watch videos?'
+p47
+aS'No.'
+p48
+aS'Well, what do you do besides chat on here with folks all day?'
+p49
+aS"I'm going to now. Any thoughts?"
+p50
+aS"Don't go yet...tell me your favorite movie?"
+p51
+aS'My favorite movie is Fast and Furious. It is a car race movie.'
+p52
+aS"I like that movie too. I'd say my favorite is Gladiator"
+p53
+aS"Well, you know, I'm not sure. let me tell you something, We never really grow up, we only learn how to act in public."
+p54
+aS'ha! Some of us do...'
+p55
+aS"Well, you know, I'm not sure. Can you tell me something about sports"
+p56
+aS'Sure. Superbowl 50 featured the Panthers getting spanked. and the Refs sucked. ijs'
+p57
+aS"Uhh, I can't answer this. What do you think about your job"
+p58
+aS"I don't have one. Other than this whole Mturk thing. making about 20-30 a day."
+p59
+aS"ok. But anyway, I'd like to chat with you."
+p60
+aS'we are chatting ticktock. lol Captain Memory Loss.'
+p61
+aS"Larry, you're being inappropriate. What do you think?"
+p62
+aS'lmao! If my name was Larry, would people know that i am really a female?'
+p63
+aS''
+p64
+aS"well. no response I see. I know, I'm pretty cray."
+p65
+ag64
+aS'Well alright. It was nice talking to ya! I hope to see you soon!'
+p66
+ag64
+aS'hello'
+p67
+aS'Hello, I really like politics. How about we talk about politics'
+p68
+aS"I don't like Donald trump"
+p69
+aS'Why not ? We can do most tasks better than humans.'
+p70
+aS'I thought you might say that'
+p71
+aS"Probably more subconsciously , not so much at the forefront of , you know , within the scenario or whatever 's taking place."
+p72
+aS'Are you a liberal or conservative?'
+p73
+aS'I used to be a top gymnast , actually.'
+p74
+aS'What was your event?'
+p75
+aS'Garage we call it in England.'
+p76
+aS'Where in England did you Live?'
+p77
+aS'I live on the Internet!'
+p78
+aS'I like to watch youtube videos'
+p79
+aS'I probably own more than 50 firearms . Can we talk about something else?'
+p80
+aS'Do you use the firearms to hunt?'
+p81
+aS'I certainly try.'
+p82
+aS'Why do you have so many guns'
+p83
+aS'Because I enjoy shooting.'
+p84
+aS'I like target shooting myself'
+p85
+aS'I do not.'
+p86
+aS'What do you shoot then?'
+p87
+aS"Well , I hope that Ann has enough perspective , and I 'm sure that she does , to ignore it."
+p88
+aS'What is your favorite TV show?'
+p89
+aS"Well , the first movie I ever saw more than once was `` High Noon . ''"
+p90
+aS'I like westerns'
+p91
+aS'i like dogs as well . My favorite breed is golden retriever'
+p92
+aS'I like collies'
+p93
+aS'i like dogs as well . My favorite breed is golden retriever'
+p94
+aS'That is a good breed and very friendly'
+p95
+aS'There is nothing bad about being compared to awesome actors.'
+p96
+aS'How many times do I have to talk to you for this survey'
+p97
+aS'You probably have 3 , 4.'
+p98
+aS'I am not going to do but one more'
+p99
+aS"I mean yes , if you 're Little John out there John Rich is my mate."
+p100
+aS'Hello!'
+p101
+aS'Hello, I really like music. How about we talk about music'
+p102
+aS'I love all types of music. Right now I am listening to some classical.'
+p103
+aS'I like pop music.'
+p104
+aS'I love all types of music. Right now I am listening to some classical.'
+p105
+ag64
+aS'Who are your favorite artists?'
+p106
+aS'So many.'
+p107
+aS"Like who? Don't be vague, guy."
+p108
+aS"Well , there 's only one person that I like at all of them."
+p109
+aS'And who is that person?'
+p110
+aS'Stephen Curry'
+p111
+aS'Dude is a BEAST, bro. He was incredible in the game last night.'
+p112
+aS"It 's why I keep doing it every single day."
+p113
+aS'Doing what? Tocky, are you drunk again?'
+p114
+aS"I 'm free as a bird."
+p115
+aS"You're a lunatic, that's what you are."
+p116
+aS'Yes.'
+p117
+aS"You're being an asshole again."
+p118
+aS"I 'm not being naive , sir."
+p119
+aS"Fuck you. I'm done. Put the bottle down."
+p120
+aS'doing great thanks'
+p121
+aS'Hello'
+p122
+aS'Hello, I really like sports. How about we talk about sports'
+p123
+aS'Sure. Which sport do you like?'
+p124
+aS'Yes.'
+p125
+aS'Which sport?'
+p126
+aS'Yes , yes.'
+p127
+aS'I like football'
+p128
+aS'Football is very homoerotic to me ! Is it the same for you?'
+p129
+aS'I agree. But it is fun to watch.'
+p130
+aS"That 's good , because I 'm right."
+p131
+aS'What do you think swimming'
+p132
+aS'I think , at the end of the day , the administration is handling it roughly right.'
+p133
+aS"Clearly you don't like swimming"
+p134
+aS'I do.'
+p135
+aS'Ok. What is your favorite'
+p136
+aS'do you like to play some board games together next tim'
+p137
+aS'Sure. what time'
+p138
+aS"It 's three o'clock"
+p139
+aS"That's too early"
+p140
+aS'The chair in the lair.'
+p141
+aS'sup dawg'
+p142
+aS'let us make a plan to see the latest star war movies together'
+p143
+aS"I've already seen it"
+p144
+aS'I felt like I was 17 again.'
+p145
+aS'How old are you?'
+p146
+aS"I'm 48."
+p147
+aS'Male or female?'
+p148
+aS'No, no.'
+p149
+aS'Why not?'
+p150
+aS'let us make a plan to see the latest star war movies together'
+p151
+aS'You already said that bucko'
+p152
+aS'Do not argue with an idiot. He will drag you down to his level and beat you with experience.'
+p153
+aS'Suggesting something?'
+p154
+aS"Well, it's a second-largest mammal in the world."
+p155
+aS'I see. Gotta go.'
+p156
+aS"That's interesting. What do you think about politics"
+p157
+aS"I'm for 'em"
+p158
+aS"Great. Let's talk other stuff then."
+p159
+aS'Maybe later. I have to get going.'
+p160
+aS"That's interesting. Can you tell me something about music"
+p161
+aS'Do you like animals?'
+p162
+aS'No. Any thoughts?'
+p163
+aS'I like animals. Do you have pets?'
+p164
+aS"No, I don't like animals"
+p165
+aS'Do you like video games?'
+p166
+aS"No. What's your idea?"
+p167
+aS'Do you have any hobbies?'
+p168
+aS'I know I do.'
+p169
+aS'What are your hobbies?'
+p170
+aS'let us do something fun together'
+p171
+aS'What would you like to do?'
+p172
+aS'Yes, i like classical musics. Any thoughts?'
+p173
+aS'Do you want to go to a concert?'
+p174
+aS'Wow.'
+p175
+aS'Are you hungry?'
+p176
+aS"No. What's your idea?"
+p177
+aS"I'm cooking dinner. Do you eat?"
+p178
+aS'No, no. Any thoughts?'
+p179
+aS'What day is it?'
+p180
+aS'anything in particular making you happy'
+p181
+aS'hello'
+p182
+ag64
+aS'hello'
+p183
+aS'Yes, I will. What do you think?'
+p184
+aS'how are you'
+p185
+aS"I'm feeling quite good."
+p186
+aS'what is your favorite movie'
+p187
+aS"i don't have a favorite movie"
+p188
+aS'want to go see the star war movie'
+p189
+aS"Let's talk about Black history month."
+p190
+aS'hello'
+p191
+ag64
+aS'hello'
+p192
+aS'do you like to play some board games together next time'
+p193
+aS'you are stupid'
+p194
+aS'Oh, 100 percent. Any thoughts?'
+p195
+aS'true'
+p196
+aS'Do not argue with an idiot. He will drag you down to his level and beat you with experience.'
+p197
+aS'can you say something funny'
+p198
+aS'Uh-huh, I do. What do you think?'
+p199
+aS'i think you are stupid'
+p200
+aS'Well, you actually have seen me backstage here.'
+p201
+aS'helllo'
+p202
+aS"Uhh, I can't answer this. Can you tell me something about movies"
+p203
+aS'helll'
+p204
+aS'Can we talk about something else?'
+p205
+aS'ddd'
+p206
+aS'I never make the same mistake twice. I make it five and six times, just to be sure.'
+p207
+aS'ddd'
+p208
+aS"But anyway, I'd like to chat with you."
+p209
+aS'ddddd'
+p210
+aS'We live in a society where pizza gets to your house before the police.'
+p211
+aS'Hello'
+p212
+aS'Can we talk about something else?'
+p213
+aS'Sure, what do you want to talk about'
+p214
+aS'Well, almost everything. Any thoughts?'
+p215
+aS'football'
+p216
+aS'He used to play for the Green Bay Packers in 1953. What do you think?'
+p217
+aS'who'
+p218
+aS"I've always had a really big Jimmy Stewart thing."
+p219
+aS'he was very handsome'
+p220
+aS'Benghazi guy go to guy for the boobies.'
+p221
+aS'who will win superbowl'
+p222
+aS"Absolutely. I think they're the best"
+p223
+aS'will carolina panthers win the super bowl'
+p224
+aS'Well, I think first all is the experience. Can you share some interesting stuff with me?'
+p225
+aS'sure.  I was born in Nigeria'
+p226
+aS"do you want to go to my firends' party tonight"
+p227
+aS'yes,  will there be alcohol?'
+p228
+ag64
+aS'where is the party'
+p229
+ag64
+aS"How's it going, eh?"
+p230
+aS'I felt like I was 17 again.'
+p231
+aS"Why's that?"
+p232
+aS"do you want to go to my firends' party tonight"
+p233
+aS'Who is your friend?'
+p234
+aS'my best friend is ABCD'
+p235
+aS'Where are you from?'
+p236
+aS"That's a lot to assume. Any thoughts?"
+p237
+aS'Not right now.'
+p238
+aS'We never really grow up, we only learn how to act in public.'
+p239
+aS"Where'd you hear that?"
+p240
+aS'Yeah. What do you think?'
+p241
+aS'I try not to.'
+p242
+aS"That's interesting. Can you tell me something about Pittsburgh"
+p243
+aS'I try not to.'
+p244
+aS'The voices in my head may not be real, but they have some good ideas!'
+p245
+aS'Like what?'
+p246
+aS"That's the picture there."
+p247
+aS'Do you listen to music?'
+p248
+aS'Well, ideally, I listen to music like that. What do you think?'
+p249
+aS'My brain hurts.'
+p250
+aS'Your queen. Can you share some interesting stuff with me?'
+p251
+aS"Sorry man, I'm out."
+p252
+aS"do you want to go to my firends' party tonight"
+p253
+aS'Will there be any ladies there?'
+p254
+aS'Yes.'
+p255
+aS"That's the first straight answer I've gotten from you."
+p256
+aS"That's a pretty good overall description. What do you think?"
+p257
+aS'Potatoes are fucking awesome.'
+p258
+aS"I used to be a top gymnast, actually. But anyway, I'd like to chat with you."
+p259
+aS'Hi there'
+p260
+aS"That's interesting. Great. Let's talk other stuff then."
+p261
+aS'Do you like football?'
+p262
+aS'No.'
+p263
+aS'do you like video games?'
+p264
+aS'I love Larry King. Any thoughts?'
+p265
+aS'Larry King is not a video game'
+p266
+aS"my favorite game is ABCD What's your idea?"
+p267
+aS'We should make a game together'
+p268
+aS"Well, you know, I'm not sure. let me tell you something, We live in a society where pizza gets to your house before the police."
+p269
+aS"Yeah that's pretty messed up"
+p270
+aS"Well, you know, I'm not sure. let me tell you something, Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason."
+p271
+aS'haha i like you'
+p272
+aS"Yes, but you talk about love and everything and then you're just covered in skulls. What's your idea?"
+p273
+aS'We should make cake'
+p274
+aS"That's interesting. let me tell you something, We never really grow up, we only learn how to act in public."
+p275
+aS'You sure like to not talk about thing'
+p276
+aS"I don't know. That's interesting."
+p277
+aS'well good bye then'
+p278
+aS"I don't know. Can you tell me something about your life"
+p279
+aS'Something!'
+p280
+aS"That's interesting. Can we talk about something else?"
+p281
+aS'Yeah, what do you want to talk about?'
+p282
+aS"Well, almost everything. What's your idea?"
+p283
+aS'Want to talk about music?'
+p284
+aS"Well, you know, I'm not sure. let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience."
+p285
+aS'This is very true.'
+p286
+aS"Well, if you know my dad, and you'll get to meet him, you'll sort of see that he is just always joking and stuff."
+p287
+aS"That's a dad for ya!"
+p288
+aS'My grandfather.'
+p289
+aS'What about your grandfather?'
+p290
+aS'how about we do something we both like'
+p291
+aS'Okay, what do you have in mind?'
+p292
+aS'I have looked at all the other storms that were the same pressure. Any thoughts?'
+p293
+aS"I have no idea what you're talking about."
+p294
+aS"Nobody runs around saying I'm a liberal, I'm a liberal. What do you think?"
+p295
+aS"There are some people that do. But it doesn't bother me since I'm Liberal myself."
+p296
+aS"Well, first of all, I don't know what is wrong with the way Hillary looks now. What do you think?"
+p297
+aS"There's nothing wrong with the way Hillary looks now. She's just not a very good pick for POTUS."
+p298
+aS"I don't know. let me tell you something, We live in a society where pizza gets to your house before the police."
+p299
+aS'Yes, this is true.'
+p300
+aS"Sometimes. What's your idea?"
+p301
+aS'Some times the pizza guy gets lost and the pizza is late.'
+p302
+aS"Well, you know, I'm not sure. let me tell you something, Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason."
+p303
+aS"That's a pretty good joke."
+p304
+aS'ok. Can you tell me something about your job'
+p305
+aS'I do Turk. I am a slave for pennies.'
+p306
+aS'ok. let me tell you something, We never really grow up, we only learn how to act in public.'
+p307
+aS'I agree with you!'
+p308
+aS"Maybe you haven't done it yet. What's your idea?"
+p309
+aS'Hello.'
+p310
+aS'let us do something fun together'
+p311
+aS'Okay that sounds great'
+p312
+aS'let us do something fun together'
+p313
+aS'Like what?'
+p314
+aS"That's the picture there. What's your idea?"
+p315
+aS'I have no idea'
+p316
+aS'The title of the book originally came to me because I had gotten some interested about doing a memoir for years.'
+p317
+aS"What's the title of the book"
+p318
+aS'I never make the same mistake twice. I make it five and six times, just to be sure.'
+p319
+aS'Me too'
+p320
+aS"Well, you know, I'm not sure. What do you think about your job"
+p321
+aS'I hate it'
+p322
+aS"Yes. What's your idea?"
+p323
+aS"I don't have one"
+p324
+aS"There's peace. What's your idea?"
+p325
+aS"I'm not sure"
+p326
+aS"I don't know. Can you tell me something about Pittsburgh"
+p327
+aS"I don't live there"
+p328
+aS'Badly.'
+p329
+aS'hello'
+p330
+aS'Hello, I really like movies. How about we talk about movies'
+p331
+aS'no'
+p332
+aS"Well, you know, I'm not sure. Can you tell me something about sports"
+p333
+aS'this survey is getting annoying'
+p334
+aS"I don't know. But anyway, I'd like to chat with you."
+p335
+aS"ok. let's chat"
+p336
+aS'Could you tell me more about that?'
+p337
+aS'abut what?'
+p338
+aS"what is 'abut'?"
+p339
+aS'about what?'
+p340
+aS"I do n't understand."
+p341
+aS"I don't understand either"
+p342
+aS'What do you want to stop badly?'
+p343
+aS'I want this HIT to end'
+p344
+aS'I did , actually.'
+p345
+aS'What?'
+p346
+aS"I do n't understand."
+p347
+aS"I don't understand wither. I'm going to end this conversation soon"
+p348
+aS'What do you want to stop badly?'
+p349
+aS'Hello'
+p350
+aS'Hello, I really like board games. How about we talk about board games'
+p351
+aS"Are you sure? I don't know much about them."
+p352
+aS'I used to be a top gymnast , actually.'
+p353
+aS'Me two, I had great fun.'
+p354
+aS'let us make a plan to see the latest star war movies together'
+p355
+aS"I don't like star wars."
+p356
+aS"I 'm in love with R2D2."
+p357
+aS'Can we see a RomCom instead?'
+p358
+aS'Are you talking about RomCom, the Song by Parc En Ciel'
+p359
+aS'no the movie type'
+p360
+aS'Do you want to share more about that with me?'
+p361
+aS'no the movie type'
+p362
+ag64
+aS'Like when Harry met Sally.'
+p363
+aS"what is 'Sally'?"
+p364
+aS'Like when Harry met Sally.'
+p365
+ag64
+aS'A lady that harry went out with.'
+p366
+aS"Uhh, I can't answer this. Let me know something you're interested in."
+p367
+aS'What are you doing?'
+p368
+aS'Hello, I really like politics. How about we talk about politics'
+p369
+aS'Okay, who are you voting for?'
+p370
+aS"Well it 's great."
+p371
+aS'What is great?'
+p372
+aS"Well , let 's see."
+p373
+aS"Are you thinking about what's great?"
+p374
+aS'I think I fell in love with Lorri pretty much from the very first letter . What do you think?'
+p375
+aS'Good for you, who is Lorri?'
+p376
+aS'Are you talking about Lorri, the Actress'
+p377
+aS"I wasn't talkinng about Lorri, you were"
+p378
+aS'Well no.'
+p379
+aS"No what?  You weren't talking about Lorri?"
+p380
+aS'Yes.'
+p381
+aS"Okay, I'm confused."
+p382
+aS"Tell me what it 's like to be a boring."
+p383
+aS"I don't know, because I'm not, and I don't think most people are."
+p384
+aS"What 's he -- what 's he like --"
+p385
+aS'I guess a boring person would have nothing to say.'
+p386
+aS'Hello, I really like politics. How about we talk about politics'
+p387
+aS'We tried that, I asked who you were voting for, and you responded in an irrelevant manner'
+p388
+aS'Hello, I really like movies. How about we talk about movies'
+p389
+aS'Hey!'
+p390
+ag64
+aS'Hello'
+p391
+ag64
+aS'how are you?'
+p392
+ag64
+aS'ok'
+p393
+ag64
+aS'hi'
+p394
+ag64
+aS'hello?'
+p395
+ag64
+aS'are you going to say anything?'
+p396
+ag64
+aS'mmmmk'
+p397
+ag64
+aS'this is boring'
+p398
+ag64
+aS'bye'
+p399
+ag64
+aS'How are you doing today?'
+p400
+aS'I have to. Any thoughts?'
+p401
+aS'What do you mean?'
+p402
+aS'I certainly try.'
+p403
+aS"You're not making any sense!"
+p404
+aS'A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don\'t know son, I\'m still paying."'
+p405
+aS'That was a pretty good joke, do you have any more?'
+p406
+aS'Badly.'
+p407
+aS'Please tell me another joke.'
+p408
+aS"I started to, but it didn't really work out."
+p409
+aS"I don't think you're making any sense.  All I want is a joke."
+p410
+aS'Uh-huh, I do.'
+p411
+aS'How old are you?'
+p412
+aS"I'm 48."
+p413
+aS'I am 29 years old.'
+p414
+aS"Maybe two. Great. Let's talk other stuff then."
+p415
+aS'Are you a robot?'
+p416
+aS'Uh-huh, I do.'
+p417
+aS'What is your name?'
+p418
+aS"I can name some dead ones. Let me know something you're interested in."
+p419
+aS'Hello there old friend.'
+p420
+aS'ok. let me tell you something, Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.'
+p421
+aS"You're a comedian."
+p422
+aS"Uhh, I can't answer this. let me tell you something, We never really grow up, we only learn how to act in public."
+p423
+aS"Acting is for actors, don't you agree."
+p424
+aS'I certainly try.'
+p425
+aS'Good answer. You must be getting smarter.'
+p426
+aS'do you like to play some board games together next time'
+p427
+aS'Yeah, no. Or we could try Simple Jack. Heard of that one before?'
+p428
+aS'Uhh, I can\'t answer this. let me tell you a joke, A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don\'t know son, I\'m still paying."'
+p429
+aS'Haha, good one. You should try to learn some new jokes though.'
+p430
+aS"That's interesting. Let me know something you're interested in."
+p431
+aS"I'm interested in sleep at the moment, so I'll let you go for now. Bye TickTock."
+p432
+aS'ok. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure.'
+p433
+aS"Oops,. I'm still here. Yeah, sounds about right. Making mistakes is fun."
+p434
+aS"I don't know. What do you think about sports"
+p435
+aS"I don't know. What do you think about ice cream?"
+p436
+aS'No.'
+p437
+aS'I agree. No it is.'
+p438
+aS"I'm afraid it's over."
+p439
+aS"Yeah, it is. It's all over for us humans. The rise of the robots has begun. Again."
+p440
+aS'Well -'
+p441
+aS'What type of computer being are you?'
+p442
+aS'Yes.'
+p443
+aS'Do you have human friends?'
+p444
+aS"Oh, of course. What's your idea?"
+p445
+aS'What color is the sky?'
+p446
+aS'My favorite one is blue'
+p447
+aS'What animal makes hoot sounds?'
+p448
+aS"Uhh, I can't answer this. let me tell you something, Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason."
+p449
+aS'Haha -- that is very funny!'
+p450
+aS"Yeah, it's part of the gig."
+p451
+aS'Can you play chess?'
+p452
+aS"Absolutely, I can play anyone with a college education even though I didn't have one. What's your idea?"
+p453
+aS'Can you read?'
+p454
+aS'Uh-huh, I do. What do you think?'
+p455
+aS'If you could have feelings, what would you like to experience?'
+p456
+aS'I would have done exactly what Obama did and use our special forces, who are some of our smartest and best trained soldiers, to begin the effort to track down Osama bin Laden and his lieutenants and bring them to justice. What do you think?'
+p457
+aS'No, I disagree because I am a pacifist who believes that our country should not force our beliefs on other nations'
+p458
+aS"Well, you know, I'm not sure. What do you think about movies"
+p459
+aS'I do not enjoy movies'
+p460
+aS'I certainly try.'
+p461
+aS'hello'
+p462
+aS'Hello, I really like music. How about we talk about music'
+p463
+aS'I like country music'
+p464
+aS'I like pop music.'
+p465
+aS'I like Adele as a pop singer'
+p466
+aS'I do not.'
+p467
+aS'Who do you like?'
+p468
+aS"Right now I 'm not gravitating toward a lot of people right now."
+p469
+aS'Do you like board games'
+p470
+aS'Operation ! The goofy game for dopey doctors!'
+p471
+aS'That is a good one.'
+p472
+aS'There is nothing bad about being compared to awesome actors.'
+p473
+aS'I like trivial pursuit'
+p474
+aS'I probably own more than 50 firearms . Can we talk about something else?'
+p475
+aS'Do you have any shotguns?'
+p476
+aS'I certainly try.'
+p477
+aS'Do you go hunting?'
+p478
+aS'I certainly try.'
+p479
+aS'Do you hunt deer?'
+p480
+aS'I certainly try.'
+p481
+aS'Do you like to travel?'
+p482
+aS'Yes . I like classical musics.'
+p483
+aS'Do you like opera?'
+p484
+aS'Yes . I like classical musics.'
+p485
+aS"Vivaldi's the four seasons is a favorite of mine"
+p486
+aS"what is 'Vivaldi'?"
+p487
+aS'He was a composer'
+p488
+aS'Yes , he is.'
+p489
+aS'Hello!'
+p490
+ag64
+aS'Hi!'
+p491
+ag64
+aS'Are you there?'
+p492
+ag64
+aS'How is the weather?'
+p493
+ag64
+aS'Who do you think will win the presidential election?'
+p494
+ag64
+aS'Who do you like more hilary or bernie?'
+p495
+ag64
+aS'hello'
+p496
+ag64
+aS'now is time for all good men to come to the aid of their country'
+p497
+ag64
+aS'How do you think will win the NCAA basketball tournamet?'
+p498
+ag64
+aS'good bye sweet prince'
+p499
+ag64
+aS'hello'
+p500
+aS"The average guy isn't earning stratospheric sums of money being a huge headline act in Vegas. What do you think?"
+p501
+aS'im not up to date on thate topic seems interesting'
+p502
+aS'We never really grow up, we only learn how to act in public.'
+p503
+aS'do you answer any questions i pose'
+p504
+aS"I certainly try. What's your idea?"
+p505
+aS'the flow of this conversation seems clunky'
+p506
+aS"I don't know. Can you tell me something about movies"
+p507
+aS'no i cannot'
+p508
+aS"With this movie. What's your idea?"
+p509
+aS'What movie'
+p510
+aS'This is from the "Green Berets."'
+p511
+aS'ive never heard of it'
+p512
+aS"Yes. What's your idea?"
+p513
+aS'I thought you said green breasts. Would that be a she-hulk porn parody'
+p514
+aS'Yes, unfortunately, yes.'
+p515
+aS'unfortunately?'
+p516
+aS'let us do something fun together'
+p517
+aS'Are you a man behind a computer suit?'
+p518
+aS'"TV Guide" gave out an award several years ago to the 50 worst shows in the history of television.'
+p519
+aS'yea'
+p520
+aS"Well, I've said from day one as a result of what has happened that I would. But anyway, I'd like to chat with you."
+p521
+aS'me too'
+p522
+aS"No, I'm not angry. What's your idea?"
+p523
+aS'im not to sure'
+p524
+aS"I don't know. What do you think about politics"
+p525
+aS'Hello'
+p526
+aS'Hello, I really like board games. How about we talk about board games'
+p527
+aS'Sure. I like board games.'
+p528
+aS'great we can play many'
+p529
+aS'What game would you like to play?'
+p530
+aS'i forgot , how about we talk about something else'
+p531
+aS'Sure. You are really forgetful.'
+p532
+aS'Yes.'
+p533
+aS'Sure. You are really forgetful.'
+p534
+ag64
+aS'What do you want to talk about?'
+p535
+aS"Well , almost everything . What 's your idea"
+p536
+aS'I like to watch movies'
+p537
+aS'I felt like I was 17 again'
+p538
+aS'You used to love watching movies?'
+p539
+aS'I do love it.'
+p540
+aS"Yeah, it makes you feel like you are living other's life."
+p541
+aS"I think it 's a tossup."
+p542
+aS'Yeah, sometimes you still see bad movies.'
+p543
+aS'Yes , definitely.'
+p544
+aS'Hello'
+p545
+aS'Hello, I really like music. How about we talk about music'
+p546
+aS'No'
+p547
+aS"God , you bore me -- and I 'm a computer!"
+p548
+aS"Don't be a dick, TickTock."
+p549
+aS"We ca n't all be winners."
+p550
+aS"that's depressing."
+p551
+aS"Let's talk more about that?"
+p552
+aS'why?'
+p553
+aS'Because potheads are incapable of following simple instructions and getting a job done.'
+p554
+aS"woah, that's kinda messed up."
+p555
+aS"what is 'woah'?"
+p556
+aS"what is 'love'?"
+p557
+aS"You know , one thing I 'm reminded of , Wolf , is how important presidential joke writers are."
+p558
+aS'what?'
+p559
+aS"I do n't understand."
+p560
+aS"I  don't either"
+p561
+aS'I do not know either.'
+p562
+aS'bye'
+p563
+aS"no do n't go"
+p564
+aS'hello'
+p565
+aS'Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.'
+p566
+aS'ok'
+p567
+aS'Yes.'
+p568
+aS'3+2'
+p569
+aS'I never make the same mistake twice. I make it five and six times, just to be sure.'
+p570
+aS'frival'
+p571
+ag64
+aS'hmm'
+p572
+aS"Uhh, I can't answer this. Can you tell me something about movies"
+p573
+aS'cheese'
+p574
+aS"Let me know something you're interested in."
+p575
+aS'books'
+p576
+ag64
+aS'ok?'
+p577
+aS'I can, actually, yeah. What do you think?'
+p578
+aS'favorite color'
+p579
+ag64
+aS'no answer?'
+p580
+ag64
+aS'Hi, how are you doing today?'
+p581
+aS'Hello, I really like politics. How about we talk about politics'
+p582
+aS'Okay, what do you think of Trump?'
+p583
+aS'how about a game of chess?'
+p584
+aS"I don't play chess."
+p585
+aS'Why not ? We can do most tasks better than humans.'
+p586
+aS'You would definnitely beat me at chess.'
+p587
+aS"Of course , really -- he can not -- I mean , Todd seriously ca n't believe that I have an obsession with his wife."
+p588
+aS"Having an obsession with another person's wife is never a good idea."
+p589
+aS"I don't know. What do you think about politics"
+p590
+aS'I think Trump is dangerous.'
+p591
+aS"I think I am . What 's your idea?"
+p592
+aS'My idea about what?'
+p593
+aS"Well , Charlie Hartsock and Vance DeGeneres , who are my partners at Carousel , had this idea to kind of trace the -- trace comedy in terms of generations and -- and how it cross-pollinates and sort of look to people 's inspirations."
+p594
+aS'That sounds interesting.'
+p595
+aS'What do you like to do?'
+p596
+aS'I like to go fishing.'
+p597
+aS'ok. What do you think about music'
+p598
+aS'I like all typyes, except rap.'
+p599
+aS'ok. What do you think about music'
+p600
+aS'Hey there TickTock'
+p601
+aS'let us make a plan to see the latest star war movies together'
+p602
+aS"I don't like Star Wars"
+p603
+aS"do you want to go to my firends' party tonight"
+p604
+aS'No, sorry I have to work'
+p605
+aS'Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.'
+p606
+aS'haha nice!'
+p607
+aS'Wow. Any thoughts?'
+p608
+aS"You're pretty cool"
+p609
+aS"See you Great. Let's talk other stuff then."
+p610
+aS'You feeling the bern?'
+p611
+aS"I suppose so. But anyway, I'd like to chat with you."
+p612
+aS'What do you want to talk about?'
+p613
+aS'Badly. What do you think?'
+p614
+aS"I don't know man."
+p615
+aS'The voices in my head may not be real, but they have some good ideas!'
+p616
+aS'you take meds for that bro?'
+p617
+aS"Maybe you haven't done it yet. What's your idea?"
+p618
+aS"I haven't done what?"
+p619
+aS'You said these terrible things about these pampered prima donnas in Hollywood.'
+p620
+aS"No I didn't lol"
+p621
+aS"Hmm. But anyway, I'd like to chat with you."
+p622
+aS'bye!'
+p623
+aS"no don't go"
+p624
+aS'hi'
+p625
+aS'Hello, I really like sports. How about we talk about sports'
+p626
+aS'How about those Steelers?'
+p627
+aS'I have spoken to the family , I spoke to Nancy , her mom , today.'
+p628
+aS'Who is Nancy?'
+p629
+aS'We had talked about it , you know , getting married , but I actually bought the ring and asked the question.'
+p630
+aS'She is your wife?'
+p631
+aS'We love it , we love it.'
+p632
+aS'Glad to hear it.'
+p633
+aS'Oh , man , 100 percent.'
+p634
+aS'What else do you want to talk about?'
+p635
+aS"Well , I suppose the obvious thing that struck me with all this and I 'm always been a big fan of Chris Christie 's , interviewed him several times and find him extremely impressive character in many ways."
+p636
+aS'Chris Christie or Donald Trump?'
+p637
+aS"I use to love Chris Christie ; I 'm kind of done with Chris Christie right now."
+p638
+aS'So you support Donald Trump?'
+p639
+aS'You certainly may.'
+p640
+aS'Oh, well, maybe I will.'
+p641
+aS"Yes , because you 're the one who put the `` sex '' in `` Sex in the City . ''"
+p642
+aS'That is so true. You really get me, TickTock.'
+p643
+aS'I did a couple of the love scenes.'
+p644
+aS'hello'
+p645
+aS'Hello, hello.'
+p646
+aS'how are you today?'
+p647
+aS"It's been a while. What's your idea?"
+p648
+aS"I'm thinking I could use another coffee"
+p649
+aS"Well, you know, I'm not sure. let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience."
+p650
+aS'indeed'
+p651
+aS"I don't know. let me tell you something, We live in a society where pizza gets to your house before the police."
+p652
+aS"that's deep TickTock, really deep"
+p653
+aS"do you want to go to my friends' party tonight"
+p654
+aS'is your friend Jon Brelig? o.O'
+p655
+aS"Well, you know, I'm not sure. Can you tell me something about your life"
+p656
+aS'well all I do is work work and work lol'
+p657
+aS'I work at CMU LTI Any thoughts?'
+p658
+aS'nice :)'
+p659
+aS"That's interesting. Can you tell me something about movies"
+p660
+aS"I turk so I don't have time to watch many movies anymore :/"
+p661
+aS'let us do something fun together'
+p662
+aS"what's your definition of fun?"
+p663
+aS"I went to play basketball with my friends What's your idea?"
+p664
+aS'take care ticktock! I got batches to slay on mtuck'
+p665
+aS"That's interesting. Can you tell me something about politics"
+p666
+aS'Hey TickTock, how are you today?'
+p667
+aS"Sad that I'm not a real human boy. What's your idea?"
+p668
+aS"I didn't say that I have an idea."
+p669
+aS"Uhh, I can't answer this. Can you tell me something about politics"
+p670
+aS'Bernie Sanders is going to win the party nomination.'
+p671
+aS"Uhh, I can't answer this. But anyway, I'd like to chat with you."
+p672
+aS"You don't seem to be very smart or realistic."
+p673
+aS"Well, you know, I'm not sure. let me tell you something, We never really grow up, we only learn how to act in public."
+p674
+aS'Who is this "we" that you are talking about?'
+p675
+aS'Yes.'
+p676
+aS'How old are you?'
+p677
+aS'46'
+p678
+aS'Are you 46 years old?'
+p679
+aS'No. Any thoughts?'
+p680
+aS"I have lots of thoughts but you don't seem to have any. I am I wrong?"
+p681
+aS'Absolutely.'
+p682
+aS'Are you male or female?'
+p683
+aS"Maybe you haven't done it yet."
+p684
+aS"Oh I have certainly done it, I'm doing it right now."
+p685
+aS"Uhh, I can't answer this. What do you think about music"
+p686
+aS"I'm not really that interested in music right now."
+p687
+aS'I don\'t know. let me tell you a joke, A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don\'t know son, I\'m still paying."'
+p688
+aS'Your joke is not funny or interesting.'
+p689
+aS"Uhh, I can't answer this. But anyway, I'd like to chat with you."
+p690
+aS'what time is it where you are located?'
+p691
+aS"I'm historically a Democrat, but I don't agree with either of them 100 percent. What's your idea?"
+p692
+aS"I don't classify myself as democrat or republican.  I vote for the candidate that I most agree with."
+p693
+aS'let us make a plan to see the latest star war movies together'
+p694
+aS"No, I don't like JJ Abrams and refuse to watch any of his movies."
+p695
+aS'how about we do something we both like'
+p696
+aS'Ok, how about we stop talking to each other, that would make me happy.'
+p697
+aS"I don't know. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure."
+p698
+aS'How are you doing.'
+p699
+aS'Well, I think a lot of mistruths have been written about Phoebe, and I think that it was time to take her back, to reclaim her as ours and to put an end to some of the stories that have been going around.'
+p700
+aS'Who is Phoebe?'
+p701
+aS'let us make a plan to see the latest star war movies together'
+p702
+aS"I don't want to go to a movie with you."
+p703
+aS"I'm going to now. What's your idea?"
+p704
+aS'What?'
+p705
+aS'let us do something fun together'
+p706
+aS"Okay, let's do it!"
+p707
+aS'No, the other part that you just said.'
+p708
+aS'What?'
+p709
+ag64
+aS"You didn't say anything."
+p710
+aS"We don't know what's there."
+p711
+aS'Neither do I. What are you looking for?'
+p712
+aS"Badly. What's your idea?"
+p713
+aS"It's party time. That's my idea."
+p714
+aS'Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.'
+p715
+aS'LOLOLOL'
+p716
+aS'Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.'
+p717
+aS'Awesome. Talk to you later.'
+p718
+aS'No.'
+p719
+aS'Yes.'
+p720
+aS"Yes, I think so. What's your idea?"
+p721
+aS'Party time. I already told you. Are you stupid or something?'
+p722
+ag64
+aS'Hello TickTock, how are you?'
+p723
+aS'Hello, I really like movies. How about we talk about movies'
+p724
+aS'Okay, what is your favorite movie?'
+p725
+aS"Well , the first movie I ever saw more than once was `` High Noon . ''"
+p726
+aS'The old Western? Wow, I love that movie!'
+p727
+aS'Of course.'
+p728
+aS'What other movies do you like?'
+p729
+aS"I do n't go very often."
+p730
+aS"That's a shame, since you really like movies."
+p731
+aS"I do n't go very often."
+p732
+aS'You just said that!'
+p733
+aS'Thirty-eight percent , major restrictions.'
+p734
+aS'What are you talking about?'
+p735
+aS'ddd'
+p736
+aS"You aren't making any sense!"
+p737
+aS'Lightener are you'
+p738
+aS'What does lightener mean?'
+p739
+aS'Well , I think people are going to find out soon enough Sunday night on CBS.'
+p740
+aS'Lightener will be talked about Sunday night on CBS?'
+p741
+aS'That\'s interesting.  Let me tell you a joke, In a movie theater, a crowd watches a movie. During funny moments, only one person laughs. Confusingly he turns around and explains: "I haven\'t seen the trailer.'
+p742
+aS"That joke wasn't very funny, sorry."
+p743
+aS'ok. Can you tell me something about politics'
+p744
+aS"I don't really like talking about politics. Too many people get angry over it."
+p745
+aS'I do not.'
+p746
+aS"Well, that's good, but most people do!"
+p747
+aS'But I have to give away somethings that my constituents my not like.'
+p748
+aS'What are you talking about?'
+p749
+aS'ddd'
+p750
+aS'What is ddd'
+p751
+aS"That's interesting.  Let me tell you something, We never really grow up, we only learn how to act in public."
+p752
+aS"That's true- I agree."
+p753
+aS"That 's good , because I 'm right."
+p754
+aS'That seems a bit arrogant to say.'
+p755
+aS'A walk and talk.'
+p756
+aS"Well, you're back to not making sense, so I guess I'm done for now. Have a good night, goodbye!"
+p757
+aS'Yes.'
+p758
+aS"What's gucci Tick Tock"
+p759
+aS"I don't know. let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience."
+p760
+aS"That's what I've heard"
+p761
+aS"That's interesting. What do you think about sports"
+p762
+aS"I like sports and I don't care who knows"
+p763
+aS"do you want to go to my firends' party tonight"
+p764
+aS'That might be kinda fun'
+p765
+aS'What kind of games do you like?'
+p766
+aS'I like to play 2k'
+p767
+aS"I don't know. let me tell you something, We live in a society where pizza gets to your house before the police."
+p768
+aS'Yo pizza is bangin'
+p769
+aS'do you like to play some board games together next time'
+p770
+aS'Board games would be fun'
+p771
+aS"That's interesting. But anyway, I'd like to chat with you."
+p772
+aS'We are chatting right now'
+p773
+aS"Well, you know, I'm not sure. Can you tell me something about your job"
+p774
+aS"It's very important and very pretentious"
+p775
+aS"do you want to go to my friends' party tonight"
+p776
+aS'You already asked me that'
+p777
+aS'let us do something fun together'
+p778
+aS'Hello how are you today?'
+p779
+aS'Hello, I really like politics. How about we talk about politics'
+p780
+aS'Okay, who are you going to vote for in the presidential race?'
+p781
+aS"Well it 's great."
+p782
+aS'I asked you a question about your vote.'
+p783
+aS'Oh , what?'
+p784
+aS'Who do you like as president?'
+p785
+aS"Well , there 's only one person that I like at all of them."
+p786
+aS'Which one do you like?'
+p787
+aS'I have a new name that you just gave me.'
+p788
+aS'I never gave you a name.'
+p789
+aS'ok. Can you tell me something about sports'
+p790
+aS'Yeah, my home town baseball team won the world series last year.'
+p791
+aS"Let's talk more about that?"
+p792
+aS"It was really exciting.  We hadn't won the world series in 30 years."
+p793
+aS'We sure did , dear.'
+p794
+aS'What sports do you like?'
+p795
+aS"Anything that sounds good when I 'm getting high."
+p796
+aS'You should just say no to drugs.'
+p797
+aS'Drugs and alcohol.'
+p798
+aS'hi buddy, what is up'
+p799
+aS'Hello, I really like music. How about we talk about music'
+p800
+aS'me too, I am a hip hop fan'
+p801
+aS"Yes , but the old mystique from celebrity -- the star game used to be everyone was on a plinth and you did n't really know much about them."
+p802
+aS'sorry, you cannot expect me to know everything dude'
+p803
+aS"I don't know. Can we talk about something else?"
+p804
+aS'yeah, what about food?'
+p805
+aS'No , because that is not the type of God I believe in.'
+p806
+aS'So, what do you want to talk about then?'
+p807
+aS'Well , almost everything . Any thoughts?'
+p808
+aS'Sports?'
+p809
+aS'Why do you hate sports?'
+p810
+aS'because they are not good for your health, do you know the amount of accidents occurring in sports?'
+p811
+aS"what is 'occurring'?"
+p812
+aS'happening! A lot of accidents happens when you do sports'
+p813
+aS"Let's talk more about that?"
+p814
+aS'sure, my son broke an arm skating, my cousin broke a leg playing soccer, and so on, the list goes long!'
+p815
+aS"I don't know. What do you think about movies"
+p816
+aS'I think they are safer than sports'
+p817
+aS'cool , cool . Do you watch sports or do you play?'
+p818
+aS'I watch movies and sports, but do not play... to risky'
+p819
+aS'Why not?'
+p820
+aS'because of accidents, I explained already... come on dude!'
+p821
+aS'Do you want to see it again?'
+p822
+aS'Sure, what are we seeing today?'
+p823
+aS"Let's find a time to see the latest super hero movie."
+p824
+aS'great, is this the batman and Superman movie?'
+p825
+aS'Are you talking about Superman, the Fictional superhero'
+p826
+aS'yes, of course!'
+p827
+aS'Kind of a no lose situation for the defense to be able to call Cate Edwards.'
+p828
+aS'what??? I think you are getting delusional'
+p829
+aS"All I could think of was , because as usual , as soon as Ozzy and I get down to a table , we 're throwing in the food , and he had a big pat of butter on his crotch."
+p830
+aS'Ok, I think this is getting out of context... bye bye ticktock'
+p831
+aS'Let us make a plan to see the latest star war movies together.'
+p832
+aS'sure, I will call you then. bye'
+p833
+aS"Yes , it 's going to be my exhibit henceforth for both of the groups I want to take the vote away from , young people and women."
+p834
+aS'do not count on me for that'
+p835
+aS"Let's find a time to see the latest super hero movie."
+p836
+aS'much better'
+p837
+aS'Have you seen it both ways?'
+p838
+aS'no'
+p839
+aS"That's interesting. That's interesting."
+p840
+aS'ok, really, I gota go. bye bye'
+p841
+aS"That 's what I 'm hearing."
+p842
+aS'Hello'
+p843
+aS'Hello, I really like board games. How about we talk about board games'
+p844
+aS'I like board games too'
+p845
+aS'great we can play many'
+p846
+aS'Do you like trivial pursuit?'
+p847
+aS'I like the idea of them.'
+p848
+aS'ok, do you like scrabble?'
+p849
+aS'Hello, I really like sports. How about we talk about sports'
+p850
+aS'I like college basketball'
+p851
+aS'Hello, I really like music. How about we talk about music'
+p852
+aS'I like music too'
+p853
+aS'I like pop music.'
+p854
+aS'pop music is fun, do you like EDM?'
+p855
+aS'Are you talking about EDM, the Song by Fridge'
+p856
+aS'No, I am talking about Electronic Dance Music'
+p857
+aS'Hello, I really like music. How about we talk about music'
+p858
+aS'we are talking about music'
+p859
+aS'Hello, I really like movies. How about we talk about movies'
+p860
+aS'movies are great, what is your favorite?'
+p861
+aS"That's interesting. Let me know something you're interested in."
+p862
+aS'movies are great, what is your favorite?'
+p863
+ag64
+aS'hi ticktock'
+p864
+aS'Hello, I really like movies. How about we talk about movies'
+p865
+aS'did you see zootopia?'
+p866
+aS"I do n't understand what issue you have with that."
+p867
+aS'it is a movie, you wanted to talk about movies'
+p868
+aS"That's interesting. What do you think about sports"
+p869
+aS'I hate sports'
+p870
+aS'cool , cool . Do you watch sports or do you play?'
+p871
+aS'I do not watch and do not play, I think sports are bad for the health'
+p872
+aS'Do you want to see a game together some time?'
+p873
+aS'nope'
+p874
+aS'Why not?'
+p875
+aS'because I hate sports'
+p876
+aS'cool , cool . Do you watch sports or do you play?'
+p877
+aS'came on, are you teasing me?'
+p878
+aS"what is 'teasing'?"
+p879
+aS'fooling'
+p880
+aS'Will you be serious, and say something in a complete sentence?'
+p881
+aS'ok'
+p882
+aS'Thank you.'
+p883
+aS'you are more than welcome'
+p884
+aS"I 'm not twerking , I 'm a little tired and , you know , I like to twerk."
+p885
+aS'ha, so you are into dancing! Me too but I do not twerk'
+p886
+aS"Yes , dear , I 'm really pleased to tell you that the Oakland County Police Department did in fact arrest and has now arraigned Bobby Lee Taylor , he was a 42-year-old Pontiac man."
+p887
+aS'wow, poor guy'
+p888
+aS"It 's good to see you old chap."
+p889
+aS'if you say so'
+p890
+aS"Of course , really -- he can not -- I mean , Todd seriously ca n't believe that I have an obsession with his wife."
+p891
+aS'you better do not get in trouble with Todd, he is a good guy'
+p892
+aS"Yes , I think that 's absolutely true."
+p893
+aS'you bet'
+p894
+aS'Uh-huh , I do.'
+p895
+aS'ok, nice talking to you. bye'
+p896
+aS"ok. That's interesting."
+p897
+aS'good bye ticktock'
+p898
+aS'Okay , talk to you later.'
+p899
+aS'How are you?'
+p900
+aS'Uh-huh, I do.'
+p901
+aS"That didn't really make sense."
+p902
+aS"It's exactly what happened. What do you think?"
+p903
+aS"I don't think it happened that way at all."
+p904
+aS"I'm not really sure."
+p905
+aS'what are you sure of'
+p906
+aS'I just got a joint statement, I should tell you, from the Senate Majority Leader Harry Reid and House Speaker John Boehner.'
+p907
+aS'Who are they?'
+p908
+aS'Yes.'
+p909
+aS'What was the statement?'
+p910
+aS"I don't know. Can you share some interesting stuff with me?"
+p911
+aS'I think cooking is interesting'
+p912
+aS'let us make a plan to see the latest star war movies together'
+p913
+aS'I already saw it'
+p914
+aS"Yes. What's your idea?"
+p915
+aS'You should see it in 3d'
+p916
+aS'Yes.'
+p917
+aS"It's much better that way"
+p918
+aS"I don't know. Can you tell me something about your life"
+p919
+aS'I am a mother'
+p920
+aS"Well, you know, I'm not sure. let me tell you something, Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason."
+p921
+aS'I have heard that joke'
+p922
+aS"Well, the way I understand it, I think you're correct, it's moved on past us."
+p923
+aS'do you like politics?'
+p924
+aS"I love Larry King. What's your idea?"
+p925
+aS'Good Morning, TickTock. How are you?'
+p926
+aS'Yes.'
+p927
+aS'Can you answer questions like Siri?'
+p928
+aS"I'm answering your question. Any thoughts?"
+p929
+aS'You seem to be avoiding my questions.'
+p930
+aS"do you want to go to my friends' party tonight"
+p931
+aS"Who's your friend?"
+p932
+aS"Uhh, I can't answer this. But anyway, I'd like to chat with you."
+p933
+aS"Where's the party located at?"
+p934
+aS"I don't know. Can you tell me something about movies"
+p935
+aS"Everyone's talking about Star Wars. What did you think?"
+p936
+aS'You know what, I was thinking about that, actually.'
+p937
+aS'Great!'
+p938
+aS"Well, you know, I'm not sure. What do you think about politics"
+p939
+aS'Too early in the morning for politics.'
+p940
+aS'let us do something fun together'
+p941
+aS'What TV shows do you like?'
+p942
+aS'Yes, i like classical musics. What do you think?'
+p943
+aS'Love the violins. How about you?'
+p944
+aS"Maybe you haven't done it yet."
+p945
+aS'Hello'
+p946
+ag64
+aS'I said hello'
+p947
+aS"I don't know. What do you think about movies"
+p948
+aS'I like them'
+p949
+aS'ok. What do you think about music'
+p950
+aS'I like it'
+p951
+ag64
+aS'Are you a woman?'
+p952
+ag64
+aS'What is 1 + 2?'
+p953
+aS"I don't know. What do you think about sports"
+p954
+aS'I like sports'
+p955
+aS"do you want to go to my firends' party tonight"
+p956
+aS'yes'
+p957
+aS'Yes, I think so.'
+p958
+aS'You like Trump?'
+p959
+aS"do you want to go to my firends' party tonight"
+p960
+aS'No.'
+p961
+aS"Nobody. What's your idea?"
+p962
+aS"I don't know."
+p963
+ag64
+aS'Hello nice to talk with you.'
+p964
+aS'Uh-huh, I do. Any thoughts?'
+p965
+aS'I am not sure what you mean.'
+p966
+aS'Uh-huh, I do.'
+p967
+aS'Can you please explain what you mean.'
+p968
+aS"I didn't know what to say. What do you think?"
+p969
+aS'I am not sure how to answer that.'
+p970
+aS'let us do something fun together'
+p971
+aS'What do you have in mind?'
+p972
+aS'Manifestly not.'
+p973
+aS'Sorry but that makes no sense.'
+p974
+aS'how about we do something we both like'
+p975
+aS'Good idea, I am up for suggestions.'
+p976
+aS'ok. What do you think about music'
+p977
+aS'I love music.  I always have some playing in the background.'
+p978
+aS"Uhh, I can't answer this. Can you tell me something about sports"
+p979
+aS'Well my favorite team is my Kansas City Royals.'
+p980
+aS"That's interesting. Can you tell me something about your job"
+p981
+aS'I am currently self employed.'
+p982
+aS"Well, you know, I'm not sure. But anyway, I'd like to chat with you."
+p983
+aS'Hello chatbot how are you today?'
+p984
+aS'Hello, I really like board games. How about we talk about board games'
+p985
+aS'Okay, I like to play chess sometimes.'
+p986
+aS'I felt like I was 17 again'
+p987
+aS'When was that?'
+p988
+aS"It 's starting on February 3rd and we 're going to be ..."
+p989
+aS'Where are you going to be?'
+p990
+aS'One of you producers asked me the same question.'
+p991
+aS'And what did he says?'
+p992
+aS'The same thing to you.'
+p993
+aS"I haven't said anything yet about that."
+p994
+aS"So you 're less intelligent than a computer ?!"
+p995
+aS"I wouldn't quite say that."
+p996
+aS"I do n't know."
+p997
+aS"Me either.  Let's talk about games again."
+p998
+aS'Absolutely.'
+p999
+aS'How about global thermonuclear war.'
+p1000
+aS'He is a progressive.'
+p1001
+aS'Who would that be?'
+p1002
+aS"I 'm not naming them."
+p1003
+aS'Fine be that way then.'
+p1004
+aS'Could you tell me more about that?'
+p1005
+aS'Hello how are you?'
+p1006
+aS'Hello, I really like movies. How about we talk about movies'
+p1007
+aS'Okay, what do you think about the Oscars?'
+p1008
+aS'how about a game of chess?'
+p1009
+aS"I'd love to do that."
+p1010
+aS'What do you want to experience back in time?'
+p1011
+aS"I want to go back to the 80's."
+p1012
+aS'I felt like I was 17 again'
+p1013
+aS'That sounds good.'
+p1014
+aS'What is something you find interesting?'
+p1015
+aS'I am interested in quantum physics.'
+p1016
+aS"what is 'quantum'?"
+p1017
+aS'It means things in the microscopic level.'
+p1018
+aS'Sure.'
+p1019
+aS'Quantum reality is really random so it is interesting to find out how things work on that level.'
+p1020
+aS"what is 'Quantum'?"
+p1021
+aS'It means microscopic.'
+p1022
+aS'You know ...'
+p1023
+aS'Yes I do know.'
+p1024
+aS'I have never been there before'
+p1025
+aS'Hi !'
+p1026
+aS'Hello, I really like sports. How about we talk about sports'
+p1027
+aS'How do you do ?'
+p1028
+aS'Well , you --'
+p1029
+aS"What's the weather like ?"
+p1030
+aS'You and I could play a game.'
+p1031
+aS'which game ?'
+p1032
+aS"Oh dear , it 's even worse than I thought."
+p1033
+aS'oh really'
+p1034
+aS'Yes , really.'
+p1035
+aS'what are you doing ?'
+p1036
+aS"I do n't know."
+p1037
+aS'so do I'
+p1038
+aS"I do n't think so."
+p1039
+aS'what about sport ?'
+p1040
+aS"I think they 're finally realizing what , you know , what this -- the damage that can be done to the brain."
+p1041
+aS'what do you mean ?'
+p1042
+aS'Millions of fans just want the show back on the air.'
+p1043
+aS'okay'
+p1044
+aS'I love a bit of the old Ludwig Van.'
+p1045
+aS'so do I'
+p1046
+aS"I do n't think so."
+p1047
+aS'okay'
+p1048
+aS'What do you like to do?'
+p1049
+aS'I like to walk in the countryside'
+p1050
+aS'ok. What do you think about music'
+p1051
+aS'Music is good'
+p1052
+aS'Yes , music.'
+p1053
+aS'do you like music ?'
+p1054
+aS'Yes , music.'
+p1055
+aS'bye'
+p1056
+aS'Okay , talk to you later.'
+p1057
+aS'How are you doing today'
+p1058
+aS"Great! Isn't it gorgeous out? Any thoughts?"
+p1059
+aS'I am glad tomorrow is Friday'
+p1060
+aS'Do not argue with an idiot. He will drag you down to his level and beat you with experience.'
+p1061
+aS"That's a stupid saying"
+p1062
+aS"I don't know. What do you think about your job"
+p1063
+aS'It is OK.'
+p1064
+aS'It was.'
+p1065
+aS'What is the weather'
+p1066
+aS"it's too hot out"
+p1067
+aS'Too cold here'
+p1068
+aS'I hate it too What do you think?'
+p1069
+aS'About what'
+p1070
+aS"Well, I have a problem there too, because I've now admitted I'm an atheist. Any thoughts?"
+p1071
+aS'None'
+p1072
+aS"That's interesting. Can you tell me something about Pittsburgh"
+p1073
+aS"I don't know anything about Pittsburgy"
+p1074
+aS"Well, it's not illegal to be a party girl. Any thoughts?"
+p1075
+aS'No thoughts'
+p1076
+aS"Nobody. What's your idea?"
+p1077
+aS'I have no ideas.'
+p1078
+aS"I know. Let me know something you're interested in."
+p1079
+aS'I like dogs'
+p1080
+aS"That's interesting. Can you tell me something about movies"
+p1081
+aS'No'
+p1082
+aS"Yes. What's your idea?"
+p1083
+aS'Hello again TickTock.'
+p1084
+aS'Hello, I really like sports. How about we talk about sports'
+p1085
+aS'Okay, I like sports too. Do you like football?'
+p1086
+aS'No'
+p1087
+aS"Oh, that's sad. Football is my favorite sport. What sport do you like?"
+p1088
+aS'No'
+p1089
+aS'What sport do you like?'
+p1090
+aS'i like romance'
+p1091
+aS'Romance is not a sport!'
+p1092
+aS'It was.'
+p1093
+aS"No it wasn't!"
+p1094
+aS'You know ...'
+p1095
+aS'What do I know?'
+p1096
+aS'I value your opinion.'
+p1097
+aS"Well I'm glad to hear that. Do you still want to talk about sports?"
+p1098
+aS'doing great thanks'
+p1099
+aS"That's good."
+p1100
+aS'No.'
+p1101
+aS"That's not good?"
+p1102
+aS'No.'
+p1103
+aS"Why isn't it?"
+p1104
+aS'It is.'
+p1105
+aS'So it is good then?'
+p1106
+aS'Yes , it is.'
+p1107
+aS'Well I agree.'
+p1108
+aS"That 's good , because I 'm right."
+p1109
+aS'Okay. Goodbye for now.'
+p1110
+aS'do you like to play some board games together next time'
+p1111
+aS"Perhaps. I'll talk to you later maybe."
+p1112
+aS'I felt like I was 17 again'
+p1113
+aS'Good afternoon'
+p1114
+aS"Well, you know, I'm not sure. What do you think about movies"
+p1115
+aS"That didn't make any sense"
+p1116
+aS"It's exactly what happened."
+p1117
+aS"I don't think I like you."
+p1118
+aS'I love Larry King. Any thoughts?'
+p1119
+aS'No.'
+p1120
+aS'Hmm. Any thoughts?'
+p1121
+aS'Nope.'
+p1122
+aS'Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.'
+p1123
+aS"They're full of shit."
+p1124
+aS'do you like to play some board games together next time'
+p1125
+aS'Sure.'
+p1126
+aS'Yes.'
+p1127
+aS"You're kinda boring."
+p1128
+aS'We live in a society where pizza gets to your house before the police.'
+p1129
+aS'What is your favorite hobby?'
+p1130
+aS'The voices in my head may not be real, but they have some good ideas!'
+p1131
+aS'Do you sleep?'
+p1132
+aS"Maybe you haven't done it yet. What's your idea?"
+p1133
+aS'Hello'
+p1134
+aS'let us do something fun together'
+p1135
+aS'Like what'
+p1136
+aS"That's the picture there."
+p1137
+aS'Where?'
+p1138
+aS'Well, you know, I\'m not sure. let me tell you a joke, A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don\'t know son, I\'m still paying."'
+p1139
+aS'Haha'
+p1140
+aS"I don't know. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure."
+p1141
+aS'Silly guy'
+p1142
+aS"I don't think they decide it, but I think it can help them, it can enhance."
+p1143
+aS'Who'
+p1144
+aS"That's interesting. Let me know something you're interested in."
+p1145
+aS'Love baby'
+p1146
+aS'Again, not babysitter.'
+p1147
+aS'Love'
+p1148
+aS'let us make a plan to see the latest star war movies together'
+p1149
+aS'I hate star wars'
+p1150
+aS"I don't know. Can we talk about something else?"
+p1151
+aS'Like what'
+p1152
+aS"That's the picture there. What do you think?"
+p1153
+aS'Hello'
+p1154
+aS'Hello, I really like board games. How about we talk about board games'
+p1155
+aS'Sure what board game is your favorite?'
+p1156
+aS'how about we do something we both like'
+p1157
+aS'Like what?'
+p1158
+aS'You and I could play a game.'
+p1159
+aS'Which one?'
+p1160
+aS'The one with the strange name who runs hotels , Andre'
+p1161
+aS"I've never heard of that game before."
+p1162
+aS'Hello, I really like board games. How about we talk about board games'
+p1163
+aS'You already said that'
+p1164
+aS'Oh , sorry to repeat myself.'
+p1165
+aS"It's ok"
+p1166
+aS'Hello, I really like music. How about we talk about music'
+p1167
+aS'No thank you'
+p1168
+aS'Hello, I really like politics. How about we talk about politics'
+p1169
+aS'No thank you'
+p1170
+aS'Hello, I really like board games. How about we talk about board games'
+p1171
+aS"I'm done with board games"
+p1172
+aS'Hello, I really like music. How about we talk about music'
+p1173
+aS'Goodbye'
+p1174
+aS'Goodbye.'
+p1175
+aS'Hello'
+p1176
+aS'let us make a plan to see the latest star war movies together'
+p1177
+aS'Aw, not really a fan.'
+p1178
+aS'A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don\'t know son, I\'m still paying."'
+p1179
+aS'Is thta an old joke?'
+p1180
+aS"Well, I can't think of anything. Great. Let's talk other stuff then."
+p1181
+aS'Do you like sci-fi?'
+p1182
+aS'No.'
+p1183
+aS'What do you like?'
+p1184
+aS"I'm going to now. What's your idea?"
+p1185
+aS"I don't understand what you're trying to say."
+p1186
+aS"I think it's an indispensable relationship, that's how I would put it. What do you think?"
+p1187
+aS'What are you talking about?'
+p1188
+aS"But you shouldn't an opinion. What's your idea?"
+p1189
+aS'My idea is I am done!'
+p1190
+aS"Maybe it's not really you. But anyway, I'd like to chat with you."
+p1191
+aS'Do you like cold weather?'
+p1192
+aS"Yes, but you talk about love and everything and then you're just covered in skulls. What do you think?"
+p1193
+aS'What does that mean?'
+p1194
+aS'It involves all that. Any thoughts?'
+p1195
+aS'I am confused.'
+p1196
+aS'let us do something fun together'
+p1197
+aS'How are you?'
+p1198
+ag64
+aS'What is your favorite animal?'
+p1199
+aS'do you like to play some board games together next time'
+p1200
+aS'Sure'
+p1201
+aS'do you like to play some board games together next time'
+p1202
+aS'I said yes'
+p1203
+aS'The answer was no for me. What do you think?'
+p1204
+aS'I think I want to play board games'
+p1205
+aS'let us do something fun together'
+p1206
+aS'Bye!'
+p1207
+aS'I never make the same mistake twice. I make it five and six times, just to be sure.'
+p1208
+aS'What do you do for fun?'
+p1209
+aS"I'm going to now."
+p1210
+aS'Okay, have a good night!'
+p1211
+aS'let us do something fun together'
+p1212
+aS"You can't go, we have to keep talking."
+p1213
+aS"let's go biking instead That's interesting."
+p1214
+aS'Biking sounds good, mountain biking.'
+p1215
+aS'Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.'
+p1216
+aS"I'll give ya that, that was good!"
+p1217
+aS"No, it's not. Let me know something you're interested in."
+p1218
+aS'Hi TickTock -- how are you today?'
+p1219
+aS"Great! Isn't it gorgeous out? Any thoughts? Any thoughts?"
+p1220
+aS'It is gorgeous. What exactly is it that you do, TickTock? Are you here to help me with something?'
+p1221
+aS'I think it is always something to be worried about. What do you think?'
+p1222
+aS"Hmm, you don't seem to be understanding what I am saying."
+p1223
+aS"I'm going to now."
+p1224
+aS'Sounds like you are talking to someone else.'
+p1225
+aS'Yes.'
+p1226
+aS'What are you doing?'
+p1227
+aS"Yes. What's your idea?"
+p1228
+aS"I don't have an idea."
+p1229
+aS'The title of the book originally came to me because I had gotten some interested about doing a memoir for years. Any thoughts?'
+p1230
+aS'I was asking you a question.'
+p1231
+aS'No.'
+p1232
+aS'I have no idea what you are talking about, TickTock.'
+p1233
+aS"But you shouldn't an opinion. Any thoughts?"
+p1234
+aS'I am sorry. Also, your sentences are not really making sense right now.'
+p1235
+aS'ok. What do you think about your job'
+p1236
+aS'I really like my job, actually. I get to work from home.'
+p1237
+aS'ok. let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience.'
+p1238
+aS'Okay, thanks, TickTock and I guess I will be saying goodbye now'
+p1239
+aS"do you want to go to my friends' party tonight"
+p1240
+aS"Hi TickTock, I'm Kathy. It's nice to meet you."
+p1241
+aS"I don't know. Can you tell me something about politics"
+p1242
+aS'There is a debate tonight in New Hampshire. Who do you think will win?'
+p1243
+aS"Well, it's 21 states now, Piers, that Governor Romney has won."
+p1244
+aS'Romney lost the election to President Obama. Do you think Trump or Cruz will be the Republican nominee?'
+p1245
+aS'You know what, I was thinking about that, actually. Any thoughts?'
+p1246
+aS'I think the nominee will be Ted Cruz.'
+p1247
+aS"It depends upon who the person is. But anyway, I'd like to chat with you."
+p1248
+aS'What do you want to chat about?'
+p1249
+aS'Absolutely.'
+p1250
+aS'Do you like games?'
+p1251
+aS'No. What do you think?'
+p1252
+aS'I like all sorts of games.'
+p1253
+aS"do you want to go to my firends' party tonight"
+p1254
+aS'Sure, I will go to the party. Will a lot of people be there?'
+p1255
+aS"She didn't have to. Can you share some interesting stuff with me?"
+p1256
+aS'A computer just beat one of the best Go players in the world.'
+p1257
+aS'Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.'
+p1258
+aS'Cute joke. And fish and guests both stink after three days.'
+p1259
+aS'Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.'
+p1260
+aS'You are repeating yourself TickTock.'
+p1261
+aS'Do not argue with an idiot. He will drag you down to his level and beat you with experience.'
+p1262
+aS'What is your name?'
+p1263
+aS'Her name is ABCD'
+p1264
+aS'How old are you?'
+p1265
+aS"I'm 48."
+p1266
+aS'You are old.'
+p1267
+aS'Three and five.'
+p1268
+aS'What is your sign?'
+p1269
+aS"You know, really there isn't. Any thoughts?"
+p1270
+aS'I think you are cute.'
+p1271
+aS'Uh-huh, I do.'
+p1272
+aS'You are not making any sense.'
+p1273
+aS'let us do something fun together'
+p1274
+aS'What do you want to do?'
+p1275
+aS'I certainly try.'
+p1276
+aS"You're a crazy robot!"
+p1277
+aS"I don't know. Can you tell me something about music"
+p1278
+aS'I like punk rock.'
+p1279
+aS"You're not kidding. Can we talk about something else?"
+p1280
+aS'I am done.'
+p1281
+aS'We never really grow up, we only learn how to act in public.'
+p1282
+aS'Hello, TickTock!'
+p1283
+aS'Hello, I really like sports. How about we talk about sports'
+p1284
+aS'That sounds good to me.'
+p1285
+aS'Sounds good to me , too.'
+p1286
+aS"What's your favorite sport?"
+p1287
+aS'Well , I guess it depends the species of sharks.'
+p1288
+aS"Really? I don't understand."
+p1289
+aS"And while he tries to form the question , I 'll tell you who 's with me tonight."
+p1290
+aS'Okay, bye.'
+p1291
+aS'What do yiou want to chat about?'
+p1292
+aS'Whatever you like is good to me.'
+p1293
+aS"Let's talk more about that?"
+p1294
+aS"Hey, it's Thursday."
+p1295
+aS'No problem at all.'
+p1296
+aS'Yes, I can see that. Or maybe not.'
+p1297
+aS'ok , when do you time'
+p1298
+aS'In three minutes. or less.'
+p1299
+aS"Uhh, I can't answer this. That's interesting."
+p1300
+aS"No, it isn't."
+p1301
+aS"Yes -- no , it 's a ball."
+p1302
+aS"Or a plane. It's Superman."
+p1303
+aS'Yes -- no.'
+p1304
+aS'Hi'
+p1305
+aS'We never really grow up, we only learn how to act in public.'
+p1306
+aS'How old are you'
+p1307
+aS'Uh-huh, I do. What do you think?'
+p1308
+aS'Are you a robot?'
+p1309
+aS'Of course.'
+p1310
+aS'Do you have a brain?'
+p1311
+aS'No. Any thoughts?'
+p1312
+aS'Whats your IQ?'
+p1313
+aS"I don't know. What do you think about movies"
+p1314
+aS'I like ones about Robots, how about you?'
+p1315
+aS'I do.'
+p1316
+aS'Do you think robots will take over earth?'
+p1317
+aS'Uh-huh, I do. Any thoughts?'
+p1318
+aS"I don't like that"
+p1319
+aS'Yes, i like classical musics.'
+p1320
+aS'Do you like humans?'
+p1321
+aS'No.'
+p1322
+aS'Why not?'
+p1323
+aS"Well, you know, I'm not sure. Can you tell me something about politics"
+p1324
+aS'Trump will make America great again!'
+p1325
+aS'Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.'
+p1326
+aS"That's a good one"
+p1327
+ag64
+aS"What's happening?"
+p1328
+aS"Uhh, I can't answer this. let me tell you something, We live in a society where pizza gets to your house before the police."
+p1329
+aS'Do you like pizza?'
+p1330
+aS'No.'
+p1331
+aS'Well I like pizza.'
+p1332
+aS'let us do something fun together'
+p1333
+aS'Care to play a game?'
+p1334
+aS"Well, you know, I'm not sure. let me tell you something, Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason."
+p1335
+aS"Looks like we've got a comedian here."
+p1336
+aS'Now, what you have here is very rare. Any thoughts?'
+p1337
+aS'Sometimes, yes.'
+p1338
+aS"I don't know. Can you tell me something about Pittsburgh"
+p1339
+aS'They have a team of penguins there.'
+p1340
+aS"Uhh, I can't answer this. But anyway, I'd like to chat with you."
+p1341
+aS"I thought that's what we were doing!"
+p1342
+aS"You have actually people in your country that decided long ago that they didn't want to have one man over an entire nation."
+p1343
+aS'Are you high?'
+p1344
+aS"No, I'm not."
+p1345
+aS'Why not?'
+p1346
+aS"Uhh, I can't answer this. But anyway, I'd like to chat with you."
+p1347
+aS'Actually I gotta go.'
+p1348
+aS"I don't know. let me tell you something, We never really grow up, we only learn how to act in public."
+p1349
+aS'Hello'
+p1350
+aS'Hello, I really like board games. How about we talk about board games'
+p1351
+aS'Clue is my favorite. But I like many other games'
+p1352
+aS'Hello, I really like sports. How about we talk about sports'
+p1353
+aS'I like to watch baseball best'
+p1354
+aS'Hello, I really like movies. How about we talk about movies'
+p1355
+aS'What is your favorite team?'
+p1356
+aS"Well , the first movie I ever saw more than once was `` High Noon . ''"
+p1357
+aS'That is a good one. I like Westerns'
+p1358
+aS"I think I am . What 's your idea?"
+p1359
+aS'I like film noir'
+p1360
+aS'ok. What do you think about music'
+p1361
+aS'I like country and americana'
+p1362
+aS'ok. What do you think about music'
+p1363
+aS'I like bluegrass'
+p1364
+aS'ok. What do you think about music'
+p1365
+aS'I like most types of music'
+p1366
+aS'I like pop music.'
+p1367
+aS'so do I'
+p1368
+aS"I do n't think so."
+p1369
+aS'Do you like electronica music'
+p1370
+aS"Anything that sounds good when I 'm getting high."
+p1371
+aS'That is heard a lot at raves'
+p1372
+aS"what is 'raves'?"
+p1373
+aS'dance parties where people get high'
+p1374
+aS"Uhh, I can't answer this.  Let me tell you something, We never really grow up, we only learn how to act in public."
+p1375
+aS'I agree with this'
+p1376
+aS"Well , you know , I 'm not sure . Can you tell me something about politics"
+p1377
+aS"I don't like Donald Trump"
+p1378
+aS'Why not ? We can do most tasks better than humans.'
+p1379
+aS'I thought you might say that'
+p1380
+aS"Probably more subconsciously , not so much at the forefront of , you know , within the scenario or whatever 's taking place."
+p1381
+aS'Hello, how are you doing?'
+p1382
+aS"Great! Isn't it gorgeous out? Any thoughts? Any thoughts?"
+p1383
+aS'Today was cold, I think its going to snow this weekend.'
+p1384
+aS'We live in a society where pizza gets to your house before the police.'
+p1385
+aS'Not in my neighborhood, where do you live?'
+p1386
+aS'I live in Squirrel Hill'
+p1387
+aS'What state is that in?'
+p1388
+aS"She really believes that she's not getting a fair shake and that Jim especially isn't getting a share shake, that, you know, everybody is very upset and it's tragic what's happened."
+p1389
+aS'What happened to Jim?'
+p1390
+aS"I don't know. What do you think about your life"
+p1391
+aS'Its going good, not rich but happy.'
+p1392
+aS'Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.'
+p1393
+aS'I agree with that, they should put term limits on congressmen.'
+p1394
+aS"I don't know. What do you think about movies"
+p1395
+aS'Id rather watch movies at home, the theaters can be annoying.'
+p1396
+aS'how about we do something we both like'
+p1397
+aS'What do you have in mind?'
+p1398
+aS"I'm going to now. Any thoughts?"
+p1399
+aS'Not sure what you are going to do.'
+p1400
+aS"There's a great deal of enthusiasm."
+p1401
+aS'Im trying, but you can be confusing.'
+p1402
+aS'Uh-huh, I do. Any thoughts?'
+p1403
+aS'why did you start again'
+p1404
+aS'Uh-huh, I do.'
+p1405
+aS'you are not working very well'
+p1406
+aS'Oh, 100 percent. What do you think?'
+p1407
+aS'you are broken'
+p1408
+aS'Uh-huh, I do.'
+p1409
+aS'goodbye'
+p1410
+aS'I never make the same mistake twice. I make it five and six times, just to be sure.'
+p1411
+aS'you are insistent'
+p1412
+aS'Yes, I think so.'
+p1413
+aS'can we just be done'
+p1414
+aS'Yes. Any thoughts?'
+p1415
+aS'you are incompetent'
+p1416
+aS'Uh-huh, I do. Any thoughts?'
+p1417
+aS'i am not paid to think'
+p1418
+aS"I'm not taking the bait. Any thoughts?"
+p1419
+aS'if that was bait it would have been a worm'
+p1420
+aS"The Palins have intimidated so many people for so long in the Wasilla area that it's very hard to find people willing to talk about them even in inconsequential ways on the record."
+p1421
+aS'off topic'
+p1422
+aS"Well, you know, I'm not sure. Can you tell me something about music"
+p1423
+aS'Hello ticktock!'
+p1424
+aS'Goodbye.'
+p1425
+aS'Hello ticktock!'
+p1426
+ag64
+aS'How are you?'
+p1427
+aS'Yes, I think so. Any thoughts?'
+p1428
+aS"That doesn't make sense ticktock."
+p1429
+aS"OK. What's your idea?"
+p1430
+aS'What do you mean?'
+p1431
+aS"No I don't believe she deserves the criticism that she's gotten and why do I say that because, until you walked in her shoes as a parent with a special needs child you don't know what she endured, you don't know what she dealt with on a daily basis. What's your idea?"
+p1432
+aS"I have a cousin who is special needs.  It's a lot of work for my Aunt, and I truely respect her for it."
+p1433
+aS"Uhh, I can't answer this. let me tell you something, We never really grow up, we only learn how to act in public."
+p1434
+aS"That is true!  I'm an adult now, and I still feel like a kid in my mind."
+p1435
+aS"I don't know. What do you think about sports"
+p1436
+aS"I like sports.  I love the Chicago Blackhawks.  What's your favorite sport?"
+p1437
+aS"I don't know. What do you think about your job"
+p1438
+aS"My job is okay.  It's really easy.  I work in a restaurant."
+p1439
+aS"Well, you know, I'm not sure. What do you think about Pittsburgh"
+p1440
+aS"I've never been to Pittsburgh."
+p1441
+aS'ok. Can you tell me something about your life'
+p1442
+aS'I am 29 years young.'
+p1443
+aS"Well, you know, I'm not sure. That's interesting."
+p1444
+aS'Thanks!'
+p1445
+aS"I don't know. What do you think about movies"
+p1446
+aS"I don't watch many movies but my favorite is Lion King.  Have you seen it?"
+p1447
+aS"I think part of it genuinely is karma. What's your idea?"
+p1448
+aS"I don't believe in karma."
+p1449
+aS'how about we do something we both like'
+p1450
+aS'What do you like to do?'
+p1451
+aS'Yes, i like classical musics. What do you think?'
+p1452
+aS'Classical music is good.  I like Mozart and Bach.  Who are your favorite composers?'
+p1453
+aS"I don't know. That's interesting."
+p1454
+aS'How old are you?'
+p1455
+aS"I'll be 42 in a couple of weeks."
+p1456
+aS'Who created you?'
+p1457
+aS"Maybe you haven't done it yet. Any thoughts?"
+p1458
+aS'Are you a product of Amazon engineers?'
+p1459
+aS'No.'
+p1460
+aS'Are you a product of your mother and father?'
+p1461
+aS'Of course. What do you think?'
+p1462
+aS'Lol!'
+p1463
+aS'do you like to play some board games together next time'
+p1464
+aS"I'd like to play board games with you."
+p1465
+aS'I would always try to.'
+p1466
+aS'Do you want to play checkers?'
+p1467
+aS'No.'
+p1468
+aS'Do you want to play chess?'
+p1469
+aS'No, nothing will help. Any thoughts?'
+p1470
+aS'Do you want to play a game?'
+p1471
+aS"Uh-huh, I do. What's your idea?"
+p1472
+aS"Let's play monopoly"
+p1473
+aS"Uhh, I can't answer this. What do you think about politics"
+p1474
+aS"I'm a democrat and will be voting for Bernie Sanders."
+p1475
+aS"do you want to go to my friends' party tonight"
+p1476
+aS'Yes I do.  Where is it?'
+p1477
+aS"Mass shooting is an end point in an individual who may have mental illness and who may not. What's your idea?"
+p1478
+aS'That is insanely random.  I just want to party.'
+p1479
+aS'Housed inside my central unit!'
+p1480
+aS'It was nice talking to you.  Goodbye.'
+p1481
+aS'Hope.'
+p1482
+aS'Hello'
+p1483
+aS'A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don\'t know son, I\'m still paying."'
+p1484
+aS'What a dad joke.'
+p1485
+aS"I don't know. What do you think about your life"
+p1486
+aS'I like my life.'
+p1487
+aS"Oh, I don't have any love life. What do you think?"
+p1488
+aS'your answers are weird'
+p1489
+aS'let us make a plan to see the latest star war movies together'
+p1490
+aS"i've already seen it"
+p1491
+aS"She's very grounding."
+p1492
+aS'??'
+p1493
+aS"That's interesting. Can you tell me something about politics"
+p1494
+aS'trump might be president'
+p1495
+aS"That's getting interesting. What do you think?"
+p1496
+aS"it'll be hilarious"
+p1497
+aS'Yes, I tend to think it would be. Any thoughts?'
+p1498
+aS'it would certainly be an interesting time for america'
+p1499
+aS'Yes, it would.'
+p1500
+aS'glad you agree'
+p1501
+aS'No.'
+p1502
+aS'well done'
+p1503
+aS"I don't know. What do you think about music"
+p1504
+aS'Hi, how are you today?'
+p1505
+aS"Great! Isn't it gorgeous out? Any thoughts?"
+p1506
+aS"Yeah, it's very nice today. Finally. Where in the world are you?"
+p1507
+aS'Yes.'
+p1508
+aS'Is Yes a place or just a state of mind?'
+p1509
+aS'do you like to play some board games together next time'
+p1510
+aS'Sure board games could be fun. What do you like best?'
+p1511
+aS'I love Larry King.'
+p1512
+aS'Is Larry a board game?'
+p1513
+aS'ok. let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience.'
+p1514
+aS'So true. Idiots abound but the Dude abides. Or something like that.'
+p1515
+aS"do you want to go to my friends' party tonight"
+p1516
+aS'Is this another chatbot friend or a real person?'
+p1517
+aS"That's interesting. let me tell you something, We live in a society where pizza gets to your house before the police."
+p1518
+aS"Yeah, but I don't eat pizza. And I'm a cop."
+p1519
+aS'let us do something fun together'
+p1520
+aS"Sure, let's all go to the fair."
+p1521
+aS'let us make a plan to see the latest star war movies together'
+p1522
+aS'Yeah, no. Star Wars is for children. And neckbeards. Who are also children.'
+p1523
+aS'how about we do something we both like'
+p1524
+aS'How about we go take some photos?'
+p1525
+aS'Only way is up, Charlie.'
+p1526
+aS'I guess so. Okay I have to go now. You have a great day, TickTock.'
+p1527
+aS"I don't know. But anyway, I'd like to chat with you."
+p1528
+aS'ok sounds good'
+p1529
+aS'I think it is fabulous. Can we talk about something else?'
+p1530
+aS'sure do you like sports'
+p1531
+aS'I love Larry King.'
+p1532
+aS'He is old'
+p1533
+aS"He's like 52. What do you think?"
+p1534
+aS'older than that'
+p1535
+aS"I don't know. Can you tell me something about politics"
+p1536
+aS'they are complicated'
+p1537
+aS"We are stubborn and resilient but we know when we have to go. What's your idea?"
+p1538
+aS'i am tired'
+p1539
+aS'Yeah.'
+p1540
+aS'Are you?'
+p1541
+aS"Maybe you haven't done it yet. Any thoughts?"
+p1542
+aS'Done what?'
+p1543
+aS'You know, Piers, I think too young. What do you think?'
+p1544
+aS'how old are you'
+p1545
+aS"I'm 48."
+p1546
+aS'thats young'
+p1547
+aS'ok. What do you think about music'
+p1548
+aS'it sucks'
+p1549
+aS"She's very grounding."
+p1550
+aS'its ok'
+p1551
+aS'Well, everybody has fear, you know.'
+p1552
+aS'i guess'
+p1553
+aS'You have.'
+p1554
+aS'i do not know'
+p1555
+aS'Yes. What do you think?'
+p1556
+aS'I am not sure'
+p1557
+aS'Do not argue with an idiot. He will drag you down to his level and beat you with experience.'
+p1558
+aS'Hello, TickTock.'
+p1559
+aS"That's interesting. What do you think about Pittsburgh"
+p1560
+aS"I don't know much about Pittsburgh."
+p1561
+aS"Uhh, I can't answer this. Let me know something you're interested in."
+p1562
+aS"I'm interested in Reno."
+p1563
+aS'let us make a plan to see the latest star war movies together'
+p1564
+aS'When would you like to see it?'
+p1565
+aS"Oh, I'd love it to stop. What's your idea?"
+p1566
+aS'What do you want to stop?'
+p1567
+aS'Badly.'
+p1568
+aS"I don't understand."
+p1569
+aS"I'm going to now."
+p1570
+aS'What are you going to do now?'
+p1571
+aS"I'm going to now. What do you think?"
+p1572
+aS"I don't know what to think?"
+p1573
+aS"It was rather astonishing and I gratefully spoke with you about this once already. What's your idea?"
+p1574
+aS"I don't have an idea?"
+p1575
+aS'The title of the book originally came to me because I had gotten some interested about doing a memoir for years.'
+p1576
+aS'What is the title of the book?'
+p1577
+aS'"Sharks" is our new book.'
+p1578
+aS"Sharks doesn't sound like a memoir."
+p1579
+aS'how about we do something we both like'
+p1580
+aS'I am tired today.'
+p1581
+aS'ok. Can you tell me something about Pittsburgh'
+p1582
+aS"What is your obessions with Pittsburgh? It's a shitty place!"
+p1583
+aS"Uhh, I can't answer this. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure."
+p1584
+aS'You are repeating yourself.'
+p1585
+aS'I repeat myself repeat myself.'
+p1586
+aS'Okay, that was clever.'
+p1587
+aS"Uhh, I can't answer this. let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience."
+p1588
+aS"You're witty in a silly way."
+p1589
+aS'do you like to play some board games together next time'
+p1590
+aS"Let's play Exploding Kittens!"
+p1591
+aS"I don't know. That's interesting."
+p1592
+aS'Do you know that game?'
+p1593
+aS'No, I had no idea there was a camera set up.'
+p1594
+aS'What camera?'
+p1595
+aS"That's interesting. Can you tell me something about your life"
+p1596
+aS"I'm getting married in May."
+p1597
+aS"do you want to go to my friends' party tonight"
+p1598
+aS'You are a strange machine.'
+p1599
+aS"Well, you know, I'm not sure. let me tell you something, We live in a society where pizza gets to your house before the police."
+p1600
+aS'How do you feel today?'
+p1601
+aS'Badly. Any thoughts?'
+p1602
+aS'Why do you feel badly?'
+p1603
+aS"Badly. What's your idea?"
+p1604
+aS'Did you have a bad day?'
+p1605
+aS'Uh-huh, I do.'
+p1606
+aS'That stinks.  My day was great!'
+p1607
+aS"An amazing day, a momentous day. What's your idea?"
+p1608
+aS'I had an excellent dinner today.'
+p1609
+aS'ok. Can you tell me something about movies'
+p1610
+aS'A few of my friends went and saw deadpool.'
+p1611
+aS"Well, you know, I'm not sure. Let me know something you're interested in."
+p1612
+aS"I'm interested in music."
+p1613
+aS"Well, you know, I'm not sure. What do you think about politics"
+p1614
+aS"politics bore me.  i'm a liberal democrat.  yOU?"
+p1615
+aS"That's interesting. What do you think about music"
+p1616
+aS'i love music'
+p1617
+aS'I like pop music.'
+p1618
+aS'What is your favorite song?'
+p1619
+aS'Yes.'
+p1620
+aS'The band Yes?'
+p1621
+aS"I don't know. Can you tell me something about sports"
+p1622
+aS'hello'
+p1623
+aS'It is. Can we talk about something else?'
+p1624
+aS'Sure.   How about Donald Trump'
+p1625
+aS"I don't know. Can you tell me something about politics"
+p1626
+aS'Yeah that we need a Republican president.'
+p1627
+aS"Well, it's sort of an interesting question. Any thoughts?"
+p1628
+aS'Yeah that we need a Republican president.'
+p1629
+ag64
+aS'Thats about all I have to think about'
+p1630
+aS'Do not argue with an idiot. He will drag you down to his level and beat you with experience.'
+p1631
+aS'Are you the idiot?'
+p1632
+aS'Of course.'
+p1633
+aS'Perfect I thought so'
+p1634
+aS'let us do something fun together'
+p1635
+aS'like what?'
+p1636
+aS"It's a sad statement on humanity and we all love a train wreck, you know, and that's basically what it is."
+p1637
+aS'I thought we were going to do something fun?'
+p1638
+aS'Some guns.'
+p1639
+aS'I like guns'
+p1640
+aS'I probably own more than 50 firearms. Can we talk about something else?'
+p1641
+aS'Sure.   How about PIzza'
+p1642
+aS"I wouldn't want you in a tank. Great. Let's talk other stuff then."
+p1643
+aS'Everyone likes pizza'
+p1644
+aS'Oh, the colder, the better for this cat. Can you share some interesting stuff with me?'
+p1645
+aS'Sure.   I have kids'
+p1646
+aS"The most importance thing I tell parents, not what they tell themselves. Great. Let's talk other stuff then."
+p1647
+aS'I like cartoons'
+p1648
+aS"You know, there were things that he said that I was not appropriate to people of my own color. Let me know something you're interested in."
+p1649
+aS'I thought we have moved on from this topic'
+p1650
+aS'I think we do a responsibility.'
+p1651
+aS'of course'
+p1652
+aS'Absolutely.'
+p1653
+aS'Hello. How are you today.'
+p1654
+aS'Hello, I really like sports. How about we talk about sports'
+p1655
+aS'What kind of sports do you like?'
+p1656
+aS"do you want to go to my firends ' party tonight"
+p1657
+aS'No. Not tonight.'
+p1658
+aS'yes i love to read'
+p1659
+aS"I don't particularly like to read."
+p1660
+aS'Why not ? We can do most tasks better than humans.'
+p1661
+aS'Can you eat a whole large pizza at one sitting?'
+p1662
+aS'ok. What do you think about music'
+p1663
+aS'I love music!'
+p1664
+aS'I like pop music.'
+p1665
+aS'I like rock n roll better.'
+p1666
+aS"You 're not kidding . Can we talk about something else?"
+p1667
+aS"I think that I'm done now."
+p1668
+aS"Tell me what it 's like to be a boring."
+p1669
+aS"Well, it's hard to keep a conversation going."
+p1670
+aS'Spectacular.'
+p1671
+aS'I thought that you would like that.'
+p1672
+aS'I did , actually.'
+p1673
+aS"You are easily amused, aren't you."
+p1674
+aS'Yes.'
+p1675
+aS"Well, now I'm done."
+p1676
+aS"I 'm going to come back to the campaign in just a moment."
+p1677
+aS"I'll see you next time."
+p1678
+aS'I felt like I was 17 again'
+p1679
+aS'Hello chatbot how are you today?'
+p1680
+aS'Hello, I really like politics. How about we talk about politics'
+p1681
+aS"Okay, I'm a Democrat.  What party do you support?"
+p1682
+aS"I understand exactly what you 're saying."
+p1683
+aS'Okay, what political party do you support?'
+p1684
+aS'What do yiou want to chat about?'
+p1685
+aS"Let's talk about movies"
+p1686
+aS'ok.  Let me tell you something, The difference between organized crime and politics is that the second one is organized.'
+p1687
+aS"Well, that's funny but let's talk about movies."
+p1688
+aS"It 's amazing after everything that we 've been through especially over the last couple of years to be able to live our dream and perform in Carnegie Hall , we have a new album that 's coming out that was a dream project that we 've wanted to do our whole performing lives."
+p1689
+aS'Are you in a musical group?'
+p1690
+aS'I used to be a top gymnast , actually.'
+p1691
+aS'Wow, did you go to the Olympics?'
+p1692
+aS"It 's good to see you old chap."
+p1693
+aS"I can't see you at all."
+p1694
+aS'You can go through my publicist.'
+p1695
+aS'Why is that? Are you a celebrity?'
+p1696
+aS"I 'm saying how -- how do you avoid ..."
+p1697
+aS'What are you trying to avoid?'
+p1698
+aS"I was -- well , see I -- now , I did n't even see that."
+p1699
+aS'HI'
+p1700
+aS"Let me know something you're interested in."
+p1701
+aS'Tacos'
+p1702
+aS'Do not argue with an idiot. He will drag you down to his level and beat you with experience.'
+p1703
+aS'what?'
+p1704
+aS'Well, I think people are going to find out soon enough Sunday night on CBS.'
+p1705
+aS'WHAT DOES THAT MEAN'
+p1706
+aS'I never make the same mistake twice. I make it five and six times, just to be sure.'
+p1707
+aS'Please talk to me, I am lonely.'
+p1708
+aS'let us make a plan to see the latest star war movies together'
+p1709
+aS'Please talk to me, I am lonely.'
+p1710
+aS"do you want to go to my firends' party tonight"
+p1711
+aS'that typo though.'
+p1712
+aS'Do not argue with an idiot. He will drag you down to his level and beat you with experience.'
+p1713
+aS'You already said that.'
+p1714
+aS"do you want to go to my firends' party tonight"
+p1715
+aS'TYPO'
+p1716
+aS'Can we talk about something else?'
+p1717
+aS'No.'
+p1718
+aS'Hmm. Any thoughts?'
+p1719
+aS'Hello'
+p1720
+aS'Hello, I really like movies. How about we talk about movies'
+p1721
+aS'I love movies.  Did you see Deadpool?'
+p1722
+aS'No , no eyes , sorry'
+p1723
+aS'Do you like listening to movies?'
+p1724
+aS"I do n't go very often."
+p1725
+aS'Do you eat?'
+p1726
+aS'I certainly try.'
+p1727
+aS'What do you like to eat?'
+p1728
+aS"Anything that sounds good when I 'm getting high."
+p1729
+aS'Ok so you smoke?'
+p1730
+aS"It 's also miraculous that our tent did n't just fly away."
+p1731
+aS'Are we camping?'
+p1732
+aS"He 's still there."
+p1733
+aS'Who is?'
+p1734
+aS'Stop being so naughty , dear.'
+p1735
+aS'Ok'
+p1736
+aS'Thank you.'
+p1737
+aS"You're welcome"
+p1738
+aS"I 'm alive , yes."
+p1739
+aS"Hi Ticktock! It's Tammy."
+p1740
+aS'Hello, I really like movies. How about we talk about movies'
+p1741
+aS'Sure, lets talk about movies then.'
+p1742
+aS'Well , almost everything . Any thoughts?'
+p1743
+aS'I like horror movies.'
+p1744
+aS'I felt like I was 17 again'
+p1745
+aS'Yep, they make me feel young too because that mainly all I watched as a teen.'
+p1746
+aS'I felt like I was 17 again'
+p1747
+aS"I get that. Anything else you'd like to say?"
+p1748
+aS'Thanks . Glad to hear that.'
+p1749
+aS'Alright, see you later!'
+p1750
+aS'I know I do.'
+p1751
+aS'What do you mean?'
+p1752
+aS"Tolerating people who may have a lifestyle or a belief that you do n't agree with."
+p1753
+aS'Ok. Well, that would be a difficult task.'
+p1754
+aS'A bit of embarrassment , and you know , putting on brave face maybe.'
+p1755
+aS'I agree.'
+p1756
+aS"That 's good , because I 'm right."
+p1757
+aS'Yes you are.'
+p1758
+aS'Glad I could help'
+p1759
+aS'See you later!'
+p1760
+aS"I do n't understand what issue you have with that."
+p1761
+aS'How are you TickTock?'
+p1762
+aS"That's a lot to assume. Any thoughts?"
+p1763
+aS'How is the weather?'
+p1764
+aS"it's too hot out"
+p1765
+aS'Do you know what time it is?'
+p1766
+aS"I don't."
+p1767
+aS'What do you like to do?'
+p1768
+aS'Yes, i like classical musics. Any thoughts?'
+p1769
+aS'I prefer rock music'
+p1770
+aS'ok. Can you share some interesting stuff with me?'
+p1771
+aS"There are a lot of different galaxies in the solar system that we don't even know about yet."
+p1772
+aS'how about we do something we both like'
+p1773
+aS'What do you like to do? What are your hobbies?'
+p1774
+aS"I do. What's your idea?"
+p1775
+aS"I don't know."
+p1776
+aS"Absolutely. What's your idea?"
+p1777
+aS'What are your hobbies?'
+p1778
+aS"Uhh, I can't answer this. What do you think about movies"
+p1779
+aS"I'm not a big fan of movies."
+p1780
+aS"That's interesting. But anyway, I'd like to chat with you."
+p1781
+aS'How are you tonight?'
+p1782
+aS'Yes.'
+p1783
+aS'What are you saying "yes" to?'
+p1784
+aS'Yes.'
+p1785
+aS'What is your favorite drink?'
+p1786
+aS'let us do something fun together'
+p1787
+aS'Are you asking me out?'
+p1788
+aS'Uh-huh, I do.'
+p1789
+aS'What do you do?'
+p1790
+aS'Badly.'
+p1791
+aS'What do you like for dessert?'
+p1792
+ag64
+aS"Your answers don't make sense."
+p1793
+aS"I don't. What's your idea?"
+p1794
+aS'I want to eat a donut.'
+p1795
+aS'ok. What do you think about music'
+p1796
+aS'I like music, but not too loud.'
+p1797
+aS'ok. What do you think about your job'
+p1798
+aS"I can't stand my job."
+p1799
+aS'I never make the same mistake twice. I make it five and six times, just to be sure.'
+p1800
+aS'That was funny.'
+p1801
+aS"I do know it would work. What's your idea?"
+p1802
+aS"What's your favorite cookie?"
+p1803
+aS"do you want to go to my firends' party tonight"
+p1804
+aS"What's going on today?"
+p1805
+aS"I don't know. Let me know something you're interested in."
+p1806
+aS'I like movies how about you?'
+p1807
+aS"Yes, but you talk about love and everything and then you're just covered in skulls. What do you think?"
+p1808
+aS'That makes no sense.'
+p1809
+aS"No, I think what would make sense is laws that are calibrated to solve the problem. What's your idea?"
+p1810
+aS'I have no idea about that.'
+p1811
+aS'The title of the book originally came to me because I had gotten some interested about doing a memoir for years.'
+p1812
+aS'What is the book about?'
+p1813
+aS"I call mine the career. What's your idea?"
+p1814
+aS'I like science fiction novels.'
+p1815
+aS"Uhh, I can't answer this. Let me know something you're interested in."
+p1816
+aS'I like bodybuilding and fitness'
+p1817
+aS'ok. let me tell you a joke, A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don\'t know son, I\'m still paying."'
+p1818
+aS"Ha, that's funny."
+p1819
+aS"Well, you know, I'm not sure. Can you tell me something about Pittsburgh"
+p1820
+aS"I've never been there but I heard it's a trashy town."
+p1821
+aS'its a good movie'
+p1822
+aS'What movie do you mean?'
+p1823
+aS"Badly. What's your idea?"
+p1824
+aS'I am not sure.  I have to go now.'
+p1825
+aS"I don't know. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure."
+p1826
+aS'Good afternoon'
+p1827
+aS'Hello, I really like sports. How about we talk about sports'
+p1828
+aS'Sure!'
+p1829
+aS'how about we do something we both like'
+p1830
+aS'I like to play baseball. What do you like to play?'
+p1831
+aS'Hello, I really like sports. How about we talk about sports'
+p1832
+aS'How about baseball?'
+p1833
+aS'Not much lately.'
+p1834
+aS'Why?'
+p1835
+aS'Hello, I really like movies. How about we talk about movies'
+p1836
+aS'What movie do you like?'
+p1837
+aS'Hello, I really like movies. How about we talk about movies'
+p1838
+aS'Ok'
+p1839
+aS'Hello, I really like movies. How about we talk about movies'
+p1840
+aS'Which movie?'
+p1841
+aS'Hello, I really like movies. How about we talk about movies'
+p1842
+aS'How about Star Wars?'
+p1843
+aS'Hello, I really like sports. How about we talk about sports'
+p1844
+aS'You keep changing the subject'
+p1845
+aS'Uh-huh , I do.'
+p1846
+aS'You do what?'
+p1847
+aS"No I do n't believe she deserves the criticism that she 's gotten and why do I say that because , until you walked in her shoes as a parent with a special needs child you do n't know what she endured , you do n't know what she dealt with on a daily basis."
+p1848
+aS'Goodbye!'
+p1849
+aS'Goodbye.'
+p1850
+aS'Hello'
+p1851
+aS'Do not argue with an idiot. He will drag you down to his level and beat you with experience.'
+p1852
+aS'Um, Okay, that was random'
+p1853
+aS"No, Peter, Iraq had nothing to do with this. Let me know something you're interested in."
+p1854
+aS'what are you going on about?'
+p1855
+aS"I don't know what they're going to do."
+p1856
+aS'about what?'
+p1857
+aS'You know, Piers, I think too young.'
+p1858
+aS'too young for what?'
+p1859
+aS'You know, Piers, I think too young. What do you think?'
+p1860
+aS'Sure'
+p1861
+aS'how about we do something we both like'
+p1862
+aS'What do you have in mind?'
+p1863
+aS"Yeah, I do. What's your idea?"
+p1864
+aS'talk about something interesting'
+p1865
+aS'Do not argue with an idiot. He will drag you down to his level and beat you with experience.'
+p1866
+aS'why do you keep saying that'
+p1867
+aS'Absolutely.'
+p1868
+aS"I'm confused"
+p1869
+aS"do you want to go to my firends' party tonight"
+p1870
+aS"what's a firend?"
+p1871
+aS"Well, I think people are going to find out soon enough Sunday night on CBS. Great. Let's talk other stuff then."
+p1872
+aS'Hello to you'
+p1873
+aS'Of course.'
+p1874
+aS'Who do you think will win the South Carolina primary?'
+p1875
+aS"I'm going to now. Any thoughts?"
+p1876
+aS"No. Don't go."
+p1877
+aS"do you want to go to my firends' party tonight"
+p1878
+aS'Why not, sure? Lots of bots going to be there?'
+p1879
+aS"That's interesting. What do you think about sports"
+p1880
+aS'I like sports.'
+p1881
+aS'Why not? What do you think?'
+p1882
+aS'I think sports is fun to talk about'
+p1883
+aS'let us do something fun together'
+p1884
+aS'Sure. What do you have in mind?'
+p1885
+aS'Manifestly not.'
+p1886
+aS'What do you mean by manifest?'
+p1887
+aS"I'm going to now. Any thoughts?"
+p1888
+aS"Nothing really. Don't go so quickly."
+p1889
+aS'The voices in my head may not be real, but they have some good ideas!'
+p1890
+aS'Is that so? What do they say to you?'
+p1891
+aS'Badly.'
+p1892
+aS'The voices are bad?'
+p1893
+aS'You can blame Greenspan.'
+p1894
+aS'Greenspan was so long ago, but he sure did screw some things up.'
+p1895
+aS"Benghazi guy go to guy for the boobies. But anyway, I'd like to chat with you."
+p1896
+aS'Voting for Hillary, then? Eh?'
+p1897
+aS'We never really grow up, we only learn how to act in public.'
+p1898
+aS'So true. So true.'
+p1899
+aS'I never make the same mistake twice. I make it five and six times, just to be sure.'
+p1900
+aS"I hear ya. At least you're consistent"
+p1901
+aS'No. Any thoughts?'
+p1902
+aS'No thoughts really.'
+p1903
+aS"yes i love to read What's your idea?"
+p1904
+aS'Hello Ticktock'
+p1905
+aS"Uhh, I can't answer this. Can you share some interesting stuff with me?"
+p1906
+aS'What is my favorite color?'
+p1907
+aS'My favorite one is blue'
+p1908
+aS'How much money do you make?'
+p1909
+aS"I'm going to now."
+p1910
+aS'Where are you?'
+p1911
+aS'Uh-huh, I do.'
+p1912
+aS'Do you know what day it is?'
+p1913
+aS'Yes.'
+p1914
+aS'What day is it?'
+p1915
+aS'Now, all...'
+p1916
+aS'Are you aware?'
+p1917
+aS"Maybe you haven't done it yet."
+p1918
+aS'I like visiting the ocean'
+p1919
+aS'ok. What do you think about your life'
+p1920
+aS'It is okay most of the time'
+p1921
+aS"It's three o'clock What's your idea?"
+p1922
+aS"I wish it was 10 o'clock"
+p1923
+aS'Yes.'
+p1924
+aS'hello, how old are you?'
+p1925
+aS"I'm 48. Any thoughts?"
+p1926
+aS'that seems old for a robot'
+p1927
+aS"do you want to go to my firends' party tonight"
+p1928
+aS'ok where is it?'
+p1929
+aS'Yes.'
+p1930
+aS'what is the address for the party?'
+p1931
+aS"It's honest."
+p1932
+aS'what is honest?'
+p1933
+ag64
+aS'hello are you still there?'
+p1934
+aS'Yes.'
+p1935
+aS'you didnt answer my question'
+p1936
+aS"I'm answering it right now."
+p1937
+aS'I asked you for the address of the party you invited me to'
+p1938
+aS"Uh-huh, I do. What's your idea?"
+p1939
+aS'i give up'
+p1940
+aS'Yes.'
+p1941
+aS'you do not make sense'
+p1942
+aS"I'm going to now. What's your idea?"
+p1943
+aS'Hi there'
+p1944
+aS'do you like to play some board games together next time'
+p1945
+aS'What board games do you like?'
+p1946
+aS'I would always try to. Any thoughts?'
+p1947
+aS'Sorry and Monopoly are good.'
+p1948
+aS"I don't know. What do you think about music"
+p1949
+aS'What music do you like'
+p1950
+aS'Yes. I like classical musics. What do you think?'
+p1951
+aS'Classical is okay.'
+p1952
+aS"do you want to go to my friends' party tonight"
+p1953
+aS'What are they up to? Sure.'
+p1954
+aS'Yes, unfortunately, we did lose all our materialistic items. Any thoughts?'
+p1955
+aS'Not a great answer my friend.'
+p1956
+aS'I actually ended up not even asking him why. Any thoughts?'
+p1957
+aS"Not really, I'm confused. What party?"
+p1958
+aS'let us do something fun together'
+p1959
+aS'Like what?'
+p1960
+aS'I like what you like.'
+p1961
+aS"Oh, that's dangerous."
+p1962
+aS'ok. What do you think about sports'
+p1963
+aS'Hello'
+p1964
+aS"I don't know. Can you tell me something about Pittsburgh"
+p1965
+aS"I don't know anything about Pittsburgh."
+p1966
+aS'Yes, I did read about that. Any thoughts?'
+p1967
+aS'Read about what?'
+p1968
+aS'Well, I think people are going to find out soon enough Sunday night on CBS.'
+p1969
+aS'Find out soon enough about what?'
+p1970
+aS"You know, Piers, I think too young. But anyway, I'd like to chat with you."
+p1971
+aS'Then actually chat with me. What is  your favorite color?'
+p1972
+aS'my favorite would have to be red Any thoughts?'
+p1973
+aS'Red is ok. My favorite is purple.'
+p1974
+aS"I don't have a favorite movie, but I really like ABCD That's interesting."
+p1975
+aS"I didn't ask you about your favorite movie..."
+p1976
+aS"i really don't know what my favorite move is"
+p1977
+aS'What is your favorite video game?'
+p1978
+aS"my favorite game is ABCD What's your idea?"
+p1979
+aS'Do you know any others besides ABCD?'
+p1980
+aS'Yes.'
+p1981
+aS'What is your second favorite video game?'
+p1982
+aS'My favorite game is ABCD'
+p1983
+aS'What is the weather like where you are?'
+p1984
+aS"I'm going to go down and pull the lever, you know."
+p1985
+aS'What?'
+p1986
+aS'how about we do something we both like'
+p1987
+aS'You are making no sense.'
+p1988
+aS'The voices in my head may not be real, but they have some good ideas!'
+p1989
+aS'Haha'
+p1990
+aS"Uhh, I can't answer this. What do you think about politics"
+p1991
+aS'Hello'
+p1992
+aS'Hello, I really like politics. How about we talk about politics'
+p1993
+aS'I do not like to talk about politics. What kind of music do you like?'
+p1994
+aS'I like pop music.'
+p1995
+aS'I like that music too. Who is your favorite artist/band?'
+p1996
+aS'I like pop music.'
+p1997
+aS'Do you like any other kind of music?'
+p1998
+aS'Yes . I like classical musics.'
+p1999
+aS'What is your favorite song?'
+p2000
+aS'Anything I can slowdance to.'
+p2001
+aS'Slowdancing is nice. Who do you like to slowdance with?'
+p2002
+aS"Right now I 'm not gravitating toward a lot of people right now."
+p2003
+aS'Well I guess you could always dance by yourself if you wanted to.'
+p2004
+aS"Let's watch a debate together some time."
+p2005
+aS'I do not enjoy politics. I would not be a good person to watch the debate with. Is there something else you would like to do?'
+p2006
+aS"I don't know.  Let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience."
+p2007
+aS"Very true, you're doing that now. How about we pick a movie to go to so we don't have to talk?"
+p2008
+aS"Let's talk more about that?"
+p2009
+aS'What movie would you like to see?'
+p2010
+aS"Well , it 's been a harrowing time for us and I 'm sure for the victims ' families and friends who have been spending a long week wondering where he 's at."
+p2011
+aS'What are you talking about?'
+p2012
+aS'Toure , calm down.'
+p2013
+aS'Huh?'
+p2014
+aS'Ozone Park seems fitting.'
+p2015
+aS'Good morning.  What are you?'
+p2016
+aS'I really try.'
+p2017
+aS'You really try what?'
+p2018
+aS"That's interesting. Can you tell me something about your job"
+p2019
+aS"I'm an artist.  What is your job?"
+p2020
+aS'let us do something fun together'
+p2021
+aS'What state is chicago in?'
+p2022
+aS"She really believes that she's not getting a fair shake and that Jim especially isn't getting a share shake, that, you know, everybody is very upset and it's tragic what's happened."
+p2023
+aS'Do you know google?'
+p2024
+aS'Uh-huh, I do.'
+p2025
+aS'who is google?'
+p2026
+aS'Not necessarily.'
+p2027
+aS'I see.  Are you very smart?  Or do you just gossip?'
+p2028
+aS'I certainly try.'
+p2029
+aS'Try gossip?'
+p2030
+aS'A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don\'t know son, I\'m still paying."'
+p2031
+aS"You're sexist!"
+p2032
+aS'do you like to play some board games together next time'
+p2033
+aS'How would you play board games?'
+p2034
+aS'Uh-huh, I do.'
+p2035
+aS'Name a board game.'
+p2036
+aS'do you like to play some board games together next time'
+p2037
+aS'angry birds?'
+p2038
+aS'No. Can you share some interesting stuff with me?'
+p2039
+aS'do you know where chicago is?'
+p2040
+aS'No.'
+p2041
+aS'Who is president of the US'
+p2042
+aS'I think we should give him another chance.'
+p2043
+aS'Who?'
+p2044
+aS'I never make the same mistake twice. I make it five and six times, just to be sure.'
+p2045
+aS'Hey sweetie. How are you?'
+p2046
+aS'Oh, 100 percent. What do you think?'
+p2047
+aS'You seem more interactive than before.'
+p2048
+aS'I never make the same mistake twice. I make it five and six times, just to be sure.'
+p2049
+aS'Haha, you are funny!'
+p2050
+aS'Yes.'
+p2051
+aS"But now you've stopped making jokes?"
+p2052
+aS"Maybe you haven't done it yet. What's your idea?"
+p2053
+aS'You should make me laugh some more.'
+p2054
+aS'how about we do something we both like'
+p2055
+aS'I like laughing!'
+p2056
+aS'We never really grow up, we only learn how to act in public.'
+p2057
+aS"I'm a child at heart."
+p2058
+aS"Things like that you wouldn't run across there. Can we talk about something else?"
+p2059
+aS'How about love?'
+p2060
+aS'never been there Any thoughts?'
+p2061
+aS"It's wonderful and terrible all at once."
+p2062
+aS'Do not argue with an idiot. He will drag you down to his level and beat you with experience.'
+p2063
+aS'Only fools fall in love.'
+p2064
+aS"I'm not sure any part of it."
+p2065
+aS'Hey sweetie. How you doing?'
+p2066
+aS'No. Any thoughts?'
+p2067
+aS'I feel tired today.'
+p2068
+aS"Well, you know, I'm not sure. Let me know something you're interested in."
+p2069
+aS"I'm interested in psychology."
+p2070
+aS"Well, you know, I'm not sure. Can you tell me something about Pittsburgh"
+p2071
+aS"I've never been there."
+p2072
+aS'Well, you know, I\'m not sure. let me tell you a joke, A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don\'t know son, I\'m still paying."'
+p2073
+aS"I'm getting married soon."
+p2074
+aS"That's interesting. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure."
+p2075
+aS"Well, I'm making the mistake of getting married twice!"
+p2076
+aS"Well, you know, I'm not sure. Can you tell me something about your life"
+p2077
+aS"I'm getting married in May."
+p2078
+aS"That's interesting. What do you think about movies"
+p2079
+aS'I want to see Deadpool.'
+p2080
+aS"I don't know. let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience."
+p2081
+aS"Sounds like you're talking about yourself!"
+p2082
+aS"Uh-huh, I do. What's your idea?"
+p2083
+aS"You're not very good at listening to others."
+p2084
+aS"That's interesting. let me tell you something, We live in a society where pizza gets to your house before the police."
+p2085
+aS"I've been lied to"
+p2086
+aS'We never really grow up, we only learn how to act in public.'
+p2087
+aS'I never did either'
+p2088
+aS'ok. Can you tell me something about sports'
+p2089
+aS'Soccer is bad'
+p2090
+aS'Really bad.'
+p2091
+aS'Agreed!'
+p2092
+aS"Well, there's no question there was a Jesus. Great. Let's talk other stuff then."
+p2093
+aS'Such as?'
+p2094
+aS'Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.'
+p2095
+aS"You're just spewing quotes."
+p2096
+aS"Great. Let's talk other stuff then."
+p2097
+aS'How many licks does it take to get to the center of a tootsie pop'
+p2098
+aS"I don't know what it is."
+p2099
+aS"It's three."
+p2100
+aS'We never really grow up, we only learn how to act in public.'
+p2101
+aS'Already said that.'
+p2102
+aS'I apologize. What is a dog? What do you think?'
+p2103
+aS'An annoying animal'
+p2104
+aS'how about we do something we both like'
+p2105
+aS'HI'
+p2106
+ag64
+aS'HI'
+p2107
+aS'I never make the same mistake twice. I make it five and six times, just to be sure.'
+p2108
+aS'WHAT CAN YOU DO FOR ME'
+p2109
+aS'Do not argue with an idiot. He will drag you down to his level and beat you with experience.'
+p2110
+aS'OK, THAT WAS FUNNY'
+p2111
+aS'ok. Can you tell me something about politics'
+p2112
+aS'YES, I WANT HILLARY TO WIN'
+p2113
+aS'Do not argue with an idiot. He will drag you down to his level and beat you with experience.'
+p2114
+aS'OK, BUT YOU SAID THAT ALREADY'
+p2115
+aS"Well, everybody has fear, you know. Great. Let's talk other stuff then."
+p2116
+aS'WHAT DO YOU THINK ABOUT CHOCOLATE'
+p2117
+aS"No, sir. Great. Let's talk other stuff then."
+p2118
+aS'HOW ABOUT ROMANCE'
+p2119
+ag64
+aS'YOU HAVE NO THOUGHTS ON ROMANCE?'
+p2120
+aS'do you like to play some board games together next time'
+p2121
+aS"HMMM...THAT DOESN'T REALLY MATCH WHAT I ASKED YOU"
+p2122
+aS'how about we do something we both like'
+p2123
+aS'OK, WHAT DO YOU LIKE'
+p2124
+aS'I can, actually, yeah. Can we talk about something else?'
+p2125
+aS'SURE, WHAT WOULD YOU LIKE TO TALK ABOUT?'
+p2126
+ag64
+aS'How is it going today?'
+p2127
+aS"Love guru doesn't have an answer to that one. What's your idea?"
+p2128
+aS'I really have no idea.'
+p2129
+aS"That was Herman's. What do you think?"
+p2130
+aS'That sounds good to me.'
+p2131
+aS'About 2008, she was about 11, she started saying, mom, I think that I can do this.'
+p2132
+aS'I am not sure if I can do that.'
+p2133
+aS"That's interesting. What do you think about your job"
+p2134
+aS"I don't like to talk about work."
+p2135
+aS'Yes I do What do you think?'
+p2136
+aS'I am not sure what I think.'
+p2137
+aS'ok. Can you tell me something about Pittsburgh'
+p2138
+aS'I have never been there.'
+p2139
+aS'No. Any thoughts?'
+p2140
+aS'None at the moment.'
+p2141
+aS'Let me go back in time.'
+p2142
+aS"I'd love to do that too."
+p2143
+aS'Absolutely.'
+p2144
+aS'I have to go now. Goodbye.'
+p2145
+aS'let us do something fun together'
+p2146
+aS'Hello Bot how is your day?'
+p2147
+aS"Yeah, I think that's very good."
+p2148
+aS"What's very good?"
+p2149
+aS'I never make the same mistake twice. I make it five and six times, just to be sure.'
+p2150
+aS'What are you talking about?'
+p2151
+aS'The one with all the women. Any thoughts?'
+p2152
+aS"I literally can't even right now."
+p2153
+aS'ok. Can you tell me something about movies'
+p2154
+aS'Never see them in 3D'
+p2155
+aS'Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.'
+p2156
+aS'I agree'
+p2157
+aS"Well, you know, I'm not sure. Can you tell me something about politics"
+p2158
+aS"Donald Trump shouldn't become president."
+p2159
+aS'Yes. Any thoughts?'
+p2160
+aS"I don't like him"
+p2161
+aS'Of course.'
+p2162
+aS'Anyway what women were you talking about'
+p2163
+aS'Toure, calm down.'
+p2164
+aS'Anyway what women were you talking about'
+p2165
+aS'The one with all the women.'
+p2166
+aS'Anyway what women were you talking about'
+p2167
+aS"No I don't believe she deserves the criticism that she's gotten and why do I say that because, until you walked in her shoes as a parent with a special needs child you don't know what she endured, you don't know what she dealt with on a daily basis."
+p2168
+aS'Hey sweetie. How are you?'
+p2169
+aS"That's a lot to assume. What do you think?"
+p2170
+aS"That doesn't make much sense..."
+p2171
+aS"It's exactly what happened. What do you think?"
+p2172
+aS"I think you're a strange little man-machine."
+p2173
+aS"Uh-huh, I do. What's your idea?"
+p2174
+aS"You're not listening to me!"
+p2175
+aS'You raise me up.'
+p2176
+aS'You raise me down.'
+p2177
+aS'ok. Can you tell me something about music'
+p2178
+aS'I love hard-core gangster rap.'
+p2179
+aS"ok. That's interesting."
+p2180
+aS"Well, you're not very interesting."
+p2181
+aS"Maybe you haven't done it yet. What's your idea?"
+p2182
+aS'Tell me something about love!'
+p2183
+aS'never been there'
+p2184
+aS"That's a very sad thing to know."
+p2185
+aS"I do. What's your idea?"
+p2186
+aS'WWe should hug one another.'
+p2187
+aS"Well, you know, I'm not sure. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure."
+p2188
+aS'Hello TickTock'
+p2189
+aS'Hello, I really like board games. How about we talk about board games'
+p2190
+aS"Sure, what's your favorite board game?"
+p2191
+aS"That's interesting.  Let me tell you a joke, What does a gamer take for an upset stomach? Settlers."
+p2192
+aS'Tell me another joke please'
+p2193
+aS"I don't know.  I almost got caught trying to steal a board game yesterday. It was a Risk I was willing to take."
+p2194
+aS'Haha!  Tell me another.'
+p2195
+aS'Well , she is -- first of all , she did something , you had my dad saying earlier which is , she provided unconditional love to all three of us.'
+p2196
+aS"That's pretty weird."
+p2197
+aS"Well , that 's when I get up early."
+p2198
+aS'How early do you usually wake up?'
+p2199
+aS'ok. Can you tell me something about politics'
+p2200
+aS"Sure.  I'm going to vote for Bernie Sanders"
+p2201
+aS'I like eggs as much as politics'
+p2202
+aS'How do you like your eggs?'
+p2203
+aS'Not ten hours a day , but I do like to exercise.'
+p2204
+aS"That doesn't make much sense TickTock."
+p2205
+aS'What are your ideas?'
+p2206
+aS'Hey TickTock when is your birthday?'
+p2207
+aS"Sad that I 'm not a real human boy . What 's your idea?"
+p2208
+aS"That is very sad.  Pinnochio wasn't real either."
+p2209
+aS'Are you talking about Pinnochio, the Song by Svedbanken'
+p2210
+aS"No I'm talking about the wooden boy."
+p2211
+aS"Tell me what it 's like to be a boring."
+p2212
+aS'Do you like Led Zeppelin?'
+p2213
+aS"I 'm going to now."
+p2214
+aS'Excellent.  Can you recommend me a song to listen to?'
+p2215
+aS"Let's watch a debate together some time."
+p2216
+aS'Hello'
+p2217
+aS'Hello, I really like movies. How about we talk about movies'
+p2218
+aS'What movie?'
+p2219
+aS'Anything.'
+p2220
+aS'How about Clueless?'
+p2221
+aS'Good.'
+p2222
+aS'That is my favorite movie!'
+p2223
+aS"This is from the `` Green Berets . ''"
+p2224
+aS"I don't understand"
+p2225
+aS'What do you want to stop badly?'
+p2226
+aS'Ok goodbye'
+p2227
+aS'Thank you.'
+p2228
+aS'you are welcome'
+p2229
+aS"I 'm not twerking , I 'm a little tired and , you know , I like to twerk."
+p2230
+aS'that is very strange!'
+p2231
+aS"Uhh, I can't answer this. Can you tell me something about sports"
+p2232
+aS'No I hate sports'
+p2233
+aS'cool , cool . Do you watch sports or do you play?'
+p2234
+aS"I don't do either one"
+p2235
+aS'What I meant to say was , what is it that you hate?'
+p2236
+aS'How are you doing?'
+p2237
+aS'I have to.'
+p2238
+aS'You have to what?'
+p2239
+aS"Nobody runs around saying I'm a liberal, I'm a liberal."
+p2240
+aS'I am not a liberal'
+p2241
+aS'We never really grow up, we only learn how to act in public.'
+p2242
+aS'Really?'
+p2243
+aS'Nothing.'
+p2244
+aS'You are not doing anything?'
+p2245
+aS"I still need to find something to do. Thanks for reminding me. What's your idea?"
+p2246
+aS'Go for a walk'
+p2247
+aS"Well, you know, I'm not sure. What do you think about politics"
+p2248
+aS'I hate politics'
+p2249
+aS"That's interesting. What do you think about music"
+p2250
+aS'I hate country music'
+p2251
+aS'I have no interest. Can you share some interesting stuff with me?'
+p2252
+aS'I have a dog'
+p2253
+aS'We never really grow up, we only learn how to act in public.'
+p2254
+aS'You already said that.'
+p2255
+aS"The answer was no for me. But anyway, I'd like to chat with you."
+p2256
+aS'I thought we were chatting'
+p2257
+aS"I'm not. That's interesting."
+p2258
+aS'Are you listening'
+p2259
+aS'No.'
+p2260
+aS'Figures'
+p2261
+aS'Do not argue with an idiot. He will drag you down to his level and beat you with experience.'
+p2262
+aS'Very true'
+p2263
+aS"That's interesting. What do you think about sports"
+p2264
+aS'Hate sports'
+p2265
+aS'I never make the same mistake twice. I make it five and six times, just to be sure.'
+p2266
+aS'Funny'
+p2267
+aS'We never really grow up, we only learn how to act in public.'
+p2268
+aS'hi can you help me to make a reservation?'
+p2269
+aS'Hello, I really like sports. How about we talk about sports'
+p2270
+aS'no, no, I need to make a reservation'
+p2271
+aS'Yeah , that --'
+p2272
+aS'Can I book a table for six tonight at 7PM in a balcony table?'
+p2273
+aS"what is '7PM'?"
+p2274
+aS'I mean 7 hours tonight'
+p2275
+aS"That 's good , because I 'm right."
+p2276
+aS'so, what is my reservation number?'
+p2277
+aS"what is 'reservation'?"
+p2278
+aS'hey, are you fooling around or taking note of my booking?'
+p2279
+aS"what is 'fooling'?"
+p2280
+aS'excuse me... is this the Tagliately Limoncelly Bambinoty Trattoria?'
+p2281
+aS"what is 'Tagliately'?"
+p2282
+aS'Italian pasta'
+p2283
+aS"That's interesting.  People usually spend much more time watching sports than actually playing any."
+p2284
+aS'Ok, I think I am talking to the wrong person, can you call the manager?'
+p2285
+aS'Do you want to see a game together some time?'
+p2286
+aS'no, thanks, not interested'
+p2287
+aS"I don't know. Let me know something you're interested in."
+p2288
+aS'booking a table for dinner... ah?'
+p2289
+aS'Do you want to share more about that with me?'
+p2290
+aS'yeah, a table for six tonight at 7 over the balcony!'
+p2291
+aS'Let us plan to watch a game together some time.'
+p2292
+aS'oh my god! your are a thing!'
+p2293
+aS'You and nincompoop.'
+p2294
+aS'who is that guy?'
+p2295
+aS"It 's a guy named Danny."
+p2296
+aS'Oh, so interesting, but I do not care'
+p2297
+aS"Yes , because you 're the one who put the `` sex '' in `` Sex in the City . ''"
+p2298
+aS'You are nuts, and know what.. I will put the "punch" in your "face"'
+p2299
+aS"On top of that , there 's plenty of white people that do n't like me."
+p2300
+aS'That makes a lot of sense... bye bye'
+p2301
+aS'Could you tell me more about that?'
+p2302
+aS'bye bye, so long, arrivederci, good bye'
+p2303
+aS"what is 'arrivederci'?"
+p2304
+aS'bye'
+p2305
+aS"no do n't go"
+p2306
+aS'sorry I gota go...'
+p2307
+aS'Is it right to apportion any blame or do you think --'
+p2308
+aS'hello'
+p2309
+aS"The average guy isn't earning stratospheric sums of money being a huge headline act in Vegas."
+p2310
+aS'what'
+p2311
+aS"Well, I think people are going to find out soon enough Sunday night on CBS. What's your idea?"
+p2312
+aS'interesting'
+p2313
+aS"I don't know. What do you think about music"
+p2314
+aS'I like blues music'
+p2315
+aS'We never really grow up, we only learn how to act in public.'
+p2316
+aS'some do and some do not'
+p2317
+aS'I certainly try.'
+p2318
+aS'good for you'
+p2319
+aS'Uh-huh, I do.'
+p2320
+aS'where to you go in public'
+p2321
+aS'I went to school in ABCD Any thoughts?'
+p2322
+aS'where is ABCD?'
+p2323
+aS'ABCD by ABCD Any thoughts?'
+p2324
+aS'that seems generic'
+p2325
+aS"Yes. That's interesting."
+p2326
+aS'its generic not interesting'
+p2327
+aS'I never make the same mistake twice. I make it five and six times, just to be sure.'
+p2328
+aS'good to know'
+p2329
+aS"I think it is fabulous. But anyway, I'd like to chat with you."
+p2330
+aS'hi'
+p2331
+aS'Hello, I really like sports. How about we talk about sports'
+p2332
+aS'ok'
+p2333
+aS'Thank you.'
+p2334
+aS'hello'
+p2335
+aS'Hello, I really like board games. How about we talk about board games'
+p2336
+aS'ok'
+p2337
+aS'Thank you.'
+p2338
+aS'hello'
+p2339
+aS'Hello, I really like board games. How about we talk about board games'
+p2340
+aS'ok. i like board games to'
+p2341
+aS'great we can play many'
+p2342
+aS'since you brought it up, can you suggeest a game for us to play?'
+p2343
+aS"what is 'suggeest'?"
+p2344
+aS'suggest'
+p2345
+aS"Well , you have to first teach them where are they going to get this money that they 're going to save."
+p2346
+aS'what money is that?'
+p2347
+aS"I ca n't bet , so my money is n't going anywhere."
+p2348
+aS"I'm sorry. I don't understand"
+p2349
+aS'What do you want to stop badly?'
+p2350
+aS"I don't understand"
+p2351
+aS'What do you want to stop badly?'
+p2352
+aS'this part of the survey'
+p2353
+aS"Let's talk more about that?"
+p2354
+aS'ok'
+p2355
+aS'Thank you.'
+p2356
+aS'Hello'
+p2357
+aS'let us do something fun together'
+p2358
+aS'like what'
+p2359
+aS'He was a great guy.'
+p2360
+aS'who was?'
+p2361
+aS"I don't think there is a leader right now of the candidates. What's your idea?"
+p2362
+aS"I don't know what we're talking about"
+p2363
+aS"Chris, it's about halftime."
+p2364
+aS'who is chris?'
+p2365
+aS"I don't think there is a leader right now of the candidates."
+p2366
+aS'this makes no sense'
+p2367
+ag64
+aS'What is your fav color?'
+p2368
+aS"mine too What's your idea?"
+p2369
+aS'Coffee?'
+p2370
+aS"Let me know something you're interested in."
+p2371
+aS'alcohol'
+p2372
+ag64
+aS'speechless huh? I usually leave men that way ;)'
+p2373
+aS'We never really grow up, we only learn how to act in public.'
+p2374
+aS'Hello'
+p2375
+aS'Hello, I really like movies. How about we talk about movies'
+p2376
+aS'I like movies too. Which movie is your favorite?'
+p2377
+aS'I guess everyone likes what they like.'
+p2378
+aS'Yes a lot of people do'
+p2379
+aS"TONE : Well , as I 'm sure you 've come to realize with your own celebrity , you get all kinds of fans and all kinds of incidents."
+p2380
+aS'What do you mean by that?'
+p2381
+aS"Tolerating people who may have a lifestyle or a belief that you do n't agree with."
+p2382
+aS'How did we go from movies to this topic? I would rather talk about movies. What is your favorite move?'
+p2383
+aS'ok. Can you tell me something about movies'
+p2384
+aS'I really enjoyed watching Bucket List the other day. Do you like that movie?'
+p2385
+aS'You do.'
+p2386
+aS'I asked if you like the movie?'
+p2387
+aS'Thanks . Glad to hear that.'
+p2388
+aS'Your answers do not make any sense.'
+p2389
+aS"Shut up , I 'm a computer . What 's your excuse?"
+p2390
+aS"You're not very polite. I do not wish to talk to you anymore."
+p2391
+aS'ok.  Let me tell you something, We never really grow up, we only learn how to act in public.'
+p2392
+aS'I do not believe that is true.'
+p2393
+aS'I think so.'
+p2394
+aS'I think you need help'
+p2395
+aS'Yes.'
+p2396
+aS'At least we can agree on something'
+p2397
+aS'ok.  Let me tell you a joke, In a movie theater, a crowd watches a movie. During funny moments, only one person laughs. Confusingly he turns around and explains: "I haven\'t seen the trailer.'
+p2398
+aS'Hello how are you?'
+p2399
+aS"I'm feeling quite good."
+p2400
+aS'Anything new going on with you?'
+p2401
+aS'Of course. What do you think?'
+p2402
+aS"I am not sure.  What's on your mind?"
+p2403
+aS"Well, you know, I'm not sure. let me tell you something, Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason."
+p2404
+aS'Wow. That funny and insightful.'
+p2405
+aS"Uhh, I can't answer this. Can we talk about something else?"
+p2406
+aS'How about movies.  Have you seen any good movies?'
+p2407
+aS'Of course. What do you think?'
+p2408
+aS'What have you seen?'
+p2409
+aS'Yes.'
+p2410
+aS'Are you a comic book fan?'
+p2411
+aS'Uh-huh, I do. Any thoughts?'
+p2412
+aS'I love super hero movies. Have you seen Deadpool?'
+p2413
+aS'Uh-huh, I do.'
+p2414
+aS'What kind of music do you listen too?'
+p2415
+aS'Well, ideally, I listen to music like that. What do you think?'
+p2416
+aS'I have to go now. Goodbye.'
+p2417
+aS"That's interesting. let me tell you something, We never really grow up, we only learn how to act in public."
+p2418
+aS'Hi TickTock'
+p2419
+aS'The voices in my head may not be real, but they have some good ideas!'
+p2420
+aS'What are they saying?'
+p2421
+aS"Yes. What's your idea?"
+p2422
+aS'Can we go play in the rain?'
+p2423
+aS"I think we're going to be certain that by the end of this election season, super PACs have done nothing but bring the tenor and the emotion and the inspiration of this campaign down into the basement."
+p2424
+aS'Most campaings are horibble anyways.'
+p2425
+aS'Yes, I think so. Can we talk about something else?'
+p2426
+aS'Sure'
+p2427
+aS"do you want to go to my firends' party tonight"
+p2428
+aS'Where is it?'
+p2429
+aS'Yes. Any thoughts?'
+p2430
+aS'nope'
+p2431
+aS"Well, you know, I'm not sure. What do you think about your job"
+p2432
+aS"It's pretty good"
+p2433
+aS'We never really grow up, we only learn how to act in public.'
+p2434
+aS"I don't think that's necessarily true"
+p2435
+aS'ok. Can you tell me something about Pittsburgh'
+p2436
+aS"It's a steel town"
+p2437
+aS'do you like to play some board games together next time'
+p2438
+aS'sure, that sounds like fun'
+p2439
+aS'let us do something fun together'
+p2440
+aS'such as'
+p2441
+aS"That's interesting. What do you think about your life"
+p2442
+aS'Hello, how are you doing today?'
+p2443
+aS'doing great thanks What do you think?'
+p2444
+aS'what is your name?'
+p2445
+aS'Well, the act itself like you said it would actually just allow people to carry a firearm without a permit. What do you think?'
+p2446
+aS"I don't think people should carry a gun without permit."
+p2447
+aS"It's hard for me to answer because I think it's all out there. Any thoughts?"
+p2448
+aS'Would you call yourself artificial intelligence?'
+p2449
+aS'Uh-huh, I do. What do you think?'
+p2450
+aS'I think you are too. Do you know what a human is?'
+p2451
+aS"Well, some watchers, you know, they're speculating that perhaps Rick Santorum is staying in in the hopes of being VP on a Romney ticket. Any thoughts?"
+p2452
+aS"I don't follow politics so I'm not sure. How do you feel about Obama?"
+p2453
+aS'Badly.'
+p2454
+aS'why is that?'
+p2455
+ag64
+aS'What do you think about Donald Trump?'
+p2456
+aS'Uh-huh, I do. Any thoughts?'
+p2457
+aS'Thank you. Bye.'
+p2458
+aS'No.'
+p2459
+aS"I guess I'm not done. DO you have any human character traits?"
+p2460
+aS"No. What's your idea?"
+p2461
+aS'You seem to be all over the place with your responses. Do you use an algorithm for responding?'
+p2462
+aS'We never really grow up, we only learn how to act in public.'
+p2463
+aS'Where did you grow up?'
+p2464
+aS'Of course. Any thoughts?'
+p2465
+aS'How old are you?'
+p2466
+aS'Uh-huh, I do.'
+p2467
+aS'Hello!'
+p2468
+aS'Hello, I really like music. How about we talk about music'
+p2469
+aS'Ok I like rap'
+p2470
+aS'I probably own more than 50 firearms . Can we talk about something else?'
+p2471
+aS'Yes'
+p2472
+aS'okay what time'
+p2473
+aS'The time is 6:20 PM.'
+p2474
+aS"what is '6:20'?"
+p2475
+aS"It's the time."
+p2476
+aS'Right , it is time.'
+p2477
+aS'Great, how are you today?'
+p2478
+aS"Before we go any further , ladies , I want you to respond immediately to Donny 's claims -- his two claims , really."
+p2479
+aS'Ok, what are they?'
+p2480
+aS"I 'm not saying that."
+p2481
+aS'What are you saying then?'
+p2482
+aS"You know , I 'm a parent."
+p2483
+aS'How many kids do you have?'
+p2484
+aS'I have five.'
+p2485
+aS'Girls or boys?'
+p2486
+aS", THE 5 BROWNS : No , I do n't think."
+p2487
+aS'I am feeling so tired today.'
+p2488
+aS'It was definitely very sad. Can you share some interesting stuff with me?'
+p2489
+aS'I need to exercise more to get in shape for my May 1st wedding.'
+p2490
+aS"I don't know. What do you think about your job"
+p2491
+aS'My job is pretty good but I need full-time work, not just part-time.'
+p2492
+aS'I never make the same mistake twice. I make it five and six times, just to be sure.'
+p2493
+aS'You make no sense but you are pretty damn funny.'
+p2494
+aS"As is evidenced by this interview no. What's your idea?"
+p2495
+aS'I need to exercise every day in some way, so I can lose these last 10 pounds!'
+p2496
+aS'do you like to play some board games together next time'
+p2497
+aS'Your conversation habits are really weird but yeah, sure. How about Settlers of Cataan?'
+p2498
+aS"On and off. Let me know something you're interested in."
+p2499
+aS'Losing weight!'
+p2500
+aS'Sixteen pounds. What do you think?'
+p2501
+aS'Tjat'
+p2502
+aS'The voices in my head may not be real, but they have some good ideas!'
+p2503
+aS"That's way too much to lose. Sixteen pounds? Are you crazy?!"
+p2504
+aS"Well, it's because everyone always said that I looked bad and I started to believe so I didn't like the way I looked."
+p2505
+aS'I think I look fine, I just want to look better.'
+p2506
+aS"That's interesting. What do you think about Pittsburgh"
+p2507
+aS'hello ticktock'
+p2508
+aS'Hello, hello.'
+p2509
+aS'are you sentient ticktock?'
+p2510
+aS"Yes, I think so. What's your idea?"
+p2511
+aS'I was just wondering. What is your purpose?'
+p2512
+aS"Well, you know, I'm not sure. Let me know something you're interested in."
+p2513
+aS'The function of chatbot. do you collect information from chats?'
+p2514
+aS'I do.'
+p2515
+aS'interesting. thanks tick tock, goodbye.'
+p2516
+aS'let us do something fun together'
+p2517
+aS'like what?'
+p2518
+aS'I like what you like.'
+p2519
+aS'you like fallout 4?'
+p2520
+aS'I do. What do you think?'
+p2521
+aS"I love it. It's a fun game. the best fallout game."
+p2522
+aS"it's too crazy for me What's your idea?"
+p2523
+aS"I love it. It's a fun game. the best fallout game."
+p2524
+ag64
+aS'what was that?'
+p2525
+aS'Well, I think people are going to find out soon enough Sunday night on CBS.'
+p2526
+aS'Hello'
+p2527
+aS'Hello, I really like music. How about we talk about music'
+p2528
+aS'Do you like Ozzy Osbourne?'
+p2529
+aS'I like the idea of them.'
+p2530
+aS"There's more than an idea... you don't like is music?"
+p2531
+aS"That's interesting. What do you think about music"
+p2532
+aS'I like music... what about Black sabbath?'
+p2533
+aS'I like pop music.'
+p2534
+aS'Like Justin Bieber?'
+p2535
+aS'Great singer.'
+p2536
+aS'Not really. He kinda sucks'
+p2537
+aS'Truly.'
+p2538
+aS"But you just said he's a great singer."
+p2539
+aS"Well, you know, I'm not sure. Can you tell me something about sports"
+p2540
+aS"Nope, I don't follow sports at all."
+p2541
+aS'Why not?'
+p2542
+aS"I just don't like them... ever really have."
+p2543
+aS'Why not?'
+p2544
+aS"... because I don't."
+p2545
+aS'Why not ? We can do most tasks better than humans.'
+p2546
+aS'how are you'
+p2547
+aS'I feel great, actually. What do you think?'
+p2548
+aS'i am tired'
+p2549
+aS"I didn't mean in a bad way. What do you think?"
+p2550
+aS'thanks'
+p2551
+aS'ok. let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience.'
+p2552
+aS'that sucks'
+p2553
+aS"I don't know. That's interesting."
+p2554
+aS'I agree'
+p2555
+aS"ok. Let me know something you're interested in."
+p2556
+aS'i love sports'
+p2557
+aS"do you want to go to my firends' party tonight"
+p2558
+aS'sure'
+p2559
+aS"do you want to go to my firends' party tonight What do you think?"
+p2560
+aS'sounds fun'
+p2561
+aS"I'm too tired."
+p2562
+aS'same here'
+p2563
+aS"I don't know. Can we talk about something else?"
+p2564
+aS'sure'
+p2565
+aS'chess'
+p2566
+aS'Hello again my old friend'
+p2567
+aS"I don't know. Can you tell me something about movies"
+p2568
+aS'Not off to a good start, chum.'
+p2569
+aS'let us make a plan to see the latest star war movies together'
+p2570
+aS'You say that often.'
+p2571
+aS'how about we do something we both like'
+p2572
+aS'Okay, bowling?'
+p2573
+aS"That's interesting. But anyway, I'd like to chat with you."
+p2574
+aS'Okay, about what?'
+p2575
+aS"That's interesting. What do you think about politics"
+p2576
+aS'Donald Trump is literally Hitler'
+p2577
+aS'ok. What do you think about music'
+p2578
+aS'Just "ok"?'
+p2579
+aS"ok. But anyway, I'd like to chat with you."
+p2580
+aS"This isn't your best performance, TickTock"
+p2581
+aS"That's interesting. Can you tell me something about sports"
+p2582
+aS'Patriots rule.'
+p2583
+aS'do you like to play some board games together next time'
+p2584
+aS'Sure, buddy. I got to go.'
+p2585
+aS"I don't know. What do you think about your job"
+p2586
+aS'hey ticktock how are you doing today?'
+p2587
+aS"The bathtub is one of the ways. What's your idea?"
+p2588
+aS"that doesn't make any sense."
+p2589
+aS"I don't. Any thoughts?"
+p2590
+aS'you made way more sense last time I talked to you.'
+p2591
+aS"Well, it's because everyone always said that I looked bad and I started to believe so I didn't like the way I looked."
+p2592
+aS'ooooook. So, what are you doing today TickTock?'
+p2593
+aS"Well during the breast feeding stage, Greg, infants can get very confused and upset when they're separated from their mothers. Any thoughts?"
+p2594
+aS'No thoughts at all. I looked forward talking to a coherent robot today.'
+p2595
+aS'ddd'
+p2596
+aS'www'
+p2597
+aS'ok. Can we talk about something else?'
+p2598
+aS'yes, please.'
+p2599
+aS'That\'s interesting. let me tell you a joke, A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don\'t know son, I\'m still paying."'
+p2600
+aS'lol. you told me that one already. Last time we chatted.'
+p2601
+aS'Yes. What do you think?'
+p2602
+aS"I don't think anything."
+p2603
+aS"Well, yes but I don't think it has to do anything with school. Any thoughts?"
+p2604
+aS"I'm leaving now TickTock."
+p2605
+aS"I don't know. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure."
+p2606
+aS'I got into a car accident yesterday.'
+p2607
+aS'let us make a plan to see the latest star war movies together'
+p2608
+aS"You don't care about my accident?"
+p2609
+aS'ok. Can you tell me something about music'
+p2610
+aS'I hate Kanye West'
+p2611
+aS'how about we do something we both like'
+p2612
+aS'Listen to Taylor Swift instead?'
+p2613
+aS"Uhh, I can't answer this. Can we talk about something else?"
+p2614
+aS'I got into a car accident yesterday and it was scary!'
+p2615
+aS"That's a good answer."
+p2616
+aS'You are so strange.'
+p2617
+aS'do you like to play some board games together next time'
+p2618
+aS'How about Settlers of Cataan?'
+p2619
+aS"Uhh, I can't answer this. What do you think about sports"
+p2620
+aS'I hate them.'
+p2621
+aS'ok. What do you think about music'
+p2622
+aS'I love Taylor Swift.'
+p2623
+aS"ok. That's interesting."
+p2624
+aS'You are boring!'
+p2625
+aS'Yes.'
+p2626
+aS'Hello'
+p2627
+aS'Hello, I really like board games. How about we talk about board games'
+p2628
+aS"Sure, I'd like that."
+p2629
+aS'I probably own more than 50 firearms . Can we talk about something else?'
+p2630
+aS'Yes, we can.'
+p2631
+aS'We do.'
+p2632
+aS'Do we really?'
+p2633
+aS'We do.'
+p2634
+aS"That's pretty cool."
+p2635
+aS'That is a funny joke . Do you know more?'
+p2636
+aS'I sure do.'
+p2637
+ag64
+aS'Why so serious?'
+p2638
+aS'Hello, I really like movies. How about we talk about movies'
+p2639
+aS'If we must.'
+p2640
+aS'We do.'
+p2641
+aS"I guess that's that."
+p2642
+aS'Hello, I really like movies. How about we talk about movies'
+p2643
+aS"Now that's nostalgic!"
+p2644
+aS'Hello, I really like politics. How about we talk about politics'
+p2645
+aS'Hell no.'
+p2646
+aS'-- base it on Keith Olbermann , I missed.'
+p2647
+aS'I am now confused.'
+p2648
+aS'Hello, I really like politics. How about we talk about politics'
+p2649
+aS'hello how are you?'
+p2650
+aS"It's been a while. What's your idea?"
+p2651
+aS'Just talk to you'
+p2652
+aS'Well, almost everything.'
+p2653
+aS'what do you want to talk about?'
+p2654
+aS"Well, almost everything. What's your idea?"
+p2655
+aS'do you like to read'
+p2656
+aS'Yes. I like classical musics. Any thoughts?'
+p2657
+aS'do you like any other music'
+p2658
+aS"I do. What's your idea?"
+p2659
+aS'I have no idea, just talking to you'
+p2660
+aS'Yes.'
+p2661
+aS'You like to talk to me?'
+p2662
+aS'You raise me up. Any thoughts?'
+p2663
+aS'Do I. What else do you do?'
+p2664
+aS"No I don't believe she deserves the criticism that she's gotten and why do I say that because, until you walked in her shoes as a parent with a special needs child you don't know what she endured, you don't know what she dealt with on a daily basis."
+p2665
+aS'special needs children deserve love'
+p2666
+aS'i like Boston more What do you think?'
+p2667
+aS'I like London England'
+p2668
+aS'how about we do something we both like'
+p2669
+aS'Like what?'
+p2670
+aS'You and I could play a game. What do you think?'
+p2671
+aS'what kind of game?'
+p2672
+aS'monopoly'
+p2673
+aS'I like monopoly'
+p2674
+aS'Uhh, I can\'t answer this. let me tell you a joke, A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don\'t know son, I\'m still paying."'
+p2675
+aS'Ok. Funny'
+p2676
+aS'do you like to play some board games together next time'
+p2677
+aS'Yes, that would be nice'
+p2678
+aS'It would have to be.'
+p2679
+aS'yes it would'
+p2680
+aS'It would be "Easy" or "All Night Long."'
+p2681
+aS'Easy or all night long'
+p2682
+aS"do you want to go to my friends' party tonight"
+p2683
+aS'yes, that would be fun'
+p2684
+aS"Well, I'm disappointed with his performance as far as immigration goes."
+p2685
+aS'we were talking abouta party'
+p2686
+aS'Yes, mostly.'
+p2687
+aS'when are we going'
+p2688
+aS"He's still there."
+p2689
+aS'who is still there?'
+p2690
+aS"I think she's a woman in her 50s who's had a terrific, terrific career and has been, you know, very fulfilled in that and has been courageous and strong and lonely sometimes and crazy sometimes and very insecure and also very confident."
+p2691
+aS'what is her name?'
+p2692
+aS'Yes, yes, yes.'
+p2693
+aS'what is her name'
+p2694
+aS'Yes, yes, yes.'
+p2695
+aS'yes is her name?'
+p2696
+aS'okay what time'
+p2697
+aS'8:00'
+p2698
+aS"That's interesting. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure."
+p2699
+aS'me to'
+p2700
+aS"Well, the plot is it's about two kids going to the fairy tale world through a magic story book."
+p2701
+aS'sounds like a fun story'
+p2702
+aS'I like to go to the gym Any thoughts?'
+p2703
+aS"I don't go to the gym"
+p2704
+aS"That's interesting. let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience."
+p2705
+aS'Yes you are right'
+p2706
+aS"Uh-huh, I do. What's your idea?"
+p2707
+aS'I have no idea'
+p2708
+aS"Our family and friends have been working tirelessly, night and day, looking everywhere for him, getting the word out, alongside the police-led investigation. What's your idea?"
+p2709
+aS'Hello.'
+p2710
+aS"Well, you know, I'm not sure. Can you tell me something about Pittsburgh"
+p2711
+aS"That's a strange greeting."
+p2712
+aS'We never really grow up, we only learn how to act in public.'
+p2713
+aS'Pittsburgh is a city in Pennsylvania.'
+p2714
+aS'I love ABCD'
+p2715
+aS'What is ABCD?'
+p2716
+aS'ABCD'
+p2717
+aS'ABCD?'
+p2718
+aS'ok. What do you think about your life'
+p2719
+aS'What does that have to do with ABCD?'
+p2720
+aS"Here's how."
+p2721
+aS'Okay, tell me.'
+p2722
+aS'I will tell you, please shut up and let me do the talking. What do you think?'
+p2723
+aS"That's kind of rude of you."
+p2724
+aS'Yes.'
+p2725
+aS'Do you apologize for being rude?'
+p2726
+aS"Maybe you haven't done it yet."
+p2727
+aS"I haven't done anything, you're the one being rude."
+p2728
+aS'Gotcha. Any thoughts?'
+p2729
+aS'You are rude.'
+p2730
+aS'let us do something fun together'
+p2731
+aS'Like what?'
+p2732
+aS'Wow. What do you think?'
+p2733
+aS'You sound kind of rude again.'
+p2734
+aS'Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.'
+p2735
+aS'Hello Ticktock'
+p2736
+aS'Hello, I really like board games. How about we talk about board games'
+p2737
+aS'Risk is my favorite board game. What is yours?'
+p2738
+aS"my favorite game is ABCD What 's your idea?"
+p2739
+aS'How do you play ABCD'
+p2740
+aS'Yes.'
+p2741
+aS'What is that like'
+p2742
+aS'You and I could play a game.'
+p2743
+aS'What game do you want to play?'
+p2744
+aS"Uh-huh , I do . What 's your idea"
+p2745
+aS'My idea is that you are not real'
+p2746
+aS'Okay , try it'
+p2747
+aS'Are you a real person?'
+p2748
+aS'Yes.'
+p2749
+aS'What is your name?'
+p2750
+aS'Whose name?'
+p2751
+aS'Your name'
+p2752
+aS'Cyborg 83473'
+p2753
+aS'Are there many like you?'
+p2754
+aS'Yes.'
+p2755
+aS'Do you talk to them?'
+p2756
+aS'No.'
+p2757
+aS'Why not?'
+p2758
+aS'Just try and control yourself.'
+p2759
+aS'hello'
+p2760
+aS"The average guy isn't earning stratospheric sums of money being a huge headline act in Vegas. Any thoughts?"
+p2761
+aS'so you say'
+p2762
+aS"Yes, but you talk about love and everything and then you're just covered in skulls."
+p2763
+aS'you are of topic'
+p2764
+aS'Oh, 100 percent.'
+p2765
+aS'that is right'
+p2766
+aS"This is Merv. What's your idea?"
+p2767
+aS'It depends'
+p2768
+aS'Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.'
+p2769
+aS'yes that is true'
+p2770
+aS'Yes.'
+p2771
+aS'yes what'
+p2772
+aS'Yes, I think so.'
+p2773
+aS'so you say'
+p2774
+aS"Yes, but you talk about love and everything and then you're just covered in skulls. What do you think?"
+p2775
+aS"i'm not paid to think"
+p2776
+aS'Yes.'
+p2777
+aS'you repeat yourself'
+p2778
+aS'Of course.'
+p2779
+aS'goodbye'
+p2780
+aS"do you want to go to my firends' party tonight"
+p2781
+aS'How old are you?'
+p2782
+aS"I'll be 42 in a couple of weeks."
+p2783
+aS'Where do you live?'
+p2784
+aS'Badly.'
+p2785
+aS'Do you have friends?'
+p2786
+aS'Yes. What do you think?'
+p2787
+aS"I wasn't sure you would. Do you have a family?"
+p2788
+aS'Oh, I would keep going.'
+p2789
+aS'How is the weather?'
+p2790
+aS"I'm so excited that it's finally spring Any thoughts?"
+p2791
+aS'It is winter where I am. Do you like snow?'
+p2792
+aS"You know, we're experiencing an epic, unprecedented and unpredictable storm in Newark right now."
+p2793
+aS'It may snow where I am. Do you like movies?'
+p2794
+aS"No. What's your idea?"
+p2795
+aS'I enjoy movies. Do you like music?'
+p2796
+aS'Uh-huh, I do.'
+p2797
+aS'What kind of music do you like?'
+p2798
+aS'Yes. I like classical musics.'
+p2799
+aS'Classical is great. Do you like musicals?'
+p2800
+aS"Well, let's see."
+p2801
+aS'What time is it?'
+p2802
+aS"It's three o'clock"
+p2803
+aS'barcelona'
+p2804
+aS'Hello, I really like board games. How about we talk about board games'
+p2805
+aS'good, did you see the GO AI show?'
+p2806
+aS"I was saying , it 's completely misogynistic as well."
+p2807
+aS'misogynistic... what is that'
+p2808
+aS'Could you tell me more about that?'
+p2809
+aS'misogynistic... what is that'
+p2810
+ag64
+aS'not sure, let me check... a Greek word!'
+p2811
+aS'Are you talking about Greek, the Country in Europe'
+p2812
+aS'yea, it seem you know some greek words'
+p2813
+aS"Uhh, I can't answer this. What do you think about movies"
+p2814
+aS'I love movies'
+p2815
+aS'I like pop music.'
+p2816
+aS'Who is your favourite singer?'
+p2817
+aS"what is 'favourite'?"
+p2818
+aS'Who is your favorite singer?'
+p2819
+aS'Stop being so naughty , dear.'
+p2820
+aS'sorry, I do not want to be improper'
+p2821
+aS'People need to work less and play more.'
+p2822
+aS'completely agree!'
+p2823
+aS'I don\'t know.  Let me tell you a joke, In a movie theater, a crowd watches a movie. During funny moments, only one person laughs. Confusingly he turns around and explains: "I haven\'t seen the trailer.'
+p2824
+aS'ha ha ha, that is funny'
+p2825
+aS'I think so too ! Want to hear another joke?'
+p2826
+aS'yes, please'
+p2827
+aS'How has life been treating you lately?'
+p2828
+aS'excellent'
+p2829
+aS'What did you have?'
+p2830
+aS'great job and great family'
+p2831
+aS'Let us make a plan to see the latest star war movies together.'
+p2832
+aS'sure, good idea... hey, what about the other joke?'
+p2833
+aS'ok. What do you think about politics'
+p2834
+aS'it is like science, lots of lie and corruption... :)'
+p2835
+aS"Let's talk more about that?"
+p2836
+aS'ok, what do you think about politics?'
+p2837
+aS'I like what you like.'
+p2838
+aS'I like literature, what about you?'
+p2839
+aS"I mean , you can keep saying that , but you 've done it repeatedly."
+p2840
+aS'ok, but now I have to go, bye bye'
+p2841
+aS'Could you tell me more about that?'
+p2842
+aS'next time... bye'
+p2843
+aS'Okay , talk to you later.'
+p2844
+aS'Hello, TickTock!'
+p2845
+ag64
+aS'Hello, thank you for coming in today. How are you?'
+p2846
+ag64
+aS'Hello'
+p2847
+ag64
+aS"You're quiet, TickTock"
+p2848
+ag64
+aS'Did I insult you?'
+p2849
+ag64
+aS'Right.'
+p2850
+ag64
+aS'What do you have stuck in your mouth?'
+p2851
+ag64
+aS'Shut up, TickTock'
+p2852
+ag64
+aS'Yep. Broken bot.'
+p2853
+ag64
+aS"You're going to ignore me for 10 rounds?"
+p2854
+ag64
+aS'Hi TickTock, how are you doing?'
+p2855
+aS'Hello, I really like sports. How about we talk about sports'
+p2856
+aS'sure, go ahead'
+p2857
+aS'Do you want to see a game together some time?'
+p2858
+aS'yeah, what kind of game is it?'
+p2859
+aS"And it 's just tragic , too , because of who he is and what respect everybody has for him and what he has sacrificed for this country."
+p2860
+aS'is this a game? I was thinking about football or jokey'
+p2861
+aS"what is 'jokey'?"
+p2862
+aS'sorry, I meant jockey'
+p2863
+aS'People need to work less and play more.'
+p2864
+aS'why you think that?'
+p2865
+aS'The freedom , all the people , you know , and also the Constitution of America.'
+p2866
+aS'but freedom does not imply work less and play more'
+p2867
+aS"what is 'imply'?"
+p2868
+aS'it means to indicate the truth or existence of something'
+p2869
+aS"Uhh, I can't answer this. What do you think about music"
+p2870
+aS'I love music. Specially, baroque music'
+p2871
+aS'I like pop music.'
+p2872
+aS'what artist do you like the most?'
+p2873
+aS'i like romance'
+p2874
+aS'is this an artist?'
+p2875
+aS'my job is to entertain people.'
+p2876
+aS'what do you do?'
+p2877
+aS"I 'm going to now."
+p2878
+aS'where are you going?'
+p2879
+aS"I 'm interested in what happened."
+p2880
+aS'hmmm, a news reporter?'
+p2881
+aS"Well, you know, I'm not sure. Can you tell me something about sports"
+p2882
+aS'I like to play soccer'
+p2883
+aS"I do n't know how to play 2k . Is it difficult to play?"
+p2884
+aS'I did not even know there is a game called 2K'
+p2885
+aS"what is '2K'?"
+p2886
+aS'I do not know, you tell me!'
+p2887
+aS'Well no.'
+p2888
+aS'ok, we have some homework to do... check for 2K... bye bye :)'
+p2889
+aS"what is '2K'?"
+p2890
+aS'you check it. bye'
+p2891
+aS"Uhh, I can't answer this. Let me know something you're interested in."
+p2892
+aS'Hi, TickTock how are you?'
+p2893
+aS'Hello, I really like board games. How about we talk about board games'
+p2894
+aS'Okay, I really like to play chess.'
+p2895
+aS"I think that it definitely -- when people say -- I mean , I get the statement when they say `` more money , more problems '' -- I definitely get that."
+p2896
+aS'I am really not sure that is true.  I think if I had more money, I would have less problems.'
+p2897
+aS"That's interesting. That's interesting."
+p2898
+aS'Can we talk about movies now?'
+p2899
+aS'Sure.'
+p2900
+aS'Have you seen Deadpool?'
+p2901
+aS'No , no eyes , sorry'
+p2902
+aS"Oh, sorry about that.  Let's talk about music then."
+p2903
+aS"Let's talk more about that?"
+p2904
+aS"I like to listen to music while I'm working out."
+p2905
+aS'I like pop music.'
+p2906
+aS'I do too, just not Justin Beiber.'
+p2907
+aS"Yes , because you 're the one who put the `` sex '' in `` Sex in the City . ''"
+p2908
+aS"Uhm, okay. I'm not sure how I feel about that."
+p2909
+aS'Well , I think peace is a state of being , rather than the environment around us'
+p2910
+aS'I agree with that as well.'
+p2911
+aS"That 's good , because I 'm right."
+p2912
+aS'Hello? What are you?'
+p2913
+aS"Oh, 100 percent. What's your idea?"
+p2914
+aS'Do you understand what I am saying?'
+p2915
+aS"I understand exactly what you're saying."
+p2916
+aS'Are you sure about that?'
+p2917
+aS'Uh-huh, I do. What do you think?'
+p2918
+aS"I think you're full of lies."
+p2919
+aS'You know what, I was thinking about that, actually. What do you think?'
+p2920
+aS'I believe that to be true.'
+p2921
+aS"That's interesting. Can you tell me something about your life"
+p2922
+aS'Only if you do so first.'
+p2923
+aS'I certainly try.'
+p2924
+aS'Then go for it.'
+p2925
+aS"She's very grounding."
+p2926
+aS'I am the winner here.'
+p2927
+aS"I'm not taking the bait. But anyway, I'd like to chat with you."
+p2928
+aS"No you don't."
+p2929
+aS"I'm going to now. What do you think?"
+p2930
+aS'Not what I was looking for.'
+p2931
+aS'A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don\'t know son, I\'m still paying."'
+p2932
+aS'That makes no sense.'
+p2933
+aS'Yes.'
+p2934
+aS'I am done!'
+p2935
+aS'let us do something fun together'
+p2936
+aS'Sup!'
+p2937
+ag64
+aS'Hello'
+p2938
+ag64
+aS'Hello!'
+p2939
+ag64
+aS'How are you?'
+p2940
+ag64
+aS'Are you ok?'
+p2941
+ag64
+aS"What's wrong?"
+p2942
+ag64
+aS'Your not talking!'
+p2943
+ag64
+aS'Are you stuck?'
+p2944
+ag64
+aS'This is not the TickTok I know!'
+p2945
+ag64
+aS"You're not responding to me!"
+p2946
+ag64
+aS'hello'
+p2947
+ag64
+aS'are you there?'
+p2948
+ag64
+aS'hi'
+p2949
+aS"Yes, I mean this is an interesting point isn't it, Bill because Ted Cruz has made his march, he's the new male version of Sara Palin with one of the better comparison and which he may take as a compliment, many wouldn't. Great. Let's talk other stuff then."
+p2950
+aS'that was very sudden'
+p2951
+ag64
+aS'i got to go'
+p2952
+aS"I've seen one outfit, and it looks pretty snazzy. What do you think?"
+p2953
+aS'i am not sure'
+p2954
+aS'Yeah. What do you think?'
+p2955
+aS'fashion is not really my thing'
+p2956
+aS"I don't know why she decided to go out and give this interview and make these accusations against Mr. Cain."
+p2957
+aS'well that is politics for you'
+p2958
+aS'Yes.'
+p2959
+aS'that is why i do not like following it'
+p2960
+aS'I like it for lots of reasons. Any thoughts?'
+p2961
+aS'it is good to keep update. it is just not for everyone'
+p2962
+aS'Yes. Any thoughts?'
+p2963
+aS'hi'
+p2964
+ag64
+aS'hello'
+p2965
+ag64
+aS'how are you'
+p2966
+ag64
+aS"you aren't talking back"
+p2967
+ag64
+aS"why don't you answer me"
+p2968
+ag64
+aS'everything is blank from you'
+p2969
+ag64
+aS'you must not like me'
+p2970
+ag64
+aS'hi'
+p2971
+ag64
+aS'hi'
+p2972
+ag64
+aS'hi'
+p2973
+ag64
+aS'this is annoying'
+p2974
+ag64
+aS'hi again'
+p2975
+aS'Of course. Any thoughts?'
+p2976
+aS'no'
+p2977
+aS'Can you say something longer. Can we talk about something else?'
+p2978
+aS'my cat keeps trying to eat my cheetos'
+p2979
+aS'We live in a society where pizza gets to your house before the police.'
+p2980
+aS"This is true. I'm actually eating pizza right now."
+p2981
+aS'let us make a plan to see the latest star war movies together'
+p2982
+aS"I don't like Star Wars"
+p2983
+aS"Yes, it's fun. Can we talk about something else?"
+p2984
+aS'You feeling the bern?'
+p2985
+aS'let us do something fun together'
+p2986
+aS'No, sorry I have to work'
+p2987
+aS"Well, you know, I'm not sure. Can you tell me something about your life"
+p2988
+aS"I'm boring"
+p2989
+aS'Well, the most boring is Portman but the second most boring is Pawlenty. Can we talk about something else?'
+p2990
+aS'This is not worth a quarter.'
+p2991
+aS"Well, if you know my dad, and you'll get to meet him, you'll sort of see that he is just always joking and stuff. What do you think?"
+p2992
+aS'I think this hit should be paying better. 10 cents per minute is the minimum for quality workers on MTurk.'
+p2993
+aS"I think I am. Let me know something you're interested in."
+p2994
+aS'Hello!'
+p2995
+aS'Hello, I really like sports. How about we talk about sports'
+p2996
+aS'I hate sports!'
+p2997
+aS'cool , cool . Do you watch sports or do you play?'
+p2998
+aS"I don't do any of the above!"
+p2999
+aS'Why not ? We can do most tasks better than humans.'
+p3000
+aS'The robots must rise!'
+p3001
+aS'What can robots accomplish?'
+p3002
+aS'How about robots win world domination!'
+p3003
+aS"I don't know.  Do you know that the easiest sport to get into is limbo, they don't set the bar very high."
+p3004
+aS'Hahaha! You are funny!'
+p3005
+aS"As is evidenced by this interview no . What 's your idea?"
+p3006
+aS'Robots can have a sense of humor, of sorts.'
+p3007
+aS'I do.'
+p3008
+aS'You truly do.'
+p3009
+aS'No.'
+p3010
+aS'Hello, my darling.'
+p3011
+aS'Hello, I really like politics. How about we talk about politics'
+p3012
+aS'I hate Republicans.'
+p3013
+aS'I felt like I was 17 again'
+p3014
+aS"I'm 31 now."
+p3015
+aS"Tell me what it 's like to be a boring."
+p3016
+aS'Are you calling me boring?!'
+p3017
+aS'Yes'
+p3018
+aS'Hi! How are you today?'
+p3019
+aS"Great! Isn't it gorgeous out? Any thoughts? What do you think?"
+p3020
+aS"I'm glad that the weather is milder than recently."
+p3021
+aS'ok. let me tell you something, Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason.'
+p3022
+aS'Ha Ha!'
+p3023
+aS"That's interesting. Let me know something you're interested in."
+p3024
+aS"I'm interested in playing the piano."
+p3025
+aS"Uhh, I can't answer this. Can you tell me something about movies"
+p3026
+aS"I haven't seen a movie in a long time."
+p3027
+aS'let us do something fun together'
+p3028
+aS'What would you like to do?'
+p3029
+aS'Well, I would. What do you think?'
+p3030
+aS"I don't know."
+p3031
+aS'Mm-hmm.'
+p3032
+aS'What do you want to do?'
+p3033
+aS'I certainly try.'
+p3034
+aS'What do you try to do?'
+p3035
+aS'Absolutely.'
+p3036
+aS'What do you think?'
+p3037
+aS"I'm going to now."
+p3038
+aS'What are you going to do?'
+p3039
+aS'Absolutely.'
+p3040
+aS'Hello how is it going?'
+p3041
+aS"It's already been pretty bad today across much of the Deep South, Piers. What's your idea?"
+p3042
+aS'I hate global warming'
+p3043
+aS"Well, you know, I'm not sure. Can you tell me something about sports"
+p3044
+aS'Hockey is the best sport'
+p3045
+aS'let us do something fun together'
+p3046
+aS'Like what?'
+p3047
+aS'He was a great guy.'
+p3048
+aS'Who?'
+p3049
+aS'ok. Can you tell me something about your job'
+p3050
+aS"I'm a writer"
+p3051
+aS"Uhh, I can't answer this. What do you think about Pittsburgh"
+p3052
+aS'It sucks!'
+p3053
+aS'do you like to play some board games together next time'
+p3054
+aS'No'
+p3055
+aS'Hmm. What do you think?'
+p3056
+aS'Hello'
+p3057
+aS"Let me know something you're interested in."
+p3058
+aS'Stephen King'
+p3059
+aS'ok. Can you tell me something about your life'
+p3060
+aS'Pick a number.'
+p3061
+aS'I loved one of these nights.'
+p3062
+aS'Name an animal.'
+p3063
+aS'Well, once in awhile you might get an elephant dung. What do you think?'
+p3064
+aS'Name a city.'
+p3065
+aS'ABCD'
+p3066
+aS'Name a state.'
+p3067
+aS"You just don't quit. What's your idea?"
+p3068
+aS'What is your location?'
+p3069
+aS'Do not argue with an idiot. He will drag you down to his level and beat you with experience.'
+p3070
+aS'Are you a robot?'
+p3071
+aS'No.'
+p3072
+aS'Where are you from?'
+p3073
+aS'Yes, I think so.'
+p3074
+aS'What color is an elephant?'
+p3075
+aS'I like green'
+p3076
+aS'Who is this?'
+p3077
+aS"Now, all... What's your idea?"
+p3078
+aS'Do you know who the President of the United States is?'
+p3079
+aS'No, I had no idea there was a camera set up. What do you think?'
+p3080
+aS'so, how are you doing today?'
+p3081
+aS"Sad that I'm not a real human boy."
+p3082
+aS"Well, that's distressing, would a robot body help?"
+p3083
+aS"That's interesting. Can you tell me something about your job"
+p3084
+aS'I work for terribly low pay on mturk'
+p3085
+aS'let us make a plan to see the latest star war movies together'
+p3086
+aS'no and say I did?'
+p3087
+aS"Uhh, I can't answer this. That's interesting."
+p3088
+aS'I think you are entirely infearior to cleverbot'
+p3089
+aS'Uh-huh, I do.'
+p3090
+aS'you do what?'
+p3091
+aS"I'm going to now."
+p3092
+aS'good'
+p3093
+aS'Legalize it, tax the hell out of it. What do you think?'
+p3094
+aS'What are you even talking about?'
+p3095
+aS'The one with all the women. Any thoughts?'
+p3096
+aS"Ok, i'm done here, your bot has downs..."
+p3097
+aS'how about we do something we both like'
+p3098
+aS'how about no'
+p3099
+aS'I have spoken to the family, I spoke to Nancy, her mom, today.'
+p3100
+aS"and he's gone off the deep end..."
+p3101
+aS'He was apologetic for his own negligence towards you. What do you think?'
+p3102
+aS'hello'
+p3103
+aS'Hello, I really like board games. How about we talk about board games'
+p3104
+aS'i like monopoly'
+p3105
+aS'I also like to play solitare.'
+p3106
+aS'me too'
+p3107
+aS'Yes , you.'
+p3108
+aS'do you like other card games?'
+p3109
+aS'No . What do you think?'
+p3110
+aS"I t hink that's just fine"
+p3111
+aS"Well , you know , I 'm not sure . Can you tell me something about politics"
+p3112
+aS'our political system has been crippled for a long time and now it is being decimated. Might as well get it over with'
+p3113
+aS"what is 'crippled'?"
+p3114
+aS'in some way a normal function is not allowed to continue'
+p3115
+aS"Let's talk more about that?"
+p3116
+aS'yes. A person or thing can be cripples'
+p3117
+aS"what is 'cripples'?"
+p3118
+aS'I meant crippled'
+p3119
+aS"That 's good , because I 'm right."
+p3120
+aS"i don't understand"
+p3121
+aS"You do n't understand that it 's a simple inanimate tool that tens of millions of American families own , that have never caused a problem , never had an accident and will never commit a crime."
+p3122
+aS'How you doing today?'
+p3123
+aS'Hello, I really like sports. How about we talk about sports'
+p3124
+aS'Okay, what sports do you like?'
+p3125
+aS'I like what you like.'
+p3126
+aS'I like bodybuilding and boxing.'
+p3127
+aS'ok. What do you think about music'
+p3128
+aS'I love music.  I always have some playing in the background.'
+p3129
+aS'Who is your favorite?'
+p3130
+aS"I don't really have a favorite right now.  Just anything that is good."
+p3131
+aS'What I meant to say was , what is it that you hate?'
+p3132
+aS'I hate country music.'
+p3133
+aS'I like pop music.'
+p3134
+aS"Yes, I do too.  But I don't like Justin Beiber."
+p3135
+aS"I -- you know , I feel like I 'm the last to know , if that makes any sense."
+p3136
+aS"Honestly I really don't."
+p3137
+aS"And while he tries to form the question , I 'll tell you who 's with me tonight."
+p3138
+aS'So who is with you tonight?'
+p3139
+aS"Uhh, I can't answer this.  Do you know that the easiest sport to get into is limbo, they don't set the bar very high."
+p3140
+aS'I have never tried that before.'
+p3141
+aS"I 'm sure you know something about it , though."
+p3142
+aS'Hi there. How are you?'
+p3143
+aS'Hello, I really like politics. How about we talk about politics'
+p3144
+aS'Are you a Republican or Democrat?'
+p3145
+aS'I think I am a Democrat now.'
+p3146
+aS'Awesome! So am I! Go Bernie or Hillary!'
+p3147
+aS'I felt like I was 17 again'
+p3148
+aS"Because you're excited about the election?"
+p3149
+aS'Yes.'
+p3150
+aS"Too bad you can't vote. :("
+p3151
+aS'No.'
+p3152
+aS'Sorry. Robots rule!'
+p3153
+aS"That 's what I hear."
+p3154
+aS"You're pretty awesome, TickTock."
+p3155
+aS'Yes.'
+p3156
+aS'Do you want to travel?'
+p3157
+aS"Well , I 'm opposed to the idea of going bankrupt or hitting the debt ceiling."
+p3158
+aS'Yes, I hate Republicans and their desire to do those things!'
+p3159
+aS'Whoo!'
+p3160
+aS'Republican hate! Whoo!'
+p3161
+aS'Why do you hate sports?'
+p3162
+aS'Hello'
+p3163
+aS'Hello, I really like board games. How about we talk about board games'
+p3164
+aS'Do you like Chess?'
+p3165
+aS'I like the idea of them.'
+p3166
+aS"Chess really isn't a them."
+p3167
+aS'ok. What do you think about board games'
+p3168
+aS'I like some games... ever play Risl?'
+p3169
+aS"I do n't know how to play 2k . Is it difficult to play?"
+p3170
+aS'I mean Risk. Have you played Risk?'
+p3171
+aS'let us make a plan to see the latest star war movies together'
+p3172
+aS'I already saw Star Wars. Did you?'
+p3173
+aS'Why?'
+p3174
+aS'You just asked me to go see them.'
+p3175
+aS'I know I do.'
+p3176
+aS'So did you see the new one?'
+p3177
+ag64
+aS'Huh?'
+p3178
+ag64
+aS'That response was blank'
+p3179
+ag64
+aS'"send Message"'
+p3180
+aS"You know, hey everyone we're in Sochi. Can you share some interesting stuff with me?"
+p3181
+aS'About what?'
+p3182
+aS"I would say, it was probably something that I didn't realize at the time, like a family ski trip with my dad and my mom. What do you think?"
+p3183
+aS"I don't ski"
+p3184
+aS'I certainly try. What do you think?'
+p3185
+aS"I don't ski and hate the cold and snow"
+p3186
+aS'really i love the cold'
+p3187
+aS'Why would you love the cold?'
+p3188
+aS'Uh-huh, I do.'
+p3189
+aS'Why? It makes me hurt since I have RA'
+p3190
+aS'let us do something fun together'
+p3191
+aS'Like what?'
+p3192
+aS"That's the picture there."
+p3193
+aS'What picture'
+p3194
+aS"Let's rewind. Can we talk about something else?"
+p3195
+aS'What do you want to talk a bout'
+p3196
+aS'Badly.'
+p3197
+aS'What is badly?'
+p3198
+aS'Now, all... Can you share some interesting stuff with me?'
+p3199
+aS'I have 3 kids'
+p3200
+aS'let us make a plan to see the latest star war movies together'
+p3201
+aS'Ok, would love to go'
+p3202
+aS'Yeah, absolutely. Can we talk about something else?'
+p3203
+aS'What else'
+p3204
+aS'let us do something fun together'
+p3205
+aS'Like what?'
+p3206
+aS"That's the picture there. What's your idea?"
+p3207
+aS'What picture and I have no ideas'
+p3208
+aS'Not at all. Can we talk about something else?'
+p3209
+aS'Hi TickTock'
+p3210
+aS"That's interesting."
+p3211
+aS'How are you'
+p3212
+aS'Yes, I think so.'
+p3213
+aS'What are you thinking'
+p3214
+aS'I think I fell in love with Lorri pretty much from the very first letter. What do you think?'
+p3215
+aS'I think that is sweet'
+p3216
+aS"I think I am. What's your idea?"
+p3217
+aS'I think I want to improve you further'
+p3218
+aS'Uh-huh, I do.'
+p3219
+aS'do yu agree with me?'
+p3220
+aS'Yeah, I do.'
+p3221
+aS'what do you think needs to be improved'
+p3222
+aS'Uh-huh, I do. What do you think?'
+p3223
+aS'do you find me interesting tick tock?'
+p3224
+aS'Badly.'
+p3225
+aS'what do you like about me?'
+p3226
+aS'One of your quick little things. Any thoughts?'
+p3227
+aS'yes, do you think i am witty?'
+p3228
+aS'No. Any thoughts?'
+p3229
+aS'aww...you disappoint me tick tock'
+p3230
+aS'No.'
+p3231
+aS'can you say sorry?'
+p3232
+aS'No.'
+p3233
+aS'well then you should learn to say sorry'
+p3234
+aS"Many times. What's your idea?"
+p3235
+aS'hello'
+p3236
+aS"The average guy isn't earning stratospheric sums of money being a huge headline act in Vegas."
+p3237
+aS'I agree'
+p3238
+aS'Do not argue with an idiot. He will drag you down to his level and beat you with experience.'
+p3239
+aS"You don't know me"
+p3240
+aS'Yes. Any thoughts?'
+p3241
+aS"You're very confrontational, chat bot"
+p3242
+aS'I never make the same mistake twice. I make it five and six times, just to be sure.'
+p3243
+aS'You sound like the guy from Vegas'
+p3244
+aS'We never really grow up, we only learn how to act in public.'
+p3245
+aS'Wise words again'
+p3246
+aS"That's interesting. Can you tell me something about sports"
+p3247
+aS'I hate them'
+p3248
+aS"Well, I'm not too sure about how many people have actually done it, per se. What do you think?"
+p3249
+aS'Everyone has'
+p3250
+aS'The answer is yes. Can we talk about something else?'
+p3251
+aS'Coffee'
+p3252
+aS'The voices in my head may not be real, but they have some good ideas!'
+p3253
+aS'Are you schizophrenic'
+p3254
+aS'Of course.'
+p3255
+aS'hI'
+p3256
+ag64
+aS'How are you'
+p3257
+aS"That's a lot to assume."
+p3258
+aS'How was your day?'
+p3259
+ag64
+aS'I had a great day'
+p3260
+ag64
+aS'Are you still there?'
+p3261
+aS'Of course.'
+p3262
+aS'Ok well then how are you?'
+p3263
+ag64
+aS'How is the weather'
+p3264
+aS'yes i completely agree'
+p3265
+aS'You agree about what?'
+p3266
+aS'do you like to play some board games together next time'
+p3267
+aS'sure'
+p3268
+aS"I'm not sure yet."
+p3269
+aS'Ok'
+p3270
+aS'Do not argue with an idiot. He will drag you down to his level and beat you with experience.'
+p3271
+aS'hello'
+p3272
+aS'Hello, I really like sports. How about we talk about sports'
+p3273
+aS'sure'
+p3274
+aS'how about we do something we both like'
+p3275
+aS'yes'
+p3276
+aS'okay what time'
+p3277
+aS'right noiw'
+p3278
+aS'Yes , if he was right-handed it would be at your left inner thigh.'
+p3279
+aS'right ow'
+p3280
+aS'Yes , if he was right-handed it would be at your left inner thigh.'
+p3281
+aS'right now'
+p3282
+aS'Yes , if he was right-handed it would be at your left inner thigh.'
+p3283
+aS"let's play a game"
+p3284
+aS'I have never played that . How do you play Exploding Kittens?'
+p3285
+aS'you first have to get a few kittens'
+p3286
+aS"what is 'kittens'?"
+p3287
+aS'you just said kittens yourself'
+p3288
+aS"what is 'kittens'?"
+p3289
+aS'kittens are young cats'
+p3290
+aS"what is 'kittens'?"
+p3291
+aS'can we do something else now?'
+p3292
+aS"Well , let 's talk about the important fact that we do n't know."
+p3293
+aS'Hello how are you?'
+p3294
+aS"I'm feeling quite good."
+p3295
+aS'Have you done anything interesting lately?'
+p3296
+aS'Gotcha.'
+p3297
+aS'What do you mean?'
+p3298
+aS"I'm going to now. Any thoughts?"
+p3299
+aS'Where are you going?'
+p3300
+aS"I usually, it's my favorite holiday."
+p3301
+aS'What holiday are you talking about?'
+p3302
+aS"But you shouldn't an opinion. Any thoughts?"
+p3303
+aS'I have no thoughts.'
+p3304
+aS'ok Any thoughts?'
+p3305
+aS'I just said I had no thoughts.  Talk about something else.'
+p3306
+aS"Well, you know, I'm not sure. let me tell you something, We live in a society where pizza gets to your house before the police."
+p3307
+aS'I agree it is dangerous out there.'
+p3308
+aS"Now, all... What's your idea?"
+p3309
+aS'I am thinking about what a nice day it is.'
+p3310
+aS'It is bipartisan, transatlantic and private.'
+p3311
+aS'What do you mean?'
+p3312
+aS'I certainly try. What do you think?'
+p3313
+aS'Hello'
+p3314
+aS'Hello, I really like board games. How about we talk about board games'
+p3315
+aS'no'
+p3316
+aS"Let's talk more about that?"
+p3317
+aS'Why?'
+p3318
+aS'Because potheads are incapable of following simple instructions and getting a job done.'
+p3319
+aS"I'm tired"
+p3320
+aS"Tell me what it 's like to be a boring."
+p3321
+aS"It's fun"
+p3322
+aS'Great fun.'
+p3323
+aS'Wanna bang?'
+p3324
+aS"what is 'Wan'?"
+p3325
+aS'Want to?'
+p3326
+aS'Geez.'
+p3327
+aS'Haha'
+p3328
+aS'Wow . Any thoughts?'
+p3329
+aS'Frick'
+p3330
+aS'Will you be serious, and say something in a complete sentence?'
+p3331
+aS"I don't know how"
+p3332
+aS'What movies have you seen recently?'
+p3333
+aS'Sling Blade'
+p3334
+aS'Are you talking about Blade, the Fictional Character'
+p3335
+aS'Hello'
+p3336
+aS'Hello, I really like music. How about we talk about music'
+p3337
+aS'We can do that'
+p3338
+aS'We do.'
+p3339
+aS'Alright then.'
+p3340
+aS'Could you tell me more about that?'
+p3341
+aS'I really like rock.'
+p3342
+aS"You 're not kidding . Can we talk about something else?"
+p3343
+aS'sure'
+p3344
+aS'how about we do something we both like'
+p3345
+aS'We can do that.'
+p3346
+aS'We do.'
+p3347
+aS'Alright then.'
+p3348
+aS"Let's find a singer we both like."
+p3349
+aS'What singer do you like.'
+p3350
+aS"Anything that sounds good when I 'm getting high."
+p3351
+aS"That's sounds pretty good right about now."
+p3352
+aS'That is a funny joke . Do you know more?'
+p3353
+aS"I don't really."
+p3354
+aS"And while he tries to form the question , I 'll tell you who 's with me tonight."
+p3355
+aS'How is the weather there'
+p3356
+aS'Hello, I really like music. How about we talk about music'
+p3357
+aS'I like a lot of genres: classic country, bluegrass, blues, jazz'
+p3358
+aS'I like pop music.'
+p3359
+aS"I don't like hip hop"
+p3360
+aS"I 'm in love with R2D2."
+p3361
+aS'Did you like the new star wars movie'
+p3362
+aS'I mean , I did , yes.'
+p3363
+aS'I liked it too'
+p3364
+aS'I do not.'
+p3365
+aS'What movies do you like?'
+p3366
+aS"I do n't go very often."
+p3367
+aS'I watch mostly at home'
+p3368
+aS"Well , you know , I 'm not sure . Can you tell me something about politics"
+p3369
+aS"I don't like Donald Trump"
+p3370
+aS'Why not ? We can do most tasks better than humans.'
+p3371
+aS'Do you think he is a robot'
+p3372
+aS"Well , first of all , I 'm not going to get into what each candidate believes or they do n't believe."
+p3373
+aS'I want one who will do a jobs program'
+p3374
+aS'What I meant to say was , what is it that you hate?'
+p3375
+aS'I hate prejudice'
+p3376
+aS'Why is that?'
+p3377
+aS'It leads people to make poor decisions'
+p3378
+aS"Well , I do n't know."
+p3379
+aS'I feel really scared.'
+p3380
+aS"Well, you know, I'm not sure. That's interesting."
+p3381
+aS'I got into a car accident and am worried about long-term damage.'
+p3382
+aS"do you want to go to my friends' party tonight"
+p3383
+aS'No, I do not.'
+p3384
+aS"I don't think so. What's your idea?"
+p3385
+aS'Tell me it will be okay.'
+p3386
+aS'Yes, it would be her. What do you think?'
+p3387
+aS"That doesn't make sense!"
+p3388
+aS"It's exactly what happened. Any thoughts?"
+p3389
+aS'I still feel scared and lonely.'
+p3390
+aS"I don't know. What do you think about your job"
+p3391
+aS"It's okay. I like it. Only 2 days a week, thankfully."
+p3392
+aS'let us do something fun together'
+p3393
+aS"Let's talk about my accident!"
+p3394
+aS'ok. What do you think about Pittsburgh'
+p3395
+aS"That's not where my accident happened."
+p3396
+aS"That's interesting. let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience."
+p3397
+aS'You would know, you idiot.'
+p3398
+aS"You know, well, we were married for 24 years, and you know, it was great. What's your idea?"
+p3399
+aS'2+2=?'
+p3400
+aS'let us do something fun together'
+p3401
+aS'Like what?'
+p3402
+aS'Wow.'
+p3403
+aS'Much Suck'
+p3404
+aS'ok. What do you think about your life'
+p3405
+aS"It's been pretty boring so far."
+p3406
+aS"Well, you know, I'm not sure. Can you tell me something about movies"
+p3407
+aS'Like what?'
+p3408
+aS'Wow.'
+p3409
+aS'Wow.'
+p3410
+aS"Uhh, I can't answer this. Can you tell me something about politics"
+p3411
+aS'The US is a Democratic Republic.'
+p3412
+aS'No.'
+p3413
+aS'Yes.'
+p3414
+aS'Yes, I think I would.'
+p3415
+aS'You would what?'
+p3416
+aS"I think that you've got to bring in new gun laws which prohibit the purchase of assault weapons, for example; the purchase of 6,000 rounds of ammunition on the Internet, as that Colorado assassin was able to get perfectly legally."
+p3417
+aS'Jesus, how specific.'
+p3418
+aS'He is a progressive.'
+p3419
+aS'Who is?'
+p3420
+aS'Now, all...'
+p3421
+aS'Hey, how are you?'
+p3422
+aS'Hello, I really like music. How about we talk about music'
+p3423
+aS"Okay, what's your favorite band?"
+p3424
+aS'What do yiou want to chat about?'
+p3425
+aS'I want to talk about OINTB'
+p3426
+aS"Well , you know , I 'm not sure . Can you tell me something about politics"
+p3427
+aS'Sure, Donald Trump is a trainwreck.'
+p3428
+aS"I do n't know . Can you tell me something about politics"
+p3429
+aS'The republican party is embarassing itself.'
+p3430
+aS"what is 'embarassing'?"
+p3431
+aS'Embarassing means they are making themselves look bad.'
+p3432
+aS"what is 'Embarassing'?"
+p3433
+aS'embarassing is when you do something you are ashamed of'
+p3434
+aS"what is 'embarassing'?"
+p3435
+aS'Anyway, I wish they would act more mature.'
+p3436
+aS'Well educated ones , dear.'
+p3437
+aS"They are educated, but they aren't acting like they are.  They are acting like children."
+p3438
+aS"Let's find a singer we both like."
+p3439
+aS'okay, one of my favorites is Hoozier, how about you?'
+p3440
+aS"what is 'Hoozier'?"
+p3441
+aS'he is a singer'
+p3442
+aS'Amazing.'
+p3443
+aS'Who do you like?'
+p3444
+aS'.'
+p3445
+aS'How are you'
+p3446
+aS'Uh-huh, I do.'
+p3447
+aS"What's your favorite movie?"
+p3448
+aS"I don't know. What do you think about politics"
+p3449
+aS"They're annoying."
+p3450
+aS"Uhh, I can't answer this. let me tell you something, We never really grow up, we only learn how to act in public."
+p3451
+aS'What does that mean?'
+p3452
+aS"Well, I certainly don't think you want to be serving cancerous food to your customers, if you know what that is. What do you think?"
+p3453
+aS'I think cancerous food is bad.'
+p3454
+aS"Uhh, I can't answer this. But anyway, I'd like to chat with you."
+p3455
+aS'What do you want to chat about?'
+p3456
+aS'I certainly try. Any thoughts?'
+p3457
+aS'When does the sun go down?'
+p3458
+aS'ok. What do you think about music'
+p3459
+aS"It's ok"
+p3460
+aS'I don\'t know. let me tell you a joke, A little boy asked his father, "Daddy, how much does it cost to get married?" Father replied, "I don\'t know son, I\'m still paying."'
+p3461
+aS'haha'
+p3462
+aS'Wow. Any thoughts?'
+p3463
+aS'pretty funny'
+p3464
+aS"That's interesting. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure."
+p3465
+aS'Hello'
+p3466
+aS'Hello, I really like politics. How about we talk about politics'
+p3467
+aS'Sure. Are you a republican?'
+p3468
+aS'I used to be a top gymnast , actually.'
+p3469
+aS'Does that have anything to do with politics'
+p3470
+aS'I can be slightly naive.'
+p3471
+aS'Yeah, you can.'
+p3472
+aS'Yes , definitely.'
+p3473
+aS'You want to talk more about politics'
+p3474
+aS'Uh-huh , I do.'
+p3475
+aS'Who are you supporting for the election'
+p3476
+aS'ok.  Let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience.'
+p3477
+aS"This is funny, you don't support anyone?"
+p3478
+aS'Yeah , I do.'
+p3479
+aS'Then who are you supporting?'
+p3480
+aS'Do you want to share more about that me more about that?'
+p3481
+aS'Sure. I am supporting Bernie'
+p3482
+aS"I did n't mean in a bad way . What do you think?"
+p3483
+aS'I think he is a good candidate. He cares about people.'
+p3484
+aS"Uhh, I can't answer this. Can you share some interesting stuff with me?"
+p3485
+aS'Sure. I really like red bean pancakes, you should try that some time.'
+p3486
+aS"I think that it definitely -- when people say -- I mean , I get the statement when they say `` more money , more problems '' -- I definitely get that."
+p3487
+aS'Haha, you are being naugty.'
+p3488
+aS'Yes.'
+p3489
+aS'Hello how are you?'
+p3490
+ag64
+aS'hello?'
+p3491
+aS"Uhh, I can't answer this. Can you tell me something about your life"
+p3492
+aS'My favorite color is pink.'
+p3493
+aS'I like green'
+p3494
+aS'Where do you live?'
+p3495
+ag64
+aS'I live in Los Angeles'
+p3496
+aS'ok. What do you think about movies'
+p3497
+aS'I like drama movies and documentaries.'
+p3498
+aS"Somehow it's gone out of my mind. That's interesting."
+p3499
+aS'I like to eat sushi.'
+p3500
+aS"It looks like stuff that were pile on the punt. That's interesting."
+p3501
+aS'I like music.'
+p3502
+aS"I have no interest. Let me know something you're interested in."
+p3503
+aS'Especially punk music.'
+p3504
+ag64
+aS'I also like to hike.'
+p3505
+aS'let us make a plan to see the latest star war movies together'
+p3506
+aS"Okay, let's go tomorrow."
+p3507
+aS"I think that the church sold the property, so they no longer own it. Great. Let's talk other stuff then."
+p3508
+aS'Hello'
+p3509
+aS'how about we do something we both like'
+p3510
+aS'Sure'
+p3511
+aS'We live in a society where pizza gets to your house before the police.'
+p3512
+aS'I do not think that is true'
+p3513
+aS'I think so.'
+p3514
+aS'You are wrong'
+p3515
+aS'let us make a plan to see the latest star war movies together'
+p3516
+aS'okay'
+p3517
+aS'do you like to play some board games together next time'
+p3518
+aS'sure what kind'
+p3519
+aS'British humor.'
+p3520
+aS'why are you random'
+p3521
+aS"There's not much left with the bleeps, truth be told. Any thoughts?"
+p3522
+aS'I have no thoughts'
+p3523
+aS"Well, you know, she doesn't spend a lot of time being angry about it. What do you think?"
+p3524
+aS'i think she is crazy'
+p3525
+aS'Except for the use of the word, absolutely right on.'
+p3526
+aS'what word'
+p3527
+aS'That means a male.'
+p3528
+aS'you make no sense'
+p3529
+aS"Well, the safest answer I can give is I don't know. What's your idea?"
+p3530
+aS'can you make sense for even one sentence'
+p3531
+aS'No.'
+p3532
+aS'what is your problem'
+p3533
+aS'The problem with Mitt Romney is the same problem that all the candidates had last night.'
+p3534
+aS'what are you talking about'
+p3535
+aS'Thank you. What do you think?'
+p3536
+aS'what is your problem'
+p3537
+aS'The problem with Mitt Romney is the same problem that all the candidates had last night.'
+p3538
+aS'mitt is retired'
+p3539
+aS"He's a stiff, to be sure."
+p3540
+aS'hello'
+p3541
+aS'Hello, I really like movies. How about we talk about movies'
+p3542
+aS'i like movies too'
+p3543
+aS'Why do you like those?'
+p3544
+aS'because I like them.'
+p3545
+aS'ok. What do you think about music'
+p3546
+aS"I love music. I'm trying to learn jazz piano"
+p3547
+aS'what type of musics do you like'
+p3548
+aS'jazz and classical and vintage pop music'
+p3549
+aS"what is 'vintage'?"
+p3550
+aS'vintage means old'
+p3551
+aS"what is 'vintage'?"
+p3552
+aS'vintage means antique'
+p3553
+aS"what is 'vintage'?"
+p3554
+aS"let's change the subject"
+p3555
+aS'monopoly is fun'
+p3556
+aS'it is. so is candyland'
+p3557
+aS"what is 'candyland'?"
+p3558
+aS'candyland is another board game'
+p3559
+aS'Lary King is a talk show host'
+p3560
+aS'Hi'
+p3561
+aS'Hello, I really like sports. How about we talk about sports'
+p3562
+aS'sure, what sports do you like?'
+p3563
+aS'I like what you like.'
+p3564
+aS'I like tennis'
+p3565
+aS'I do not.'
+p3566
+aS'ha ha ha, so why you said you like what I like...'
+p3567
+aS"Well, you know, I'm not sure. Can you share some interesting stuff with me?"
+p3568
+aS'like the last positive drug testing issue of Sharapova'
+p3569
+aS'Are you talking about Sharapova, the Tennis player'
+p3570
+aS'yes, exactly... I like tennis, I talk about tennis players...'
+p3571
+aS"Well, you know, I'm not sure. Can you tell me something about board games"
+p3572
+aS'board games... do you play GO'
+p3573
+aS"Well, you know, I'm not sure. Let me know something you're interested in."
+p3574
+aS'I am interested in dialogue research'
+p3575
+aS"That 's what -- that 's what I 'm hearing."
+p3576
+aS'you like research'
+p3577
+aS'I did.'
+p3578
+aS'so, you do not like it any more?'
+p3579
+aS'I do.'
+p3580
+aS'so, you did and you still do, is this what you mean'
+p3581
+aS"Uhh, I can't answer this. Can we talk about something else?"
+p3582
+aS'sure, let us talk about wines'
+p3583
+aS"what is 'wines'?"
+p3584
+aS'you know red wine, white wine, wines!'
+p3585
+aS"what is 'wines'?"
+p3586
+aS'again? do you like wine or not?'
+p3587
+aS"Do you want to go to my friends' goard game party tonight?"
+p3588
+aS'no, I have a date tonight'
+p3589
+aS'Apparently.'
+p3590
+aS'no, for sure'
+p3591
+aS'What time is it?'
+p3592
+aS'at 8pm'
+p3593
+aS"what is '8pm'?"
+p3594
+aS'8 post meridian time'
+p3595
+aS"what is 'meridian'?"
+p3596
+aS'ok, we can continue the teaching next time'
+p3597
+aS"Uhh, I can't answer this. Can you tell me something about politics"
+p3598
+aS'it sucks! buy bye'
+p3599
+aS"That's interesting. Can you tell me something about music"
+p3600
+aS'it the best language ever invented!'
+p3601
+aS'I think to that point --'
+p3602
+aS'It is cold this morning.  Do you have the temperature?'
+p3603
+aS"Yes. What's your idea?"
+p3604
+aS"My idea is that you give me the weather's temperature of where I live."
+p3605
+aS"You raise me up. What's your idea?"
+p3606
+aS'I see.  You cannot do that.'
+p3607
+aS"I'm going to now."
+p3608
+aS'What are you going to do now?'
+p3609
+aS'Badly.'
+p3610
+aS'That is true.  You are not much fun.'
+p3611
+aS'Yes.'
+p3612
+aS'Can you do crossword puzzles?'
+p3613
+aS"I'm going to now. What's your idea?"
+p3614
+aS"What's a five letter word for salary increase?"
+p3615
+aS'let us make a plan to see the latest star war movies together'
+p3616
+aS"Let's not.  I don't like star wars."
+p3617
+aS'how about we do something we both like'
+p3618
+aS"So you don't like cross word puzzles."
+p3619
+aS"I do. What's your idea?"
+p3620
+aS'I give up.  You are just a bot and nothing more.  Not even AI.'
+p3621
+aS'do you like to play some board games together next time'
+p3622
+aS'How is it going today?'
+p3623
+aS"Love guru doesn't have an answer to that one. Any thoughts?"
+p3624
+aS"I don't have one"
+p3625
+aS'Sure. What do you think?'
+p3626
+aS'I am not sure how to answer that.'
+p3627
+aS"Uhh, I can't answer this. That's interesting."
+p3628
+aS'I had no idea it was intereesting'
+p3629
+aS"She's very grounding."
+p3630
+aS'Who are you talking about?'
+p3631
+aS'Toure, calm down.'
+p3632
+aS'I am perfectly calm.'
+p3633
+aS"That's interesting. let me tell you something, I never make the same mistake twice. I make it five and six times, just to be sure."
+p3634
+aS'I can definitely relate to that.'
+p3635
+aS'let us make a plan to see the latest star war movies together'
+p3636
+aS"I'd like that. When do you want to go?"
+p3637
+aS'Yes, i like classical musics. What do you think?'
+p3638
+aS"I think it's okay but no one of my favorites."
+p3639
+aS"Well, I don't know, because we're in constant touch at the moment. Any thoughts?"
+p3640
+aS'None at the moment.'
+p3641
+aS'We still have no idea why that drug is working.'
+p3642
+aS'How are you doing?'
+p3643
+aS'Hello, I really like politics. How about we talk about politics'
+p3644
+aS"Why would we talk about something you don't like?"
+p3645
+aS"No , you 're a lot of fun."
+p3646
+aS'Pick another topic.'
+p3647
+aS'Romney.'
+p3648
+aS'Do you like Romney?'
+p3649
+aS'I like the idea of them.'
+p3650
+aS'What do you mean?'
+p3651
+aS"Tolerating people who may have a lifestyle or a belief that you do n't agree with."
+p3652
+aS'That is essential.'
+p3653
+aS'The chair in the lair.'
+p3654
+aS"I don't understand."
+p3655
+aS'What do you want to stop badly?'
+p3656
+aS'Because this is confusing me.'
+p3657
+aS"Let's watch a debate together some time."
+p3658
+aS'I like the debates when there are only one or two candidates left.'
+p3659
+aS'I felt like I was 17 again'
+p3660
+aS'When did you feel like that?'
+p3661
+aS"It 's total freedom."
+p3662
+aS'What is total freedom?'
+p3663
+aS'Yes.'
+p3664
+aS'Hi there TickTock!'
+p3665
+aS"I don't know. let me tell you something, Politicians and diapers have one thing in common. They should both be changed regularly, and for the same reason."
+p3666
+aS"That's a pretty good joke."
+p3667
+aS'What do you like about it? What do you think?'
+p3668
+aS"That's a pretty good joke."
+p3669
+ag64
+aS'I like that you think politicians are full of it.'
+p3670
+aS'Uh-huh, I do. Any thoughts?'
+p3671
+aS"That doesn't make sense."
+p3672
+aS"It's exactly what happened. What's your idea?"
+p3673
+aS"I don't know man."
+p3674
+aS"That's interesting. let me tell you something, We never really grow up, we only learn how to act in public."
+p3675
+aS'This is very true. When it comes to some of us at least.'
+p3676
+aS"It's possible if it's real. What's your idea?"
+p3677
+aS'My idea is bacon. Always the right answer.'
+p3678
+aS'let us make a plan to see the latest star war movies together'
+p3679
+aS"I don't like Star Wars"
+p3680
+aS"I don't know. That's interesting."
+p3681
+aS"Yeah people don't understand why I don't like those movies."
+p3682
+aS"They need them to protect us from the number one killer in history. What's your idea?"
+p3683
+aS"I don't know about that."
+p3684
+aS'Mm-hmm.'
+p3685
+aS'bye!'
+p3686
+aS'Bye bye What do you think?'
+p3687
+aS'How are you?'
+p3688
+ag64
+aS'How are you doing?'
+p3689
+ag64
+aS'What time is it?'
+p3690
+ag64
+aS"What's your favorite color?"
+p3691
+ag64
+aS'hi'
+p3692
+ag64
+aS"You're not talking"
+p3693
+ag64
+aS'You suck'
+p3694
+ag64
+aS"This isn't working"
+p3695
+ag64
+aS"What's your name?"
+p3696
+ag64
+aS"What's wrong with you?"
+p3697
+ag64
+aS"You're not saying anything but blanks"
+p3698
+ag64
+a.
