@@ -1,0 +1,104 @@
+TurkID: A323WW03VM8089
+UserID: 2044496790
+Turn: 1
+You: Hi, TickTock, how's your day going so far?
+TickTock: Hello, I really like board games. How about we talk about board games
+Appropriateness: 1
+Strategy: new
+
+Turn: 2
+You: If you like. What's your favorite board game?
+TickTock: Could you tell me more about that?
+Appropriateness: 1
+Strategy: ['anaphora', 'more']
+
+Turn: 3
+You: If you like. What's your favorite board game?
+TickTock: Do you want to share more about that with me?
+Appropriateness: 1
+Strategy: ['anaphora', 'more']
+
+Turn: 4
+You: If you like. What's your favorite board game?
+TickTock: Let's talk more about that?
+Appropriateness: 2
+Strategy: ['anaphora', 'more']
+
+Turn: 5
+You: If you like. What's your favorite board game?
+TickTock: Let's talk more about that?
+Appropriateness: 2
+Strategy: ['more']
+
+Turn: 6
+You: Hmmm, we seem to have had a glitch. Tell me again about your favorite board game please.
+TickTock: what is 'glitch'?
+Appropriateness: 3
+Strategy: ['init', 'oov']
+
+Turn: 7
+You: Glitch is an error. Does that happen to you often?
+TickTock: what is 'Glitch'?
+Appropriateness: 2
+Strategy: ['end', 'oov']
+
+Turn: 8
+You: I heard you twice the first time. Seems as if you're having a rough day.
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 9
+You: Does TickTock want to share his bad day experiences with me? 
+TickTock: Hello, I really like movies. How about we talk about movies
+Appropriateness: 1
+Strategy: new
+
+Turn: 10
+You: Oh okay. Movies are fun.
+TickTock: ok. Can you share some interesting stuff with me?
+Appropriateness: 1
+Strategy: ['end']
+
+Turn: 11
+You: Movies are good. What movies do you like best?
+TickTock: Hello, I really like board games. How about we talk about board games
+Appropriateness: 1
+Strategy: new
+
+Turn: 12
+You: You're boring me TickTock. You repeat yourself too often.
+TickTock: Hello, I really like politics. How about we talk about politics
+Appropriateness: 1
+Strategy: new
+
+Turn: 13
+You: Games movies and politics. You are only missing religion and then we could really have a fun conversation.
+TickTock: Hello, I really like politics. How about we talk about politics
+Appropriateness: 1
+Strategy: new
+
+Turn: 14
+You: Nope, no politics.
+TickTock: Hello, I really like board games. How about we talk about board games
+Appropriateness: 2
+Strategy: new
+
+Turn: 15
+You: I'm going now, TickTock. Have a great day.
+TickTock: Do n't go ! I love you so!
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 16
+You: No you don't. I can tell when you are lying.
+TickTock:  Do you want to go to my friends' goard game party tonight?
+Appropriateness: 2
+Strategy: ['init']
+
+Turn: 17
+You: Nope, but thanks for the offer.
+TickTock: Why not?
+Appropriateness: 3
+Strategy: ['continue']
+

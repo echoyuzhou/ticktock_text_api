@@ -1,0 +1,80 @@
+TurkID: AD3II53EMJ28L
+UserID: 35398859
+Turn: 1
+You: Hello there! How are you?
+TickTock: Hello, I really like board games. How about we talk about board games
+Appropriateness: 1
+Strategy: new
+
+Turn: 2
+You: What's your favorite board game?
+TickTock: Let's talk more about that?
+Appropriateness: 1
+Strategy: ['anaphora', 'more']
+
+Turn: 3
+You: Do you like Monopoly?
+TickTock: I also like to play solitare.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 4
+You: What kind of solitaire do you play?
+TickTock: what is 'solitaire'?
+Appropriateness: 2
+Strategy: ['more', 'oov']
+
+Turn: 5
+You: How do you not know what solitaire is?
+TickTock: what is 'solitaire'?
+Appropriateness: 2
+Strategy: ['end', 'oov']
+
+Turn: 6
+You: Solitaire is solitare
+TickTock: what is 'Solitaire'?
+Appropriateness: 2
+Strategy: ['more', 'oov']
+
+Turn: 7
+You: Are you okay there?
+TickTock: Yes.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 8
+You: I'm going to go
+TickTock: Tell me what it 's like to be a boring.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 9
+You: a boring what?
+TickTock: ok. Can we talk about something else?
+Appropriateness: 1
+Strategy: ['end']
+
+Turn: 10
+You: I have a dog
+TickTock: You have.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 11
+You: Do you like dogs
+TickTock: Yes . I like classical musics.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 12
+You: Classical music is pretty good
+TickTock: Do you want to share more about that with me?
+Appropriateness: 2
+Strategy: ['more']
+
+Turn: 13
+You: I like Bach
+TickTock: I probably own more than 50 firearms . Can we talk about something else?
+Appropriateness: 1
+Strategy: ['continue']
+

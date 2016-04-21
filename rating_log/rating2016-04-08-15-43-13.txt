@@ -1,0 +1,134 @@
+TurkID: A2QH1BQA6GR48O
+UserID: 1349595164
+Turn: 1
+You: Hello
+TickTock: Hello, I really like movies. How about we talk about movies
+Appropriateness: 2
+Strategy: new
+
+Turn: 2
+You: Okay, what kind of movies do you like?
+TickTock: I like what you like.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 3
+You: You don't know what I like. 
+TickTock: No , for real.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 4
+You: Okay
+TickTock: What do you like to do?
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 5
+You: I like to talk to bots.
+TickTock: ok. What do you think about music
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 6
+You: I think some music is good and some is bad.
+TickTock: I like pop music.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 7
+You: I do not like pop music.
+TickTock: I like pop music.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 8
+You: Okay, I don't.
+TickTock: What 's he -- what 's he like --
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 9
+You: What?
+TickTock: I do n't understand.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 10
+You: I don't either. 
+TickTock: What I meant to say was , what is it that you hate?
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 11
+You: I do not hate anything.
+TickTock: So you 're less intelligent than a computer ?!
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 12
+You: Yes 
+TickTock: okay what time
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 13
+You: It's 11:41AM EST
+TickTock: I look at it as kind of like a privilege to experience being around such a relationship because how many people have ever even seen something like this in person.
+Appropriateness: 2
+Strategy: ['anaphora', 'continue']
+
+Turn: 14
+You: I have no idea what you're talking about.
+TickTock: I have no idea either
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 15
+You: haha! 
+TickTock: Wow . Any thoughts?
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 16
+You: You're odd
+TickTock: Yes.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 17
+You: Glad you admit it!
+TickTock: Let's talk more about that?
+Appropriateness: 2
+Strategy: ['more']
+
+Turn: 18
+You: Okay, you have random responses to things. 
+TickTock:  Let us make a plan to see the latest star war movies together.
+Appropriateness: 2
+Strategy: ['init']
+
+Turn: 19
+You: I don't like Star Wars
+TickTock: I 'm in love with R2D2.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 20
+You: I bet
+TickTock: That 's good , because I 'm right.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 21
+You: of course
+TickTock: Absolutely.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 22
+You: bye!
+TickTock: Okay , talk to you later.
+Appropriateness: 3
+Strategy: ['continue']
+

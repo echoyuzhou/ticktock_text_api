@@ -1,0 +1,74 @@
+TurkID: A10ZXERA24IG75
+UserID: 712670623
+Turn: 1
+You: Hi kids
+TickTock: Hello, I really like sports. How about we talk about sports
+Appropriateness: 2
+Strategy: new
+
+Turn: 2
+You: Let's talk about Primus
+TickTock: what is 'Primus'?
+Appropriateness: 2
+Strategy: ['init', 'oov']
+
+Turn: 3
+You: Let's talk about Primus
+TickTock: what is 'Primus'?
+Appropriateness: 3
+Strategy: ['end', 'oov']
+
+Turn: 4
+You: Let's talk about Primus
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 5
+You: Primus is a band
+TickTock: what is 'Primus'?
+Appropriateness: 3
+Strategy: ['more', 'oov']
+
+Turn: 6
+You: A band
+TickTock: I was , yeah , big time.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 7
+You: Has anyone really been as far even as decided to use even go want to do look more like?
+TickTock:  Let us plan to watch a game together some time.
+Appropriateness: 2
+Strategy: ['init']
+
+Turn: 8
+You: What kind of game?
+TickTock: monopoly
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 9
+You: I would rather watch Baseball
+TickTock: Let's talk more about that?
+Appropriateness: 2
+Strategy: ['more']
+
+Turn: 10
+You: Let's not
+TickTock: monopoly is fun
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 11
+You: Baseball is better
+TickTock: Do you want to share more about that with me?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 12
+You: Not really fam
+TickTock: what is 'fam'?
+Appropriateness: 2
+Strategy: ['init', 'oov']
+

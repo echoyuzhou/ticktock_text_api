@@ -1,0 +1,62 @@
+TurkID: A1XLGIFFGB01EU
+UserID: 1368984776
+Turn: 1
+You: Hey, how's is going?
+TickTock: Hello, I really like movies. How about we talk about movies
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Umm sure, what movies do you want to talk about?
+TickTock: what is 'Umm'?
+Appropriateness: 2
+Strategy: ['end', 'oov']
+
+Turn: 3
+You: Umm sure, what movies do you want to talk about?
+TickTock: what is 'Umm'?
+Appropriateness: 2
+Strategy: ['more', 'oov']
+
+Turn: 4
+You: umm means im not sure
+TickTock: what is 'umm'?
+Appropriateness: 2
+Strategy: ['end', 'oov']
+
+Turn: 5
+You: i answered your question already
+TickTock: I don't know. Great. Let's talk other stuff then.
+Appropriateness: 1
+Strategy: ['end']
+
+Turn: 6
+You: okay, thats a bit weird
+TickTock: Let's talk more about that?
+Appropriateness: 2
+Strategy: ['more']
+
+Turn: 7
+You: about what though
+TickTock: Do you want to share more about that with me?
+Appropriateness: 1
+Strategy: ['more']
+
+Turn: 8
+You: you're not giving me anything to talk about, you are jumping to random things
+TickTock:  Let's find a time to see the latest super hero movie.
+Appropriateness: 1
+Strategy: ['init']
+
+Turn: 9
+You: there's like 5, which one
+TickTock: Uhh, I can't answer this. But anyway, I'd like to chat with you.
+Appropriateness: 2
+Strategy: ['end']
+
+Turn: 10
+You: this conversation is really dull
+TickTock: Well, you know, I'm not sure. Can we talk about something else?
+Appropriateness: 1
+Strategy: ['end']
+

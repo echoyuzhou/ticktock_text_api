@@ -1,0 +1,86 @@
+TurkID: A323WW03VM8089
+UserID: 1400618011
+Turn: 1
+You: Hello TickTock.
+TickTock: Hello, I really like movies. How about we talk about movies
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Sure. Movies are fun.
+TickTock: Well, you know, I'm not sure. Great. Let's talk other stuff then.
+Appropriateness: 2
+Strategy: ['end']
+
+Turn: 3
+You: Okay, let's talk about the weather.
+TickTock: Let 's do it!
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 4
+You: How's your weather?
+TickTock: It is currently snowing , and the temperature is 0 degrees Celsius.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 5
+You: Christ, that's horrible. You should move to California!
+TickTock: I did a couple of the love scenes.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 6
+You: Really? In the snow?
+TickTock: I don't know. What do you think about movies
+Appropriateness: 2
+Strategy: ['switch']
+
+Turn: 7
+You: I don't know.
+TickTock: I do not know either.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 8
+You: Well that makes two of us then.
+TickTock: Do you want to share more about that with me?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 9
+You: Not really. Do you?
+TickTock: Yes , I do.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 10
+You: Well go ahead, I'm all ears.
+TickTock: I 'm going to come back to the campaign in just a moment.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 11
+You: Wonderful, I cannot wait.
+TickTock: Yes , because you 're the one who put the `` sex '' in `` Sex in the City . ''
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 12
+You: That was out of line, TickTock. Have you been taking lessons from Alpha Bots?
+TickTock: Are you talking about TickTock, the Novel by Dean Koontz
+Appropriateness: 2
+Strategy: ['more', 'oov', 'name_entity']
+
+Turn: 13
+You: Sure, I guess I must be.
+TickTock: Well, you know, I'm not sure. That's interesting.
+Appropriateness: 1
+Strategy: ['end']
+
+Turn: 14
+You: Glad you think so. I'm bored, and now I'm done.
+TickTock: ok. Can you tell me something about politics
+Appropriateness: 2
+Strategy: ['switch']
+

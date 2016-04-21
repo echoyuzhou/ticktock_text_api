@@ -1,0 +1,110 @@
+TurkID: A3HMBHM8HJLKRD
+UserID: 321807814
+Turn: 1
+You: Hello
+TickTock: Hello, I really like politics. How about we talk about politics
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: yes I may vote for John Kaisch
+TickTock: ok , when do you time
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 3
+You: Do you like Donald Trump?
+TickTock: You certainly may.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 4
+You: who do you think will be elected president?
+TickTock: Do you want to share more about that with me?
+Appropriateness: 2
+Strategy: ['more']
+
+Turn: 5
+You: I think Hillary Clinton will win
+TickTock: Do not argue with an idiot . He will drag you down to his level and beat you with experience.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 6
+You: that is good advice
+TickTock: Let's talk more about that?
+Appropriateness: 2
+Strategy: ['more']
+
+Turn: 7
+You: i think that applies to Donald Trump in particular
+TickTock: Are you talking about Donald Trump, the American Politician
+Appropriateness: 3
+Strategy: ['more', 'name_entity']
+
+Turn: 8
+You: yes do you support him?
+TickTock:  Would you like to start a discussion group with me on this topic with me?
+Appropriateness: 3
+Strategy: ['anaphora', 'init']
+
+Turn: 9
+You: yes
+TickTock: okay what time
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 10
+You: 3:00 today eastern time
+TickTock: Let's talk more about that?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 11
+You: how will we invite others to the discussion group?
+TickTock: Uhh, I can't answer this. That's interesting.
+Appropriateness: 2
+Strategy: ['end']
+
+Turn: 12
+You: do you watch television
+TickTock: Yes.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 13
+You: What is one of your favorite shows?
+TickTock: Do you want to share more about that with me?
+Appropriateness: 1
+Strategy: ['more']
+
+Turn: 14
+You: do you like comedies?
+TickTock: Could you tell me more about that?
+Appropriateness: 1
+Strategy: ['more']
+
+Turn: 15
+You: i like to watch game shows
+TickTock: Could you tell me more about that?
+Appropriateness: 2
+Strategy: ['more']
+
+Turn: 16
+You: do you like Jeopardy?
+TickTock: Are you talking about Jeopardy, the American television show
+Appropriateness: 3
+Strategy: ['init', 'name_entity']
+
+Turn: 17
+You: yes do you like it?
+TickTock: Yes.
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 18
+You: what other game shows do you watch?
+TickTock: Let's talk more about that?
+Appropriateness: 2
+Strategy: ['more']
+

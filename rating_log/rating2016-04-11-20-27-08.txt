@@ -1,0 +1,80 @@
+TurkID: AD3II53EMJ28L
+UserID: 218057764
+Turn: 1
+You: Hello again
+TickTock: Hello, I really like music. How about we talk about music
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: What's your favorite kind of music?
+TickTock:  Let's find a singer we both like.
+Appropriateness: 2
+Strategy: ['anaphora', 'init']
+
+Turn: 3
+You: I like Soraru
+TickTock: I probably own more than 50 firearms . Can we talk about something else?
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 4
+You: Why do you have firearms
+TickTock: I don't know. Can you share some interesting stuff with me?
+Appropriateness: 2
+Strategy: ['end']
+
+Turn: 5
+You: Snails make terrible shoelaces
+TickTock: what is 'Snails'?
+Appropriateness: 1
+Strategy: ['end', 'oov']
+
+Turn: 6
+You: A snail. A crawling critter thing
+TickTock: what is 'snail'?
+Appropriateness: 1
+Strategy: ['more', 'oov']
+
+Turn: 7
+You: I don't know how to explain it look it up
+TickTock: What movies have you seen recently?
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 8
+You: Autism in Love
+TickTock: What is love?
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 9
+You: Baby don't hurt me
+TickTock: Could you tell me more about that?
+Appropriateness: 2
+Strategy: ['more']
+
+Turn: 10
+You: Don't hurt me
+TickTock: I do n't need to know you.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 11
+You: I was singing a song
+TickTock: Well , you know , I 'm not sure . Can you tell me something about politics
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 12
+You: I want Bernie Sanders to win
+TickTock: I like eggs as much as politics
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 13
+You: Do you like eggs
+TickTock: Yes . I like classical musics.
+Appropriateness: 2
+Strategy: ['continue']
+

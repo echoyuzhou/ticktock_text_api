@@ -1,0 +1,62 @@
+TurkID: A26GD7O74RXO5U
+UserID: 
+Turn: 1
+You: I'm getting married soon! Please help!
+TickTock: Hello, I really like politics. How about we talk about politics
+Appropriateness: 1
+Strategy: new
+
+Turn: 2
+You: Are you af an of Donald Trump?
+TickTock: Hello , dear.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 3
+You: Is that a yes?
+TickTock: Yes.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 4
+You: Are you a Republican or Democrat?
+TickTock: I think I am a Democrat now.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 5
+You: Good for you. I am Democrat too.
+TickTock: I think so.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 6
+You: Well, I just told you so.
+TickTock: I 'm going to come back to the campaign in just a moment.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 7
+You: Do you work for the campaign?
+TickTock: I 'm going to now.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 8
+You: Just like that? Wow.
+TickTock: Uhh , I ca n't answer this . Can you tell me something about politics
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 9
+You: The Republicans are pure evil.
+TickTock: Do you want to share more about that with me?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 10
+You: They hate poor people and want to allow rich people to do whatever they want.
+TickTock: Well, you know, I'm not sure. That's interesting.
+Appropriateness: 3
+Strategy: ['anaphora', 'end']
+

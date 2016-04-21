@@ -1,0 +1,68 @@
+TurkID: A3FUW3458K3KO
+UserID: 430106583
+Turn: 1
+You: Hello
+TickTock: Hello, I really like politics. How about we talk about politics
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: We can, tho I don't really care for them.
+TickTock: We do.
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 3
+You: Alright then.
+TickTock: Could you tell me more about that?
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 4
+You: I dislike them.
+TickTock: ok. What do you think about music
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 5
+You: I do like music.
+TickTock: I like pop music.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 6
+You: I don't.
+TickTock: I do not know either.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 7
+You: What do you not know?
+TickTock: Well , what I can see , dear , is that the eastern part of the country seems to be under the control of anti-Gadhafi forces.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 8
+You: Are you sure?
+TickTock: I used to be a top gymnast , actually.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 9
+You: I don't believe you.
+TickTock: No , for real.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 10
+You: Prove it.
+TickTock: ok. That's interesting.
+Appropriateness: 1
+Strategy: ['end']
+
+Turn: 11
+You: That...didn't make any sense.
+TickTock: It 's exactly what happened . What do you think?
+Appropriateness: 1
+Strategy: ['continue']
+

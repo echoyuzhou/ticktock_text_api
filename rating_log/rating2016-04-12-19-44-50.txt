@@ -1,0 +1,62 @@
+TurkID: A80VSGAD9H8VE
+UserID: 530294861
+Turn: 1
+You: hello
+TickTock: Hello, I really like politics. How about we talk about politics
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: no i hate politics, lets talk about porn
+TickTock: Let's talk more about that?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 3
+You: yes, what do you prefer
+TickTock: Could you tell me more about that?
+Appropriateness: 1
+Strategy: ['more']
+
+Turn: 4
+You: yes, what do you prefer
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 5
+You: bye
+TickTock: Okay , talk to you later.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 6
+You: you stink
+TickTock: Well, you know, I'm not sure. That's interesting.
+Appropriateness: 1
+Strategy: ['end']
+
+Turn: 7
+You: what sex are you
+TickTock: I 'm fascinated by sex.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 8
+You: what about it?
+TickTock:  Would you like to start a discussion group with me on this topic with me?
+Appropriateness: 1
+Strategy: ['anaphora', 'init']
+
+Turn: 9
+You: sure
+TickTock: how about we do something we both like
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 10
+You: such as
+TickTock: Let's talk more about that?
+Appropriateness: 2
+Strategy: ['more']
+

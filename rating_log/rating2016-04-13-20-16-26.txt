@@ -1,0 +1,62 @@
+TurkID: A10ZXERA24IG75
+UserID: 
+Turn: 1
+You: hello
+TickTock: Hello, I really like sports. How about we talk about sports
+Appropriateness: 2
+Strategy: new
+
+Turn: 2
+You: i like football
+TickTock: Football is very homoerotic to me ! Is it the same for you?
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 3
+You: No I don't think so
+TickTock: Any fall is a good thing.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 4
+You: What about spring?
+TickTock: Uhh, I can't answer this. Can we talk about something else?
+Appropriateness: 3
+Strategy: ['end']
+
+Turn: 5
+You: Want to play a game?
+TickTock: I don't know. Let me know something you're interested in.
+Appropriateness: 2
+Strategy: ['end']
+
+Turn: 6
+You: I like music
+TickTock: I like pop music.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 7
+You: I don't like that
+TickTock: Why not ? We can do most tasks better than humans.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 8
+You: It's not fair
+TickTock: I look at it as kind of like a privilege to experience being around such a relationship because how many people have ever even seen something like this in person.
+Appropriateness: 2
+Strategy: ['anaphora', 'continue']
+
+Turn: 9
+You: I don't know what you're talking about
+TickTock: I am talking about the race and the candidates.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 10
+You: I'm unsure what that is
+TickTock: Alicia.
+Appropriateness: 2
+Strategy: ['continue']
+

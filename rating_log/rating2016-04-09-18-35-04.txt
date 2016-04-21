@@ -1,0 +1,122 @@
+TurkID: A3HMBHM8HJLKRD
+UserID: 1077546623
+Turn: 1
+You: Hello
+TickTock: Hello, I really like music. How about we talk about music
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: I like country and western music
+TickTock: I like pop music.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 3
+You: I like some pop music like Adele
+TickTock: I do not.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 4
+You: Who is your favorite singer?
+TickTock: Could you tell me more about that?
+Appropriateness: 2
+Strategy: ['more']
+
+Turn: 5
+You: My favorite singer is Frank Sinatra
+TickTock: Yes.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 6
+You: Do you watch basketball?
+TickTock: Could you tell me more about that?
+Appropriateness: 2
+Strategy: ['more']
+
+Turn: 7
+You: It is a game played by throwing a lrdge ball through a hoop ten feet above the floor
+TickTock: what is 'lrdge'?
+Appropriateness: 3
+Strategy: ['anaphora', 'more', 'oov']
+
+Turn: 8
+You: sorry I meant throwing a large ball through a hoop ten feet above the floor
+TickTock: what is 'hoop'?
+Appropriateness: 3
+Strategy: ['end', 'oov']
+
+Turn: 9
+You: an open circular structure that in this case is slightly bigger than the ball
+TickTock: what is 'circular'?
+Appropriateness: 2
+Strategy: ['init', 'oov']
+
+Turn: 10
+You: round or in the shape of a circle
+TickTock: Could you tell me more about that?
+Appropriateness: 2
+Strategy: ['more']
+
+Turn: 11
+You: a circle is a line that goes back to connect to itself
+TickTock: Uhh, I can't answer this. That's interesting.
+Appropriateness: 1
+Strategy: ['anaphora', 'end']
+
+Turn: 12
+You: Do you watch television?
+TickTock: Yes.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 13
+You: One of my favorite shows is The Big Bang Theory
+TickTock: Do you want to share more about that with me?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 14
+You: I think it is funny but the characters are relatable and basically good people
+TickTock: what is 'relatable'?
+Appropriateness: 2
+Strategy: ['anaphora', 'more', 'oov']
+
+Turn: 15
+You: I can understand the way they think and act
+TickTock: Let's talk more about that?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 16
+You: They have feelings of shyness the way I do
+TickTock: I do n't think we know enough about the opposition yet.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 17
+You: Which television shows do you watch?
+TickTock:  Let's find a singer we both like.
+Appropriateness: 2
+Strategy: ['init']
+
+Turn: 18
+You: Who is a singer you like?
+TickTock: Well, you know, I'm not sure.  Let me tell you a joke, How do you know there is a drummer at your door? The knocking getes faster.
+Appropriateness: 1
+Strategy: ['joke']
+
+Turn: 19
+You: do you like knock knock jokes?
+TickTock:  Do you want to go to a concert together some time.
+Appropriateness: 1
+Strategy: ['init']
+
+Turn: 20
+You: yes do you have any suggestions
+TickTock: ok. Can you tell me something about movies
+Appropriateness: 2
+Strategy: ['switch']
+

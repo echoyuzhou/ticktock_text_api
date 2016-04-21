@@ -1,0 +1,62 @@
+TurkID: AQ2INPVVXR1G0
+UserID: 571111491
+Turn: 1
+You: Hello, TickTock, and happy day.
+TickTock: Hello, I really like board games. How about we talk about board games
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: What is your favorite board game?
+TickTock: my favorite game is ABCD What 's your idea?
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 3
+You: My favorite board game is Monopoly.
+TickTock: Hello, I really like politics. How about we talk about politics
+Appropriateness: 2
+Strategy: new
+
+Turn: 4
+You: Who do you want to win the presidential election?
+TickTock: Hello, I really like music. How about we talk about music
+Appropriateness: 1
+Strategy: new
+
+Turn: 5
+You: What is your favorite kind of music?
+TickTock: Could you tell me more about that?
+Appropriateness: 1
+Strategy: ['anaphora', 'more']
+
+Turn: 6
+You: What genre of music do you most prefer?
+TickTock: Hello, I really like board games. How about we talk about board games
+Appropriateness: 1
+Strategy: new
+
+Turn: 7
+You: We already talked about board games.
+TickTock: We do.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 8
+You: What do we do?
+TickTock: I 'll walk you through it , but if I walk you through it , I 'm going to extend it to everybody who is watching right now.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 9
+You: That sounds fine.
+TickTock: Hello, I really like sports. How about we talk about sports
+Appropriateness: 2
+Strategy: new
+
+Turn: 10
+You: What is your favorite sport?
+TickTock: Could you tell me more about that?
+Appropriateness: 1
+Strategy: ['anaphora', 'more']
+

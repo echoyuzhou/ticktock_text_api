@@ -1,0 +1,62 @@
+TurkID: A2UF2FRGVW4T89
+UserID: 493578170
+Turn: 1
+You: Hello how are you?
+TickTock: Hello, I really like politics. How about we talk about politics
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: I am a Democrat and plan to vote for Hillary Clinton.
+TickTock: Only people fainting at her and her rallies are going to be chubby gals from now.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 3
+You: Hmm, that's an interesting thought.
+TickTock: That's interesting. Great. Let's talk other stuff then.
+Appropriateness: 3
+Strategy: ['end']
+
+Turn: 4
+You: Okay, I just saw Creed yesterday for the first time. 
+TickTock: what is 'Creed'?
+Appropriateness: 3
+Strategy: ['more', 'oov']
+
+Turn: 5
+You: A movie about Rocky training Apollo Creed's son.
+TickTock: Are you talking about Rocky, the Mountain range in North America
+Appropriateness: 3
+Strategy: ['more', 'oov', 'name_entity']
+
+Turn: 6
+You: No, I mean Rocky Balboa, the boxer.
+TickTock: I know.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 7
+You: Have you seen any these movies?
+TickTock: Not too many.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 8
+You: Well they're some of my favorite movies.
+TickTock: Let's talk more about that?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 9
+You: I think they are really inspirational.
+TickTock: Let's talk more about that?
+Appropriateness: 2
+Strategy: ['more']
+
+Turn: 10
+You: I watched them as a child and really liked them.
+TickTock: Why is that?
+Appropriateness: 3
+Strategy: ['continue']
+

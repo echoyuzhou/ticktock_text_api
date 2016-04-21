@@ -1,0 +1,98 @@
+TurkID: A323WW03VM8089
+UserID: 126911014
+Turn: 1
+You: Hey there, TickTock!
+TickTock: Hello, I really like politics. How about we talk about politics
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Nope, not going to do it. Something else maybe?
+TickTock:  Let's watch a debate together some time.
+Appropriateness: 2
+Strategy: ['anaphora', 'init']
+
+Turn: 3
+You: Nope, I hate politics.
+TickTock: Why is that?
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 4
+You: Because it's boring.
+TickTock: ok. But anyway, I'd like to chat with you.
+Appropriateness: 3
+Strategy: ['end']
+
+Turn: 5
+You: Sure. Something new would be fun.
+TickTock: Let's talk more about that?
+Appropriateness: 2
+Strategy: ['more']
+
+Turn: 6
+You: Sure. Tell me what you look like?
+TickTock: Do you want to share more about that with me?
+Appropriateness: 1
+Strategy: ['more']
+
+Turn: 7
+You: It's your turn, actually.
+TickTock: I look at it as kind of like a privilege to experience being around such a relationship because how many people have ever even seen something like this in person.
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+
+Turn: 8
+You: Wow, fascinating. Are you metal or something else?
+TickTock: It 's good to see you old chap.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 9
+You: You too, chap.
+TickTock: No , you 're going into -- again that personal sphere that out of respect for my boys --
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 10
+You: My girls beg to differ.
+TickTock: Could you tell me more about that?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 11
+You: Nope, it's a secret.
+TickTock: Why not?
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 12
+You: It's a secret.
+TickTock: I look at it as kind of like a privilege to experience being around such a relationship because how many people have ever even seen something like this in person.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 13
+You: You're stuck on repeat again.
+TickTock: I 'm alive , yes.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 14
+You: I'm not. Imagine that!
+TickTock: Tell me what it 's like to be a boring.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 15
+You: You should know, so you go first.
+TickTock: Let's talk more about that?
+Appropriateness: 2
+Strategy: ['more']
+
+Turn: 16
+You: Nope, I'm done.
+TickTock: Tell me what it 's like to be a boring.
+Appropriateness: 1
+Strategy: ['continue']
+

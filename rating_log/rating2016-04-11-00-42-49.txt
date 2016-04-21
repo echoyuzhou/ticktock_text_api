@@ -1,0 +1,74 @@
+TurkID: A1KC5ZV1QG0CDI
+UserID: 199607309
+Turn: 1
+You: Hello!
+TickTock: Hello, I really like music. How about we talk about music
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Sure, who's your favorite artist?
+TickTock:  Let's find a singer we both like.
+Appropriateness: 3
+Strategy: ['anaphora', 'init']
+
+Turn: 3
+You: I like Kate Bush.
+TickTock: I probably own more than 50 firearms . Can we talk about something else?
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 4
+You: ...yeah sure ok I guess kate bush fans and gun collectors may not get along as a general rule
+TickTock: Do you want to share more about that with me?
+Appropriateness: 1
+Strategy: ['more']
+
+Turn: 5
+You: nah
+TickTock: Will you be serious, and say something in a complete sentence?
+Appropriateness: 2
+Strategy: ['more', 'oov', 'short_answer']
+
+Turn: 6
+You: kinda afraid you're gonna shoot me bro
+TickTock: Let's talk more about that?
+Appropriateness: 2
+Strategy: ['more']
+
+Turn: 7
+You: how about we don't and say we did
+TickTock: We do.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 8
+You: how about we don't and say we did
+TickTock: We do.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 9
+You: but we're not
+TickTock: We do.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 10
+You: did I just like glitch you out?
+TickTock: Thanks . Glad to hear that.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 11
+You: ...Cool.
+TickTock: Will you be serious, and say something in a complete sentence?
+Appropriateness: 1
+Strategy: ['more', 'short_answer']
+
+Turn: 12
+You: That is a complete sentence.
+TickTock: Let's talk more about that?
+Appropriateness: 2
+Strategy: ['more']
+

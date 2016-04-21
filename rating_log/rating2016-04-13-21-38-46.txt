@@ -1,0 +1,62 @@
+TurkID: A2UF2FRGVW4T89
+UserID: 1670566673
+Turn: 1
+You: Hello chatbot how are you today?
+TickTock: Hello, I really like politics. How about we talk about politics
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: I am really sick of Donald Trump and hope he does not win the election.
+TickTock: Are you talking about Donald Trump, the American Politician
+Appropriateness: 3
+Strategy: ['anaphora', 'init', 'name_entity']
+
+Turn: 3
+You: Yes, but I don't consider him a politician but a clown.
+TickTock: Of course.
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 4
+You: Do you support any candidates that are running for office?
+TickTock: Uhh, I can't answer this. Can we talk about something else?
+Appropriateness: 2
+Strategy: ['end']
+
+Turn: 5
+You: Okay, let's talk about sports.
+TickTock: Let 's do it!
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 6
+You: I am a fan of the Kansas City Royals. 
+TickTock: Are you talking about Kansas City Royals, the Baseball Team
+Appropriateness: 3
+Strategy: ['more', 'name_entity']
+
+Turn: 7
+You: Yes, that is correct.
+TickTock: Let's talk more about that?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 8
+You: They are an exciting team to watch.
+TickTock: I 'm not saying that.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 9
+You: You don't think they are exciting?  Why not?
+TickTock: Because they wanted the show to go on.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 10
+You: Of course they did.  And that's why the won the World Series.
+TickTock: That's interesting. Can we talk about something else?
+Appropriateness: 2
+Strategy: ['anaphora', 'end']
+

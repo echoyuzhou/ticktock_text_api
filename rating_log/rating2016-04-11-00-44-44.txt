@@ -1,0 +1,62 @@
+TurkID: A1KC5ZV1QG0CDI
+UserID: 67124742
+Turn: 1
+You: Hello!
+TickTock: Hello, I really like politics. How about we talk about politics
+Appropriateness: 2
+Strategy: new
+
+Turn: 2
+You: Who are you voting for?
+TickTock: Well, you know, I'm not sure. Let me know something you're interested in.
+Appropriateness: 3
+Strategy: ['end']
+
+Turn: 3
+You: Who are you voting for?
+TickTock: Well, you know, I'm not sure. That's interesting.
+Appropriateness: 2
+Strategy: ['end']
+
+Turn: 4
+You: Are you a Republican or a Democrat?
+TickTock: I think I am a Democrat now.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 5
+You: Clinton or Sanders?
+TickTock: I suspect it 's about votes , because his poll ratings , the more he hammers this point -- it 's probably an anti-Obama vote catching mechanism.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 6
+You: Are you talking about Bernie?
+TickTock: I used to be a top gymnast , actually.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 7
+You: What?
+TickTock: -- in 2016 than it did in 2012.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 8
+You: What does Bernie Sanders have to do with gymnastics?
+TickTock: Are you talking about Bernie Sanders, the United States Senator
+Appropriateness: 3
+Strategy: ['end', 'oov', 'name_entity']
+
+Turn: 9
+You: Who else would I be talking about?
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 10
+You: Informative.
+TickTock: 
+Appropriateness: 1
+Strategy: 
+

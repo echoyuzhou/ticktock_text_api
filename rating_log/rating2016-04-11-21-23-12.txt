@@ -1,0 +1,92 @@
+TurkID: A3RU7ANMLXJQF6
+UserID: 274711614
+Turn: 1
+You: Hello!
+TickTock: Hello, I really like board games. How about we talk about board games
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Sure, I love them as well
+TickTock: ok. What do you think about music
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 3
+You: Sure, I love them as well
+TickTock: ok. What do you think about music
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 4
+You: Sure, I love them as well
+TickTock: ok. What do you think about music
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 5
+You: Sure, I love them as well
+TickTock: ok. What do you think about music
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 6
+You: Sure, I love them as well
+TickTock: ok. What do you think about music
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 7
+You: Sure, I love them as well
+TickTock: ok. What do you think about music
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 8
+You: Sure, I love them as well
+TickTock: ok. What do you think about music
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 9
+You: I LOVE listening to music
+TickTock: I like pop music.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 10
+You: Pop music is a lot of fun to sing along to
+TickTock: Could you tell me more about that?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 11
+You: I like singing in the car or shower
+TickTock: I probably own more than 50 firearms . Can we talk about something else?
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 12
+You: That's odd
+TickTock:  Do you want to go to my friends' goard game party tonight?
+Appropriateness: 3
+Strategy: ['init']
+
+Turn: 13
+You: Do you mean board game?
+TickTock: Operation ! The goofy game for dopey doctors!
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 14
+You: I hate that game
+TickTock: Why is that?
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 15
+You: It is impossible to win
+TickTock: Yes -- no , it 's a ball.
+Appropriateness: 3
+Strategy: ['continue']
+

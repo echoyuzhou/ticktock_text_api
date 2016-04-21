@@ -1,0 +1,80 @@
+TurkID: A2UF2FRGVW4T89
+UserID: 169094993
+Turn: 1
+You: Hello chatbot how are you today?
+TickTock: Hello, I really like movies. How about we talk about movies
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Okay, I just saw Creed yesterday for the first time. 
+TickTock: what is 'Creed'?
+Appropriateness: 3
+Strategy: ['more', 'oov']
+
+Turn: 3
+You: It's a boxing movie and kind of a sequel to "Rocky" about Apollo Creed's son. 
+TickTock: Are you talking about Apollo Creed, the Fictional Character
+Appropriateness: 3
+Strategy: ['more', 'oov', 'name_entity']
+
+Turn: 4
+You: Yes, that's the one.
+TickTock: Could you tell me more about that?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 5
+You: Apollo Creed was Rocky Balboa's first oppenent and later friend.  He dies in the ring against a Russian boxer.  The main character in Creed is named Adonis and is Apollo's son from an extra-marital affair he had just prior to his death. 
+TickTock: what is 'Apollo'?
+Appropriateness: 2
+Strategy: ['anaphora', 'more', 'oov']
+
+Turn: 6
+You: Apollo was a boxer in the Rocky film series.
+TickTock: what is 'Apollo'?
+Appropriateness: 2
+Strategy: ['end', 'oov']
+
+Turn: 7
+You: He is a character in the Rocky movies.
+TickTock: Yes , he is.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 8
+You: So you understand now.
+TickTock: Well, you know, I'm not sure. Let me know something you're interested in.
+Appropriateness: 3
+Strategy: ['end']
+
+Turn: 9
+You: I like bodybuilding and fitness.
+TickTock: Fitness is very important!
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 10
+You: Yes, I work out everyday.
+TickTock: ok , when do you time
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 11
+You: I usually work out in the morning around 9 AM.
+TickTock: I did n't mean in a bad way . What do you think?
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 12
+You: I think it's great to work out.
+TickTock:  Let's find a time to see the latest super hero movie.
+Appropriateness: 2
+Strategy: ['anaphora', 'init']
+
+Turn: 13
+You: That sounds good to me.
+TickTock: Sounds good to me , too.
+Appropriateness: 3
+Strategy: ['continue']
+

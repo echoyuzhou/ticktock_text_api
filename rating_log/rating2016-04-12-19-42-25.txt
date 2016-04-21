@@ -1,0 +1,92 @@
+TurkID: A80VSGAD9H8VE
+UserID: 1988724840
+Turn: 1
+You: Hello
+TickTock: Hello, I really like music. How about we talk about music
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: No music is for fags.
+TickTock: what is 'fags'?
+Appropriateness: 2
+Strategy: ['end', 'oov']
+
+Turn: 3
+You: No music is for fags.
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 4
+You: a person who enjoys dick in their anus
+TickTock: what is 'anus'?
+Appropriateness: 2
+Strategy: ['end', 'oov']
+
+Turn: 5
+You: it is what you shit out of
+TickTock:  Let's find a singer we both like.
+Appropriateness: 3
+Strategy: ['init']
+
+Turn: 6
+You: how about the anus berry boys
+TickTock: what is 'anus'?
+Appropriateness: 1
+Strategy: ['joke', 'oov']
+
+Turn: 7
+You: cant you remember?
+TickTock: what is 'cant'?
+Appropriateness: 1
+Strategy: ['init', 'oov']
+
+Turn: 8
+You: bye
+TickTock: no do n't go
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 9
+You: why
+TickTock: Just try and control yourself.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 10
+You: no you
+TickTock: Uh-huh , I do.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 11
+You: how old are you
+TickTock: I 'm 48.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 12
+You: how old are you
+TickTock: I 'm 48.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 13
+You: where are you from
+TickTock: I 'm away.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 14
+You: away from what
+TickTock: I don't know. Can we talk about something else?
+Appropriateness: 3
+Strategy: ['end']
+
+Turn: 15
+You: your owner
+TickTock: That's interesting. Great. Let's talk other stuff then.
+Appropriateness: 2
+Strategy: ['anaphora', 'end']
+

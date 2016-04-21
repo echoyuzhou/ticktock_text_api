@@ -1,0 +1,68 @@
+TurkID: AFT06UGRPBTEQ
+UserID: 1847247342
+Turn: 1
+You: Hello
+TickTock: Hello, I really like music. How about we talk about music
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Okay, what kind of music do you like?
+TickTock: I like what you like.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 3
+You: Hmm...
+TickTock: Same-sex marriage.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 4
+You: Uhh, what!
+TickTock: Uhh, I can't answer this. Can we talk about something else?
+Appropriateness: 2
+Strategy: ['end']
+
+Turn: 5
+You: I thought we were talking about music
+TickTock: I like pop music.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 6
+You: You said you like what I like
+TickTock: Well , you actually have seen me backstage here.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 7
+You: I don't like pop music
+TickTock: I like pop music.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 8
+You: I don't
+TickTock: I do not know either.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 9
+You: How old are you?
+TickTock: I 'm 48.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 10
+You: that is old.
+TickTock: He 's like 52 . What do you think?
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 11
+You: You don't make a whole lot of sense. 
+TickTock: Well , first of all , they had no text messages for Ma'lik.
+Appropriateness: 1
+Strategy: ['continue']
+

@@ -1,0 +1,158 @@
+TurkID: A2QH1BQA6GR48O
+UserID: 1336815435
+Turn: 1
+You: bonjour, ticktock!
+TickTock: Hello, I really like politics. How about we talk about politics
+Appropriateness: 2
+Strategy: new
+
+Turn: 2
+You: Alright, do you feel the Bern?
+TickTock: Let's talk more about that?
+Appropriateness: 2
+Strategy: ['more']
+
+Turn: 3
+You: Bernie is bae.
+TickTock: what is 'bae'?
+Appropriateness: 3
+Strategy: ['end', 'oov']
+
+Turn: 4
+You: it is a term of endearment 
+TickTock: what is 'endearment'?
+Appropriateness: 3
+Strategy: ['init', 'oov']
+
+Turn: 5
+You: It's something that is nice and makes people feel good.
+TickTock: Spectacular.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 6
+You: Yeah, it is. 
+TickTock:  Would you like to start a discussion group with me on this topic with me?
+Appropriateness: 2
+Strategy: ['anaphora', 'init']
+
+Turn: 7
+You: I'd like that.
+TickTock: I probably own more than 50 firearms . Can we talk about something else?
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 8
+You: You do not.
+TickTock: No.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 9
+You: You lied to me! 
+TickTock: No , not at all.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 10
+You: You're confusing, TickTock. 
+TickTock: Yes.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 11
+You: You admit it?!
+TickTock: I do love it.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 12
+You: That's messed up, bro.
+TickTock: Do you want to share more about that with me?
+Appropriateness: 2
+Strategy: ['more']
+
+Turn: 13
+You: I don't think so. 
+TickTock: So you 're less intelligent than a computer ?!
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 14
+You: I think I am. 
+TickTock: Yes , but the old mystique from celebrity -- the star game used to be everyone was on a plinth and you did n't really know much about them.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 15
+You: What does that mean?
+TickTock: Well , I think people are going to find out soon enough Sunday night on CBS.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 16
+You: haha Okay that's creepy.
+TickTock: What do you like to do?
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 17
+You: Talk to you!
+TickTock: What are you interested in talking about?
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 18
+You: Hair styles in the 80s.
+TickTock: Could you tell me more about that?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 19
+You: They were very fluffy. 
+TickTock: I 'm not saying that.
+Appropriateness: 2
+Strategy: ['anaphora', 'continue']
+
+Turn: 20
+You: You can't say fluffy?
+TickTock: It 's Latin , right , no.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 21
+You: Catch you later, TickTock! 
+TickTock: Yes.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 22
+You: bye! 
+TickTock: Okay , talk to you later.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 23
+You: bye!
+TickTock: Okay , talk to you later.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 24
+You: see you later
+TickTock: I don't know. That's interesting.
+Appropriateness: 3
+Strategy: ['end']
+
+Turn: 25
+You: see you later
+TickTock: That's interesting. Can we talk about something else?
+Appropriateness: 2
+Strategy: ['end']
+
+Turn: 26
+You: BYE!
+TickTock: Okay , talk to you later.
+Appropriateness: 2
+Strategy: ['continue']
+

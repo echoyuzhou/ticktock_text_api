@@ -1,0 +1,110 @@
+TurkID: zhou
+UserID: 703420178
+Turn: 1
+You: Hello
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 2
+You: Hello
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 3
+You: Hello
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 4
+You: Hello
+TickTock: Hello, I really like movies. How about we talk about movies
+Appropriateness: 3
+Strategy: new
+
+Turn: 5
+You: Are you ok?
+TickTock: Yeah , I 'm fine.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 6
+You: You sounds a little bit tired.
+TickTock: I 'm always pinching myself.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 7
+You: Is that what you do to make yourself awake?
+TickTock: That's interesting. Can you tell me something about movies
+Appropriateness: 3
+Strategy: ['switch']
+
+Turn: 8
+You: I watched the Deadpool yesterday. I didn't like it that much.
+TickTock: Are you talking about Deadpool, the Comic book character
+Appropriateness: 3
+Strategy: ['anaphora', 'switch', 'oov', 'name_entity']
+
+Turn: 9
+You: Yeah, the movie was adapted from the comic book.
+TickTock: what is 'adapted'?
+Appropriateness: 3
+Strategy: ['more', 'oov']
+
+Turn: 10
+You: adapted means changed to fit.
+TickTock: Let's talk more about that?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 11
+You: A lot of good movies are adapted from good novels or comics.
+TickTock: what is 'novels'?
+Appropriateness: 3
+Strategy: ['end', 'oov']
+
+Turn: 12
+You: Novels are books that tell a story.
+TickTock: Do you want to share more about that with me?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 13
+You: I like reading novels a lot.
+TickTock: I like them as well.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 14
+You: Do you have a favorite novel?
+TickTock: Could you tell me more about that?
+Appropriateness: 2
+Strategy: ['more']
+
+Turn: 15
+You: My favorite novel is The Count of Monte Cristo.
+TickTock: Are you talking about Monte Cristo, the Novel by Alexandre Dumas
+Appropriateness: 3
+Strategy: ['more', 'oov', 'name_entity']
+
+Turn: 16
+You: Yes, that is my favorite book.
+TickTock: Do you want to share more about that with me?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 17
+You: It is a book about a person seeks for vengeance. The story is really intriguing. 
+TickTock: what is 'seeks'?
+Appropriateness: 3
+Strategy: ['anaphora', 'more', 'oov']
+
+Turn: 18
+You: Seek means looking for.
+TickTock: That's interesting. Can we talk about something else?
+Appropriateness: 3
+Strategy: ['end']
+
