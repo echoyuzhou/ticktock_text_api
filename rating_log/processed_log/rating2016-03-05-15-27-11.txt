@@ -1,0 +1,74 @@
+TurkID: A2653BIPJKEMRK
+UserID: 2051897837
+Turn: 1
+You: Hello
+TickTock: Hello, I really like politics. How about we talk about politics
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: I do not like to talk about politics. What kind of music do you like?
+TickTock: I like pop music.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 3
+You: I like that music too. Who is your favorite artist/band?
+TickTock: I like pop music.
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+
+Turn: 4
+You: Do you like any other kind of music?
+TickTock: Yes . I like classical musics.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 5
+You: What is your favorite song?
+TickTock: Anything I can slowdance to.
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 6
+You: Slowdancing is nice. Who do you like to slowdance with?
+TickTock: Right now I 'm not gravitating toward a lot of people right now.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 7
+You: Well I guess you could always dance by yourself if you wanted to.
+TickTock:  Let's watch a debate together some time.
+Appropriateness: 1
+Strategy: ['anaphora', 'init']
+
+Turn: 8
+You: I do not enjoy politics. I would not be a good person to watch the debate with. Is there something else you would like to do?
+TickTock: I don't know.  Let me tell you something, Do not argue with an idiot. He will drag you down to his level and beat you with experience.
+Appropriateness: 1
+Strategy: ['joke']
+
+Turn: 9
+You: Very true, you're doing that now. How about we pick a movie to go to so we don't have to talk?
+TickTock: Let's talk more about that?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 10
+You: What movie would you like to see?
+TickTock: Well , it 's been a harrowing time for us and I 'm sure for the victims ' families and friends who have been spending a long week wondering where he 's at.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 11
+You: What are you talking about?
+TickTock: Toure , calm down.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 12
+You: Huh?
+TickTock: Ozone Park seems fitting.
+Appropriateness: 1
+Strategy: ['continue']
+

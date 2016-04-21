@@ -1,0 +1,74 @@
+TurkID: A1RDQFNF6LD25Z
+UserID: 1609427833
+Turn: 1
+You: Hello
+TickTock: Hello, I really like music. How about we talk about music
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: No thanks
+TickTock: I do n't know . Let me know something you 're interested in.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 3
+You: I'm interested in cooking
+TickTock: Great , what would you like to know?
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 4
+You: do you know any good recipes for shrimp?
+TickTock: what is 'shrimp'?
+Appropriateness: 3
+Strategy: ['more', 'oov']
+
+Turn: 5
+You: it's a type of shellfish
+TickTock: what is 'shellfish'?
+Appropriateness: 3
+Strategy: ['end', 'oov']
+
+Turn: 6
+You: a crustacean with a shell
+TickTock: what is 'crustacean'?
+Appropriateness: 3
+Strategy: ['more', 'oov']
+
+Turn: 7
+You: a sea dwelling creature
+TickTock: Uhh, I can't answer this. Let me know something you're interested in.
+Appropriateness: 3
+Strategy: ['end']
+
+Turn: 8
+You: i'm interested in dogs
+TickTock: i like dogs as well . My favorite breed is golden retriever
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 9
+You: i have two labs
+TickTock: what is 'labs'?
+Appropriateness: 3
+Strategy: ['switch', 'oov']
+
+Turn: 10
+You: labrador
+TickTock: what is 'labrador'?
+Appropriateness: 3
+Strategy: ['more', 'oov']
+
+Turn: 11
+You: labrador retriever
+TickTock: ok. That's interesting.
+Appropriateness: 3
+Strategy: ['end']
+
+Turn: 12
+You: yeah i think so too
+TickTock: Could you tell me more about that?
+Appropriateness: 3
+Strategy: ['more']
+

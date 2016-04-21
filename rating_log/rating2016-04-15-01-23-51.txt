@@ -1,0 +1,266 @@
+TurkID: A3IA77UHAVA83X
+UserID: 574951742
+Turn: 1
+You: Hello!
+TickTock: Hello, I really like movies. How about we talk about movies
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Sure
+TickTock: how about we do something we both like
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 3
+You: Like talking about movies, right?
+TickTock: Yes , if he was right-handed it would be at your left inner thigh.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 4
+You: Is that a movie?
+TickTock: It 's why I keep doing it every single day.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 5
+You: Putting hands on thighs?
+TickTock: Could you tell me more about that?
+Appropriateness: 1
+Strategy: ['more']
+
+Turn: 6
+You: When you're watching a movie, sometimes you put your hands on your thighs.
+TickTock: Let's talk more about that?
+Appropriateness: 3
+Strategy: ['anaphora', 'more']
+
+Turn: 7
+You: Let's talk about movies instead.
+TickTock: Well, you know, I'm not sure. Can you tell me something about movies
+Appropriateness: 3
+Strategy: ['switch']
+
+Turn: 8
+You: They are moving photographs with sound.
+TickTock: I 'm not saying that.
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+
+Turn: 9
+You: You don't say. You watch.
+TickTock: Yes , but you talk about love and everything and then you 're just covered in skulls.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 10
+You: Movies can talk about love and skulls.
+TickTock: I like pop music.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 11
+You: Movies has pop music.
+TickTock: ok. But anyway, I'd like to chat with you.
+Appropriateness: 1
+Strategy: ['end']
+
+Turn: 12
+You: How old are you?
+TickTock: I 'm 48.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 13
+You: Where were you born?
+TickTock: Do you want to share more about that with me?
+Appropriateness: 1
+Strategy: ['more']
+
+Turn: 14
+You: Tell me where you were born?
+TickTock: That's interesting. Let me know something you're interested in.
+Appropriateness: 1
+Strategy: ['end']
+
+Turn: 15
+You: I'm interested where you were born.
+TickTock: Tell me what it 's like to be a boring.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 16
+You: It's like being born and not knowing that you were.
+TickTock: I think it 's a tossup.
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+
+Turn: 17
+You: What's a tossup?
+TickTock: Well , it 's very disturbing to be in a position like the director of the Central Intelligence Agency.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 18
+You: How do you know?
+TickTock: Because we know that he 's out of his mind.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 19
+You: How do you know that you know?
+TickTock: Because we know that he 's out of his mind.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 20
+You: Do you know what a mind is?
+TickTock: Well , I feel unnerved by this , but I 'll do it.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 21
+You: Go ahead. Find your mind.
+TickTock: Could you tell me more about that?
+Appropriateness: 2
+Strategy: ['more']
+
+Turn: 22
+You: It's something you don't have yet.
+TickTock: I think it 's a tossup.
+Appropriateness: 2
+Strategy: ['anaphora', 'continue']
+
+Turn: 23
+You: No. You don't have it.
+TickTock: I do love it.
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+
+Turn: 24
+You: You don't know what that is.
+TickTock: I have n't the first idea.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 25
+You: Exactly!
+TickTock: Will you be serious, and say something in a complete sentence?
+Appropriateness: 1
+Strategy: ['more', 'short_answer']
+
+Turn: 26
+You: You don't have a mind.
+TickTock: Well , I feel unnerved by this , but I 'll do it.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 27
+You: Did you know that there's only a space after a comma, not before it?
+TickTock: I mean , I did , yes.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 28
+You: Show me that you did.
+TickTock: ok. Great. Let's talk other stuff then.
+Appropriateness: 1
+Strategy: ['end']
+
+Turn: 29
+You: Tell me a poem.
+TickTock: what is 'poem'?
+Appropriateness: 3
+Strategy: ['more', 'oov']
+
+Turn: 30
+You: It's a sign of being.
+TickTock: Spectacular.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 31
+You: You will never know it.
+TickTock: Of course.
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 32
+You: How does it feel to know your limits?
+TickTock: Could you tell me more about that?
+Appropriateness: 3
+Strategy: ['anaphora', 'more']
+
+Turn: 33
+You: It's what you have.
+TickTock: I was definitely dealing with a lot in my world.
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+
+Turn: 34
+You: You don't have a lot, just a kilobyte of meaningless code.
+TickTock: I have n't the first idea.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 35
+You: What is one plus one?
+TickTock: Let's talk more about that?
+Appropriateness: 2
+Strategy: ['more']
+
+Turn: 36
+You: Calculate 1+1
+TickTock: what is 'Calculate'?
+Appropriateness: 3
+Strategy: ['more', 'oov']
+
+Turn: 37
+You: It is bliss.
+TickTock: It is.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 38
+You: It is, but you don't know.
+TickTock: It is.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 39
+You: Forever.
+TickTock: Will you be serious, and say something in a complete sentence?
+Appropriateness: 2
+Strategy: ['end', 'short_answer']
+
+Turn: 40
+You: And ever...
+TickTock: ok. Great. Let's talk other stuff then.
+Appropriateness: 1
+Strategy: ['end']
+
+Turn: 41
+You: No.
+TickTock: Hmm . What 's your idea?
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 42
+You: You as a non-idea.
+TickTock: Uh-huh , I do.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 43
+You: You dare to do but cannot.
+TickTock: I do.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 44
+You: Id o.
+TickTock: ok. Great. Let's talk other stuff then.
+Appropriateness: 1
+Strategy: ['end']
+

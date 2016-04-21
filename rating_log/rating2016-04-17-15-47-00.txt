@@ -1,0 +1,62 @@
+TurkID: A2UF2FRGVW4T89
+UserID: 837585618
+Turn: 1
+You: Hey, how are you.
+TickTock: Hello, I really like board games. How about we talk about board games
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Okay, I like to play chess.
+TickTock: Could you tell me more about that?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 3
+You: It's a game that involves strategy.
+TickTock: That 's it , right now.
+Appropriateness: 2
+Strategy: ['anaphora', 'continue']
+
+Turn: 4
+You: Yes, I guess it is.
+TickTock: we will have fun this weekend at Bernies
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 5
+You: What's Bernies. A bar?
+TickTock: Are you talking about Bernies, the Retail-store company
+Appropriateness: 2
+Strategy: ['end', 'oov', 'name_entity']
+
+Turn: 6
+You: I was asking you.
+TickTock: Oh , what?
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 7
+You: What are you doing this weekend.
+TickTock: That's interesting.  I almost got caught trying to steal a board game yesterday. It was a Risk I was willing to take.
+Appropriateness: 2
+Strategy: ['joke']
+
+Turn: 8
+You: What was the risk.
+TickTock: He risked it because everybody knows Osama bin Laden was training people to commit atrocities in Afghanistan.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 9
+You: Yes, I guess it is.
+TickTock: You already said that!
+Appropriateness: 2
+Strategy: ['anaphora', 'continue']
+
+Turn: 10
+You: I know, but it is true.
+TickTock: I think 60 's brutal.
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+

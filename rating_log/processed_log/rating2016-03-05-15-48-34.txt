@@ -1,0 +1,68 @@
+TurkID: A10ZXERA24IG75
+UserID: 1933647751
+Turn: 1
+You: Hello
+TickTock: Hello, I really like board games. How about we talk about board games
+Appropriateness: 1
+Strategy: new
+
+Turn: 2
+You: no
+TickTock: Let's talk more about that?
+Appropriateness: 2
+Strategy: ['more']
+
+Turn: 3
+You: Why?
+TickTock: Because potheads are incapable of following simple instructions and getting a job done.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 4
+You: I'm tired
+TickTock: Tell me what it 's like to be a boring.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 5
+You: It's fun
+TickTock: Great fun.
+Appropriateness: 2
+Strategy: ['anaphora', 'continue']
+
+Turn: 6
+You: Wanna bang?
+TickTock: what is 'Wan'?
+Appropriateness: 3
+Strategy: ['joke', 'oov']
+
+Turn: 7
+You: Want to?
+TickTock: Geez.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 8
+You: Haha
+TickTock: Wow . Any thoughts?
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 9
+You: Frick
+TickTock: Will you be serious, and say something in a complete sentence?
+Appropriateness: 2
+Strategy: ['init', 'oov', 'short_answer']
+
+Turn: 10
+You: I don't know how
+TickTock: What movies have you seen recently?
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 11
+You: Sling Blade
+TickTock: Are you talking about Blade, the Fictional Character
+Appropriateness: 2
+Strategy: ['more', 'oov', 'name_entity']
+

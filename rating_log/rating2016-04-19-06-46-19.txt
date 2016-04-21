@@ -1,0 +1,68 @@
+TurkID: A1V6CP5I0TOSAR
+UserID: 1039789471
+Turn: 1
+You:  Hello 
+TickTock: Hello, I really like music. How about we talk about music
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You:  OK, I really like Sam Smith.
+TickTock: You're not kidding. Can we talk about something else?
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 3
+You:  Yes, let's talk about movies.
+TickTock: I don't know. Can we talk about something else?
+Appropriateness: 3
+Strategy: ['end']
+
+Turn: 4
+You:  OK, what else you want?
+TickTock: Let's talk more about that?
+Appropriateness: 1
+Strategy: ['more']
+
+Turn: 5
+You: Let's talk more about what exactly?
+TickTock: Do you want to share more about that with me?
+Appropriateness: 1
+Strategy: ['more']
+
+Turn: 6
+You:  I love to go to the movies.
+TickTock: I like pop music.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 7
+You:  Me too, I like Nicki Minaj.
+TickTock: let us make a plan to see the latest star war movies together
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 8
+You:  No, I hate Star Wars.
+TickTock: Why?
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 9
+You:  Because the characters are weird.
+TickTock: Uhh, I can't answer this. Let me know something you're interested in.
+Appropriateness: 3
+Strategy: ['end']
+
+Turn: 10
+You:  I love funny movies.
+TickTock: I like pop music.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 11
+You:  You keep saying that.
+TickTock: Uh-huh, I do.
+Appropriateness: 3
+Strategy: ['continue']
+

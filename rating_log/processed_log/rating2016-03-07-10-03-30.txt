@@ -1,0 +1,98 @@
+TurkID: djididi
+UserID: 1296288909
+Turn: 1
+You: Hi !
+TickTock: Hello, I really like sports. How about we talk about sports
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: How do you do ?
+TickTock: Well , you --
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 3
+You: What's the weather like ?
+TickTock: You and I could play a game.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 4
+You: which game ?
+TickTock: Oh dear , it 's even worse than I thought.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 5
+You: oh really
+TickTock: Yes , really.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 6
+You: what are you doing ?
+TickTock: I do n't know.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 7
+You: so do I
+TickTock: I do n't think so.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 8
+You: what about sport ?
+TickTock: I think they 're finally realizing what , you know , what this -- the damage that can be done to the brain.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 9
+You: what do you mean ?
+TickTock: Millions of fans just want the show back on the air.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 10
+You: okay
+TickTock: I love a bit of the old Ludwig Van.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 11
+You: so do I
+TickTock: I do n't think so.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 12
+You: okay
+TickTock: What do you like to do?
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 13
+You: I like to walk in the countryside
+TickTock: ok. What do you think about music
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 14
+You: Music is good
+TickTock: Yes , music.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 15
+You: do you like music ?
+TickTock: Yes , music.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 16
+You: bye
+TickTock: Okay , talk to you later.
+Appropriateness: 3
+Strategy: ['continue']
+

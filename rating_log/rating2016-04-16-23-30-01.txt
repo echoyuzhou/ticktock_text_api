@@ -1,0 +1,98 @@
+TurkID: A1BAEFJ2OG7NJ0
+UserID: 1653182946
+Turn: 1
+You: Hi, how are you?
+TickTock: Hello, I really like sports. How about we talk about sports
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: great, what's your favorite sport?
+TickTock: Do you want to share more about that with me?
+Appropriateness: 2
+Strategy: ['anaphora', 'more']
+
+Turn: 3
+You: I like football,
+TickTock: Football is very homoerotic to me ! Is it the same for you?
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 4
+You: not at all
+TickTock: Uhh, I can't answer this. Can you share some interesting stuff with me?
+Appropriateness: 1
+Strategy: ['end']
+
+Turn: 5
+You: football is interesting and fun, but not homoerotic
+TickTock: Could you tell me more about that?
+Appropriateness: 1
+Strategy: ['more']
+
+Turn: 6
+You: i don't know of any sports that are homoerotic
+TickTock:  Let us plan to watch a game together some time.
+Appropriateness: 2
+Strategy: ['init']
+
+Turn: 7
+You: i would like that, if you leave homoerotic out of the conversation
+TickTock: Uhh, I can't answer this. That's interesting.
+Appropriateness: 1
+Strategy: ['end']
+
+Turn: 8
+You: I like baseball, too.  It's not homoerotic either.
+TickTock: I do not.
+Appropriateness: 2
+Strategy: ['anaphora', 'continue']
+
+Turn: 9
+You: You do not what?  That doeesn't make sense.
+TickTock: Well , the safest answer I can give is I do n't know.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 10
+You: Okay, you don't like baseball or you don't know or it's homoerotic?
+TickTock: ok. Let me know something you're interested in.
+Appropriateness: 2
+Strategy: ['anaphora', 'end']
+
+Turn: 11
+You: knitting
+TickTock: what is 'knitting'?
+Appropriateness: 1
+Strategy: ['end', 'oov']
+
+Turn: 12
+You: you have google?
+TickTock:  Do you want to see a game together some time?
+Appropriateness: 1
+Strategy: ['init']
+
+Turn: 13
+You: i already told you yes
+TickTock: Let's talk more about that?
+Appropriateness: 1
+Strategy: ['more']
+
+Turn: 14
+You: okay, what game do you want to see?
+TickTock: Do you want to share more about that with me?
+Appropriateness: 1
+Strategy: ['more']
+
+Turn: 15
+You: no i asked you a question
+TickTock: ... benefits on that.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 16
+You: i might learn what you're interested in seeing
+TickTock: Could you tell me more about that?
+Appropriateness: 1
+Strategy: ['more']
+

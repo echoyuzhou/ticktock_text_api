@@ -1,0 +1,86 @@
+TurkID: A1HQL1FCG3DL81
+UserID: 2052993050
+Turn: 1
+You: hello
+TickTock: Hello, I really like board games. How about we talk about board games
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: ok I like trouble
+TickTock: I probably own more than 50 firearms . Can we talk about something else?
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 3
+You: ok what do you want to talk about?
+TickTock: Could you tell me more about that?
+Appropriateness: 1
+Strategy: ['more']
+
+Turn: 4
+You: ok what do you want to talk about?
+TickTock: Let's talk more about that?
+Appropriateness: 1
+Strategy: ['more']
+
+Turn: 5
+You: ok what do you want to talk about?
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 6
+You: you want to talk about firearms?
+TickTock: Do you want to share more about that with me?
+Appropriateness: 2
+Strategy: ['more']
+
+Turn: 7
+You: I have one gun
+TickTock: Sorry to hear that.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 8
+You: But I thought you liked guns
+TickTock: I probably own more than 50 firearms . Can we talk about something else?
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 9
+You: do you want to talk about the weather?
+TickTock: Well, you know, I'm not sure. That's interesting.
+Appropriateness: 1
+Strategy: ['end']
+
+Turn: 10
+You: It's been warm here
+TickTock: Well , I was juvenile.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 11
+You: ok how old are you?
+TickTock: I 'm 48.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 12
+You: are you a man or a woman?
+TickTock: Yes , are you?
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 13
+You: I'm a woman
+TickTock: Tell me what it 's like to be a boring.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 14
+You: do you think all women are boring?
+TickTock: ok. Great. Let's talk other stuff then.
+Appropriateness: 1
+Strategy: ['end']
+

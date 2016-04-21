@@ -1,0 +1,62 @@
+TurkID: A2OQZTSU48GRFG
+UserID: 105530495
+Turn: 1
+You: hello
+TickTock: Hello, I really like board games. How about we talk about board games
+Appropriateness: 2
+Strategy: new
+
+Turn: 2
+You: i like monopoly
+TickTock: I also like to play solitare.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 3
+You: me too
+TickTock: Yes , you.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 4
+You: do you like other card games?
+TickTock: No . What do you think?
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 5
+You: I t hink that's just fine
+TickTock: Well , you know , I 'm not sure . Can you tell me something about politics
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 6
+You: our political system has been crippled for a long time and now it is being decimated. Might as well get it over with
+TickTock: what is 'crippled'?
+Appropriateness: 1
+Strategy: ['anaphora', 'joke', 'oov']
+
+Turn: 7
+You: in some way a normal function is not allowed to continue
+TickTock: Let's talk more about that?
+Appropriateness: 1
+Strategy: ['more']
+
+Turn: 8
+You: yes. A person or thing can be cripples
+TickTock: what is 'cripples'?
+Appropriateness: 1
+Strategy: ['end', 'oov']
+
+Turn: 9
+You: I meant crippled
+TickTock: That 's good , because I 'm right.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 10
+You: i don't understand
+TickTock: You do n't understand that it 's a simple inanimate tool that tens of millions of American families own , that have never caused a problem , never had an accident and will never commit a crime.
+Appropriateness: 1
+Strategy: ['continue']
+

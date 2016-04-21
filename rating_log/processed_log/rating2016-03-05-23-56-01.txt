@@ -1,0 +1,86 @@
+TurkID: A3HMBHM8HJLKRD
+UserID: 1623406256
+Turn: 1
+You: hello
+TickTock: Hello, I really like music. How about we talk about music
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: I like country music
+TickTock: I like pop music.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 3
+You: I like Adele as a pop singer
+TickTock: I do not.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 4
+You: Who do you like?
+TickTock: Right now I 'm not gravitating toward a lot of people right now.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 5
+You: Do you like board games
+TickTock: Operation ! The goofy game for dopey doctors!
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 6
+You: That is a good one.
+TickTock: There is nothing bad about being compared to awesome actors.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 7
+You: I like trivial pursuit
+TickTock: I probably own more than 50 firearms . Can we talk about something else?
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 8
+You: Do you have any shotguns?
+TickTock: I certainly try.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 9
+You: Do you go hunting?
+TickTock: I certainly try.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 10
+You: Do you hunt deer?
+TickTock: I certainly try.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 11
+You: Do you like to travel?
+TickTock: Yes . I like classical musics.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 12
+You: Do you like opera?
+TickTock: Yes . I like classical musics.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 13
+You: Vivaldi's the four seasons is a favorite of mine
+TickTock: what is 'Vivaldi'?
+Appropriateness: 3
+Strategy: ['switch', 'oov']
+
+Turn: 14
+You: He was a composer
+TickTock: Yes , he is.
+Appropriateness: 2
+Strategy: ['continue']
+

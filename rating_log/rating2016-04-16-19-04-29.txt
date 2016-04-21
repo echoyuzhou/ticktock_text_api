@@ -1,0 +1,62 @@
+TurkID: A2UF2FRGVW4T89
+UserID: 609861808
+Turn: 1
+You: Hello how are you?
+TickTock: Hello, I really like politics. How about we talk about politics
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Okay, do you think Bernie Sanders can win the Democratic nomination?
+TickTock: what is 'Sanders'?
+Appropriateness: 2
+Strategy: ['more', 'oov']
+
+Turn: 3
+You: Bernie Sanders is a candidate for the Democratic party's presidential race.
+TickTock: Let's talk more about that?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 4
+You: He seems to be gaining ground on Hillary Clinton.
+TickTock: Only people fainting at her and her rallies are going to be chubby gals from now.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 5
+You: Uhm, okay. I'm not sure how I feel about that.
+TickTock: Well , I think peace is a state of being , rather than the environment around us
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 6
+You: Well, that's an interesting thought.
+TickTock: Do you want to share more about that with me?
+Appropriateness: 2
+Strategy: ['more']
+
+Turn: 7
+You: Not really, let's talk about something else.
+TickTock:  Let's watch a debate together some time.
+Appropriateness: 2
+Strategy: ['init']
+
+Turn: 8
+You: That sounds good to me.
+TickTock: Sounds good to me , too.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 9
+You: When would you like to watch?
+TickTock: Could you tell me more about that?
+Appropriateness: 2
+Strategy: ['more']
+
+Turn: 10
+You: No I can't.  I am not sure when you are available.
+TickTock:  Would you like to start a discussion group with me on this topic with me?
+Appropriateness: 2
+Strategy: ['init']
+

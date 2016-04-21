@@ -1,0 +1,110 @@
+TurkID: ACOKFBC75D5OR
+UserID: 1194487600
+Turn: 1
+You: Hello TickTock, how are you?
+TickTock: Hello, I really like movies. How about we talk about movies
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Okay, what is your favorite movie?
+TickTock: Well , the first movie I ever saw more than once was `` High Noon . ''
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 3
+You: The old Western? Wow, I love that movie!
+TickTock: Of course.
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 4
+You: What other movies do you like?
+TickTock: I do n't go very often.
+Appropriateness: 2
+Strategy: ['anaphora', 'continue']
+
+Turn: 5
+You: That's a shame, since you really like movies.
+TickTock: I do n't go very often.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 6
+You: You just said that!
+TickTock: Thirty-eight percent , major restrictions.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 7
+You: What are you talking about?
+TickTock: ddd
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+
+Turn: 8
+You: You aren't making any sense!
+TickTock: Lightener are you
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+
+Turn: 9
+You: What does lightener mean?
+TickTock: Well , I think people are going to find out soon enough Sunday night on CBS.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 10
+You: Lightener will be talked about Sunday night on CBS?
+TickTock: That's interesting.  Let me tell you a joke, In a movie theater, a crowd watches a movie. During funny moments, only one person laughs. Confusingly he turns around and explains: "I haven't seen the trailer.
+Appropriateness: 2
+Strategy: ['joke']
+
+Turn: 11
+You: That joke wasn't very funny, sorry.
+TickTock: ok. Can you tell me something about politics
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 12
+You: I don't really like talking about politics. Too many people get angry over it.
+TickTock: I do not.
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 13
+You: Well, that's good, but most people do!
+TickTock: But I have to give away somethings that my constituents my not like.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 14
+You: What are you talking about?
+TickTock: ddd
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+
+Turn: 15
+You: What is ddd
+TickTock: That's interesting.  Let me tell you something, We never really grow up, we only learn how to act in public.
+Appropriateness: 2
+Strategy: ['joke']
+
+Turn: 16
+You: That's true- I agree.
+TickTock: That 's good , because I 'm right.
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 17
+You: That seems a bit arrogant to say.
+TickTock: A walk and talk.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 18
+You: Well, you're back to not making sense, so I guess I'm done for now. Have a good night, goodbye!
+TickTock: Yes.
+Appropriateness: 1
+Strategy: ['continue']
+

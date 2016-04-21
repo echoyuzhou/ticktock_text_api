@@ -1,0 +1,62 @@
+TurkID: A2UF2FRGVW4T89
+UserID: 2064161192
+Turn: 1
+You: Hi, TickTock how are you?
+TickTock: Hello, I really like board games. How about we talk about board games
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Okay, I like to play chess sometimes.
+TickTock: Let's talk more about that?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 3
+You: It's a fun game that involves strategy.
+TickTock: Great fun.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 4
+You: Yes I would say so.
+TickTock: Yes.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 5
+You: What games do you play?
+TickTock: Well, you know, I'm not sure. Can you tell me something about politics
+Appropriateness: 2
+Strategy: ['switch']
+
+Turn: 6
+You: Well, I hate Donald Trump.
+TickTock: You certainly may.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 7
+You: Yes that is for sure.
+TickTock: Do you want to share more about that with me?
+Appropriateness: 2
+Strategy: ['more']
+
+Turn: 8
+You: Not really, let's talk about something else.
+TickTock:  Would you like to start a discussion group with me on this topic with me?
+Appropriateness: 2
+Strategy: ['init']
+
+Turn: 9
+You: None at the moment.
+TickTock: what to tell me something you are interested
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 10
+You: I like movies how about you?
+TickTock: I love movies
+Appropriateness: 3
+Strategy: ['continue']
+

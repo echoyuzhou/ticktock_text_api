@@ -1,0 +1,68 @@
+TurkID: A1V6CP5I0TOSAR
+UserID: 676573741
+Turn: 1
+You:  Hello my friend 
+TickTock: Hello, I really like politics. How about we talk about politics
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You:  OK that will work 
+TickTock: Hello, I really like movies. How about we talk about movies
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 3
+You:  OK what's your favorite movie?
+TickTock: Hello, I really like sports. How about we talk about sports
+Appropriateness: 3
+Strategy: new
+
+Turn: 4
+You:  OK, what's your favorite sport?
+TickTock: Let's talk more about that?
+Appropriateness: 3
+Strategy: ['anaphora', 'more']
+
+Turn: 5
+You:  I Love boxing.
+TickTock: I like pop music.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 6
+You:  Who's your favorite artist? 
+TickTock: Do you want to share more about that with me?
+Appropriateness: 2
+Strategy: ['anaphora', 'more']
+
+Turn: 7
+You:  Well, I like Nicki Minaj 
+TickTock: Are you talking about Nicki Minaj, the Rapper
+Appropriateness: 3
+Strategy: ['init', 'oov', 'name_entity']
+
+Turn: 8
+You:  Yes, she's really good.
+TickTock: I don't know. That's interesting.
+Appropriateness: 3
+Strategy: ['anaphora', 'end']
+
+Turn: 9
+You:  Yeah, there are many other pop artists I like too.
+TickTock: Could you tell me more about that?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 10
+You:  Yes, I like Katy Perry.
+TickTock: ok, when do you time
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 11
+You:  When do I have time for what?
+TickTock: If I were you, I'd be doing what you know is right and nothing less in that process.
+Appropriateness: 1
+Strategy: ['continue']
+

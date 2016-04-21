@@ -1,0 +1,62 @@
+TurkID: A2OQZTSU48GRFG
+UserID: 1894519849
+Turn: 1
+You: hello
+TickTock: Hello, I really like movies. How about we talk about movies
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: no
+TickTock: Well, you know, I'm not sure. Can you tell me something about sports
+Appropriateness: 1
+Strategy: ['switch']
+
+Turn: 3
+You: this survey is getting annoying
+TickTock: I don't know. But anyway, I'd like to chat with you.
+Appropriateness: 1
+Strategy: ['end']
+
+Turn: 4
+You: ok. let's chat
+TickTock: Could you tell me more about that?
+Appropriateness: 1
+Strategy: ['more']
+
+Turn: 5
+You: abut what?
+TickTock: what is 'abut'?
+Appropriateness: 3
+Strategy: ['switch', 'oov']
+
+Turn: 6
+You: about what?
+TickTock: I do n't understand.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 7
+You: I don't understand either
+TickTock: What do you want to stop badly?
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 8
+You: I want this HIT to end
+TickTock: I did , actually.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 9
+You: What?
+TickTock: I do n't understand.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 10
+You: I don't understand wither. I'm going to end this conversation soon
+TickTock: What do you want to stop badly?
+Appropriateness: 1
+Strategy: ['continue']
+

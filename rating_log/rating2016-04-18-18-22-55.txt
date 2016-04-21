@@ -1,0 +1,68 @@
+TurkID: A1EITLFAMKA61U
+UserID: 698114814
+Turn: 1
+You: Hello, nice to meet you.
+TickTock: Hello, I really like music. How about we talk about music
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Sure, I like pop punk. What kind of music do you like?
+TickTock: Could you tell me more about that?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 3
+You: Bands like Blink 182 and Greenday. What bands do you like?
+TickTock: what is '182'?
+Appropriateness: 3
+Strategy: ['more', 'oov']
+
+Turn: 4
+You: It is part of the band name.
+TickTock: Yeah.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 5
+You: Tell me about the music that you like.
+TickTock: ok. Can you share some interesting stuff with me?
+Appropriateness: 2
+Strategy: ['end']
+
+Turn: 6
+You: I would like to hear about your thoughts on music first if that's okay?
+TickTock: Do you want to share more about that with me?
+Appropriateness: 2
+Strategy: ['anaphora', 'more']
+
+Turn: 7
+You: Well, I am asking you to share.
+TickTock: I 'm going to come back to the campaign in just a moment.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 8
+You: What does that mean?
+TickTock: Well , I think people are going to find out soon enough Sunday night on CBS.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 9
+You: I am not aware of this, can you fill me in on the details?
+TickTock: That's interesting. But anyway, I'd like to chat with you.
+Appropriateness: 1
+Strategy: ['end']
+
+Turn: 10
+You: I am done!
+TickTock: I did n't mean in a bad way.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 11
+You: I know, but you are very off topic.
+TickTock: That 's because you love the craft.
+Appropriateness: 1
+Strategy: ['continue']
+

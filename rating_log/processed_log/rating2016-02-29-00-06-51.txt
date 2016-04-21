@@ -1,0 +1,62 @@
+TurkID: A2UF2FRGVW4T89
+UserID: 773394472
+Turn: 1
+You: Hello how are you?
+TickTock: Hello, I really like movies. How about we talk about movies
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Okay, what do you think about the Oscars?   
+TickTock: how about a game of chess?
+Appropriateness: 2
+Strategy: ['anaphora', 'continue']
+
+Turn: 3
+You: I'd love to do that.
+TickTock: What do you want to experience back in time?
+Appropriateness: 2
+Strategy: ['anaphora', 'continue']
+
+Turn: 4
+You: I want to go back to the 80's. 
+TickTock: I felt like I was 17 again
+Appropriateness: 2
+Strategy: ['anaphora', 'continue']
+
+Turn: 5
+You: That sounds good.
+TickTock: What is something you find interesting?
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 6
+You: I am interested in quantum physics.
+TickTock: what is 'quantum'?
+Appropriateness: 3
+Strategy: ['anaphora', 'switch', 'oov']
+
+Turn: 7
+You: It means things in the microscopic level.
+TickTock: Sure.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 8
+You: Quantum reality is really random so it is interesting to find out how things work on that level.
+TickTock: what is 'Quantum'?
+Appropriateness: 3
+Strategy: ['switch', 'oov']
+
+Turn: 9
+You: It means microscopic.
+TickTock: You know ...
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 10
+You: Yes I do know.
+TickTock: I have never been there before
+Appropriateness: 2
+Strategy: ['continue']
+

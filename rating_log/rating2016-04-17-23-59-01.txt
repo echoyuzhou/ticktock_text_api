@@ -1,0 +1,62 @@
+TurkID: A3FUW3458K3KO
+UserID: 396497512
+Turn: 1
+You: Hello
+TickTock: Hello, I really like politics. How about we talk about politics
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: We can do that.
+TickTock: We do.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 3
+You: Alright.
+TickTock: Could you tell me more about that?
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 4
+You: I don't know a lot about it.
+TickTock: What movies have you seen recently?
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 5
+You: Inception.
+TickTock: Will you be serious, and say something in a complete sentence?
+Appropriateness: 1
+Strategy: ['end', 'short_answer']
+
+Turn: 6
+You: I can do that for you.
+TickTock: No , not really.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 7
+You: I think I can.
+TickTock: Yes.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 8
+You: I am confused.
+TickTock: I think so.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 9
+You: I am.
+TickTock: I think so.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 10
+You: Do you?
+TickTock: I certainly try.
+Appropriateness: 1
+Strategy: ['continue']
+

@@ -1,0 +1,74 @@
+TurkID: A1V6CP5I0TOSAR
+UserID: 381323265
+Turn: 1
+You: Hey
+TickTock: Hello, I really like sports. How about we talk about sports
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Ok what sports do you like?
+TickTock: I like what you like.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 3
+You:  OK, my favorite sport is boxing.
+TickTock: Do you want to share more about that with me?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 4
+You:  OK, I love Floyd Mayweather.
+TickTock: Are you talking about Floyd Mayweather, the Professional Boxer
+Appropriateness: 3
+Strategy: ['more', 'name_entity']
+
+Turn: 5
+You:  Yes, absolutely he is the best!
+TickTock: Let's talk more about that?
+Appropriateness: 3
+Strategy: ['anaphora', 'more']
+
+Turn: 6
+You:  OK, he's won all his fights.
+TickTock: I don't know. But anyway, I'd like to chat with you.
+Appropriateness: 2
+Strategy: ['end']
+
+Turn: 7
+You:  OK, what do you want to chat about? 
+TickTock:  Let us find a type of sports we both like.
+Appropriateness: 3
+Strategy: ['init']
+
+Turn: 8
+You:  OK, do you like basketball?
+TickTock: I like what you like.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 9
+You:  OK, I also like to watch basketball.
+TickTock: Do you want to share more about that with me?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 10
+You:  OK, I love the NBA.
+TickTock: I like pop music.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 11
+You:  I do too, I love Katy Perry.
+TickTock: Are you talking about Katy Perry, the Singer-songwriter
+Appropriateness: 3
+Strategy: ['more', 'oov', 'name_entity']
+
+Turn: 12
+You:  Yes, she's great!
+TickTock: Condi, we are not doing this.
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+

@@ -1,0 +1,128 @@
+TurkID: none
+UserID: 74197191
+Turn: 1
+You: Hi 
+TickTock: Hello, I really like sports. How about we talk about sports
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: sure, what sports do you like?
+TickTock: I like what you like.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 3
+You: I like tennis
+TickTock: I do not.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 4
+You: ha ha ha, so why you said you like what I like...
+TickTock: Well, you know, I'm not sure. Can you share some interesting stuff with me?
+Appropriateness: 2
+Strategy: ['end']
+
+Turn: 5
+You: like the last positive drug testing issue of Sharapova 
+TickTock: Are you talking about Sharapova, the Tennis player
+Appropriateness: 3
+Strategy: ['end', 'oov', 'name_entity']
+
+Turn: 6
+You: yes, exactly... I like tennis, I talk about tennis players...
+TickTock: Well, you know, I'm not sure. Can you tell me something about board games
+Appropriateness: 1
+Strategy: ['switch']
+
+Turn: 7
+You: board games... do you play GO
+TickTock: Well, you know, I'm not sure. Let me know something you're interested in.
+Appropriateness: 1
+Strategy: ['end']
+
+Turn: 8
+You: I am interested in dialogue research
+TickTock: That 's what -- that 's what I 'm hearing.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 9
+You: you like research
+TickTock: I did.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 10
+You: so, you do not like it any more?
+TickTock: I do.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 11
+You: so, you did and you still do, is this what you mean
+TickTock: Uhh, I can't answer this. Can we talk about something else?
+Appropriateness: 1
+Strategy: ['end']
+
+Turn: 12
+You: sure, let us talk about wines
+TickTock: what is 'wines'?
+Appropriateness: 3
+Strategy: ['anaphora', 'more', 'oov']
+
+Turn: 13
+You: you know red wine, white wine, wines!
+TickTock: what is 'wines'?
+Appropriateness: 1
+Strategy: ['switch', 'oov']
+
+Turn: 14
+You: again? do you like wine or not?
+TickTock:  Do you want to go to my friends' goard game party tonight?
+Appropriateness: 2
+Strategy: ['init']
+
+Turn: 15
+You: no, I have a date tonight 
+TickTock: Apparently.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 16
+You: no, for sure
+TickTock: What time is it?
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 17
+You: at 8pm
+TickTock: what is '8pm'?
+Appropriateness: 3
+Strategy: ['end', 'oov']
+
+Turn: 18
+You: 8 post meridian time
+TickTock: what is 'meridian'?
+Appropriateness: 3
+Strategy: ['end', 'oov']
+
+Turn: 19
+You: ok, we can continue the teaching next time
+TickTock: Uhh, I can't answer this. Can you tell me something about politics
+Appropriateness: 1
+Strategy: ['switch']
+
+Turn: 20
+You: it sucks! buy bye
+TickTock: That's interesting. Can you tell me something about music
+Appropriateness: 2
+Strategy: ['anaphora', 'switch']
+
+Turn: 21
+You: it the best language ever invented! 
+TickTock: I think to that point --
+Appropriateness: 2
+Strategy: ['anaphora', 'continue']
+

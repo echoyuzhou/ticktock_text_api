@@ -1,0 +1,72 @@
+TurkID: zhou
+UserID: 435764002
+Turn: 1
+You: hello how are you
+TickTock: I'm feeling quite good.
+Appropriateness: 3
+
+Turn: 2
+You: Hello
+TickTock: how about we do something we both like
+Appropriateness: 3
+
+Turn: 3
+You: how is the weather today
+TickTock: Well, exactly right. What's your idea?
+Appropriateness: 1
+
+Turn: 4
+You: I hate you Peter
+TickTock: No. Any thoughts?
+Appropriateness: 1
+
+Turn: 5
+You: You are so rude
+TickTock: Yes. What do you think?
+Appropriateness: 3
+
+Turn: 6
+You: hello
+TickTock: Hello, hello.
+Appropriateness: 3
+
+Turn: 7
+You: hello
+TickTock: Hello, hello.
+Appropriateness: 3
+
+Turn: 8
+You: I don't like you
+TickTock: I'm going to now. What's your idea?
+Appropriateness: 1
+
+Turn: 9
+You: what are you going to?
+TickTock: I'm going to sing a song off the album. What's your idea?
+Appropriateness: 3
+
+Turn: 10
+You: i don't want you to sing
+TickTock: I'm going to now. What's your idea?
+Appropriateness: 2
+
+Turn: 11
+You: stop it
+TickTock: She's very grounding. What do you think?
+Appropriateness: 1
+
+Turn: 12
+You: who is she
+TickTock: She's good.
+Appropriateness: 2
+
+Turn: 13
+You: you are not answering me
+TickTock: I don't know you well enough.
+Appropriateness: 3
+
+Turn: 14
+You: how about we see a movie together
+TickTock: I think the sad answer is it will happen again.
+Appropriateness: 1
+

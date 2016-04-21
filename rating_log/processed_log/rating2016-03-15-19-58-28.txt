@@ -1,0 +1,62 @@
+TurkID: AVQGY7FCU80XP
+UserID: 1012461255
+Turn: 1
+You: Hello!
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 2
+You: Hi!
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 3
+You: Are you there?
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 4
+You: How is the weather?
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 5
+You: Who do you think will win the presidential election?
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 6
+You: Who do you like more hilary or bernie?
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 7
+You: hello
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 8
+You: now is time for all good men to come to the aid of their country
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 9
+You: How do you think will win the NCAA basketball tournamet?
+TickTock: 
+Appropriateness: 1
+Strategy: 
+
+Turn: 10
+You: good bye sweet prince
+TickTock: 
+Appropriateness: 1
+Strategy: 
+

@@ -1,0 +1,62 @@
+TurkID: A2UF2FRGVW4T89
+UserID: 60431087
+Turn: 1
+You: Hi, TickTock how are you?
+TickTock: Hello, I really like sports. How about we talk about sports
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Okay, I'm watching the Royals play the Astros right now. 
+TickTock: what is 'Astros'?
+Appropriateness: 3
+Strategy: ['more', 'oov']
+
+Turn: 3
+You: Houston's baseball team.
+TickTock: Let's talk more about that?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 4
+You: The Royals are leading 1-0.
+TickTock: what is '1-0'?
+Appropriateness: 2
+Strategy: ['end', 'oov']
+
+Turn: 5
+You: That's the score of the game.
+TickTock: No.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 6
+You: Yes, it is.  The Royals are in the lead.
+TickTock: Uhh, I can't answer this.  Do you know that the easiest sport to get into is limbo, they don't set the bar very high.
+Appropriateness: 2
+Strategy: ['joke']
+
+Turn: 7
+You: That's a stale joke.
+TickTock: That is a funny joke . Do you know more?
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 8
+You: No, not really.  Do you know anymore?
+TickTock: And that 's where I think you and I differ.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 9
+You: We differ about what? Not knowing jokes?
+TickTock: Do you want to share more about that with me?
+Appropriateness: 2
+Strategy: ['more']
+
+Turn: 10
+You: No, not really.  Goodbye.
+TickTock: We did n't have a lot of money.
+Appropriateness: 1
+Strategy: ['continue']
+

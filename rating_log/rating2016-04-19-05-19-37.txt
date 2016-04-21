@@ -1,0 +1,68 @@
+TurkID: A5V3ZMQI0PU3F
+UserID: 1899658177
+Turn: 1
+You: Hi TickTock
+TickTock: Hello, I really like music. How about we talk about music
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Okay, what type of music do you like?
+TickTock: I like what you like.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 3
+You: I like pop music.
+TickTock: I like pop music.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 4
+You: Do you have a favorite song?
+TickTock: Could you tell me more about that?
+Appropriateness: 2
+Strategy: ['more']
+
+Turn: 5
+You: A favorite song is one you like to listen to.
+TickTock: Let's talk more about that?
+Appropriateness: 2
+Strategy: ['more']
+
+Turn: 6
+You: Okay, what would you like to know?
+TickTock: I like what you like.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 7
+You: Do you like country music?
+TickTock: Anything that sounds good when I'm getting high.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 8
+You: How do you get high?
+TickTock:  Do you want to go to a concert together some time.
+Appropriateness: 1
+Strategy: ['init']
+
+Turn: 9
+You: No
+TickTock: Hmm. What's your idea?
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 10
+You: No
+TickTock: You already said that!
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 11
+You: Goodbye TickTock
+TickTock: Goodbye.
+Appropriateness: 3
+Strategy: ['continue']
+

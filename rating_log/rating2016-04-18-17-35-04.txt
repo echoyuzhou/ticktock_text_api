@@ -1,0 +1,116 @@
+TurkID: A3VP27UUQ34OXK
+UserID: 1802608140
+Turn: 1
+You: Hi there
+TickTock: Hello, I really like movies. How about we talk about movies
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Yes, I love movies.  What is your favorite movie?
+TickTock: I like pop music.
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+
+Turn: 3
+You: Me, too!
+TickTock: You.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 4
+You: How is the weather where you're at?
+TickTock: It is currently snowing , and the temperature is 0 degrees Celsius.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 5
+You: Wow!  It's hot here.
+TickTock: I look at it as kind of like a privilege to experience being around such a relationship because how many people have ever even seen something like this in person.
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+
+Turn: 6
+You: What are you talking about?
+TickTock: ok , forget about that , tell me something you like to do
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 7
+You: I like to bake.
+TickTock: ok. What do you think about music
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 8
+You: It doesn't seem like you are answering my questions.
+TickTock: You know ...
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+
+Turn: 9
+You: You're sort of all over the place, aren't you?
+TickTock: Yes.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 10
+You: What do you like to do?
+TickTock: Anything that sounds good when I 'm getting high.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 11
+You: Wow!  Okay then.
+TickTock: What do you like to do?
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 12
+You: Garden, bake and hang out with my family.
+TickTock: Could you tell me more about that?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 13
+You: Not really that much more to tell.
+TickTock: That's interesting. Great. Let's talk other stuff then.
+Appropriateness: 2
+Strategy: ['end']
+
+Turn: 14
+You: Tell me about yourself.
+TickTock:  Let us make a plan to see the latest star war movies together.
+Appropriateness: 1
+Strategy: ['anaphora', 'init']
+
+Turn: 15
+You: I've already seen it.
+TickTock: So you do n't like me after all ?!
+Appropriateness: 2
+Strategy: ['anaphora', 'continue']
+
+Turn: 16
+You: Where did you come up with that analogy?
+TickTock: Let's talk more about that?
+Appropriateness: 2
+Strategy: ['more']
+
+Turn: 17
+You: About what?
+TickTock: Lots of family gossip.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 18
+You: This is getting ridiculous.  You're not even answering these questions or responding correctly to them.
+TickTock: Do you want to share more about that with me?
+Appropriateness: 3
+Strategy: ['anaphora', 'more']
+
+Turn: 19
+You: No, I don't
+TickTock: I do n't think so . What 's your idea?
+Appropriateness: 2
+Strategy: ['continue']
+

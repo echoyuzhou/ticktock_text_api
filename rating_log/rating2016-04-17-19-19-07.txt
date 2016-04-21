@@ -1,0 +1,68 @@
+TurkID: A219VCQZADQ45W
+UserID: 1363555
+Turn: 1
+You: hi there ticktock
+TickTock: Hello, I really like politics. How about we talk about politics
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: sounds good to me
+TickTock: Sounds good to me , too.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 3
+You: do you like trump?
+TickTock: I have no opinion.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 4
+You: do you have an opinion about CLINTON?
+TickTock: Are you talking about CLINTON, the 42nd U.S. President
+Appropriateness: 3
+Strategy: ['more', 'name_entity']
+
+Turn: 5
+You: no, Hilary Clinton
+TickTock: I think helped , no question , because Americans want their politicians to believe in themselves and in their communities.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 6
+You: but would you vote for her?
+TickTock: Uhh, I can't answer this. But anyway, I'd like to chat with you.
+Appropriateness: 2
+Strategy: ['anaphora', 'end']
+
+Turn: 7
+You: ok. what do you want to talk about?
+TickTock:  Let's watch a debate together some time.
+Appropriateness: 3
+Strategy: ['init']
+
+Turn: 8
+You: i'm open to that.
+TickTock: Tell me what it 's like to be a boring.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 9
+You: i dont know, im not boring.
+TickTock: what is 'dont'?
+Appropriateness: 3
+Strategy: ['end', 'oov']
+
+Turn: 10
+You: do not 
+TickTock: I 'm going to now.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 11
+You: ok, talk to you again soon
+TickTock:  Would you like to start a discussion group with me on this topic with me?
+Appropriateness: 2
+Strategy: ['init']
+

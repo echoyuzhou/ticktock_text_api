@@ -1,0 +1,80 @@
+TurkID: A1662KZ3DCOHHJ
+UserID: 1088618697
+Turn: 1
+You: Hello, TickTock.
+TickTock: Hello, I really like sports. How about we talk about sports
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: I don't really like sports.
+TickTock: Why not?
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 3
+You: I developed physical disabilities as an adult so I can't play anything, and I never liked watching them.
+TickTock: Uhh, I can't answer this. But anyway, I'd like to chat with you.
+Appropriateness: 1
+Strategy: ['end']
+
+Turn: 4
+You: Y'all might wanna teach this thing the difference between a question and an answer.
+TickTock: what is 'Y'all'?
+Appropriateness: 1
+Strategy: ['more', 'oov']
+
+Turn: 5
+You: A colloquialism.
+TickTock: what is 'colloquialism'?
+Appropriateness: 3
+Strategy: ['end', 'oov']
+
+Turn: 6
+You: A word or phrase outside the formal bounds of a language.
+TickTock: Uhh, I can't answer this. Can you share some interesting stuff with me?
+Appropriateness: 1
+Strategy: ['end']
+
+Turn: 7
+You: Clearly you're not a linguist, let alone a cunning one.
+TickTock: what is 'linguist'?
+Appropriateness: 1
+Strategy: ['init', 'oov']
+
+Turn: 8
+You: Seriously, guys, this is boring as shit.
+TickTock: That's interesting. But anyway, I'd like to chat with you.
+Appropriateness: 2
+Strategy: ['end']
+
+Turn: 9
+You: It's 2016. Why are you trying to develop a chatbot anyway?
+TickTock: I think it 's a tossup.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 10
+You: Jesus tapdancing Christ on a cracker, this thing is more primitive than SmarterChild.
+TickTock: what is 'tapdancing'?
+Appropriateness: 1
+Strategy: ['more', 'oov']
+
+Turn: 11
+You: The act of tap.
+TickTock: Let's talk more about that?
+Appropriateness: 2
+Strategy: ['more']
+
+Turn: 12
+You: I have two left feet.
+TickTock: You have.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 13
+You: This doesn't even make sense.
+TickTock: You do n't make sense.
+Appropriateness: 1
+Strategy: ['continue']
+

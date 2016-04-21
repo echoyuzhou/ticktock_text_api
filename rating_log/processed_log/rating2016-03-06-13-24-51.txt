@@ -1,0 +1,62 @@
+TurkID: A2UF2FRGVW4T89
+UserID: 687885295
+Turn: 1
+You: Hi, TickTock how are you?
+TickTock: Hello, I really like board games. How about we talk about board games
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Okay, I really like to play chess.
+TickTock: I think that it definitely -- when people say -- I mean , I get the statement when they say `` more money , more problems '' -- I definitely get that.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 3
+You: I am really not sure that is true.  I think if I had more money, I would have less problems.
+TickTock: That's interesting. That's interesting.
+Appropriateness: 3
+Strategy: ['end']
+
+Turn: 4
+You: Can we talk about movies now?
+TickTock: Sure.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 5
+You: Have you seen Deadpool?
+TickTock: No , no eyes , sorry
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 6
+You: Oh, sorry about that.  Let's talk about music then.
+TickTock: Let's talk more about that?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 7
+You: I like to listen to music while I'm working out. 
+TickTock: I like pop music.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 8
+You: I do too, just not Justin Beiber.
+TickTock: Yes , because you 're the one who put the `` sex '' in `` Sex in the City . ''
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 9
+You: Uhm, okay. I'm not sure how I feel about that.
+TickTock: Well , I think peace is a state of being , rather than the environment around us
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 10
+You: I agree with that as well.
+TickTock: That 's good , because I 'm right.
+Appropriateness: 3
+Strategy: ['continue']
+

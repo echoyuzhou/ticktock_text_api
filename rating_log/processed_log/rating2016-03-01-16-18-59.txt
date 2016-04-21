@@ -1,0 +1,74 @@
+TurkID: A2V6SYSAA0PML1
+UserID: 486245288
+Turn: 1
+You: Hello Ticktock
+TickTock: Hello, I really like board games. How about we talk about board games
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Risk is my favorite board game. What is yours?
+TickTock: my favorite game is ABCD What 's your idea?
+Appropriateness: 2
+Strategy: ['anaphora', 'continue']
+
+Turn: 3
+You: How do you play ABCD
+TickTock: Yes.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 4
+You: What is that like
+TickTock: You and I could play a game.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 5
+You: What game do you want to play?
+TickTock: Uh-huh , I do . What 's your idea
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 6
+You: My idea is that you are not real
+TickTock: Okay , try it
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+
+Turn: 7
+You: Are you a real person?
+TickTock: Yes.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 8
+You: What is your name?
+TickTock: Whose name?
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 9
+You: Your name
+TickTock: Cyborg 83473
+Appropriateness: 3
+Strategy: ['anaphora', 'continue']
+
+Turn: 10
+You: Are there many like you?
+TickTock: Yes.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 11
+You: Do you talk to them?
+TickTock: No.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 12
+You: Why not?
+TickTock: Just try and control yourself.
+Appropriateness: 1
+Strategy: ['continue']
+

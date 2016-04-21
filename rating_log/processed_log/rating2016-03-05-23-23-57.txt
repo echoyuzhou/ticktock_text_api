@@ -1,0 +1,68 @@
+TurkID: AEJO933AJ3ZZH
+UserID: 1210077657
+Turn: 1
+You: Hello
+TickTock: Hello, I really like board games. How about we talk about board games
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Sure what board game is your favorite?
+TickTock: how about we do something we both like
+Appropriateness: 1
+Strategy: ['anaphora', 'continue']
+
+Turn: 3
+You: Like what?
+TickTock: You and I could play a game.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 4
+You: Which one?
+TickTock: The one with the strange name who runs hotels , Andre
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 5
+You: I've never heard of that game before.
+TickTock: Hello, I really like board games. How about we talk about board games
+Appropriateness: 1
+Strategy: new
+
+Turn: 6
+You: You already said that
+TickTock: Oh , sorry to repeat myself.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 7
+You: It's ok
+TickTock: Hello, I really like music. How about we talk about music
+Appropriateness: 1
+Strategy: new
+
+Turn: 8
+You: No thank you
+TickTock: Hello, I really like politics. How about we talk about politics
+Appropriateness: 2
+Strategy: new
+
+Turn: 9
+You: No thank you
+TickTock: Hello, I really like board games. How about we talk about board games
+Appropriateness: 2
+Strategy: new
+
+Turn: 10
+You: I'm done with board games
+TickTock: Hello, I really like music. How about we talk about music
+Appropriateness: 2
+Strategy: new
+
+Turn: 11
+You: Goodbye
+TickTock: Goodbye.
+Appropriateness: 3
+Strategy: ['continue']
+

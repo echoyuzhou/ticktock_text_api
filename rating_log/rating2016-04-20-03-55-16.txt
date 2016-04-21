@@ -1,0 +1,62 @@
+TurkID: A1V6CP5I0TOSAR
+UserID: 1515064568
+Turn: 1
+You: Hello!
+TickTock: Hello, I really like movies. How about we talk about movies
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You:  OK, I love Wizard of Oz.
+TickTock: Are you talking about Wizard, the 1939 film
+Appropriateness: 3
+Strategy: ['end', 'name_entity']
+
+Turn: 3
+You:  Yes I love that movie.
+TickTock: ok, when do you time
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 4
+You:  Whenever you have time.
+TickTock:  Let's find a time to see the latest super hero movie.
+Appropriateness: 3
+Strategy: ['init']
+
+Turn: 5
+You:  OK are there any new superhero movies out?
+TickTock: Hello, I really like movies. How about we talk about movies
+Appropriateness: 2
+Strategy: new
+
+Turn: 6
+You:  OK what movies do you like?
+TickTock: I do n't go very often.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 7
+You:  How often do you go?
+TickTock: Could you tell me more about that?
+Appropriateness: 1
+Strategy: ['more']
+
+Turn: 8
+You:  I asked you the question.
+TickTock: Oh, what?
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 9
+You:  Are you confused?
+TickTock: Yes.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 10
+You:  I'm sorry to confuse you.
+TickTock: No surprise to you that Tom Brokaw has carried a on working despite having been diagnosed.
+Appropriateness: 1
+Strategy: ['continue']
+

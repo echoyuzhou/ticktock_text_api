@@ -1,0 +1,62 @@
+TurkID: A2B338ZP97RA5W
+UserID: 1626790710
+Turn: 1
+You: hello
+TickTock: Hello, I really like sports. How about we talk about sports
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: how about no
+TickTock:  Do you want to see a game together some time?
+Appropriateness: 3
+Strategy: ['init']
+
+Turn: 3
+You: no
+TickTock: Uhh, I can't answer this. That's interesting.
+Appropriateness: 3
+Strategy: ['end']
+
+Turn: 4
+You: no i do not want to see a gamje
+TickTock: what is 'gamje'?
+Appropriateness: 1
+Strategy: ['init', 'oov']
+
+Turn: 5
+You:  it's a typo
+TickTock: Can we talk about something else?
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 6
+You: sure, why not
+TickTock: Because potheads are incapable of following simple instructions and getting a job done.
+Appropriateness: 1
+Strategy: ['continue']
+
+Turn: 7
+You: and notw your going of ona tangent
+TickTock: what is 'notw'?
+Appropriateness: 3
+Strategy: ['anaphora', 'end', 'oov']
+
+Turn: 8
+You: a typo of now
+TickTock: Can we talk about something else?
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 9
+You: actually for an AI you're pretty dumb
+TickTock:  Do you want to see a game together some time?
+Appropriateness: 3
+Strategy: ['init']
+
+Turn: 10
+You: didn't I just say no?
+TickTock: Hmm . But anyway , I 'd like to chat with you.
+Appropriateness: 3
+Strategy: ['continue']
+

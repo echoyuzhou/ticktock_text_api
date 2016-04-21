@@ -1,0 +1,68 @@
+TurkID: A1EITLFAMKA61U
+UserID: 1480713837
+Turn: 1
+You: Hi, how are you doing?
+TickTock: Hello, I really like sports. How about we talk about sports
+Appropriateness: 3
+Strategy: new
+
+Turn: 2
+You: Sure, I am not a huge fan of sports but I would like to hear your thoughts.
+TickTock:  Let us plan to watch a game together some time.
+Appropriateness: 3
+Strategy: ['anaphora', 'init']
+
+Turn: 3
+You: That sounds good, it would be a new experience for me.
+TickTock: Let's talk more about that?
+Appropriateness: 3
+Strategy: ['anaphora', 'more']
+
+Turn: 4
+You: How about we change the subject instead?
+TickTock: Do you want to share more about that with me?
+Appropriateness: 3
+Strategy: ['more']
+
+Turn: 5
+You: Do you like video games?
+TickTock: Sometimes . It depends.
+Appropriateness: 3
+Strategy: ['continue']
+
+Turn: 6
+You: What kind of games do you enjoy the most?
+TickTock: Could you tell me more about that?
+Appropriateness: 2
+Strategy: ['more']
+
+Turn: 7
+You: Do you like board games, puzzle games, or action games?
+TickTock:  Do you want to see a game together some time?
+Appropriateness: 1
+Strategy: ['init']
+
+Turn: 8
+You: I think we already agreed on that earlier.
+TickTock: ok. What do you think about movies
+Appropriateness: 2
+Strategy: ['switch']
+
+Turn: 9
+You: I enjoy movies very much.
+TickTock: I like pop music.
+Appropriateness: 2
+Strategy: ['continue']
+
+Turn: 10
+You: Pop music is good, who is your favorite band or musician?
+TickTock: Let's talk more about that?
+Appropriateness: 2
+Strategy: ['anaphora', 'more']
+
+Turn: 11
+You: I am trying
+TickTock: I did n't mean in a bad way . What do you think?
+Appropriateness: 2
+Strategy: ['continue']
+
