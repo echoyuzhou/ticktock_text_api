@@ -7,8 +7,8 @@ def find_NE(t,name_entity): # only return the first NE found, will ignore the re
     try:
         t.label()
     except AttributeError:
-        print t
-        #return None
+        #print t
+        return None
     else:
         # now we know that t.node is defined
         if t.label() == 'NE':

@@ -13,7 +13,7 @@ for key in keys:
     for turn_id in range(1,12):
         state = (key[0],key[1],key[2],turn_id)
         action = key[3]
-        reward_table[state,action] = (table_value[key]-1.5)*10
+        reward_table[state,action] = (table_value[key]-1.5)*20-turn_id
 #when there is null involved, we make the reward table manually
 for turn_id in range(1,12):
     for action in ['joke','more','switch','end','more']:

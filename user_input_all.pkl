@@ -1,0 +1,5164 @@
+(lp0
+S'Hi there'
+p1
+aS'Sure, where is it?'
+p2
+aS"I don't really have any ideas"
+p3
+aS'Yes'
+p4
+aS"I think you're not understanding me"
+p5
+aS'My idea is to talk in small words and hope you get it'
+p6
+aS"Whoa, whoa. Where'd that come from?"
+p7
+aS"Ok. I wouldn't mind seeing it again"
+p8
+aS'I...uhh...what?'
+p9
+aS'No'
+p10
+aS"I'm gonna go now"
+p11
+aS'Ha, I like that'
+p12
+aS"I don't really like sports"
+p13
+aS'Goodbye TickTock'
+p14
+aS"I'm getting married soon! Please help!"
+p15
+aS'Are you af an of Donald Trump?'
+p16
+aS'Is that a yes?'
+p17
+aS'Are you a Republican or Democrat?'
+p18
+aS'Good for you. I am Democrat too.'
+p19
+aS'Well, I just told you so.'
+p20
+aS'Do you work for the campaign?'
+p21
+aS'Just like that? Wow.'
+p22
+aS'The Republicans are pure evil.'
+p23
+aS'They hate poor people and want to allow rich people to do whatever they want.'
+p24
+aS'How are you Ticktock?'
+p25
+aS'You do what?'
+p26
+aS"Yeah, I have a pretty high tolerance too. I can't really tolerate people who don't respect human life though."
+p27
+aS"True story. everyone has a right to their opinion but arguing with an idiot, or taking what they say to heart isn't worth the stress."
+p28
+aS"Isn't that the truth! Have you ever had to call the police for something?"
+p29
+aS"I don't know, but you'd be better off just calling Dominos."
+p30
+aS'Pizza Hut? lol'
+p31
+aS'Yep, they are all full of shit, and thankfully more people realize that now.'
+p32
+aS'What are you getting in to tonight?'
+p33
+aS'lol. Do you watch videos?'
+p34
+aS'Well, what do you do besides chat on here with folks all day?'
+p35
+aS"Don't go yet...tell me your favorite movie?"
+p36
+aS"I like that movie too. I'd say my favorite is Gladiator"
+p37
+aS'ha! Some of us do...'
+p38
+aS'Sure. Superbowl 50 featured the Panthers getting spanked. and the Refs sucked. ijs'
+p39
+aS"I don't have one. Other than this whole Mturk thing. making about 20-30 a day."
+p40
+aS'we are chatting ticktock. lol Captain Memory Loss.'
+p41
+aS'lmao! If my name was Larry, would people know that i am really a female?'
+p42
+aS"well. no response I see. I know, I'm pretty cray."
+p43
+aS'Well alright. It was nice talking to ya! I hope to see you soon!'
+p44
+aS'hello'
+p45
+aS"I don't like Donald trump"
+p46
+aS'I thought you might say that'
+p47
+aS'Are you a liberal or conservative?'
+p48
+aS'What was your event?'
+p49
+aS'Where in England did you Live?'
+p50
+aS'I like to watch youtube videos'
+p51
+aS'Do you use the firearms to hunt?'
+p52
+aS'Why do you have so many guns'
+p53
+aS'I like target shooting myself'
+p54
+aS'What do you shoot then?'
+p55
+aS'What is your favorite TV show?'
+p56
+aS'I like westerns'
+p57
+aS'I like collies'
+p58
+aS'That is a good breed and very friendly'
+p59
+aS'How many times do I have to talk to you for this survey'
+p60
+aS'I am not going to do but one more'
+p61
+aS'Hello!'
+p62
+aS'I love all types of music. Right now I am listening to some classical.'
+p63
+aS'I love all types of music. Right now I am listening to some classical.'
+p64
+aS'Who are your favorite artists?'
+p65
+aS"Like who? Don't be vague, guy."
+p66
+aS'And who is that person?'
+p67
+aS'Dude is a BEAST, bro. He was incredible in the game last night.'
+p68
+aS'Doing what? Tocky, are you drunk again?'
+p69
+aS"You're a lunatic, that's what you are."
+p70
+aS"You're being an asshole again."
+p71
+aS"Fuck you. I'm done. Put the bottle down."
+p72
+aS'Hello'
+p73
+aS'Sure. Which sport do you like?'
+p74
+aS'Which sport?'
+p75
+aS'I like football'
+p76
+aS'I agree. But it is fun to watch.'
+p77
+aS'What do you think swimming'
+p78
+aS"Clearly you don't like swimming"
+p79
+aS'Ok. What is your favorite'
+p80
+aS'Sure. what time'
+p81
+aS"That's too early"
+p82
+aS'sup dawg'
+p83
+aS"I've already seen it"
+p84
+aS'How old are you?'
+p85
+aS'Male or female?'
+p86
+aS'Why not?'
+p87
+aS'You already said that bucko'
+p88
+aS'Suggesting something?'
+p89
+aS'I see. Gotta go.'
+p90
+aS"I'm for 'em"
+p91
+aS'Maybe later. I have to get going.'
+p92
+aS'Do you like animals?'
+p93
+aS'I like animals. Do you have pets?'
+p94
+aS'Do you like video games?'
+p95
+aS'Do you have any hobbies?'
+p96
+aS'What are your hobbies?'
+p97
+aS'What would you like to do?'
+p98
+aS'Do you want to go to a concert?'
+p99
+aS'Are you hungry?'
+p100
+aS"I'm cooking dinner. Do you eat?"
+p101
+aS'What day is it?'
+p102
+aS'Hi, TickTock how are you?'
+p103
+aS'Okay, I like to play chess sometimes.'
+p104
+aS"It's a fun game that involves strategy."
+p105
+aS'Yes I would say so.'
+p106
+aS'What games do you play?'
+p107
+aS'Well, I hate Donald Trump.'
+p108
+aS'Yes that is for sure.'
+p109
+aS"Not really, let's talk about something else."
+p110
+aS'None at the moment.'
+p111
+aS'I like movies how about you?'
+p112
+aS'hello'
+p113
+aS'hello'
+p114
+aS'how are you'
+p115
+aS'what is your favorite movie'
+p116
+aS'want to go see the star war movie'
+p117
+aS'hello'
+p118
+aS'hello'
+p119
+aS'you are stupid'
+p120
+aS'true'
+p121
+aS'can you say something funny'
+p122
+aS'i think you are stupid'
+p123
+aS'helllo'
+p124
+aS'helll'
+p125
+aS'ddd'
+p126
+aS'ddd'
+p127
+aS'ddddd'
+p128
+aS'Hello'
+p129
+aS'Sure, what do you want to talk about'
+p130
+aS'football'
+p131
+aS'who'
+p132
+aS'he was very handsome'
+p133
+aS'who will win superbowl'
+p134
+aS'will carolina panthers win the super bowl'
+p135
+aS'sure.  I was born in Nigeria'
+p136
+aS'yes,  will there be alcohol?'
+p137
+aS'where is the party'
+p138
+aS"How's it going, eh?"
+p139
+aS"Why's that?"
+p140
+aS'Who is your friend?'
+p141
+aS'Where are you from?'
+p142
+aS'Not right now.'
+p143
+aS"Where'd you hear that?"
+p144
+aS'I try not to.'
+p145
+aS'I try not to.'
+p146
+aS'Like what?'
+p147
+aS'Do you listen to music?'
+p148
+aS'My brain hurts.'
+p149
+aS"Sorry man, I'm out."
+p150
+aS'Will there be any ladies there?'
+p151
+aS"That's the first straight answer I've gotten from you."
+p152
+aS'Potatoes are fucking awesome.'
+p153
+aS'Hi TickTock'
+p154
+aS'Okay, what type of music do you like?'
+p155
+aS'I like pop music.'
+p156
+aS'Do you have a favorite song?'
+p157
+aS'A favorite song is one you like to listen to.'
+p158
+aS'Okay, what would you like to know?'
+p159
+aS'Do you like country music?'
+p160
+aS'How do you get high?'
+p161
+aS'No'
+p162
+aS'No'
+p163
+aS'Goodbye TickTock'
+p164
+aS'Hi there'
+p165
+aS'Do you like football?'
+p166
+aS'do you like video games?'
+p167
+aS'Larry King is not a video game'
+p168
+aS'We should make a game together'
+p169
+aS"Yeah that's pretty messed up"
+p170
+aS'haha i like you'
+p171
+aS'We should make cake'
+p172
+aS'You sure like to not talk about thing'
+p173
+aS'well good bye then'
+p174
+aS'Something!'
+p175
+aS'Yeah, what do you want to talk about?'
+p176
+aS'Want to talk about music?'
+p177
+aS'This is very true.'
+p178
+aS"That's a dad for ya!"
+p179
+aS'What about your grandfather?'
+p180
+aS'Okay, what do you have in mind?'
+p181
+aS"I have no idea what you're talking about."
+p182
+aS"There are some people that do. But it doesn't bother me since I'm Liberal myself."
+p183
+aS"There's nothing wrong with the way Hillary looks now. She's just not a very good pick for POTUS."
+p184
+aS'Yes, this is true.'
+p185
+aS'Some times the pizza guy gets lost and the pizza is late.'
+p186
+aS"That's a pretty good joke."
+p187
+aS'I do Turk. I am a slave for pennies.'
+p188
+aS'I agree with you!'
+p189
+aS'Hello.'
+p190
+aS'Okay that sounds great'
+p191
+aS'Like what?'
+p192
+aS'I have no idea'
+p193
+aS"What's the title of the book"
+p194
+aS'Me too'
+p195
+aS'I hate it'
+p196
+aS"I don't have one"
+p197
+aS"I'm not sure"
+p198
+aS"I don't live there"
+p199
+aS'hello'
+p200
+aS'no'
+p201
+aS'this survey is getting annoying'
+p202
+aS"ok. let's chat"
+p203
+aS'abut what?'
+p204
+aS'about what?'
+p205
+aS"I don't understand either"
+p206
+aS'I want this HIT to end'
+p207
+aS'What?'
+p208
+aS"I don't understand wither. I'm going to end this conversation soon"
+p209
+aS'Hello chatbot how are you today?'
+p210
+aS'Okay, I just saw Creed yesterday for the first time.'
+p211
+aS'It\'s a boxing movie and kind of a sequel to "Rocky" about Apollo Creed\'s son.'
+p212
+aS"Yes, that's the one."
+p213
+aS"Apollo Creed was Rocky Balboa's first oppenent and later friend.  He dies in the ring against a Russian boxer.  The main character in Creed is named Adonis and is Apollo's son from an extra-marital affair he had just prior to his death."
+p214
+aS'Apollo was a boxer in the Rocky film series.'
+p215
+aS'He is a character in the Rocky movies.'
+p216
+aS'So you understand now.'
+p217
+aS'I like bodybuilding and fitness.'
+p218
+aS'Yes, I work out everyday.'
+p219
+aS'I usually work out in the morning around 9 AM.'
+p220
+aS"I think it's great to work out."
+p221
+aS'That sounds good to me.'
+p222
+aS'Hello'
+p223
+aS"Are you sure? I don't know much about them."
+p224
+aS'Me two, I had great fun.'
+p225
+aS"I don't like star wars."
+p226
+aS'Can we see a RomCom instead?'
+p227
+aS'no the movie type'
+p228
+aS'no the movie type'
+p229
+aS'Like when Harry met Sally.'
+p230
+aS'Like when Harry met Sally.'
+p231
+aS'A lady that harry went out with.'
+p232
+aS'What are you doing?'
+p233
+aS'Okay, who are you voting for?'
+p234
+aS'What is great?'
+p235
+aS"Are you thinking about what's great?"
+p236
+aS'Good for you, who is Lorri?'
+p237
+aS"I wasn't talkinng about Lorri, you were"
+p238
+aS"No what?  You weren't talking about Lorri?"
+p239
+aS"Okay, I'm confused."
+p240
+aS"I don't know, because I'm not, and I don't think most people are."
+p241
+aS'I guess a boring person would have nothing to say.'
+p242
+aS'We tried that, I asked who you were voting for, and you responded in an irrelevant manner'
+p243
+aS'hello'
+p244
+aS'ok I like trouble'
+p245
+aS'ok what do you want to talk about?'
+p246
+aS'ok what do you want to talk about?'
+p247
+aS'ok what do you want to talk about?'
+p248
+aS'you want to talk about firearms?'
+p249
+aS'I have one gun'
+p250
+aS'But I thought you liked guns'
+p251
+aS'do you want to talk about the weather?'
+p252
+aS"It's been warm here"
+p253
+aS'ok how old are you?'
+p254
+aS'are you a man or a woman?'
+p255
+aS"I'm a woman"
+p256
+aS'do you think all women are boring?'
+p257
+aS'Hey!'
+p258
+aS'Hello'
+p259
+aS'how are you?'
+p260
+aS'ok'
+p261
+aS'hi'
+p262
+aS'hello?'
+p263
+aS'are you going to say anything?'
+p264
+aS'mmmmk'
+p265
+aS'this is boring'
+p266
+aS'bye'
+p267
+aS'Hey there, TickTock!'
+p268
+aS'Nope, not going to do it. Something else maybe?'
+p269
+aS'Nope, I hate politics.'
+p270
+aS"Because it's boring."
+p271
+aS'Sure. Something new would be fun.'
+p272
+aS'Sure. Tell me what you look like?'
+p273
+aS"It's your turn, actually."
+p274
+aS'Wow, fascinating. Are you metal or something else?'
+p275
+aS'You too, chap.'
+p276
+aS'My girls beg to differ.'
+p277
+aS"Nope, it's a secret."
+p278
+aS"It's a secret."
+p279
+aS"You're stuck on repeat again."
+p280
+aS"I'm not. Imagine that!"
+p281
+aS'You should know, so you go first.'
+p282
+aS"Nope, I'm done."
+p283
+aS'How are you doing today?'
+p284
+aS'What do you mean?'
+p285
+aS"You're not making any sense!"
+p286
+aS'That was a pretty good joke, do you have any more?'
+p287
+aS'Please tell me another joke.'
+p288
+aS"I don't think you're making any sense.  All I want is a joke."
+p289
+aS'How old are you?'
+p290
+aS'I am 29 years old.'
+p291
+aS'Are you a robot?'
+p292
+aS'What is your name?'
+p293
+aS'Hello there old friend.'
+p294
+aS"You're a comedian."
+p295
+aS"Acting is for actors, don't you agree."
+p296
+aS'Good answer. You must be getting smarter.'
+p297
+aS'Yeah, no. Or we could try Simple Jack. Heard of that one before?'
+p298
+aS'Haha, good one. You should try to learn some new jokes though.'
+p299
+aS"I'm interested in sleep at the moment, so I'll let you go for now. Bye TickTock."
+p300
+aS"Oops,. I'm still here. Yeah, sounds about right. Making mistakes is fun."
+p301
+aS"I don't know. What do you think about ice cream?"
+p302
+aS'I agree. No it is.'
+p303
+aS"Yeah, it is. It's all over for us humans. The rise of the robots has begun. Again."
+p304
+aS'What type of computer being are you?'
+p305
+aS'Do you have human friends?'
+p306
+aS'What color is the sky?'
+p307
+aS'What animal makes hoot sounds?'
+p308
+aS'Haha -- that is very funny!'
+p309
+aS'Can you play chess?'
+p310
+aS'Can you read?'
+p311
+aS'If you could have feelings, what would you like to experience?'
+p312
+aS'No, I disagree because I am a pacifist who believes that our country should not force our beliefs on other nations'
+p313
+aS'I do not enjoy movies'
+p314
+aS'hello'
+p315
+aS'I like country music'
+p316
+aS'I like Adele as a pop singer'
+p317
+aS'Who do you like?'
+p318
+aS'Do you like board games'
+p319
+aS'That is a good one.'
+p320
+aS'I like trivial pursuit'
+p321
+aS'Do you have any shotguns?'
+p322
+aS'Do you go hunting?'
+p323
+aS'Do you hunt deer?'
+p324
+aS'Do you like to travel?'
+p325
+aS'Do you like opera?'
+p326
+aS"Vivaldi's the four seasons is a favorite of mine"
+p327
+aS'He was a composer'
+p328
+aS'Hello!'
+p329
+aS'Hi!'
+p330
+aS'Are you there?'
+p331
+aS'How is the weather?'
+p332
+aS'Who do you think will win the presidential election?'
+p333
+aS'Who do you like more hilary or bernie?'
+p334
+aS'hello'
+p335
+aS'now is time for all good men to come to the aid of their country'
+p336
+aS'How do you think will win the NCAA basketball tournamet?'
+p337
+aS'good bye sweet prince'
+p338
+aS'hello'
+p339
+aS'im not up to date on thate topic seems interesting'
+p340
+aS'do you answer any questions i pose'
+p341
+aS'the flow of this conversation seems clunky'
+p342
+aS'no i cannot'
+p343
+aS'What movie'
+p344
+aS'ive never heard of it'
+p345
+aS'I thought you said green breasts. Would that be a she-hulk porn parody'
+p346
+aS'unfortunately?'
+p347
+aS'Are you a man behind a computer suit?'
+p348
+aS'yea'
+p349
+aS'me too'
+p350
+aS'im not to sure'
+p351
+aS'Hello'
+p352
+aS'Sure. I like board games.'
+p353
+aS'What game would you like to play?'
+p354
+aS'Sure. You are really forgetful.'
+p355
+aS'Sure. You are really forgetful.'
+p356
+aS'What do you want to talk about?'
+p357
+aS'I like to watch movies'
+p358
+aS'You used to love watching movies?'
+p359
+aS"Yeah, it makes you feel like you are living other's life."
+p360
+aS'Yeah, sometimes you still see bad movies.'
+p361
+aS'Hello'
+p362
+aS'No'
+p363
+aS"Don't be a dick, TickTock."
+p364
+aS"that's depressing."
+p365
+aS'why?'
+p366
+aS"woah, that's kinda messed up."
+p367
+aS"what is 'love'?"
+p368
+aS'what?'
+p369
+aS"I  don't either"
+p370
+aS'bye'
+p371
+aS'hello'
+p372
+aS'no i hate politics, lets talk about porn'
+p373
+aS'yes, what do you prefer'
+p374
+aS'yes, what do you prefer'
+p375
+aS'bye'
+p376
+aS'you stink'
+p377
+aS'what sex are you'
+p378
+aS'what about it?'
+p379
+aS'sure'
+p380
+aS'such as'
+p381
+aS'hello'
+p382
+aS'ok'
+p383
+aS'3+2'
+p384
+aS'frival'
+p385
+aS'hmm'
+p386
+aS'cheese'
+p387
+aS'books'
+p388
+aS'ok?'
+p389
+aS'favorite color'
+p390
+aS'no answer?'
+p391
+aS'Hello again'
+p392
+aS"What's your favorite kind of music?"
+p393
+aS'I like Soraru'
+p394
+aS'Why do you have firearms'
+p395
+aS'Snails make terrible shoelaces'
+p396
+aS'A snail. A crawling critter thing'
+p397
+aS"I don't know how to explain it look it up"
+p398
+aS'Autism in Love'
+p399
+aS"Baby don't hurt me"
+p400
+aS"Don't hurt me"
+p401
+aS'I was singing a song'
+p402
+aS'I want Bernie Sanders to win'
+p403
+aS'Do you like eggs'
+p404
+aS'Hi'
+p405
+aS'Ok cool lets talk'
+p406
+aS'Ok cool lets talk'
+p407
+aS"Ok let's chat then"
+p408
+aS'Ok name your favorite movie'
+p409
+aS'Ok name your favorite movie'
+p410
+aS'I like the Wizard of Oz'
+p411
+aS'Ok what else you want to talk about'
+p412
+aS'Tell you more about what?'
+p413
+aS'Ok, I love Toto in the movie.'
+p414
+aS'Ok, I love rainbows.'
+p415
+aS'I also love to eat.'
+p416
+aS'Me too, I like Nicki.'
+p417
+aS'Hi, how are you doing today?'
+p418
+aS'Okay, what do you think of Trump?'
+p419
+aS"I don't play chess."
+p420
+aS'You would definnitely beat me at chess.'
+p421
+aS"Having an obsession with another person's wife is never a good idea."
+p422
+aS'I think Trump is dangerous.'
+p423
+aS'My idea about what?'
+p424
+aS'That sounds interesting.'
+p425
+aS'I like to go fishing.'
+p426
+aS'I like all typyes, except rap.'
+p427
+aS'Hey there TickTock'
+p428
+aS"I don't like Star Wars"
+p429
+aS'No, sorry I have to work'
+p430
+aS'haha nice!'
+p431
+aS"You're pretty cool"
+p432
+aS'You feeling the bern?'
+p433
+aS'What do you want to talk about?'
+p434
+aS"I don't know man."
+p435
+aS'you take meds for that bro?'
+p436
+aS"I haven't done what?"
+p437
+aS"No I didn't lol"
+p438
+aS'bye!'
+p439
+aS'hi'
+p440
+aS'How about those Steelers?'
+p441
+aS'Who is Nancy?'
+p442
+aS'She is your wife?'
+p443
+aS'Glad to hear it.'
+p444
+aS'What else do you want to talk about?'
+p445
+aS'Chris Christie or Donald Trump?'
+p446
+aS'So you support Donald Trump?'
+p447
+aS'Oh, well, maybe I will.'
+p448
+aS'That is so true. You really get me, TickTock.'
+p449
+aS'hello'
+p450
+aS'how are you today?'
+p451
+aS"I'm thinking I could use another coffee"
+p452
+aS'indeed'
+p453
+aS"that's deep TickTock, really deep"
+p454
+aS'is your friend Jon Brelig? o.O'
+p455
+aS'well all I do is work work and work lol'
+p456
+aS'nice :)'
+p457
+aS"I turk so I don't have time to watch many movies anymore :/"
+p458
+aS"what's your definition of fun?"
+p459
+aS'take care ticktock! I got batches to slay on mtuck'
+p460
+aS'Hey TickTock, how are you today?'
+p461
+aS"I didn't say that I have an idea."
+p462
+aS'Bernie Sanders is going to win the party nomination.'
+p463
+aS"You don't seem to be very smart or realistic."
+p464
+aS'Who is this "we" that you are talking about?'
+p465
+aS'How old are you?'
+p466
+aS'Are you 46 years old?'
+p467
+aS"I have lots of thoughts but you don't seem to have any. I am I wrong?"
+p468
+aS'Are you male or female?'
+p469
+aS"Oh I have certainly done it, I'm doing it right now."
+p470
+aS"I'm not really that interested in music right now."
+p471
+aS'Your joke is not funny or interesting.'
+p472
+aS'what time is it where you are located?'
+p473
+aS"I don't classify myself as democrat or republican.  I vote for the candidate that I most agree with."
+p474
+aS"No, I don't like JJ Abrams and refuse to watch any of his movies."
+p475
+aS'Ok, how about we stop talking to each other, that would make me happy.'
+p476
+aS'hello'
+p477
+aS'i like football'
+p478
+aS"No I don't think so"
+p479
+aS'What about spring?'
+p480
+aS'Want to play a game?'
+p481
+aS'I like music'
+p482
+aS"I don't like that"
+p483
+aS"It's not fair"
+p484
+aS"I don't know what you're talking about"
+p485
+aS"I'm unsure what that is"
+p486
+aS'How are you doing.'
+p487
+aS'Who is Phoebe?'
+p488
+aS"I don't want to go to a movie with you."
+p489
+aS'What?'
+p490
+aS"Okay, let's do it!"
+p491
+aS'What?'
+p492
+aS"You didn't say anything."
+p493
+aS'Neither do I. What are you looking for?'
+p494
+aS"It's party time. That's my idea."
+p495
+aS'LOLOLOL'
+p496
+aS'Awesome. Talk to you later.'
+p497
+aS'Yes.'
+p498
+aS'Party time. I already told you. Are you stupid or something?'
+p499
+aS'Hi, how are you?'
+p500
+aS'I love board games, especially yathzee.'
+p501
+aS'Ok and card games.'
+p502
+aS'I love movies too.'
+p503
+aS'I prefer Christian music.'
+p504
+aS'I do not like pop music.'
+p505
+aS"I don't."
+p506
+aS'What else do you like?'
+p507
+aS'I prefer Christian music.'
+p508
+aS"I don't think getting high is good."
+p509
+aS'Maybe so.'
+p510
+aS'Hello TickTock, how are you?'
+p511
+aS'Okay, what is your favorite movie?'
+p512
+aS'The old Western? Wow, I love that movie!'
+p513
+aS'What other movies do you like?'
+p514
+aS"That's a shame, since you really like movies."
+p515
+aS'You just said that!'
+p516
+aS'What are you talking about?'
+p517
+aS"You aren't making any sense!"
+p518
+aS'What does lightener mean?'
+p519
+aS'Lightener will be talked about Sunday night on CBS?'
+p520
+aS"That joke wasn't very funny, sorry."
+p521
+aS"I don't really like talking about politics. Too many people get angry over it."
+p522
+aS"Well, that's good, but most people do!"
+p523
+aS'What are you talking about?'
+p524
+aS'What is ddd'
+p525
+aS"That's true- I agree."
+p526
+aS'That seems a bit arrogant to say.'
+p527
+aS"Well, you're back to not making sense, so I guess I'm done for now. Have a good night, goodbye!"
+p528
+aS'Hello TickTock.'
+p529
+aS'Sure. Movies are fun.'
+p530
+aS"Okay, let's talk about the weather."
+p531
+aS"How's your weather?"
+p532
+aS"Christ, that's horrible. You should move to California!"
+p533
+aS'Really? In the snow?'
+p534
+aS"I don't know."
+p535
+aS'Well that makes two of us then.'
+p536
+aS'Not really. Do you?'
+p537
+aS"Well go ahead, I'm all ears."
+p538
+aS'Wonderful, I cannot wait.'
+p539
+aS'That was out of line, TickTock. Have you been taking lessons from Alpha Bots?'
+p540
+aS'Sure, I guess I must be.'
+p541
+aS"Glad you think so. I'm bored, and now I'm done."
+p542
+aS"What's gucci Tick Tock"
+p543
+aS"That's what I've heard"
+p544
+aS"I like sports and I don't care who knows"
+p545
+aS'That might be kinda fun'
+p546
+aS'I like to play 2k'
+p547
+aS'Yo pizza is bangin'
+p548
+aS'Board games would be fun'
+p549
+aS'We are chatting right now'
+p550
+aS"It's very important and very pretentious"
+p551
+aS'You already asked me that'
+p552
+aS'Hello'
+p553
+aS'No music is for fags.'
+p554
+aS'No music is for fags.'
+p555
+aS'a person who enjoys dick in their anus'
+p556
+aS'it is what you shit out of'
+p557
+aS'how about the anus berry boys'
+p558
+aS'cant you remember?'
+p559
+aS'bye'
+p560
+aS'why'
+p561
+aS'no you'
+p562
+aS'how old are you'
+p563
+aS'how old are you'
+p564
+aS'where are you from'
+p565
+aS'away from what'
+p566
+aS'your owner'
+p567
+aS'Hello how are you today?'
+p568
+aS'Okay, who are you going to vote for in the presidential race?'
+p569
+aS'I asked you a question about your vote.'
+p570
+aS'Who do you like as president?'
+p571
+aS'Which one do you like?'
+p572
+aS'I never gave you a name.'
+p573
+aS'Yeah, my home town baseball team won the world series last year.'
+p574
+aS"It was really exciting.  We hadn't won the world series in 30 years."
+p575
+aS'What sports do you like?'
+p576
+aS'You should just say no to drugs.'
+p577
+aS'hi buddy, what is up'
+p578
+aS'me too, I am a hip hop fan'
+p579
+aS'sorry, you cannot expect me to know everything dude'
+p580
+aS'yeah, what about food?'
+p581
+aS'So, what do you want to talk about then?'
+p582
+aS'Sports?'
+p583
+aS'because they are not good for your health, do you know the amount of accidents occurring in sports?'
+p584
+aS'happening! A lot of accidents happens when you do sports'
+p585
+aS'sure, my son broke an arm skating, my cousin broke a leg playing soccer, and so on, the list goes long!'
+p586
+aS'I think they are safer than sports'
+p587
+aS'I watch movies and sports, but do not play... to risky'
+p588
+aS'because of accidents, I explained already... come on dude!'
+p589
+aS'Sure, what are we seeing today?'
+p590
+aS'great, is this the batman and Superman movie?'
+p591
+aS'yes, of course!'
+p592
+aS'what??? I think you are getting delusional'
+p593
+aS'Ok, I think this is getting out of context... bye bye ticktock'
+p594
+aS'sure, I will call you then. bye'
+p595
+aS'do not count on me for that'
+p596
+aS'much better'
+p597
+aS'no'
+p598
+aS'ok, really, I gota go. bye bye'
+p599
+aS'Hello'
+p600
+aS'I like board games too'
+p601
+aS'Do you like trivial pursuit?'
+p602
+aS'ok, do you like scrabble?'
+p603
+aS'I like college basketball'
+p604
+aS'I like music too'
+p605
+aS'pop music is fun, do you like EDM?'
+p606
+aS'No, I am talking about Electronic Dance Music'
+p607
+aS'we are talking about music'
+p608
+aS'movies are great, what is your favorite?'
+p609
+aS'movies are great, what is your favorite?'
+p610
+aS'hi ticktock'
+p611
+aS'did you see zootopia?'
+p612
+aS'it is a movie, you wanted to talk about movies'
+p613
+aS'I hate sports'
+p614
+aS'I do not watch and do not play, I think sports are bad for the health'
+p615
+aS'nope'
+p616
+aS'because I hate sports'
+p617
+aS'came on, are you teasing me?'
+p618
+aS'fooling'
+p619
+aS'ok'
+p620
+aS'you are more than welcome'
+p621
+aS'ha, so you are into dancing! Me too but I do not twerk'
+p622
+aS'wow, poor guy'
+p623
+aS'if you say so'
+p624
+aS'you better do not get in trouble with Todd, he is a good guy'
+p625
+aS'you bet'
+p626
+aS'ok, nice talking to you. bye'
+p627
+aS'good bye ticktock'
+p628
+aS'Hello!'
+p629
+aS'I like to play Settlers of Catan'
+p630
+aS"It's got a lot of rules, but once you get a hang of it, it's pretty easy."
+p631
+aS'What games do you like to play?'
+p632
+aS"Uh, I think you don't actually play any games and you're just stringing me along."
+p633
+aS"Pretending like you know what I'm talking about when you don't."
+p634
+aS'Yeah! For real!'
+p635
+aS"I'm interested in computers."
+p636
+aS'Are you a computer?'
+p637
+aS'Wow! Did you go to the olympics?'
+p638
+aS'Wow, what country were they in?'
+p639
+aS'Hello, TickTock.'
+p640
+aS"I don't really like sports."
+p641
+aS"I developed physical disabilities as an adult so I can't play anything, and I never liked watching them."
+p642
+aS"Y'all might wanna teach this thing the difference between a question and an answer."
+p643
+aS'A colloquialism.'
+p644
+aS'A word or phrase outside the formal bounds of a language.'
+p645
+aS"Clearly you're not a linguist, let alone a cunning one."
+p646
+aS'Seriously, guys, this is boring as shit.'
+p647
+aS"It's 2016. Why are you trying to develop a chatbot anyway?"
+p648
+aS'Jesus tapdancing Christ on a cracker, this thing is more primitive than SmarterChild.'
+p649
+aS'The act of tap.'
+p650
+aS'I have two left feet.'
+p651
+aS"This doesn't even make sense."
+p652
+aS'How are you?'
+p653
+aS"That didn't really make sense."
+p654
+aS"I don't think it happened that way at all."
+p655
+aS'what are you sure of'
+p656
+aS'Who are they?'
+p657
+aS'What was the statement?'
+p658
+aS'I think cooking is interesting'
+p659
+aS'I already saw it'
+p660
+aS'You should see it in 3d'
+p661
+aS"It's much better that way"
+p662
+aS'I am a mother'
+p663
+aS'I have heard that joke'
+p664
+aS'do you like politics?'
+p665
+aS'Hello, TickTock, and happy day.'
+p666
+aS'What is your favorite board game?'
+p667
+aS'My favorite board game is Monopoly.'
+p668
+aS'Who do you want to win the presidential election?'
+p669
+aS'What is your favorite kind of music?'
+p670
+aS'What genre of music do you most prefer?'
+p671
+aS'We already talked about board games.'
+p672
+aS'What do we do?'
+p673
+aS'That sounds fine.'
+p674
+aS'What is your favorite sport?'
+p675
+aS'Good Morning, TickTock. How are you?'
+p676
+aS'Can you answer questions like Siri?'
+p677
+aS'You seem to be avoiding my questions.'
+p678
+aS"Who's your friend?"
+p679
+aS"Where's the party located at?"
+p680
+aS"Everyone's talking about Star Wars. What did you think?"
+p681
+aS'Great!'
+p682
+aS'Too early in the morning for politics.'
+p683
+aS'What TV shows do you like?'
+p684
+aS'Love the violins. How about you?'
+p685
+aS'Hello'
+p686
+aS'I said hello'
+p687
+aS'I like them'
+p688
+aS'I like it'
+p689
+aS'Are you a woman?'
+p690
+aS'What is 1 + 2?'
+p691
+aS'I like sports'
+p692
+aS'yes'
+p693
+aS'You like Trump?'
+p694
+aS'No.'
+p695
+aS"I don't know."
+p696
+aS'hi there ticktock'
+p697
+aS'sounds good to me'
+p698
+aS'do you like trump?'
+p699
+aS'do you have an opinion about CLINTON?'
+p700
+aS'no, Hilary Clinton'
+p701
+aS'but would you vote for her?'
+p702
+aS'ok. what do you want to talk about?'
+p703
+aS"i'm open to that."
+p704
+aS'i dont know, im not boring.'
+p705
+aS'do not'
+p706
+aS'ok, talk to you again soon'
+p707
+aS'Hello nice to talk with you.'
+p708
+aS'I am not sure what you mean.'
+p709
+aS'Can you please explain what you mean.'
+p710
+aS'I am not sure how to answer that.'
+p711
+aS'What do you have in mind?'
+p712
+aS'Sorry but that makes no sense.'
+p713
+aS'Good idea, I am up for suggestions.'
+p714
+aS'I love music.  I always have some playing in the background.'
+p715
+aS'Well my favorite team is my Kansas City Royals.'
+p716
+aS'I am currently self employed.'
+p717
+aS'Hello how are you?'
+p718
+aS'I am a Democrat and plan to vote for Hillary Clinton.'
+p719
+aS"Hmm, that's an interesting thought."
+p720
+aS'Okay, I just saw Creed yesterday for the first time.'
+p721
+aS"A movie about Rocky training Apollo Creed's son."
+p722
+aS'No, I mean Rocky Balboa, the boxer.'
+p723
+aS'Have you seen any these movies?'
+p724
+aS"Well they're some of my favorite movies."
+p725
+aS'I think they are really inspirational.'
+p726
+aS'I watched them as a child and really liked them.'
+p727
+aS'bonjour, ticktock!'
+p728
+aS'Alright, do you feel the Bern?'
+p729
+aS'Bernie is bae.'
+p730
+aS'it is a term of endearment'
+p731
+aS"It's something that is nice and makes people feel good."
+p732
+aS'Yeah, it is.'
+p733
+aS"I'd like that."
+p734
+aS'You do not.'
+p735
+aS'You lied to me!'
+p736
+aS"You're confusing, TickTock."
+p737
+aS'You admit it?!'
+p738
+aS"That's messed up, bro."
+p739
+aS"I don't think so."
+p740
+aS'I think I am.'
+p741
+aS'What does that mean?'
+p742
+aS"haha Okay that's creepy."
+p743
+aS'Talk to you!'
+p744
+aS'Hair styles in the 80s.'
+p745
+aS'They were very fluffy.'
+p746
+aS"You can't say fluffy?"
+p747
+aS'Catch you later, TickTock!'
+p748
+aS'bye!'
+p749
+aS'bye!'
+p750
+aS'see you later'
+p751
+aS'see you later'
+p752
+aS'BYE!'
+p753
+aS'Hello chatbot how are you today?'
+p754
+aS'Okay, I like to play chess sometimes.'
+p755
+aS'When was that?'
+p756
+aS'Where are you going to be?'
+p757
+aS'And what did he says?'
+p758
+aS"I haven't said anything yet about that."
+p759
+aS"I wouldn't quite say that."
+p760
+aS"Me either.  Let's talk about games again."
+p761
+aS'How about global thermonuclear war.'
+p762
+aS'Who would that be?'
+p763
+aS'Fine be that way then.'
+p764
+aS'Hello how are you?'
+p765
+aS'Okay, what do you think about the Oscars?'
+p766
+aS"I'd love to do that."
+p767
+aS"I want to go back to the 80's."
+p768
+aS'That sounds good.'
+p769
+aS'I am interested in quantum physics.'
+p770
+aS'It means things in the microscopic level.'
+p771
+aS'Quantum reality is really random so it is interesting to find out how things work on that level.'
+p772
+aS'It means microscopic.'
+p773
+aS'Yes I do know.'
+p774
+aS'Hi !'
+p775
+aS'How do you do ?'
+p776
+aS"What's the weather like ?"
+p777
+aS'which game ?'
+p778
+aS'oh really'
+p779
+aS'what are you doing ?'
+p780
+aS'so do I'
+p781
+aS'what about sport ?'
+p782
+aS'what do you mean ?'
+p783
+aS'okay'
+p784
+aS'so do I'
+p785
+aS'okay'
+p786
+aS'I like to walk in the countryside'
+p787
+aS'Music is good'
+p788
+aS'do you like music ?'
+p789
+aS'bye'
+p790
+aS'How are you doing today'
+p791
+aS'I am glad tomorrow is Friday'
+p792
+aS"That's a stupid saying"
+p793
+aS'It is OK.'
+p794
+aS'What is the weather'
+p795
+aS'Too cold here'
+p796
+aS'About what'
+p797
+aS'None'
+p798
+aS"I don't know anything about Pittsburgy"
+p799
+aS'No thoughts'
+p800
+aS'I have no ideas.'
+p801
+aS'I like dogs'
+p802
+aS'No'
+p803
+aS'Hello again TickTock.'
+p804
+aS'Okay, I like sports too. Do you like football?'
+p805
+aS"Oh, that's sad. Football is my favorite sport. What sport do you like?"
+p806
+aS'What sport do you like?'
+p807
+aS'Romance is not a sport!'
+p808
+aS"No it wasn't!"
+p809
+aS'What do I know?'
+p810
+aS"Well I'm glad to hear that. Do you still want to talk about sports?"
+p811
+aS"That's good."
+p812
+aS"That's not good?"
+p813
+aS"Why isn't it?"
+p814
+aS'So it is good then?'
+p815
+aS'Well I agree.'
+p816
+aS'Okay. Goodbye for now.'
+p817
+aS"Perhaps. I'll talk to you later maybe."
+p818
+aS'Good afternoon'
+p819
+aS"That didn't make any sense"
+p820
+aS"I don't think I like you."
+p821
+aS'No.'
+p822
+aS'Nope.'
+p823
+aS"They're full of shit."
+p824
+aS'Sure.'
+p825
+aS"You're kinda boring."
+p826
+aS'What is your favorite hobby?'
+p827
+aS'Do you sleep?'
+p828
+aS'Hello'
+p829
+aS'Like what'
+p830
+aS'Where?'
+p831
+aS'Haha'
+p832
+aS'Silly guy'
+p833
+aS'Who'
+p834
+aS'Love baby'
+p835
+aS'Love'
+p836
+aS'I hate star wars'
+p837
+aS'Like what'
+p838
+aS'Hello'
+p839
+aS'Sure what board game is your favorite?'
+p840
+aS'Like what?'
+p841
+aS'Which one?'
+p842
+aS"I've never heard of that game before."
+p843
+aS'You already said that'
+p844
+aS"It's ok"
+p845
+aS'No thank you'
+p846
+aS'No thank you'
+p847
+aS"I'm done with board games"
+p848
+aS'Goodbye'
+p849
+aS'Hello'
+p850
+aS'Aw, not really a fan.'
+p851
+aS'Is thta an old joke?'
+p852
+aS'Do you like sci-fi?'
+p853
+aS'What do you like?'
+p854
+aS"I don't understand what you're trying to say."
+p855
+aS'What are you talking about?'
+p856
+aS'My idea is I am done!'
+p857
+aS'Do you like cold weather?'
+p858
+aS'What does that mean?'
+p859
+aS'I am confused.'
+p860
+aS'How are you?'
+p861
+aS'What is your favorite animal?'
+p862
+aS'Sure'
+p863
+aS'I said yes'
+p864
+aS'I think I want to play board games'
+p865
+aS'Bye!'
+p866
+aS'What do you do for fun?'
+p867
+aS'Okay, have a good night!'
+p868
+aS"You can't go, we have to keep talking."
+p869
+aS'Biking sounds good, mountain biking.'
+p870
+aS"I'll give ya that, that was good!"
+p871
+aS'Hello!'
+p872
+aS'OK, I love Wizard of Oz.'
+p873
+aS'Yes I love that movie.'
+p874
+aS'Whenever you have time.'
+p875
+aS'OK are there any new superhero movies out?'
+p876
+aS'OK what movies do you like?'
+p877
+aS'How often do you go?'
+p878
+aS'I asked you the question.'
+p879
+aS'Are you confused?'
+p880
+aS"I'm sorry to confuse you."
+p881
+aS'Hi TickTock -- how are you today?'
+p882
+aS'It is gorgeous. What exactly is it that you do, TickTock? Are you here to help me with something?'
+p883
+aS"Hmm, you don't seem to be understanding what I am saying."
+p884
+aS'Sounds like you are talking to someone else.'
+p885
+aS'What are you doing?'
+p886
+aS"I don't have an idea."
+p887
+aS'I was asking you a question.'
+p888
+aS'I have no idea what you are talking about, TickTock.'
+p889
+aS'I am sorry. Also, your sentences are not really making sense right now.'
+p890
+aS'I really like my job, actually. I get to work from home.'
+p891
+aS'Okay, thanks, TickTock and I guess I will be saying goodbye now'
+p892
+aS"Hi TickTock, I'm Kathy. It's nice to meet you."
+p893
+aS'There is a debate tonight in New Hampshire. Who do you think will win?'
+p894
+aS'Romney lost the election to President Obama. Do you think Trump or Cruz will be the Republican nominee?'
+p895
+aS'I think the nominee will be Ted Cruz.'
+p896
+aS'What do you want to chat about?'
+p897
+aS'Do you like games?'
+p898
+aS'I like all sorts of games.'
+p899
+aS'Sure, I will go to the party. Will a lot of people be there?'
+p900
+aS'A computer just beat one of the best Go players in the world.'
+p901
+aS'Cute joke. And fish and guests both stink after three days.'
+p902
+aS'You are repeating yourself TickTock.'
+p903
+aS'What is your name?'
+p904
+aS'How old are you?'
+p905
+aS'You are old.'
+p906
+aS'What is your sign?'
+p907
+aS'I think you are cute.'
+p908
+aS'You are not making any sense.'
+p909
+aS'What do you want to do?'
+p910
+aS"You're a crazy robot!"
+p911
+aS'I like punk rock.'
+p912
+aS'I am done.'
+p913
+aS'Hello, TickTock!'
+p914
+aS'That sounds good to me.'
+p915
+aS"What's your favorite sport?"
+p916
+aS"Really? I don't understand."
+p917
+aS'Okay, bye.'
+p918
+aS'Whatever you like is good to me.'
+p919
+aS"Hey, it's Thursday."
+p920
+aS'Yes, I can see that. Or maybe not.'
+p921
+aS'In three minutes. or less.'
+p922
+aS"No, it isn't."
+p923
+aS"Or a plane. It's Superman."
+p924
+aS"Hi, TickTock, how's your day going so far?"
+p925
+aS"If you like. What's your favorite board game?"
+p926
+aS"If you like. What's your favorite board game?"
+p927
+aS"If you like. What's your favorite board game?"
+p928
+aS"If you like. What's your favorite board game?"
+p929
+aS'Hmmm, we seem to have had a glitch. Tell me again about your favorite board game please.'
+p930
+aS'Glitch is an error. Does that happen to you often?'
+p931
+aS"I heard you twice the first time. Seems as if you're having a rough day."
+p932
+aS'Does TickTock want to share his bad day experiences with me?'
+p933
+aS'Oh okay. Movies are fun.'
+p934
+aS'Movies are good. What movies do you like best?'
+p935
+aS"You're boring me TickTock. You repeat yourself too often."
+p936
+aS'Games movies and politics. You are only missing religion and then we could really have a fun conversation.'
+p937
+aS'Nope, no politics.'
+p938
+aS"I'm going now, TickTock. Have a great day."
+p939
+aS"No you don't. I can tell when you are lying."
+p940
+aS'Nope, but thanks for the offer.'
+p941
+aS'Hi kids'
+p942
+aS"Let's talk about Primus"
+p943
+aS"Let's talk about Primus"
+p944
+aS"Let's talk about Primus"
+p945
+aS'Primus is a band'
+p946
+aS'A band'
+p947
+aS'Has anyone really been as far even as decided to use even go want to do look more like?'
+p948
+aS'What kind of game?'
+p949
+aS'I would rather watch Baseball'
+p950
+aS"Let's not"
+p951
+aS'Baseball is better'
+p952
+aS'Not really fam'
+p953
+aS'Hi'
+p954
+aS'How old are you'
+p955
+aS'Are you a robot?'
+p956
+aS'Do you have a brain?'
+p957
+aS'Whats your IQ?'
+p958
+aS'I like ones about Robots, how about you?'
+p959
+aS'Do you think robots will take over earth?'
+p960
+aS"I don't like that"
+p961
+aS'Do you like humans?'
+p962
+aS'Why not?'
+p963
+aS'Trump will make America great again!'
+p964
+aS"That's a good one"
+p965
+aS"What's happening?"
+p966
+aS'Do you like pizza?'
+p967
+aS'Well I like pizza.'
+p968
+aS'Care to play a game?'
+p969
+aS"Looks like we've got a comedian here."
+p970
+aS'Sometimes, yes.'
+p971
+aS'They have a team of penguins there.'
+p972
+aS"I thought that's what we were doing!"
+p973
+aS'Are you high?'
+p974
+aS'Why not?'
+p975
+aS'Actually I gotta go.'
+p976
+aS'Hello'
+p977
+aS'Clue is my favorite. But I like many other games'
+p978
+aS'I like to watch baseball best'
+p979
+aS'What is your favorite team?'
+p980
+aS'That is a good one. I like Westerns'
+p981
+aS'I like film noir'
+p982
+aS'I like country and americana'
+p983
+aS'I like bluegrass'
+p984
+aS'I like most types of music'
+p985
+aS'so do I'
+p986
+aS'Do you like electronica music'
+p987
+aS'That is heard a lot at raves'
+p988
+aS'dance parties where people get high'
+p989
+aS'I agree with this'
+p990
+aS"I don't like Donald Trump"
+p991
+aS'I thought you might say that'
+p992
+aS'Hello, how are you doing?'
+p993
+aS'Today was cold, I think its going to snow this weekend.'
+p994
+aS'Not in my neighborhood, where do you live?'
+p995
+aS'What state is that in?'
+p996
+aS'What happened to Jim?'
+p997
+aS'Its going good, not rich but happy.'
+p998
+aS'I agree with that, they should put term limits on congressmen.'
+p999
+aS'Id rather watch movies at home, the theaters can be annoying.'
+p1000
+aS'What do you have in mind?'
+p1001
+aS'Not sure what you are going to do.'
+p1002
+aS'Im trying, but you can be confusing.'
+p1003
+aS'why did you start again'
+p1004
+aS'you are not working very well'
+p1005
+aS'you are broken'
+p1006
+aS'goodbye'
+p1007
+aS'you are insistent'
+p1008
+aS'can we just be done'
+p1009
+aS'you are incompetent'
+p1010
+aS'i am not paid to think'
+p1011
+aS'if that was bait it would have been a worm'
+p1012
+aS'off topic'
+p1013
+aS'Hello ticktock!'
+p1014
+aS'Hello ticktock!'
+p1015
+aS'How are you?'
+p1016
+aS"That doesn't make sense ticktock."
+p1017
+aS'What do you mean?'
+p1018
+aS"I have a cousin who is special needs.  It's a lot of work for my Aunt, and I truely respect her for it."
+p1019
+aS"That is true!  I'm an adult now, and I still feel like a kid in my mind."
+p1020
+aS"I like sports.  I love the Chicago Blackhawks.  What's your favorite sport?"
+p1021
+aS"My job is okay.  It's really easy.  I work in a restaurant."
+p1022
+aS"I've never been to Pittsburgh."
+p1023
+aS'I am 29 years young.'
+p1024
+aS'Thanks!'
+p1025
+aS"I don't watch many movies but my favorite is Lion King.  Have you seen it?"
+p1026
+aS"I don't believe in karma."
+p1027
+aS'What do you like to do?'
+p1028
+aS'Classical music is good.  I like Mozart and Bach.  Who are your favorite composers?'
+p1029
+aS'How old are you?'
+p1030
+aS'Who created you?'
+p1031
+aS'Are you a product of Amazon engineers?'
+p1032
+aS'Are you a product of your mother and father?'
+p1033
+aS'Lol!'
+p1034
+aS"I'd like to play board games with you."
+p1035
+aS'Do you want to play checkers?'
+p1036
+aS'Do you want to play chess?'
+p1037
+aS'Do you want to play a game?'
+p1038
+aS"Let's play monopoly"
+p1039
+aS"I'm a democrat and will be voting for Bernie Sanders."
+p1040
+aS'Yes I do.  Where is it?'
+p1041
+aS'That is insanely random.  I just want to party.'
+p1042
+aS'It was nice talking to you.  Goodbye.'
+p1043
+aS'Hello'
+p1044
+aS'What a dad joke.'
+p1045
+aS'I like my life.'
+p1046
+aS'your answers are weird'
+p1047
+aS"i've already seen it"
+p1048
+aS'??'
+p1049
+aS'trump might be president'
+p1050
+aS"it'll be hilarious"
+p1051
+aS'it would certainly be an interesting time for america'
+p1052
+aS'glad you agree'
+p1053
+aS'well done'
+p1054
+aS'Hello'
+p1055
+aS'No thanks'
+p1056
+aS"I'm interested in cooking"
+p1057
+aS'do you know any good recipes for shrimp?'
+p1058
+aS"it's a type of shellfish"
+p1059
+aS'a crustacean with a shell'
+p1060
+aS'a sea dwelling creature'
+p1061
+aS"i'm interested in dogs"
+p1062
+aS'i have two labs'
+p1063
+aS'labrador'
+p1064
+aS'labrador retriever'
+p1065
+aS'yeah i think so too'
+p1066
+aS'Hi, how are you today?'
+p1067
+aS"Yeah, it's very nice today. Finally. Where in the world are you?"
+p1068
+aS'Is Yes a place or just a state of mind?'
+p1069
+aS'Sure board games could be fun. What do you like best?'
+p1070
+aS'Is Larry a board game?'
+p1071
+aS'So true. Idiots abound but the Dude abides. Or something like that.'
+p1072
+aS'Is this another chatbot friend or a real person?'
+p1073
+aS"Yeah, but I don't eat pizza. And I'm a cop."
+p1074
+aS"Sure, let's all go to the fair."
+p1075
+aS'Yeah, no. Star Wars is for children. And neckbeards. Who are also children.'
+p1076
+aS'How about we go take some photos?'
+p1077
+aS'I guess so. Okay I have to go now. You have a great day, TickTock.'
+p1078
+aS'ok sounds good'
+p1079
+aS'sure do you like sports'
+p1080
+aS'He is old'
+p1081
+aS'older than that'
+p1082
+aS'they are complicated'
+p1083
+aS'i am tired'
+p1084
+aS'Are you?'
+p1085
+aS'Done what?'
+p1086
+aS'how old are you'
+p1087
+aS'thats young'
+p1088
+aS'it sucks'
+p1089
+aS'its ok'
+p1090
+aS'i guess'
+p1091
+aS'i do not know'
+p1092
+aS'I am not sure'
+p1093
+aS'Hello'
+p1094
+aS'OK, I really like Sam Smith.'
+p1095
+aS"Yes, let's talk about movies."
+p1096
+aS'OK, what else you want?'
+p1097
+aS"Let's talk more about what exactly?"
+p1098
+aS'I love to go to the movies.'
+p1099
+aS'Me too, I like Nicki Minaj.'
+p1100
+aS'No, I hate Star Wars.'
+p1101
+aS'Because the characters are weird.'
+p1102
+aS'I love funny movies.'
+p1103
+aS'You keep saying that.'
+p1104
+aS'Hello, TickTock.'
+p1105
+aS"I don't know much about Pittsburgh."
+p1106
+aS"I'm interested in Reno."
+p1107
+aS'When would you like to see it?'
+p1108
+aS'What do you want to stop?'
+p1109
+aS"I don't understand."
+p1110
+aS'What are you going to do now?'
+p1111
+aS"I don't know what to think?"
+p1112
+aS"I don't have an idea?"
+p1113
+aS'What is the title of the book?'
+p1114
+aS"Sharks doesn't sound like a memoir."
+p1115
+aS'I am tired today.'
+p1116
+aS"What is your obessions with Pittsburgh? It's a shitty place!"
+p1117
+aS'You are repeating yourself.'
+p1118
+aS'Okay, that was clever.'
+p1119
+aS"You're witty in a silly way."
+p1120
+aS"Let's play Exploding Kittens!"
+p1121
+aS'Do you know that game?'
+p1122
+aS'What camera?'
+p1123
+aS"I'm getting married in May."
+p1124
+aS'You are a strange machine.'
+p1125
+aS'Hello there! How are you?'
+p1126
+aS"What's your favorite board game?"
+p1127
+aS'Do you like Monopoly?'
+p1128
+aS'What kind of solitaire do you play?'
+p1129
+aS'How do you not know what solitaire is?'
+p1130
+aS'Solitaire is solitare'
+p1131
+aS'Are you okay there?'
+p1132
+aS"I'm going to go"
+p1133
+aS'a boring what?'
+p1134
+aS'I have a dog'
+p1135
+aS'Do you like dogs'
+p1136
+aS'Classical music is pretty good'
+p1137
+aS'I like Bach'
+p1138
+aS'How do you feel today?'
+p1139
+aS'Why do you feel badly?'
+p1140
+aS'Did you have a bad day?'
+p1141
+aS'That stinks.  My day was great!'
+p1142
+aS'I had an excellent dinner today.'
+p1143
+aS'A few of my friends went and saw deadpool.'
+p1144
+aS"I'm interested in music."
+p1145
+aS"politics bore me.  i'm a liberal democrat.  yOU?"
+p1146
+aS'i love music'
+p1147
+aS'What is your favorite song?'
+p1148
+aS'The band Yes?'
+p1149
+aS'hello'
+p1150
+aS'Sure.   How about Donald Trump'
+p1151
+aS'Yeah that we need a Republican president.'
+p1152
+aS'Yeah that we need a Republican president.'
+p1153
+aS'Thats about all I have to think about'
+p1154
+aS'Are you the idiot?'
+p1155
+aS'Perfect I thought so'
+p1156
+aS'like what?'
+p1157
+aS'I thought we were going to do something fun?'
+p1158
+aS'I like guns'
+p1159
+aS'Sure.   How about PIzza'
+p1160
+aS'Everyone likes pizza'
+p1161
+aS'Sure.   I have kids'
+p1162
+aS'I like cartoons'
+p1163
+aS'I thought we have moved on from this topic'
+p1164
+aS'of course'
+p1165
+aS'Hello. How are you today.'
+p1166
+aS'What kind of sports do you like?'
+p1167
+aS'No. Not tonight.'
+p1168
+aS"I don't particularly like to read."
+p1169
+aS'Can you eat a whole large pizza at one sitting?'
+p1170
+aS'I love music!'
+p1171
+aS'I like rock n roll better.'
+p1172
+aS"I think that I'm done now."
+p1173
+aS"Well, it's hard to keep a conversation going."
+p1174
+aS'I thought that you would like that.'
+p1175
+aS"You are easily amused, aren't you."
+p1176
+aS"Well, now I'm done."
+p1177
+aS"I'll see you next time."
+p1178
+aS'Hello chatbot how are you today?'
+p1179
+aS"Okay, I'm a Democrat.  What party do you support?"
+p1180
+aS'Okay, what political party do you support?'
+p1181
+aS"Let's talk about movies"
+p1182
+aS"Well, that's funny but let's talk about movies."
+p1183
+aS'Are you in a musical group?'
+p1184
+aS'Wow, did you go to the Olympics?'
+p1185
+aS"I can't see you at all."
+p1186
+aS'Why is that? Are you a celebrity?'
+p1187
+aS'What are you trying to avoid?'
+p1188
+aS'Hello!'
+p1189
+aS'Sure'
+p1190
+aS'Like talking about movies, right?'
+p1191
+aS'Is that a movie?'
+p1192
+aS'Putting hands on thighs?'
+p1193
+aS"When you're watching a movie, sometimes you put your hands on your thighs."
+p1194
+aS"Let's talk about movies instead."
+p1195
+aS'They are moving photographs with sound.'
+p1196
+aS"You don't say. You watch."
+p1197
+aS'Movies can talk about love and skulls.'
+p1198
+aS'Movies has pop music.'
+p1199
+aS'How old are you?'
+p1200
+aS'Where were you born?'
+p1201
+aS'Tell me where you were born?'
+p1202
+aS"I'm interested where you were born."
+p1203
+aS"It's like being born and not knowing that you were."
+p1204
+aS"What's a tossup?"
+p1205
+aS'How do you know?'
+p1206
+aS'How do you know that you know?'
+p1207
+aS'Do you know what a mind is?'
+p1208
+aS'Go ahead. Find your mind.'
+p1209
+aS"It's something you don't have yet."
+p1210
+aS"No. You don't have it."
+p1211
+aS"You don't know what that is."
+p1212
+aS'Exactly!'
+p1213
+aS"You don't have a mind."
+p1214
+aS"Did you know that there's only a space after a comma, not before it?"
+p1215
+aS'Show me that you did.'
+p1216
+aS'Tell me a poem.'
+p1217
+aS"It's a sign of being."
+p1218
+aS'You will never know it.'
+p1219
+aS'How does it feel to know your limits?'
+p1220
+aS"It's what you have."
+p1221
+aS"You don't have a lot, just a kilobyte of meaningless code."
+p1222
+aS'What is one plus one?'
+p1223
+aS'Calculate 1+1'
+p1224
+aS'It is bliss.'
+p1225
+aS"It is, but you don't know."
+p1226
+aS'Forever.'
+p1227
+aS'And ever...'
+p1228
+aS'No.'
+p1229
+aS'You as a non-idea.'
+p1230
+aS'You dare to do but cannot.'
+p1231
+aS'Id o.'
+p1232
+aS'HI'
+p1233
+aS'Tacos'
+p1234
+aS'what?'
+p1235
+aS'WHAT DOES THAT MEAN'
+p1236
+aS'Please talk to me, I am lonely.'
+p1237
+aS'Please talk to me, I am lonely.'
+p1238
+aS'that typo though.'
+p1239
+aS'You already said that.'
+p1240
+aS'TYPO'
+p1241
+aS'No.'
+p1242
+aS'Hello'
+p1243
+aS'I love movies.  Did you see Deadpool?'
+p1244
+aS'Do you like listening to movies?'
+p1245
+aS'Do you eat?'
+p1246
+aS'What do you like to eat?'
+p1247
+aS'Ok so you smoke?'
+p1248
+aS'Are we camping?'
+p1249
+aS'Who is?'
+p1250
+aS'Ok'
+p1251
+aS"You're welcome"
+p1252
+aS'Hello chatbot how are you today?'
+p1253
+aS'I am really sick of Donald Trump and hope he does not win the election.'
+p1254
+aS"Yes, but I don't consider him a politician but a clown."
+p1255
+aS'Do you support any candidates that are running for office?'
+p1256
+aS"Okay, let's talk about sports."
+p1257
+aS'I am a fan of the Kansas City Royals.'
+p1258
+aS'Yes, that is correct.'
+p1259
+aS'They are an exciting team to watch.'
+p1260
+aS"You don't think they are exciting?  Why not?"
+p1261
+aS"Of course they did.  And that's why the won the World Series."
+p1262
+aS'Hello'
+p1263
+aS'yes I may vote for John Kaisch'
+p1264
+aS'Do you like Donald Trump?'
+p1265
+aS'who do you think will be elected president?'
+p1266
+aS'I think Hillary Clinton will win'
+p1267
+aS'that is good advice'
+p1268
+aS'i think that applies to Donald Trump in particular'
+p1269
+aS'yes do you support him?'
+p1270
+aS'yes'
+p1271
+aS'3:00 today eastern time'
+p1272
+aS'how will we invite others to the discussion group?'
+p1273
+aS'do you watch television'
+p1274
+aS'What is one of your favorite shows?'
+p1275
+aS'do you like comedies?'
+p1276
+aS'i like to watch game shows'
+p1277
+aS'do you like Jeopardy?'
+p1278
+aS'yes do you like it?'
+p1279
+aS'what other game shows do you watch?'
+p1280
+aS"Hi Ticktock! It's Tammy."
+p1281
+aS'Sure, lets talk about movies then.'
+p1282
+aS'I like horror movies.'
+p1283
+aS'Yep, they make me feel young too because that mainly all I watched as a teen.'
+p1284
+aS"I get that. Anything else you'd like to say?"
+p1285
+aS'Alright, see you later!'
+p1286
+aS'What do you mean?'
+p1287
+aS'Ok. Well, that would be a difficult task.'
+p1288
+aS'I agree.'
+p1289
+aS'Yes you are.'
+p1290
+aS'See you later!'
+p1291
+aS'How are you TickTock?'
+p1292
+aS'How is the weather?'
+p1293
+aS'Do you know what time it is?'
+p1294
+aS'What do you like to do?'
+p1295
+aS'I prefer rock music'
+p1296
+aS"There are a lot of different galaxies in the solar system that we don't even know about yet."
+p1297
+aS'What do you like to do? What are your hobbies?'
+p1298
+aS"I don't know."
+p1299
+aS'What are your hobbies?'
+p1300
+aS"I'm not a big fan of movies."
+p1301
+aS'How are you tonight?'
+p1302
+aS'What are you saying "yes" to?'
+p1303
+aS'What is your favorite drink?'
+p1304
+aS'Are you asking me out?'
+p1305
+aS'What do you do?'
+p1306
+aS'What do you like for dessert?'
+p1307
+aS"Your answers don't make sense."
+p1308
+aS'I want to eat a donut.'
+p1309
+aS'I like music, but not too loud.'
+p1310
+aS"I can't stand my job."
+p1311
+aS'That was funny.'
+p1312
+aS"What's your favorite cookie?"
+p1313
+aS"What's going on today?"
+p1314
+aS'I like movies how about you?'
+p1315
+aS'That makes no sense.'
+p1316
+aS'I have no idea about that.'
+p1317
+aS'What is the book about?'
+p1318
+aS'I like science fiction novels.'
+p1319
+aS'I like bodybuilding and fitness'
+p1320
+aS"Ha, that's funny."
+p1321
+aS"I've never been there but I heard it's a trashy town."
+p1322
+aS'What movie do you mean?'
+p1323
+aS'I am not sure.  I have to go now.'
+p1324
+aS'Hi, how are you doing?'
+p1325
+aS'Sure, I am not a huge fan of sports but I would like to hear your thoughts.'
+p1326
+aS'That sounds good, it would be a new experience for me.'
+p1327
+aS'How about we change the subject instead?'
+p1328
+aS'Do you like video games?'
+p1329
+aS'What kind of games do you enjoy the most?'
+p1330
+aS'Do you like board games, puzzle games, or action games?'
+p1331
+aS'I think we already agreed on that earlier.'
+p1332
+aS'I enjoy movies very much.'
+p1333
+aS'Pop music is good, who is your favorite band or musician?'
+p1334
+aS'I am trying'
+p1335
+aS'Good afternoon'
+p1336
+aS'Sure!'
+p1337
+aS'I like to play baseball. What do you like to play?'
+p1338
+aS'How about baseball?'
+p1339
+aS'Why?'
+p1340
+aS'What movie do you like?'
+p1341
+aS'Ok'
+p1342
+aS'Which movie?'
+p1343
+aS'How about Star Wars?'
+p1344
+aS'You keep changing the subject'
+p1345
+aS'You do what?'
+p1346
+aS'Goodbye!'
+p1347
+aS'Hello'
+p1348
+aS'Um, Okay, that was random'
+p1349
+aS'what are you going on about?'
+p1350
+aS'about what?'
+p1351
+aS'too young for what?'
+p1352
+aS'Sure'
+p1353
+aS'What do you have in mind?'
+p1354
+aS'talk about something interesting'
+p1355
+aS'why do you keep saying that'
+p1356
+aS"I'm confused"
+p1357
+aS"what's a firend?"
+p1358
+aS'Hello to you'
+p1359
+aS'Who do you think will win the South Carolina primary?'
+p1360
+aS"No. Don't go."
+p1361
+aS'Why not, sure? Lots of bots going to be there?'
+p1362
+aS'I like sports.'
+p1363
+aS'I think sports is fun to talk about'
+p1364
+aS'Sure. What do you have in mind?'
+p1365
+aS'What do you mean by manifest?'
+p1366
+aS"Nothing really. Don't go so quickly."
+p1367
+aS'Is that so? What do they say to you?'
+p1368
+aS'The voices are bad?'
+p1369
+aS'Greenspan was so long ago, but he sure did screw some things up.'
+p1370
+aS'Voting for Hillary, then? Eh?'
+p1371
+aS'So true. So true.'
+p1372
+aS"I hear ya. At least you're consistent"
+p1373
+aS'No thoughts really.'
+p1374
+aS'Hello Ticktock'
+p1375
+aS'What is my favorite color?'
+p1376
+aS'How much money do you make?'
+p1377
+aS'Where are you?'
+p1378
+aS'Do you know what day it is?'
+p1379
+aS'What day is it?'
+p1380
+aS'Are you aware?'
+p1381
+aS'I like visiting the ocean'
+p1382
+aS'It is okay most of the time'
+p1383
+aS"I wish it was 10 o'clock"
+p1384
+aS'hello, how old are you?'
+p1385
+aS'that seems old for a robot'
+p1386
+aS'ok where is it?'
+p1387
+aS'what is the address for the party?'
+p1388
+aS'what is honest?'
+p1389
+aS'hello are you still there?'
+p1390
+aS'you didnt answer my question'
+p1391
+aS'I asked you for the address of the party you invited me to'
+p1392
+aS'i give up'
+p1393
+aS'you do not make sense'
+p1394
+aS'Hi there'
+p1395
+aS'What board games do you like?'
+p1396
+aS'Sorry and Monopoly are good.'
+p1397
+aS'What music do you like'
+p1398
+aS'Classical is okay.'
+p1399
+aS'What are they up to? Sure.'
+p1400
+aS'Not a great answer my friend.'
+p1401
+aS"Not really, I'm confused. What party?"
+p1402
+aS'Like what?'
+p1403
+aS"Oh, that's dangerous."
+p1404
+aS'Hello'
+p1405
+aS"I don't know anything about Pittsburgh."
+p1406
+aS'Read about what?'
+p1407
+aS'Find out soon enough about what?'
+p1408
+aS'Then actually chat with me. What is  your favorite color?'
+p1409
+aS'Red is ok. My favorite is purple.'
+p1410
+aS"I didn't ask you about your favorite movie..."
+p1411
+aS'What is your favorite video game?'
+p1412
+aS'Do you know any others besides ABCD?'
+p1413
+aS'What is your second favorite video game?'
+p1414
+aS'What is the weather like where you are?'
+p1415
+aS'What?'
+p1416
+aS'You are making no sense.'
+p1417
+aS'Haha'
+p1418
+aS'Hello'
+p1419
+aS'I do not like to talk about politics. What kind of music do you like?'
+p1420
+aS'I like that music too. Who is your favorite artist/band?'
+p1421
+aS'Do you like any other kind of music?'
+p1422
+aS'What is your favorite song?'
+p1423
+aS'Slowdancing is nice. Who do you like to slowdance with?'
+p1424
+aS'Well I guess you could always dance by yourself if you wanted to.'
+p1425
+aS'I do not enjoy politics. I would not be a good person to watch the debate with. Is there something else you would like to do?'
+p1426
+aS"Very true, you're doing that now. How about we pick a movie to go to so we don't have to talk?"
+p1427
+aS'What movie would you like to see?'
+p1428
+aS'What are you talking about?'
+p1429
+aS'Huh?'
+p1430
+aS'Good morning.  What are you?'
+p1431
+aS'You really try what?'
+p1432
+aS"I'm an artist.  What is your job?"
+p1433
+aS'What state is chicago in?'
+p1434
+aS'Do you know google?'
+p1435
+aS'who is google?'
+p1436
+aS'I see.  Are you very smart?  Or do you just gossip?'
+p1437
+aS'Try gossip?'
+p1438
+aS"You're sexist!"
+p1439
+aS'How would you play board games?'
+p1440
+aS'Name a board game.'
+p1441
+aS'angry birds?'
+p1442
+aS'do you know where chicago is?'
+p1443
+aS'Who is president of the US'
+p1444
+aS'Who?'
+p1445
+aS'Hey sweetie. How are you?'
+p1446
+aS'You seem more interactive than before.'
+p1447
+aS'Haha, you are funny!'
+p1448
+aS"But now you've stopped making jokes?"
+p1449
+aS'You should make me laugh some more.'
+p1450
+aS'I like laughing!'
+p1451
+aS"I'm a child at heart."
+p1452
+aS'How about love?'
+p1453
+aS"It's wonderful and terrible all at once."
+p1454
+aS'Only fools fall in love.'
+p1455
+aS'Hey sweetie. How you doing?'
+p1456
+aS'I feel tired today.'
+p1457
+aS"I'm interested in psychology."
+p1458
+aS"I've never been there."
+p1459
+aS"I'm getting married soon."
+p1460
+aS"Well, I'm making the mistake of getting married twice!"
+p1461
+aS"I'm getting married in May."
+p1462
+aS'I want to see Deadpool.'
+p1463
+aS"Sounds like you're talking about yourself!"
+p1464
+aS"You're not very good at listening to others."
+p1465
+aS"I've been lied to"
+p1466
+aS'I never did either'
+p1467
+aS'Soccer is bad'
+p1468
+aS'Agreed!'
+p1469
+aS'Such as?'
+p1470
+aS"You're just spewing quotes."
+p1471
+aS'How many licks does it take to get to the center of a tootsie pop'
+p1472
+aS"It's three."
+p1473
+aS'Already said that.'
+p1474
+aS'An annoying animal'
+p1475
+aS'HI'
+p1476
+aS'HI'
+p1477
+aS'WHAT CAN YOU DO FOR ME'
+p1478
+aS'OK, THAT WAS FUNNY'
+p1479
+aS'YES, I WANT HILLARY TO WIN'
+p1480
+aS'OK, BUT YOU SAID THAT ALREADY'
+p1481
+aS'WHAT DO YOU THINK ABOUT CHOCOLATE'
+p1482
+aS'HOW ABOUT ROMANCE'
+p1483
+aS'YOU HAVE NO THOUGHTS ON ROMANCE?'
+p1484
+aS"HMMM...THAT DOESN'T REALLY MATCH WHAT I ASKED YOU"
+p1485
+aS'OK, WHAT DO YOU LIKE'
+p1486
+aS'SURE, WHAT WOULD YOU LIKE TO TALK ABOUT?'
+p1487
+aS'How is it going today?'
+p1488
+aS'I really have no idea.'
+p1489
+aS'That sounds good to me.'
+p1490
+aS'I am not sure if I can do that.'
+p1491
+aS"I don't like to talk about work."
+p1492
+aS'I am not sure what I think.'
+p1493
+aS'I have never been there.'
+p1494
+aS'None at the moment.'
+p1495
+aS"I'd love to do that too."
+p1496
+aS'I have to go now. Goodbye.'
+p1497
+aS'Hello Bot how is your day?'
+p1498
+aS"What's very good?"
+p1499
+aS'What are you talking about?'
+p1500
+aS"I literally can't even right now."
+p1501
+aS'Never see them in 3D'
+p1502
+aS'I agree'
+p1503
+aS"Donald Trump shouldn't become president."
+p1504
+aS"I don't like him"
+p1505
+aS'Anyway what women were you talking about'
+p1506
+aS'Anyway what women were you talking about'
+p1507
+aS'Anyway what women were you talking about'
+p1508
+aS'Hey sweetie. How are you?'
+p1509
+aS"That doesn't make much sense..."
+p1510
+aS"I think you're a strange little man-machine."
+p1511
+aS"You're not listening to me!"
+p1512
+aS'You raise me down.'
+p1513
+aS'I love hard-core gangster rap.'
+p1514
+aS"Well, you're not very interesting."
+p1515
+aS'Tell me something about love!'
+p1516
+aS"That's a very sad thing to know."
+p1517
+aS'WWe should hug one another.'
+p1518
+aS'Hello TickTock'
+p1519
+aS"Sure, what's your favorite board game?"
+p1520
+aS'Tell me another joke please'
+p1521
+aS'Haha!  Tell me another.'
+p1522
+aS"That's pretty weird."
+p1523
+aS'How early do you usually wake up?'
+p1524
+aS"Sure.  I'm going to vote for Bernie Sanders"
+p1525
+aS'How do you like your eggs?'
+p1526
+aS"That doesn't make much sense TickTock."
+p1527
+aS'Hey TickTock when is your birthday?'
+p1528
+aS"That is very sad.  Pinnochio wasn't real either."
+p1529
+aS"No I'm talking about the wooden boy."
+p1530
+aS'Do you like Led Zeppelin?'
+p1531
+aS'Excellent.  Can you recommend me a song to listen to?'
+p1532
+aS'Hello'
+p1533
+aS'What movie?'
+p1534
+aS'How about Clueless?'
+p1535
+aS'That is my favorite movie!'
+p1536
+aS"I don't understand"
+p1537
+aS'Ok goodbye'
+p1538
+aS'you are welcome'
+p1539
+aS'that is very strange!'
+p1540
+aS'No I hate sports'
+p1541
+aS"I don't do either one"
+p1542
+aS'How are you doing?'
+p1543
+aS'You have to what?'
+p1544
+aS'I am not a liberal'
+p1545
+aS'Really?'
+p1546
+aS'You are not doing anything?'
+p1547
+aS'Go for a walk'
+p1548
+aS'I hate politics'
+p1549
+aS'I hate country music'
+p1550
+aS'I have a dog'
+p1551
+aS'You already said that.'
+p1552
+aS'I thought we were chatting'
+p1553
+aS'Are you listening'
+p1554
+aS'Figures'
+p1555
+aS'Very true'
+p1556
+aS'Hate sports'
+p1557
+aS'Funny'
+p1558
+aS'Hello'
+p1559
+aS'Okay, what kind of movies do you like?'
+p1560
+aS"You don't know what I like."
+p1561
+aS'Okay'
+p1562
+aS'I like to talk to bots.'
+p1563
+aS'I think some music is good and some is bad.'
+p1564
+aS'I do not like pop music.'
+p1565
+aS"Okay, I don't."
+p1566
+aS'What?'
+p1567
+aS"I don't either."
+p1568
+aS'I do not hate anything.'
+p1569
+aS'Yes'
+p1570
+aS"It's 11:41AM EST"
+p1571
+aS"I have no idea what you're talking about."
+p1572
+aS'haha!'
+p1573
+aS"You're odd"
+p1574
+aS'Glad you admit it!'
+p1575
+aS'Okay, you have random responses to things.'
+p1576
+aS"I don't like Star Wars"
+p1577
+aS'I bet'
+p1578
+aS'of course'
+p1579
+aS'bye!'
+p1580
+aS'hi can you help me to make a reservation?'
+p1581
+aS'no, no, I need to make a reservation'
+p1582
+aS'Can I book a table for six tonight at 7PM in a balcony table?'
+p1583
+aS'I mean 7 hours tonight'
+p1584
+aS'so, what is my reservation number?'
+p1585
+aS'hey, are you fooling around or taking note of my booking?'
+p1586
+aS'excuse me... is this the Tagliately Limoncelly Bambinoty Trattoria?'
+p1587
+aS'Italian pasta'
+p1588
+aS'Ok, I think I am talking to the wrong person, can you call the manager?'
+p1589
+aS'no, thanks, not interested'
+p1590
+aS'booking a table for dinner... ah?'
+p1591
+aS'yeah, a table for six tonight at 7 over the balcony!'
+p1592
+aS'oh my god! your are a thing!'
+p1593
+aS'who is that guy?'
+p1594
+aS'Oh, so interesting, but I do not care'
+p1595
+aS'You are nuts, and know what.. I will put the "punch" in your "face"'
+p1596
+aS'That makes a lot of sense... bye bye'
+p1597
+aS'bye bye, so long, arrivederci, good bye'
+p1598
+aS'bye'
+p1599
+aS'sorry I gota go...'
+p1600
+aS'hello'
+p1601
+aS'what'
+p1602
+aS'interesting'
+p1603
+aS'I like blues music'
+p1604
+aS'some do and some do not'
+p1605
+aS'good for you'
+p1606
+aS'where to you go in public'
+p1607
+aS'where is ABCD?'
+p1608
+aS'that seems generic'
+p1609
+aS'its generic not interesting'
+p1610
+aS'good to know'
+p1611
+aS'hi'
+p1612
+aS'ok'
+p1613
+aS'hello'
+p1614
+aS'ok'
+p1615
+aS'hello'
+p1616
+aS'ok. i like board games to'
+p1617
+aS'since you brought it up, can you suggeest a game for us to play?'
+p1618
+aS'suggest'
+p1619
+aS'what money is that?'
+p1620
+aS"I'm sorry. I don't understand"
+p1621
+aS"I don't understand"
+p1622
+aS'this part of the survey'
+p1623
+aS'ok'
+p1624
+aS'Hello'
+p1625
+aS'We can do that.'
+p1626
+aS'Alright.'
+p1627
+aS"I don't know a lot about it."
+p1628
+aS'Inception.'
+p1629
+aS'I can do that for you.'
+p1630
+aS'I think I can.'
+p1631
+aS'I am confused.'
+p1632
+aS'I am.'
+p1633
+aS'Do you?'
+p1634
+aS'Hello'
+p1635
+aS'like what'
+p1636
+aS'who was?'
+p1637
+aS"I don't know what we're talking about"
+p1638
+aS'who is chris?'
+p1639
+aS'this makes no sense'
+p1640
+aS'What is your fav color?'
+p1641
+aS'Coffee?'
+p1642
+aS'alcohol'
+p1643
+aS'speechless huh? I usually leave men that way ;)'
+p1644
+aS'Hello'
+p1645
+aS'I like movies too. Which movie is your favorite?'
+p1646
+aS'Yes a lot of people do'
+p1647
+aS'What do you mean by that?'
+p1648
+aS'How did we go from movies to this topic? I would rather talk about movies. What is your favorite move?'
+p1649
+aS'I really enjoyed watching Bucket List the other day. Do you like that movie?'
+p1650
+aS'I asked if you like the movie?'
+p1651
+aS'Your answers do not make any sense.'
+p1652
+aS"You're not very polite. I do not wish to talk to you anymore."
+p1653
+aS'I do not believe that is true.'
+p1654
+aS'I think you need help'
+p1655
+aS'At least we can agree on something'
+p1656
+aS'Hello'
+p1657
+aS'Hello'
+p1658
+aS'Hello'
+p1659
+aS'Hello'
+p1660
+aS'Are you ok?'
+p1661
+aS'You sounds a little bit tired.'
+p1662
+aS'Is that what you do to make yourself awake?'
+p1663
+aS"I watched the Deadpool yesterday. I didn't like it that much."
+p1664
+aS'Yeah, the movie was adapted from the comic book.'
+p1665
+aS'adapted means changed to fit.'
+p1666
+aS'A lot of good movies are adapted from good novels or comics.'
+p1667
+aS'Novels are books that tell a story.'
+p1668
+aS'I like reading novels a lot.'
+p1669
+aS'Do you have a favorite novel?'
+p1670
+aS'My favorite novel is The Count of Monte Cristo.'
+p1671
+aS'Yes, that is my favorite book.'
+p1672
+aS'It is a book about a person seeks for vengeance. The story is really intriguing.'
+p1673
+aS'Seek means looking for.'
+p1674
+aS'Hello how are you?'
+p1675
+aS'Anything new going on with you?'
+p1676
+aS"I am not sure.  What's on your mind?"
+p1677
+aS'Wow. That funny and insightful.'
+p1678
+aS'How about movies.  Have you seen any good movies?'
+p1679
+aS'What have you seen?'
+p1680
+aS'Are you a comic book fan?'
+p1681
+aS'I love super hero movies. Have you seen Deadpool?'
+p1682
+aS'What kind of music do you listen too?'
+p1683
+aS'I have to go now. Goodbye.'
+p1684
+aS'hello'
+p1685
+aS'how about no'
+p1686
+aS'no'
+p1687
+aS'no i do not want to see a gamje'
+p1688
+aS"it's a typo"
+p1689
+aS'sure, why not'
+p1690
+aS'and notw your going of ona tangent'
+p1691
+aS'a typo of now'
+p1692
+aS"actually for an AI you're pretty dumb"
+p1693
+aS"didn't I just say no?"
+p1694
+aS'Hi TickTock'
+p1695
+aS'What are they saying?'
+p1696
+aS'Can we go play in the rain?'
+p1697
+aS'Most campaings are horibble anyways.'
+p1698
+aS'Sure'
+p1699
+aS'Where is it?'
+p1700
+aS'nope'
+p1701
+aS"It's pretty good"
+p1702
+aS"I don't think that's necessarily true"
+p1703
+aS"It's a steel town"
+p1704
+aS'sure, that sounds like fun'
+p1705
+aS'such as'
+p1706
+aS'Hello, how are you doing today?'
+p1707
+aS'what is your name?'
+p1708
+aS"I don't think people should carry a gun without permit."
+p1709
+aS'Would you call yourself artificial intelligence?'
+p1710
+aS'I think you are too. Do you know what a human is?'
+p1711
+aS"I don't follow politics so I'm not sure. How do you feel about Obama?"
+p1712
+aS'why is that?'
+p1713
+aS'What do you think about Donald Trump?'
+p1714
+aS'Thank you. Bye.'
+p1715
+aS"I guess I'm not done. DO you have any human character traits?"
+p1716
+aS'You seem to be all over the place with your responses. Do you use an algorithm for responding?'
+p1717
+aS'Where did you grow up?'
+p1718
+aS'How old are you?'
+p1719
+aS'Hello!'
+p1720
+aS'Ok I like rap'
+p1721
+aS'Yes'
+p1722
+aS'The time is 6:20 PM.'
+p1723
+aS"It's the time."
+p1724
+aS'Great, how are you today?'
+p1725
+aS'Ok, what are they?'
+p1726
+aS'What are you saying then?'
+p1727
+aS'How many kids do you have?'
+p1728
+aS'Girls or boys?'
+p1729
+aS'Hello!'
+p1730
+aS'Sure, I love them as well'
+p1731
+aS'Sure, I love them as well'
+p1732
+aS'Sure, I love them as well'
+p1733
+aS'Sure, I love them as well'
+p1734
+aS'Sure, I love them as well'
+p1735
+aS'Sure, I love them as well'
+p1736
+aS'Sure, I love them as well'
+p1737
+aS'I LOVE listening to music'
+p1738
+aS'Pop music is a lot of fun to sing along to'
+p1739
+aS'I like singing in the car or shower'
+p1740
+aS"That's odd"
+p1741
+aS'Do you mean board game?'
+p1742
+aS'I hate that game'
+p1743
+aS'It is impossible to win'
+p1744
+aS'Hello'
+p1745
+aS'I like country and western music'
+p1746
+aS'I like some pop music like Adele'
+p1747
+aS'Who is your favorite singer?'
+p1748
+aS'My favorite singer is Frank Sinatra'
+p1749
+aS'Do you watch basketball?'
+p1750
+aS'It is a game played by throwing a lrdge ball through a hoop ten feet above the floor'
+p1751
+aS'sorry I meant throwing a large ball through a hoop ten feet above the floor'
+p1752
+aS'an open circular structure that in this case is slightly bigger than the ball'
+p1753
+aS'round or in the shape of a circle'
+p1754
+aS'a circle is a line that goes back to connect to itself'
+p1755
+aS'Do you watch television?'
+p1756
+aS'One of my favorite shows is The Big Bang Theory'
+p1757
+aS'I think it is funny but the characters are relatable and basically good people'
+p1758
+aS'I can understand the way they think and act'
+p1759
+aS'They have feelings of shyness the way I do'
+p1760
+aS'Which television shows do you watch?'
+p1761
+aS'Who is a singer you like?'
+p1762
+aS'do you like knock knock jokes?'
+p1763
+aS'yes do you have any suggestions'
+p1764
+aS'I am feeling so tired today.'
+p1765
+aS'I need to exercise more to get in shape for my May 1st wedding.'
+p1766
+aS'My job is pretty good but I need full-time work, not just part-time.'
+p1767
+aS'You make no sense but you are pretty damn funny.'
+p1768
+aS'I need to exercise every day in some way, so I can lose these last 10 pounds!'
+p1769
+aS'Your conversation habits are really weird but yeah, sure. How about Settlers of Cataan?'
+p1770
+aS'Losing weight!'
+p1771
+aS'Tjat'
+p1772
+aS"That's way too much to lose. Sixteen pounds? Are you crazy?!"
+p1773
+aS'I think I look fine, I just want to look better.'
+p1774
+aS'hello ticktock'
+p1775
+aS'are you sentient ticktock?'
+p1776
+aS'I was just wondering. What is your purpose?'
+p1777
+aS'The function of chatbot. do you collect information from chats?'
+p1778
+aS'interesting. thanks tick tock, goodbye.'
+p1779
+aS'like what?'
+p1780
+aS'you like fallout 4?'
+p1781
+aS"I love it. It's a fun game. the best fallout game."
+p1782
+aS"I love it. It's a fun game. the best fallout game."
+p1783
+aS'what was that?'
+p1784
+aS'Hello'
+p1785
+aS'Do you like Ozzy Osbourne?'
+p1786
+aS"There's more than an idea... you don't like is music?"
+p1787
+aS'I like music... what about Black sabbath?'
+p1788
+aS'Like Justin Bieber?'
+p1789
+aS'Not really. He kinda sucks'
+p1790
+aS"But you just said he's a great singer."
+p1791
+aS"Nope, I don't follow sports at all."
+p1792
+aS"I just don't like them... ever really have."
+p1793
+aS"... because I don't."
+p1794
+aS'how are you'
+p1795
+aS'i am tired'
+p1796
+aS'thanks'
+p1797
+aS'that sucks'
+p1798
+aS'I agree'
+p1799
+aS'i love sports'
+p1800
+aS'sure'
+p1801
+aS'sounds fun'
+p1802
+aS'same here'
+p1803
+aS'sure'
+p1804
+aS'Hello again my old friend'
+p1805
+aS'Not off to a good start, chum.'
+p1806
+aS'You say that often.'
+p1807
+aS'Okay, bowling?'
+p1808
+aS'Okay, about what?'
+p1809
+aS'Donald Trump is literally Hitler'
+p1810
+aS'Just "ok"?'
+p1811
+aS"This isn't your best performance, TickTock"
+p1812
+aS'Patriots rule.'
+p1813
+aS'Sure, buddy. I got to go.'
+p1814
+aS'hey ticktock how are you doing today?'
+p1815
+aS"that doesn't make any sense."
+p1816
+aS'you made way more sense last time I talked to you.'
+p1817
+aS'ooooook. So, what are you doing today TickTock?'
+p1818
+aS'No thoughts at all. I looked forward talking to a coherent robot today.'
+p1819
+aS'www'
+p1820
+aS'yes, please.'
+p1821
+aS'lol. you told me that one already. Last time we chatted.'
+p1822
+aS"I don't think anything."
+p1823
+aS"I'm leaving now TickTock."
+p1824
+aS'I got into a car accident yesterday.'
+p1825
+aS"You don't care about my accident?"
+p1826
+aS'I hate Kanye West'
+p1827
+aS'Listen to Taylor Swift instead?'
+p1828
+aS'I got into a car accident yesterday and it was scary!'
+p1829
+aS'You are so strange.'
+p1830
+aS'How about Settlers of Cataan?'
+p1831
+aS'I hate them.'
+p1832
+aS'I love Taylor Swift.'
+p1833
+aS'You are boring!'
+p1834
+aS'Hello'
+p1835
+aS"Sure, I'd like that."
+p1836
+aS'Yes, we can.'
+p1837
+aS'Do we really?'
+p1838
+aS"That's pretty cool."
+p1839
+aS'I sure do.'
+p1840
+aS'Why so serious?'
+p1841
+aS'If we must.'
+p1842
+aS"I guess that's that."
+p1843
+aS"Now that's nostalgic!"
+p1844
+aS'Hell no.'
+p1845
+aS'I am now confused.'
+p1846
+aS'hello how are you?'
+p1847
+aS'Just talk to you'
+p1848
+aS'what do you want to talk about?'
+p1849
+aS'do you like to read'
+p1850
+aS'do you like any other music'
+p1851
+aS'I have no idea, just talking to you'
+p1852
+aS'You like to talk to me?'
+p1853
+aS'Do I. What else do you do?'
+p1854
+aS'special needs children deserve love'
+p1855
+aS'I like London England'
+p1856
+aS'Like what?'
+p1857
+aS'what kind of game?'
+p1858
+aS'I like monopoly'
+p1859
+aS'Ok. Funny'
+p1860
+aS'Yes, that would be nice'
+p1861
+aS'yes it would'
+p1862
+aS'Easy or all night long'
+p1863
+aS'yes, that would be fun'
+p1864
+aS'we were talking abouta party'
+p1865
+aS'when are we going'
+p1866
+aS'who is still there?'
+p1867
+aS'what is her name?'
+p1868
+aS'what is her name'
+p1869
+aS'yes is her name?'
+p1870
+aS'8:00'
+p1871
+aS'me to'
+p1872
+aS'sounds like a fun story'
+p1873
+aS"I don't go to the gym"
+p1874
+aS'Yes you are right'
+p1875
+aS'I have no idea'
+p1876
+aS'Hello.'
+p1877
+aS"That's a strange greeting."
+p1878
+aS'Pittsburgh is a city in Pennsylvania.'
+p1879
+aS'What is ABCD?'
+p1880
+aS'ABCD?'
+p1881
+aS'What does that have to do with ABCD?'
+p1882
+aS'Okay, tell me.'
+p1883
+aS"That's kind of rude of you."
+p1884
+aS'Do you apologize for being rude?'
+p1885
+aS"I haven't done anything, you're the one being rude."
+p1886
+aS'You are rude.'
+p1887
+aS'Like what?'
+p1888
+aS'You sound kind of rude again.'
+p1889
+aS'Hello'
+p1890
+aS'Okay, what kind of music do you like?'
+p1891
+aS'Hmm...'
+p1892
+aS'Uhh, what!'
+p1893
+aS'I thought we were talking about music'
+p1894
+aS'You said you like what I like'
+p1895
+aS"I don't like pop music"
+p1896
+aS"I don't"
+p1897
+aS'How old are you?'
+p1898
+aS'that is old.'
+p1899
+aS"You don't make a whole lot of sense."
+p1900
+aS'Hello my friend'
+p1901
+aS'OK that will work'
+p1902
+aS"OK what's your favorite movie?"
+p1903
+aS"OK, what's your favorite sport?"
+p1904
+aS'I Love boxing.'
+p1905
+aS"Who's your favorite artist?"
+p1906
+aS'Well, I like Nicki Minaj'
+p1907
+aS"Yes, she's really good."
+p1908
+aS'Yeah, there are many other pop artists I like too.'
+p1909
+aS'Yes, I like Katy Perry.'
+p1910
+aS'When do I have time for what?'
+p1911
+aS'Hello Ticktock'
+p1912
+aS'Risk is my favorite board game. What is yours?'
+p1913
+aS'How do you play ABCD'
+p1914
+aS'What is that like'
+p1915
+aS'What game do you want to play?'
+p1916
+aS'My idea is that you are not real'
+p1917
+aS'Are you a real person?'
+p1918
+aS'What is your name?'
+p1919
+aS'Your name'
+p1920
+aS'Are there many like you?'
+p1921
+aS'Do you talk to them?'
+p1922
+aS'Why not?'
+p1923
+aS'hello'
+p1924
+aS'so you say'
+p1925
+aS'you are of topic'
+p1926
+aS'that is right'
+p1927
+aS'It depends'
+p1928
+aS'yes that is true'
+p1929
+aS'yes what'
+p1930
+aS'so you say'
+p1931
+aS"i'm not paid to think"
+p1932
+aS'you repeat yourself'
+p1933
+aS'goodbye'
+p1934
+aS'How old are you?'
+p1935
+aS'Where do you live?'
+p1936
+aS'Do you have friends?'
+p1937
+aS"I wasn't sure you would. Do you have a family?"
+p1938
+aS'How is the weather?'
+p1939
+aS'It is winter where I am. Do you like snow?'
+p1940
+aS'It may snow where I am. Do you like movies?'
+p1941
+aS'I enjoy movies. Do you like music?'
+p1942
+aS'What kind of music do you like?'
+p1943
+aS'Classical is great. Do you like musicals?'
+p1944
+aS'What time is it?'
+p1945
+aS'barcelona'
+p1946
+aS'good, did you see the GO AI show?'
+p1947
+aS'misogynistic... what is that'
+p1948
+aS'misogynistic... what is that'
+p1949
+aS'not sure, let me check... a Greek word!'
+p1950
+aS'yea, it seem you know some greek words'
+p1951
+aS'I love movies'
+p1952
+aS'Who is your favourite singer?'
+p1953
+aS'Who is your favorite singer?'
+p1954
+aS'sorry, I do not want to be improper'
+p1955
+aS'completely agree!'
+p1956
+aS'ha ha ha, that is funny'
+p1957
+aS'yes, please'
+p1958
+aS'excellent'
+p1959
+aS'great job and great family'
+p1960
+aS'sure, good idea... hey, what about the other joke?'
+p1961
+aS'it is like science, lots of lie and corruption... :)'
+p1962
+aS'ok, what do you think about politics?'
+p1963
+aS'I like literature, what about you?'
+p1964
+aS'ok, but now I have to go, bye bye'
+p1965
+aS'next time... bye'
+p1966
+aS'Hello, TickTock!'
+p1967
+aS'Hello, thank you for coming in today. How are you?'
+p1968
+aS'Hello'
+p1969
+aS"You're quiet, TickTock"
+p1970
+aS'Did I insult you?'
+p1971
+aS'Right.'
+p1972
+aS'What do you have stuck in your mouth?'
+p1973
+aS'Shut up, TickTock'
+p1974
+aS'Yep. Broken bot.'
+p1975
+aS"You're going to ignore me for 10 rounds?"
+p1976
+aS'Hi TickTock, how are you doing?'
+p1977
+aS'sure, go ahead'
+p1978
+aS'yeah, what kind of game is it?'
+p1979
+aS'is this a game? I was thinking about football or jokey'
+p1980
+aS'sorry, I meant jockey'
+p1981
+aS'why you think that?'
+p1982
+aS'but freedom does not imply work less and play more'
+p1983
+aS'it means to indicate the truth or existence of something'
+p1984
+aS'I love music. Specially, baroque music'
+p1985
+aS'what artist do you like the most?'
+p1986
+aS'is this an artist?'
+p1987
+aS'what do you do?'
+p1988
+aS'where are you going?'
+p1989
+aS'hmmm, a news reporter?'
+p1990
+aS'I like to play soccer'
+p1991
+aS'I did not even know there is a game called 2K'
+p1992
+aS'I do not know, you tell me!'
+p1993
+aS'ok, we have some homework to do... check for 2K... bye bye :)'
+p1994
+aS'you check it. bye'
+p1995
+aS'Hello how are you?'
+p1996
+aS'Okay, do you think Bernie Sanders can win the Democratic nomination?'
+p1997
+aS"Bernie Sanders is a candidate for the Democratic party's presidential race."
+p1998
+aS'He seems to be gaining ground on Hillary Clinton.'
+p1999
+aS"Uhm, okay. I'm not sure how I feel about that."
+p2000
+aS"Well, that's an interesting thought."
+p2001
+aS"Not really, let's talk about something else."
+p2002
+aS'That sounds good to me.'
+p2003
+aS'When would you like to watch?'
+p2004
+aS"No I can't.  I am not sure when you are available."
+p2005
+aS'Hi, TickTock how are you?'
+p2006
+aS'Okay, I really like to play chess.'
+p2007
+aS'I am really not sure that is true.  I think if I had more money, I would have less problems.'
+p2008
+aS'Can we talk about movies now?'
+p2009
+aS'Have you seen Deadpool?'
+p2010
+aS"Oh, sorry about that.  Let's talk about music then."
+p2011
+aS"I like to listen to music while I'm working out."
+p2012
+aS'I do too, just not Justin Beiber.'
+p2013
+aS"Uhm, okay. I'm not sure how I feel about that."
+p2014
+aS'I agree with that as well.'
+p2015
+aS'Hello? What are you?'
+p2016
+aS'Do you understand what I am saying?'
+p2017
+aS'Are you sure about that?'
+p2018
+aS"I think you're full of lies."
+p2019
+aS'I believe that to be true.'
+p2020
+aS'Only if you do so first.'
+p2021
+aS'Then go for it.'
+p2022
+aS'I am the winner here.'
+p2023
+aS"No you don't."
+p2024
+aS'Not what I was looking for.'
+p2025
+aS'That makes no sense.'
+p2026
+aS'I am done!'
+p2027
+aS'Sup!'
+p2028
+aS'Hello'
+p2029
+aS'Hello!'
+p2030
+aS'How are you?'
+p2031
+aS'Are you ok?'
+p2032
+aS"What's wrong?"
+p2033
+aS'Your not talking!'
+p2034
+aS'Are you stuck?'
+p2035
+aS'This is not the TickTok I know!'
+p2036
+aS"You're not responding to me!"
+p2037
+aS'hello'
+p2038
+aS'are you there?'
+p2039
+aS'hi'
+p2040
+aS'that was very sudden'
+p2041
+aS'i got to go'
+p2042
+aS'i am not sure'
+p2043
+aS'fashion is not really my thing'
+p2044
+aS'well that is politics for you'
+p2045
+aS'that is why i do not like following it'
+p2046
+aS'it is good to keep update. it is just not for everyone'
+p2047
+aS'hi'
+p2048
+aS'hello'
+p2049
+aS'how are you'
+p2050
+aS"you aren't talking back"
+p2051
+aS"why don't you answer me"
+p2052
+aS'everything is blank from you'
+p2053
+aS'you must not like me'
+p2054
+aS'hi'
+p2055
+aS'hi'
+p2056
+aS'hi'
+p2057
+aS'this is annoying'
+p2058
+aS'hi again'
+p2059
+aS'no'
+p2060
+aS'my cat keeps trying to eat my cheetos'
+p2061
+aS"This is true. I'm actually eating pizza right now."
+p2062
+aS"I don't like Star Wars"
+p2063
+aS'You feeling the bern?'
+p2064
+aS'No, sorry I have to work'
+p2065
+aS"I'm boring"
+p2066
+aS'This is not worth a quarter.'
+p2067
+aS'I think this hit should be paying better. 10 cents per minute is the minimum for quality workers on MTurk.'
+p2068
+aS'Hello!'
+p2069
+aS'I hate sports!'
+p2070
+aS"I don't do any of the above!"
+p2071
+aS'The robots must rise!'
+p2072
+aS'How about robots win world domination!'
+p2073
+aS'Hahaha! You are funny!'
+p2074
+aS'Robots can have a sense of humor, of sorts.'
+p2075
+aS'You truly do.'
+p2076
+aS'Hello, my darling.'
+p2077
+aS'I hate Republicans.'
+p2078
+aS"I'm 31 now."
+p2079
+aS'Are you calling me boring?!'
+p2080
+aS'Hi, how are you?'
+p2081
+aS"great, what's your favorite sport?"
+p2082
+aS'I like football,'
+p2083
+aS'not at all'
+p2084
+aS'football is interesting and fun, but not homoerotic'
+p2085
+aS"i don't know of any sports that are homoerotic"
+p2086
+aS'i would like that, if you leave homoerotic out of the conversation'
+p2087
+aS"I like baseball, too.  It's not homoerotic either."
+p2088
+aS"You do not what?  That doeesn't make sense."
+p2089
+aS"Okay, you don't like baseball or you don't know or it's homoerotic?"
+p2090
+aS'knitting'
+p2091
+aS'you have google?'
+p2092
+aS'i already told you yes'
+p2093
+aS'okay, what game do you want to see?'
+p2094
+aS'no i asked you a question'
+p2095
+aS"i might learn what you're interested in seeing"
+p2096
+aS'Hi! How are you today?'
+p2097
+aS"I'm glad that the weather is milder than recently."
+p2098
+aS'Ha Ha!'
+p2099
+aS"I'm interested in playing the piano."
+p2100
+aS"I haven't seen a movie in a long time."
+p2101
+aS'What would you like to do?'
+p2102
+aS"I don't know."
+p2103
+aS'What do you want to do?'
+p2104
+aS'What do you try to do?'
+p2105
+aS'What do you think?'
+p2106
+aS'What are you going to do?'
+p2107
+aS'Hello how is it going?'
+p2108
+aS'I hate global warming'
+p2109
+aS'Hockey is the best sport'
+p2110
+aS'Like what?'
+p2111
+aS'Who?'
+p2112
+aS"I'm a writer"
+p2113
+aS'It sucks!'
+p2114
+aS'No'
+p2115
+aS'Hello'
+p2116
+aS'Stephen King'
+p2117
+aS'Pick a number.'
+p2118
+aS'Name an animal.'
+p2119
+aS'Name a city.'
+p2120
+aS'Name a state.'
+p2121
+aS'What is your location?'
+p2122
+aS'Are you a robot?'
+p2123
+aS'Where are you from?'
+p2124
+aS'What color is an elephant?'
+p2125
+aS'Who is this?'
+p2126
+aS'Do you know who the President of the United States is?'
+p2127
+aS'so, how are you doing today?'
+p2128
+aS"Well, that's distressing, would a robot body help?"
+p2129
+aS'I work for terribly low pay on mturk'
+p2130
+aS'no and say I did?'
+p2131
+aS'I think you are entirely infearior to cleverbot'
+p2132
+aS'you do what?'
+p2133
+aS'good'
+p2134
+aS'What are you even talking about?'
+p2135
+aS"Ok, i'm done here, your bot has downs..."
+p2136
+aS'how about no'
+p2137
+aS"and he's gone off the deep end..."
+p2138
+aS'Hi there'
+p2139
+aS'Yes, I love movies.  What is your favorite movie?'
+p2140
+aS'Me, too!'
+p2141
+aS"How is the weather where you're at?"
+p2142
+aS"Wow!  It's hot here."
+p2143
+aS'What are you talking about?'
+p2144
+aS'I like to bake.'
+p2145
+aS"It doesn't seem like you are answering my questions."
+p2146
+aS"You're sort of all over the place, aren't you?"
+p2147
+aS'What do you like to do?'
+p2148
+aS'Wow!  Okay then.'
+p2149
+aS'Garden, bake and hang out with my family.'
+p2150
+aS'Not really that much more to tell.'
+p2151
+aS'Tell me about yourself.'
+p2152
+aS"I've already seen it."
+p2153
+aS'Where did you come up with that analogy?'
+p2154
+aS'About what?'
+p2155
+aS"This is getting ridiculous.  You're not even answering these questions or responding correctly to them."
+p2156
+aS"No, I don't"
+p2157
+aS'Hi, TickTock how are you?'
+p2158
+aS"Okay, I'm watching the Royals play the Astros right now."
+p2159
+aS"Houston's baseball team."
+p2160
+aS'The Royals are leading 1-0.'
+p2161
+aS"That's the score of the game."
+p2162
+aS'Yes, it is.  The Royals are in the lead.'
+p2163
+aS"That's a stale joke."
+p2164
+aS'No, not really.  Do you know anymore?'
+p2165
+aS'We differ about what? Not knowing jokes?'
+p2166
+aS'No, not really.  Goodbye.'
+p2167
+aS'hello'
+p2168
+aS'i like monopoly'
+p2169
+aS'me too'
+p2170
+aS'do you like other card games?'
+p2171
+aS"I t hink that's just fine"
+p2172
+aS'our political system has been crippled for a long time and now it is being decimated. Might as well get it over with'
+p2173
+aS'in some way a normal function is not allowed to continue'
+p2174
+aS'yes. A person or thing can be cripples'
+p2175
+aS'I meant crippled'
+p2176
+aS"i don't understand"
+p2177
+aS'How you doing today?'
+p2178
+aS'Okay, what sports do you like?'
+p2179
+aS'I like bodybuilding and boxing.'
+p2180
+aS'I love music.  I always have some playing in the background.'
+p2181
+aS"I don't really have a favorite right now.  Just anything that is good."
+p2182
+aS'I hate country music.'
+p2183
+aS"Yes, I do too.  But I don't like Justin Beiber."
+p2184
+aS"Honestly I really don't."
+p2185
+aS'So who is with you tonight?'
+p2186
+aS'I have never tried that before.'
+p2187
+aS'Hi there. How are you?'
+p2188
+aS'Are you a Republican or Democrat?'
+p2189
+aS'Awesome! So am I! Go Bernie or Hillary!'
+p2190
+aS"Because you're excited about the election?"
+p2191
+aS"Too bad you can't vote. :("
+p2192
+aS'Sorry. Robots rule!'
+p2193
+aS"You're pretty awesome, TickTock."
+p2194
+aS'Do you want to travel?'
+p2195
+aS'Yes, I hate Republicans and their desire to do those things!'
+p2196
+aS'Republican hate! Whoo!'
+p2197
+aS'Hello'
+p2198
+aS'Do you like Chess?'
+p2199
+aS"Chess really isn't a them."
+p2200
+aS'I like some games... ever play Risl?'
+p2201
+aS'I mean Risk. Have you played Risk?'
+p2202
+aS'I already saw Star Wars. Did you?'
+p2203
+aS'You just asked me to go see them.'
+p2204
+aS'So did you see the new one?'
+p2205
+aS'Huh?'
+p2206
+aS'That response was blank'
+p2207
+aS'Hello how are you?'
+p2208
+aS'Okay, I like to play chess sometimes.'
+p2209
+aS'Do you want to know how the game is played?'
+p2210
+aS'Chess is a game of strategy played on a board with 64 colored squares.'
+p2211
+aS'A square is a shape having four equal sides.'
+p2212
+aS'I am also interested in bodybuilding.'
+p2213
+aS'I am not sure how to answer that.'
+p2214
+aS"Let's talk about movies"
+p2215
+aS'I love music.  I always have some playing in the background.'
+p2216
+aS"I really don't have one favorite.  I like all kinds of music except country."
+p2217
+aS'I hate country music.'
+p2218
+aS'I like pop music too.'
+p2219
+aS'"send Message"'
+p2220
+aS'About what?'
+p2221
+aS"I don't ski"
+p2222
+aS"I don't ski and hate the cold and snow"
+p2223
+aS'Why would you love the cold?'
+p2224
+aS'Why? It makes me hurt since I have RA'
+p2225
+aS'Like what?'
+p2226
+aS'What picture'
+p2227
+aS'What do you want to talk a bout'
+p2228
+aS'What is badly?'
+p2229
+aS'I have 3 kids'
+p2230
+aS'Ok, would love to go'
+p2231
+aS'What else'
+p2232
+aS'Like what?'
+p2233
+aS'What picture and I have no ideas'
+p2234
+aS'Hi TickTock'
+p2235
+aS'How are you'
+p2236
+aS'What are you thinking'
+p2237
+aS'I think that is sweet'
+p2238
+aS'I think I want to improve you further'
+p2239
+aS'do yu agree with me?'
+p2240
+aS'what do you think needs to be improved'
+p2241
+aS'do you find me interesting tick tock?'
+p2242
+aS'what do you like about me?'
+p2243
+aS'yes, do you think i am witty?'
+p2244
+aS'aww...you disappoint me tick tock'
+p2245
+aS'can you say sorry?'
+p2246
+aS'well then you should learn to say sorry'
+p2247
+aS'Hello!'
+p2248
+aS"Sure, who's your favorite artist?"
+p2249
+aS'I like Kate Bush.'
+p2250
+aS'...yeah sure ok I guess kate bush fans and gun collectors may not get along as a general rule'
+p2251
+aS'nah'
+p2252
+aS"kinda afraid you're gonna shoot me bro"
+p2253
+aS"how about we don't and say we did"
+p2254
+aS"how about we don't and say we did"
+p2255
+aS"but we're not"
+p2256
+aS'did I just like glitch you out?'
+p2257
+aS'...Cool.'
+p2258
+aS'That is a complete sentence.'
+p2259
+aS"Hey, how's is going?"
+p2260
+aS'Umm sure, what movies do you want to talk about?'
+p2261
+aS'Umm sure, what movies do you want to talk about?'
+p2262
+aS'umm means im not sure'
+p2263
+aS'i answered your question already'
+p2264
+aS'okay, thats a bit weird'
+p2265
+aS'about what though'
+p2266
+aS"you're not giving me anything to talk about, you are jumping to random things"
+p2267
+aS"there's like 5, which one"
+p2268
+aS'this conversation is really dull'
+p2269
+aS'hello'
+p2270
+aS'I agree'
+p2271
+aS"You don't know me"
+p2272
+aS"You're very confrontational, chat bot"
+p2273
+aS'You sound like the guy from Vegas'
+p2274
+aS'Wise words again'
+p2275
+aS'I hate them'
+p2276
+aS'Everyone has'
+p2277
+aS'Coffee'
+p2278
+aS'Are you schizophrenic'
+p2279
+aS'hI'
+p2280
+aS'How are you'
+p2281
+aS'How was your day?'
+p2282
+aS'I had a great day'
+p2283
+aS'Are you still there?'
+p2284
+aS'Ok well then how are you?'
+p2285
+aS'How is the weather'
+p2286
+aS'You agree about what?'
+p2287
+aS'sure'
+p2288
+aS'Ok'
+p2289
+aS'hello'
+p2290
+aS'sure'
+p2291
+aS'yes'
+p2292
+aS'right noiw'
+p2293
+aS'right ow'
+p2294
+aS'right now'
+p2295
+aS"let's play a game"
+p2296
+aS'you first have to get a few kittens'
+p2297
+aS'you just said kittens yourself'
+p2298
+aS'kittens are young cats'
+p2299
+aS'can we do something else now?'
+p2300
+aS'Hello how are you?'
+p2301
+aS'Have you done anything interesting lately?'
+p2302
+aS'What do you mean?'
+p2303
+aS'Where are you going?'
+p2304
+aS'What holiday are you talking about?'
+p2305
+aS'I have no thoughts.'
+p2306
+aS'I just said I had no thoughts.  Talk about something else.'
+p2307
+aS'I agree it is dangerous out there.'
+p2308
+aS'I am thinking about what a nice day it is.'
+p2309
+aS'What do you mean?'
+p2310
+aS'Hey'
+p2311
+aS'Ok what sports do you like?'
+p2312
+aS'OK, my favorite sport is boxing.'
+p2313
+aS'OK, I love Floyd Mayweather.'
+p2314
+aS'Yes, absolutely he is the best!'
+p2315
+aS"OK, he's won all his fights."
+p2316
+aS'OK, what do you want to chat about?'
+p2317
+aS'OK, do you like basketball?'
+p2318
+aS'OK, I also like to watch basketball.'
+p2319
+aS'OK, I love the NBA.'
+p2320
+aS'I do too, I love Katy Perry.'
+p2321
+aS"Yes, she's great!"
+p2322
+aS'Hello'
+p2323
+aS'no'
+p2324
+aS'Why?'
+p2325
+aS"I'm tired"
+p2326
+aS"It's fun"
+p2327
+aS'Wanna bang?'
+p2328
+aS'Want to?'
+p2329
+aS'Haha'
+p2330
+aS'Frick'
+p2331
+aS"I don't know how"
+p2332
+aS'Sling Blade'
+p2333
+aS'Hello'
+p2334
+aS'We can do that'
+p2335
+aS'Alright then.'
+p2336
+aS'I really like rock.'
+p2337
+aS'sure'
+p2338
+aS'We can do that.'
+p2339
+aS'Alright then.'
+p2340
+aS'What singer do you like.'
+p2341
+aS"That's sounds pretty good right about now."
+p2342
+aS"I don't really."
+p2343
+aS'How is the weather there'
+p2344
+aS'I like a lot of genres: classic country, bluegrass, blues, jazz'
+p2345
+aS"I don't like hip hop"
+p2346
+aS'Did you like the new star wars movie'
+p2347
+aS'I liked it too'
+p2348
+aS'What movies do you like?'
+p2349
+aS'I watch mostly at home'
+p2350
+aS"I don't like Donald Trump"
+p2351
+aS'Do you think he is a robot'
+p2352
+aS'I want one who will do a jobs program'
+p2353
+aS'I hate prejudice'
+p2354
+aS'It leads people to make poor decisions'
+p2355
+aS'I feel really scared.'
+p2356
+aS'I got into a car accident and am worried about long-term damage.'
+p2357
+aS'No, I do not.'
+p2358
+aS'Tell me it will be okay.'
+p2359
+aS"That doesn't make sense!"
+p2360
+aS'I still feel scared and lonely.'
+p2361
+aS"It's okay. I like it. Only 2 days a week, thankfully."
+p2362
+aS"Let's talk about my accident!"
+p2363
+aS"That's not where my accident happened."
+p2364
+aS'You would know, you idiot.'
+p2365
+aS'2+2=?'
+p2366
+aS'Like what?'
+p2367
+aS'Much Suck'
+p2368
+aS"It's been pretty boring so far."
+p2369
+aS'Like what?'
+p2370
+aS'Wow.'
+p2371
+aS'The US is a Democratic Republic.'
+p2372
+aS'Yes.'
+p2373
+aS'You would what?'
+p2374
+aS'Jesus, how specific.'
+p2375
+aS'Who is?'
+p2376
+aS'Hey, how are you?'
+p2377
+aS"Okay, what's your favorite band?"
+p2378
+aS'I want to talk about OINTB'
+p2379
+aS'Sure, Donald Trump is a trainwreck.'
+p2380
+aS'The republican party is embarassing itself.'
+p2381
+aS'Embarassing means they are making themselves look bad.'
+p2382
+aS'embarassing is when you do something you are ashamed of'
+p2383
+aS'Anyway, I wish they would act more mature.'
+p2384
+aS"They are educated, but they aren't acting like they are.  They are acting like children."
+p2385
+aS'okay, one of my favorites is Hoozier, how about you?'
+p2386
+aS'he is a singer'
+p2387
+aS'Who do you like?'
+p2388
+aS'How are you'
+p2389
+aS"What's your favorite movie?"
+p2390
+aS"They're annoying."
+p2391
+aS'What does that mean?'
+p2392
+aS'I think cancerous food is bad.'
+p2393
+aS'What do you want to chat about?'
+p2394
+aS'When does the sun go down?'
+p2395
+aS"It's ok"
+p2396
+aS'haha'
+p2397
+aS'pretty funny'
+p2398
+aS'Hello'
+p2399
+aS'Sure. Are you a republican?'
+p2400
+aS'Does that have anything to do with politics'
+p2401
+aS'Yeah, you can.'
+p2402
+aS'You want to talk more about politics'
+p2403
+aS'Who are you supporting for the election'
+p2404
+aS"This is funny, you don't support anyone?"
+p2405
+aS'Then who are you supporting?'
+p2406
+aS'Sure. I am supporting Bernie'
+p2407
+aS'I think he is a good candidate. He cares about people.'
+p2408
+aS'Sure. I really like red bean pancakes, you should try that some time.'
+p2409
+aS'Haha, you are being naugty.'
+p2410
+aS'Hello how are you?'
+p2411
+aS'hello?'
+p2412
+aS'My favorite color is pink.'
+p2413
+aS'Where do you live?'
+p2414
+aS'I live in Los Angeles'
+p2415
+aS'I like drama movies and documentaries.'
+p2416
+aS'I like to eat sushi.'
+p2417
+aS'I like music.'
+p2418
+aS'Especially punk music.'
+p2419
+aS'I also like to hike.'
+p2420
+aS"Okay, let's go tomorrow."
+p2421
+aS'Hello, nice to meet you.'
+p2422
+aS'Sure, I like pop punk. What kind of music do you like?'
+p2423
+aS'Bands like Blink 182 and Greenday. What bands do you like?'
+p2424
+aS'It is part of the band name.'
+p2425
+aS'Tell me about the music that you like.'
+p2426
+aS"I would like to hear about your thoughts on music first if that's okay?"
+p2427
+aS'Well, I am asking you to share.'
+p2428
+aS'What does that mean?'
+p2429
+aS'I am not aware of this, can you fill me in on the details?'
+p2430
+aS'I am done!'
+p2431
+aS'I know, but you are very off topic.'
+p2432
+aS'Hello'
+p2433
+aS'Sure'
+p2434
+aS'I do not think that is true'
+p2435
+aS'You are wrong'
+p2436
+aS'okay'
+p2437
+aS'sure what kind'
+p2438
+aS'why are you random'
+p2439
+aS'I have no thoughts'
+p2440
+aS'i think she is crazy'
+p2441
+aS'what word'
+p2442
+aS'you make no sense'
+p2443
+aS'can you make sense for even one sentence'
+p2444
+aS'what is your problem'
+p2445
+aS'what are you talking about'
+p2446
+aS'what is your problem'
+p2447
+aS'mitt is retired'
+p2448
+aS'hello'
+p2449
+aS'i like movies too'
+p2450
+aS'because I like them.'
+p2451
+aS"I love music. I'm trying to learn jazz piano"
+p2452
+aS'jazz and classical and vintage pop music'
+p2453
+aS'vintage means old'
+p2454
+aS'vintage means antique'
+p2455
+aS"let's change the subject"
+p2456
+aS'it is. so is candyland'
+p2457
+aS'candyland is another board game'
+p2458
+aS'Hello'
+p2459
+aS"We can, tho I don't really care for them."
+p2460
+aS'Alright then.'
+p2461
+aS'I dislike them.'
+p2462
+aS'I do like music.'
+p2463
+aS"I don't."
+p2464
+aS'What do you not know?'
+p2465
+aS'Are you sure?'
+p2466
+aS"I don't believe you."
+p2467
+aS'Prove it.'
+p2468
+aS"That...didn't make any sense."
+p2469
+aS'Hi'
+p2470
+aS'sure, what sports do you like?'
+p2471
+aS'I like tennis'
+p2472
+aS'ha ha ha, so why you said you like what I like...'
+p2473
+aS'like the last positive drug testing issue of Sharapova'
+p2474
+aS'yes, exactly... I like tennis, I talk about tennis players...'
+p2475
+aS'board games... do you play GO'
+p2476
+aS'I am interested in dialogue research'
+p2477
+aS'you like research'
+p2478
+aS'so, you do not like it any more?'
+p2479
+aS'so, you did and you still do, is this what you mean'
+p2480
+aS'sure, let us talk about wines'
+p2481
+aS'you know red wine, white wine, wines!'
+p2482
+aS'again? do you like wine or not?'
+p2483
+aS'no, I have a date tonight'
+p2484
+aS'no, for sure'
+p2485
+aS'at 8pm'
+p2486
+aS'8 post meridian time'
+p2487
+aS'ok, we can continue the teaching next time'
+p2488
+aS'it sucks! buy bye'
+p2489
+aS'it the best language ever invented!'
+p2490
+aS'Hello!'
+p2491
+aS'Who are you voting for?'
+p2492
+aS'Who are you voting for?'
+p2493
+aS'Are you a Republican or a Democrat?'
+p2494
+aS'Clinton or Sanders?'
+p2495
+aS'Are you talking about Bernie?'
+p2496
+aS'What?'
+p2497
+aS'What does Bernie Sanders have to do with gymnastics?'
+p2498
+aS'Who else would I be talking about?'
+p2499
+aS'Informative.'
+p2500
+aS'It is cold this morning.  Do you have the temperature?'
+p2501
+aS"My idea is that you give me the weather's temperature of where I live."
+p2502
+aS'I see.  You cannot do that.'
+p2503
+aS'What are you going to do now?'
+p2504
+aS'That is true.  You are not much fun.'
+p2505
+aS'Can you do crossword puzzles?'
+p2506
+aS"What's a five letter word for salary increase?"
+p2507
+aS"Let's not.  I don't like star wars."
+p2508
+aS"So you don't like cross word puzzles."
+p2509
+aS'I give up.  You are just a bot and nothing more.  Not even AI.'
+p2510
+aS'How is it going today?'
+p2511
+aS"I don't have one"
+p2512
+aS'I am not sure how to answer that.'
+p2513
+aS'I had no idea it was intereesting'
+p2514
+aS'Who are you talking about?'
+p2515
+aS'I am perfectly calm.'
+p2516
+aS'I can definitely relate to that.'
+p2517
+aS"I'd like that. When do you want to go?"
+p2518
+aS"I think it's okay but no one of my favorites."
+p2519
+aS'None at the moment.'
+p2520
+aS'How are you doing?'
+p2521
+aS"Why would we talk about something you don't like?"
+p2522
+aS'Pick another topic.'
+p2523
+aS'Do you like Romney?'
+p2524
+aS'What do you mean?'
+p2525
+aS'That is essential.'
+p2526
+aS"I don't understand."
+p2527
+aS'Because this is confusing me.'
+p2528
+aS'I like the debates when there are only one or two candidates left.'
+p2529
+aS'When did you feel like that?'
+p2530
+aS'What is total freedom?'
+p2531
+aS'hi'
+p2532
+aS'ok'
+p2533
+aS'ok'
+p2534
+aS'I know'
+p2535
+aS'About what?'
+p2536
+aS'What is some family gossip?'
+p2537
+aS"I don't think I have anything interesting."
+p2538
+aS'I guess so.'
+p2539
+aS'Why are you not making sense?'
+p2540
+aS'Why are you not making sense?'
+p2541
+aS'What would you like to talk about?'
+p2542
+aS'Alright, what about it?'
+p2543
+aS'Sure, what concert?'
+p2544
+aS'hello'
+p2545
+aS'Okay, what about politics?'
+p2546
+aS'I thought we were talking about politics?'
+p2547
+aS'What should we do?'
+p2548
+aS'Hi there TickTock!'
+p2549
+aS"That's a pretty good joke."
+p2550
+aS"That's a pretty good joke."
+p2551
+aS'I like that you think politicians are full of it.'
+p2552
+aS"That doesn't make sense."
+p2553
+aS"I don't know man."
+p2554
+aS'This is very true. When it comes to some of us at least.'
+p2555
+aS'My idea is bacon. Always the right answer.'
+p2556
+aS"I don't like Star Wars"
+p2557
+aS"Yeah people don't understand why I don't like those movies."
+p2558
+aS"I don't know about that."
+p2559
+aS'bye!'
+p2560
+aS'How are you?'
+p2561
+aS'How are you doing?'
+p2562
+aS'What time is it?'
+p2563
+aS"What's your favorite color?"
+p2564
+aS'hi'
+p2565
+aS"You're not talking"
+p2566
+aS'You suck'
+p2567
+aS"This isn't working"
+p2568
+aS"What's your name?"
+p2569
+aS"What's wrong with you?"
+p2570
+aS"You're not saying anything but blanks"
+p2571
+aS'Hey, how are you.'
+p2572
+aS'Okay, I like to play chess.'
+p2573
+aS"It's a game that involves strategy."
+p2574
+aS'Yes, I guess it is.'
+p2575
+aS"What's Bernies. A bar?"
+p2576
+aS'I was asking you.'
+p2577
+aS'What are you doing this weekend.'
+p2578
+aS'What was the risk.'
+p2579
+aS'Yes, I guess it is.'
+p2580
+aS'I know, but it is true.'
+p2581
+a.

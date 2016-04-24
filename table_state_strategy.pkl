@@ -60,12 +60,12 @@ s(g5
 g1
 g1
 tp18
-g7
+g4
 s(g5
 g1
 g5
 tp19
-g7
+g9
 s(g2
 g5
 g2
@@ -75,7 +75,7 @@ s(g5
 g5
 g1
 tp21
-g7
+g13
 s(g1
 g5
 g2

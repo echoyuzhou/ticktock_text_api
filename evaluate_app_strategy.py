@@ -91,7 +91,7 @@ def get_log(rating_logs):
   return inapp, inte, app, ttl
 
 
-rating_logs = readall("/home/ubuntu/zhou/Backend/rating_log/")
+rating_logs = readall("/home/ubuntu/zhou/Backend/rating_log/v4")
 #print rating_logs
 inapp, inte, app, ttl = get_log(rating_logs)
 print "the number of inapproprate turns"

@@ -12,15 +12,21 @@ def GenerateResponsePair(TopicLevel, Candidates, refine_strategy=-1):
 
         return output
 
-def FillTemplate(theme, TemplateLib, TopicLib, template, topic_id, init_id, joke_id,more_id, engaged_input, answer=[]):
-    answerString = ' '.join(answer)
-    topic_number = len(TopicLib)
+def FillTemplate(theme, TemplateLib, TopicLib, template, init_id, joke_id,more_id, engaged_input, answer=[],output=[]):
+    #global topic_id,init_id,joke_id,more_
     sent_list = []
     for item in template:
         for unit in item.split(','):
             #print 'this is the unit' +unit
-	    if unit == 'answer':
-                sent_list.append(answerString)
+            if unit == 'oov' or unit =='name_entity' or unit =='short_answer' or unit =='not_repeat':
+                sent_list.append(output)
+            elif unit == 'answer':
+                output = ' '.join(answer)
+                punc_list = [".",",","?","'","!"]
+                for punc in punc_list:
+                    if punc in output:
+                        output = output.replace(' '+punc,punc)
+                sent_list.append(output)
             elif unit == 'template_back' and len(engaged_input)<1:
                 continue
             elif unit == 'topic_back':
@@ -32,9 +38,11 @@ def FillTemplate(theme, TemplateLib, TopicLib, template, topic_id, init_id, joke
                     unit = random.choice(['joke','init','switch'])
             elif unit == 'topic':
 		#print topic_id
-                index = topic_id % len(TopicLib)
-		sent_list.append(TopicLib[index])
-                topic_id = topic_id +1
+                topic_list  = [topic for topic in TopicLib if topic != theme]
+                #print topic_list
+                #print 'theme' +theme +'\n'
+                theme = random.choice(topic_list)
+                sent_list.append(theme)
             elif unit == 'template_init':
                 #print TemplateLib['template_init']
 # here we use initiation that is attached to certain topic.
@@ -54,5 +62,5 @@ def FillTemplate(theme, TemplateLib, TopicLib, template, topic_id, init_id, joke
                 more_id = more_id + 1
 	    else:
 		sent_list.append(random.choice(TemplateLib[unit]))
-    #print "template answer ", sent_list
-    return ' '.join(sent_list), topic_id, init_id, joke_id, more_id, engaged_input
+    #pr
+    return theme, ' '.join(sent_list), init_id, joke_id, more_id, engaged_input

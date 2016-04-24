@@ -40,43 +40,18 @@
 ###########################################################################
 import nltk
 import os, sys, string, math, random
-import exceptions
+import exceptions, logging
 from copy import copy, deepcopy
-import re
 from time import sleep
 from random import randint
 from threading import Thread, Timer
-import logging
 import os.path as path
 import Control,Loader,NLG
-import sys
-import socket
-import time
-import datetime
-import pickle
-import unicodedata
-import zmq
-import threading
-import oov
-import name_entity
+import socket,datetime,pickle,unicodedata,zmq,threading
 from gensim import corpora, models
-galaxyServer = None
 connection = None
-current_dialog_state = None
-home_dialog_state = None
-current_dialog_state_counter = 0
-current_dialog_state_begin = None
-global_dialog_state_counter = 0
 filepointer = None
 socket = None
-from random import randrange
-logger = None
-engaged_input = []
-turn_id = 0
-time = None
-wizard = 3
-engagement_mode = 0# this is used when engagement is not used, and the strategies are controled by response relevance only.
-isAlltag =0
 
 def InitLogging():
 	global logger, filepointer, folder_name
@@ -100,61 +75,63 @@ def Log(input):
 	logger.error(input)
 	sys.stdout.flush()
 
-database = {}
-resource = {}
-listfile = None
-topic_id = 0 # the index of the starting topic
-init_id =0
-joke_id =0
-more_id =0
-rescource_root = 'resource'
-template_list=['template/template_new.txt', 'template/template_end.txt', 'template/template_open.txt', 'template/template_expand.txt', 'template/template_init.txt', 'template/template_joke.txt', 'template/template_back.txt', 'template/template_more.txt']
-template_list = [path.join(rescource_root, name) for name in template_list]
-topicfile = path.join(rescource_root, 'topic.txt')
-tfidfname = 'tfidf_reference'
-
-with open('dictionary_value.pkl') as f:
-	dictionary_value = pickle.load(f)
 def InitResource(version):
-	global database, resource, socket, listflie, tfidfmodel, tfidfdict, table_state_strategy
-	if version is 'v1':
+    global TemplateLib, TopicLib, TreeState, Template, model,init_id,joke_id,more_id, dictionary_value, turn_id,wizard,isAlltag,engaged_input, engagement_mode
+    global q_table, database, resource, socket, listflie, tfidfmodel, tfidfdict, table_state_strategy
+    database = {}
+    resource = {}
+    listfile = None
+    init_id =0
+    joke_id =0
+    more_id =0
+    wizard =3
+    isAlltag =0
+    turn_id =0
+    engaged_input =[]
+    engagement_mode =0
+    rescource_root = 'resource'
+    template_list=['template/template_new.txt', 'template/template_end.txt', 'template/template_open.txt', 'template/template_expand.txt', 'template/template_init.txt', 'template/template_joke.txt', 'template/template_back.txt', 'template/template_more.txt']
+    template_list = [path.join(rescource_root, name) for name in template_list]
+    topicfile = path.join(rescource_root, 'topic.txt')
+    tfidfname = 'tfidf_reference'
+    with open('dictionary_value.pkl') as f:
+	dictionary_value = pickle.load(f)
+    if version is 'v1':
 		listfile = 'cnn_qa_human_response_name.list'
-	if version is 'v2':
+    elif version is 'v2':
 		listfile = 'cnn_qa_human_response_name_high_app.list'
-        if version is 'v2.5':
+    elif version is 'v2.5':
 		listfile = 'cnn_qa_human_response_name_high_app.list'
                 tfidfdict = corpora.Dictionary.load(tfidfname + '.dict')
                 tfidfmodel = models.tfidfmodel.TfidfModel.load(tfidfname + '.tfidf')
-        if version is 'v3':
+    elif version is 'v3':
                 listfile = 'cnn_hr_v1_v2.list'
                 tfidfdict = corpora.Dictionary.load(tfidfname + '.dict')
                 tfidfmodel = models.tfidfmodel.TfidfModel.load(tfidfname + '.tfidf')
-        if version is 'v4':
+    elif version is 'v4':
                 listfile = 'cnn_hr_v1_v2_v4.list'
                 tfidfdict = corpora.Dictionary.load(tfidfname + '.dict')
                 tfidfmodel = models.tfidfmodel.TfidfModel.load(tfidfname + '.tfidf')
-
-        datalist=[line.strip() for line in open(listfile)]
-	database = Loader.LoadDataPair(datalist)
-	resource = Loader.LoadLanguageResource()
-	global TemplateLib, TopicLib, TreeState, Template,model
-	TemplateLib = Loader.LoadTemplate(template_list)
-	TopicLib = Loader.LoadTopic(topicfile)
-	TreeState, Template = Control.Init()
-        model = models.Doc2Vec.load('/tmp/word2vec_50')
-        if wizard is 2:
+    datalist=[line.strip() for line in open(listfile)]
+    q_table = pickle.load(open('q_table.pkl'))
+    database = Loader.LoadDataPair(datalist)
+    resource = Loader.LoadLanguageResource()
+    TemplateLib = Loader.LoadTemplate(template_list)
+    TopicLib = Loader.LoadTopic(topicfile)
+    TreeState, Template = Control.Init()
+    model = models.Doc2Vec.load('/tmp/word2vec_50')
+    if wizard is 2:
 		context= zmq.Context()
 		socket = context.socket(zmq.REQ)
 		socket.connect("tcp://localhost:5555")
-        with open('table_state_strategy.pkl') as f:
-            table_state_strategy = pickle.load(f)
-def get_response(fix_strategy,policy_mode,user_input,user_id,previous_history, theme, oov_mode =1,name_entity_mode=1, short_answer_mode=1,anaphora_mode=1, word2vec_ranking_mode=1,tfidf_mode=1, force_strategy=None):
-	#oov_mode is used to switch on and off if we ask the unkonwn words
-	#name_entity_mode is used to switch on and off if we will detect the name_entity and use the wiki api to get some knowledge expansion.
-        global database, resource, turn_id, time, wizard, socket,isAlltag, tfidfmodel, tfidfdict
-	global TemplateLib, TopicLib, TreeState, Template, connection, filepointer,engaged_input, topic_id, init_id,joke_id,more_id,dictionary_value,model, table_state_strategy
-        print 'user_input: ' + user_input
-        print 'user_id:' + user_id
+    with open('table_state_strategy.pkl') as f:
+        table_state_strategy = pickle.load(f)
+
+def get_response(fix_strategy,policy_mode,user_input,user_id,previous_history, theme, oov_mode =1,name_entity_mode=1, short_answer_mode=1,anaphora_mode=1, word2vec_ranking_mode=1,tfidf_mode=1):
+        global database, resource, turn_id, time, wizard, socket,isAlltag, tfidfmodel, tfidfdict, turn_id, engagement_mode, engaged_input, isAlltag, wizard
+	global TemplateLib, TopicLib, TreeState, Template, connection, filepointer,engaged_input, init_id,joke_id,more_id,dictionary_value,model, table_state_strategy, q_table
+        #print 'user_input: ' + user_input
+        #print 'user_id:' + user_id
         strategy = []
         filepointer.write('turn_id: ' + str(turn_id) + '\n')
 	filepointer.write('user_id: ' + user_id + '\n')
@@ -194,7 +171,7 @@ def get_response(fix_strategy,policy_mode,user_input,user_id,previous_history, t
 			print 'Sending request'
 			socket.send("ready\0")
 			engagement = socket.recv()
-			#print engagement
+			#print engagement`
 			#print("Received reply [ %s ]" %  message)
 		else:# this is random generating engagement for testing.
 			engagement = random.choice('12345')
@@ -204,42 +181,20 @@ def get_response(fix_strategy,policy_mode,user_input,user_id,previous_history, t
 			engaged_input.append(user_input)
 		state = Control.SelectState_rel(relavance, int(engagement), TreeState,engaged_input)
 	    else:
-		state = Control.SelectState_rel_only(policy_mode, table_state_strategy, relavance, user_input,history, TreeState,force_strategy=force_strategy)
+		state,output = Control.SelectState_rel_only(table_state_strategy, relavance, user_input, history, TreeState, dictionary_value,oov_mode,name_entity_mode,short_answer_mode,policy_mode, q_table,theme,init_id,joke_id,more_id)
         else:
             state = {'name': fix_strategy}
+            output = ''
             answer = ''
             word2vec = 0
+        #print strategy
+        #print state['name']
         strategy.append(state['name'])
-        output,topic_id,init_id,joke_id,more_id, engagement_input = NLG.FillTemplate(theme[user_id], TemplateLib, TopicLib, Template[state['name']],topic_id, init_id,joke_id,more_id,engaged_input, answer)
+        if output == None:
+            theme[user_id], output,init_id,joke_id,more_id, engagement_input = NLG.FillTemplate(theme[user_id], TemplateLib, TopicLib, Template[state['name']],init_id,joke_id,more_id,engaged_input, answer,output)
+        #print theme
         if isinstance(output, unicode):
 		output = unicodedata.normalize('NFKD',output).encode('ascii','ignore')
-        if state['name'] is not 'continue' and force_strategy == None and fix_strategy ==None:
-            if oov_mode is 1:
-		is_chosen, dictionary_value,output_oov = oov.oov_out(user_input,dictionary_value)
-                if is_chosen is 1:
-			print 'oov is triggerd'
-                        strategy.append('oov')
-			output = output_oov
-            if name_entity_mode is 1:
-                name_entity_list = name_entity.name_entity_detection(user_input)
-                if name_entity_list:
-                   name_entity_disp = name_entity.NE_kb(name_entity_list)
-                   if name_entity_disp:
-                        print 'name entity is triggerd'
-                        strategy.append('name_entity')
-                        output_oov = name_entity.name_entity_generation(name_entity_list, name_entity_disp)
-                        if output_oov != previous_history[user_id][-1]:
-                            output = output_oov
-            if short_answer_mode is 1:
-                if (user_input.find(' ')==-1):
-                    print 'it is a single word'
-                    word_list = nltk.word_tokenize(user_input)
-                    for word in word_list:
-                        if word not in dictionary_value:
-                            #print 'user_input not in dictionary_value'
-                            print 'short answer is triggered'
-                            strategy.append('short_answer')
-                            output = 'Will you be serious, and say something in a complete sentence?'
 	if output.find("Piers") is not -1:
 		output = output.replace("Piers","dear")
 	filepointer.write('TickTockResponse:' + output + '\n')
@@ -253,26 +208,10 @@ def get_response(fix_strategy,policy_mode,user_input,user_id,previous_history, t
                 previous_history[user_id] = [user_input,output]
         if output[-2:-1]==' ':
             output = output[0:-2] +output[-1]
-
-        #this is if there is switch, we change the theme, and board game has a space which is a little different
-        if strategy[-1] =='switch': #and fix_strategy == None:
-            if output.split()[-1] == 'games':
-                theme[user_id] = 'board games'
-            else:
-                theme[user_id] = output.split()[-1]
-
-        if user_input in previous_history[user_id][:-2]:
-            output = "You already said that!"
-        punc_list = [".",",","?","'","!"]
-        # get rid of the space before the puncuation.
-
-        for punc in punc_list:
-            if punc in output:
-                output = output.replace(' '+punc,punc)
-        print 'strategy' +  str(strategy)
-        print 'response: ' + output
-        print "end response generation =================="
-	print "==========================================="
+        #print 'strategy' +  str(strategy)
+        #print 'response: ' + output
+        #print "end response generation =================="
+	#print "==========================================="
         filepointer.flush()
         #print "this is previous history"
         #print previous_history

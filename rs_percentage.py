@@ -86,6 +86,8 @@ with open('table_value.pkl','wb') as f:
     pickle.dump(table_sum,f)
     pickle.dump(table_num,f)
     pickle.dump(table_avg,f)
+for item in entry_4:
+    print item + str(table_avg['neg','neg','neg',item])
 #a = c.fetchall()
 #pprint.pprint(a)
 

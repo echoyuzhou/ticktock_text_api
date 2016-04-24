@@ -19,12 +19,16 @@ def PushData(data, database):
         database = database +[item.lower() for item in word]
     return database
 
-datalist =[line.strip() for line in open('cnn_qa_human_response_name_high_app.list')]
-database = LoadData(datalist)
-database = list(set(database))
+def main():
+    datalist = line.strip() for line in open('cnn_qa_human_response_name_high_app.list')]
+    database = LoadData(datalist)
+    database = list(set(database))
 
-with open('dictionary_value.pkl','w') as f:
-    pickle.dump(database,f)
+    with open('dictionary_value.pkl','w') as f:
+        pickle.dump(database,f)
+if __name__= "__main__":
+    main()
+
 
 
 

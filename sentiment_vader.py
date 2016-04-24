@@ -13,5 +13,5 @@ def get_sentiment(response):
     sent_score = [neg,neutral,pos]
     big_score = max(sent_score)
     index = sent_score.index(big_score)
-    sentiment = sent_list(index)
+    sentiment = sent_list[index]
     return sentiment

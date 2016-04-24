@@ -3,9 +3,10 @@ import Understand
 import Retrieval
 import random
 import sys
-import sentiment
-#for line in sys.stdin:
-#    print line
+import sentiment_vader
+import oov
+import name_entity
+import nltk
 
 def Init():
 	Tree = ConstructTree()
@@ -44,35 +45,54 @@ def FindCandidate(model,database, resource, input_utter, isAlltag, history,anaph
                         word2vec = 1
         return relavance, answer, anaphora_trigger, word2vec
 #@based on response weight
-def SelectState_rel_only(policy_mode,str_rule, relavance, user_input, pre_history, TreeState, force_strategy=None):
-	branch_idx = TreeState.keys()[0]
-	branch = TreeState[branch_idx]['node']
-        if not force_strategy == None:
-            bool_idx, int_idx = force_strategy
-            return TreeState[branch_idx][bool_idx][int_idx]
-        if relavance >= branch['threshold_relavance']:
-		#print 'we are in the h'
-                return TreeState[branch_idx][True][0] # only use the continue, don't expand
+def SelectState_rel_only(str_rule, relavance, user_input, pre_history, TreeState,dictionary_value,oov_mode,name_entity_mode,short_answer_mode,policy_mode, q_table, theme, init_id,joke_id,more_id):
+    branch_idx = TreeState.keys()[0]
+    branch = TreeState[branch_idx]['node']
+    if user_input in pre_history:
+        return {'name':'not_repeat'},'You already said that!'
+    if relavance >= branch['threshold_relavance']:
+        return TreeState[branch_idx][True][0],None # only use the continue, don't expand
 
-	else:
-            if policy_mode ==0 or  pre_history==None:
-		return random.choice(TreeState[branch_idx][False][0:-1])# don't choose the last leave, go back
-	    else:
-                #choose this based on the previous utterances' sentiment.
-                #curr =[]
-                curr_1 = sentiment.get_sentiment(user_input)
-                curr_2 = sentiment.get_sentiment(pre_history[-1])
-                curr_3 = sentiment.get_sentiment(pre_history[-2])
-                if curr_1 not in ['neg','pos','neutral']:
-                    curr_1 = 'neg'
-                    print user_input
-#                print 'this is the previous history'
-#                print curr_1
-#                print curr_2
-#                print curr_3
-                strategy = str_rule[(curr_1,curr_2,curr_3)]
-                return {'name':strategy}
-                #return TreeState[branch_idx][False][2]
+    else:
+        if name_entity_mode is 1:
+            name_entity_list = name_entity.name_entity_detection(user_input)
+            if name_entity_list:
+                   name_entity_disp = name_entity.NE_kb(name_entity_list)
+                   if name_entity_disp:
+                        print 'name entity is triggerd'
+                        output_oov = name_entity.name_entity_generation(name_entity_list, name_entity_disp)
+                        #if output_oov != previous_history[user_id][-1]:
+                        return {'name':'name_entity'},output_oov
+        if short_answer_mode is 1:
+                if (user_input.find(' ')==-1):
+                    print 'it is a single word'
+                    word_list = nltk.word_tokenize(user_input)
+                    for word in word_list:
+                        if word not in dictionary_value:
+                            #print 'user_input not in dictionary_value'
+                            print 'short answer is triggered'
+                            #strategy.append('short_answer')
+                            output = 'Will you be serious, and say something in a complete sentence?'
+                            return {'name': 'short_answer'},output
+        if oov_mode is 1:
+	    chosen, dictionary_value,output_oov = oov.oov_out(user_input,dictionary_value)
+            if chosen is 1:
+			    print 'oov is triggerd'
+			    output = output_oov
+                            return {'name': 'oov'},output_oov
+
+        if policy_mode ==0 or  pre_history==None:
+		    return random.choice(TreeState[branch_idx][False][0:-1]),None# don't choose the last leave, go back
+
+        curr_1 = sentiment_vader.get_sentiment(user_input)
+        curr_2 = sentiment_vader.get_sentiment(pre_history[-1])
+        curr_3 = sentiment_vader.get_sentiment(pre_history[-2])
+        strategy = str_rule[(curr_1,curr_2,curr_3)]
+        return {'name':strategy},None
+        if policy_mode == 'rl':
+            turn_id = len(pre_history)/2
+            state, output = rl_test(curr_1,curr_2,curr_3,turn_id, theme, init_id,joke_id,more_id)
+            return state, output
 
 def SelectState(relavance, engagement, TreeState, engaged_list):
 	branch_idx = TreeState.keys()[0]
@@ -105,6 +125,10 @@ def ConstructTree():
         continue_state = {'tag':'state', 'name':'continue'}
         expand_state = {'tag':'state', 'name':'expand'}
         more_state = {'tag': 'state', 'name': 'more'}
+        oov_state={'tag': 'state','name':'oov'}
+        name_entity_state ={'tag':'state','name':'name_entity'}
+        short_answer ={'tag':'state','name':'short_answer'}
+        not_repeat = {'tag':'state','name':'not_repeat'}
         Tree[0] = {'node':branch}
         Tree[0][True] = [continue_state, expand_state]
         Tree[0][False] = [switch_state, end_state, init_state, joke_state, more_state, back_state] # switch state here means strategy selection selection state.
@@ -130,4 +154,8 @@ def ConstructTemplate():
         template['back'] = ['template_end', 'template_back,topic_back']
         template['more'] = ['template_more']
         template['joke'] = ['template_end','template_joke']
+        template['oov'] =['oov']
+        template['short_answer'] = ['short_answer']
+        template['name_entity'] =['name_entity']
+        template['not_repeat'] = ['not_repeat']
         return template
