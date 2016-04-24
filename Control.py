@@ -83,13 +83,14 @@ def SelectState_rel_only(str_rule, relavance, user_input, pre_history, TreeState
 
         if policy_mode ==0 or  pre_history==None:
 		    return random.choice(TreeState[branch_idx][False][0:-1]),None# don't choose the last leave, go back
-
         curr_1 = sentiment_vader.get_sentiment(user_input)
         curr_2 = sentiment_vader.get_sentiment(pre_history[-1])
         curr_3 = sentiment_vader.get_sentiment(pre_history[-2])
-        strategy = str_rule[(curr_1,curr_2,curr_3)]
-        return {'name':strategy},None
-        if policy_mode == 'rl':
+
+        elif policy_mode ==1 and pre_history==None:
+            strategy = str_rule[(curr_1,curr_2,curr_3)]
+            return {'name':strategy},None
+        elif policy_mode == 'rl':
             turn_id = len(pre_history)/2
             state, output = rl_test(curr_1,curr_2,curr_3,turn_id, theme, init_id,joke_id,more_id)
             return state, output
