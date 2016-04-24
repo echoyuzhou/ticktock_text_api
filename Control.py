@@ -7,7 +7,7 @@ import sentiment_vader
 import oov
 import name_entity
 import nltk
-
+import rl_test
 def Init():
 	Tree = ConstructTree()
 	Template = ConstructTemplate()
@@ -45,7 +45,7 @@ def FindCandidate(model,database, resource, input_utter, isAlltag, history,anaph
                         word2vec = 1
         return relavance, answer, anaphora_trigger, word2vec
 #@based on response weight
-def SelectState_rel_only(str_rule, relavance, user_input, pre_history, TreeState,dictionary_value,oov_mode,name_entity_mode,short_answer_mode,policy_mode, q_table, theme, init_id,joke_id,more_id):
+def SelectState_rel_only(str_rule, relavance, user_input, pre_history, TreeState,dictionary_value,oov_mode,name_entity_mode,short_answer_mode,policy_mode, q_table, theme, TemplateLib,TopicLib,Template,init_id,joke_id,more_id):
     branch_idx = TreeState.keys()[0]
     branch = TreeState[branch_idx]['node']
     if user_input in pre_history:
@@ -87,13 +87,13 @@ def SelectState_rel_only(str_rule, relavance, user_input, pre_history, TreeState
         curr_2 = sentiment_vader.get_sentiment(pre_history[-1])
         curr_3 = sentiment_vader.get_sentiment(pre_history[-2])
 
-        elif policy_mode ==1 and pre_history==None:
+        if policy_mode ==1 and pre_history==None:
             strategy = str_rule[(curr_1,curr_2,curr_3)]
             return {'name':strategy},None
-        elif policy_mode == 'rl':
+        if policy_mode == 'rl':
             turn_id = len(pre_history)/2
-            state, output = rl_test(curr_1,curr_2,curr_3,turn_id, theme, init_id,joke_id,more_id)
-            return state, output
+            action, output = rl_test.rl_test(curr_1,curr_2,curr_3,turn_id,q_table, theme,TemplateLib,TopicLib,Template, init_id,joke_id,more_id)
+            return {'name':action}, output
 
 def SelectState(relavance, engagement, TreeState, engaged_list):
 	branch_idx = TreeState.keys()[0]

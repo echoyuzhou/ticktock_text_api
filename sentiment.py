@@ -1,5 +1,4 @@
 import commands
-
 def get_sentiment(response):
     response_processed= response.replace('"','')
     if response_processed == '':

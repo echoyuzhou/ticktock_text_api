@@ -181,7 +181,7 @@ def get_response(fix_strategy,policy_mode,user_input,user_id,previous_history, t
 			engaged_input.append(user_input)
 		state = Control.SelectState_rel(relavance, int(engagement), TreeState,engaged_input)
 	    else:
-		state,output = Control.SelectState_rel_only(table_state_strategy, relavance, user_input, history, TreeState, dictionary_value,oov_mode,name_entity_mode,short_answer_mode,policy_mode, q_table,theme,init_id,joke_id,more_id)
+		state,output = Control.SelectState_rel_only(table_state_strategy, relavance, user_input, history, TreeState, dictionary_value,oov_mode,name_entity_mode,short_answer_mode,policy_mode, q_table,theme,TemplateLib, TopicLib, Template,init_id,joke_id,more_id)
         else:
             state = {'name': fix_strategy}
             output = ''
