@@ -92,6 +92,8 @@ def SelectState_rel_only(str_rule, relavance, user_input, pre_history, TreeState
             return {'name':strategy},None
         if policy_mode == 'rl':
             turn_id = len(pre_history)/2
+            if turn_id >11:
+                turn_id ==11
             action, output = rl_test.rl_test(curr_1,curr_2,curr_3,turn_id,q_table, theme,TemplateLib,TopicLib,Template, init_id,joke_id,more_id)
             return {'name':action}, output
 
