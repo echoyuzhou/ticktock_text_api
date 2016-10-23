@@ -1,3 +1,4 @@
 def theme_check(theme):
-    theme['a'] ='echo'
+    theme = 'sports'
+    #theme['a'] ='echo'
     return theme

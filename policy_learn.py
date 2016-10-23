@@ -7,6 +7,7 @@ import sys
 import socket
 import time
 import commands
+import gensim
 galbackend_online.InitLogging()
 galbackend_online.InitResource('v4')
 oov_state =1
@@ -40,7 +41,7 @@ for state_1 in sub_state_list:
 #load the reward table (look at reward_table.py)
 reward_table = pickle.load(open('reward_table.pkl'))
 dic = pickle.load(open('dictionary_conv.pkl'))
-
+model = gensim.models.Word2Vec.load('/tmp/word2vec_100_break')
 #each previous real user said utterance is the chosen starting state.
 user_input_all = pickle.load(open('user_input_all.pkl'))
 
@@ -61,7 +62,7 @@ for tt_utt in user_input_all:
     conv["Turns"][0]["Appropriateness"] =0# clean the cash for alice
     conv["Turns"][0]["Strategy"] = ['new']
     commands.getstatusoutput("rm c.txt")
-    if conv_index > start_index+10:
+    if conv_index > start_index+300:
         epsilon = 0.1
         if (conv_index-start_index)%20 == 0:
         # here we do testing.
@@ -97,7 +98,7 @@ for tt_utt in user_input_all:
         next_sent_2 = sentiment_vader.get_sentiment(al_utt)
         state = (sent_1,sent_2,sent_3,turn_id)
 # here we see if we go into get_response, it happen to be in any of the five strategy, then we select one to excecute. otherwise we stick to the original strategy.
-        theme_new, strategy, response,previous_history_new,word2vec = galbackend_online.get_response(None,policy_mode,al_utt, str(conv_index), previous_history,{str(conv_index):old_theme}, oov_state,name_entity_state,short_answer_state,anaphra_state,word2vec_ranking_state,tfidf_state)
+        strategy, response,word2vec = galbackend_online.get_response(None,policy_mode,al_utt, str(conv_index), previous_history,{str(conv_index):old_theme}, oov_state,name_entity_state,short_answer_state,anaphra_state,word2vec_ranking_state,tfidf_state)
         previous_history[str(conv_index)].pop()
         previous_history[str(conv_index)].pop()
         if strategy[-1] in action_list_pass:
@@ -109,14 +110,14 @@ for tt_utt in user_input_all:
         #action selection portion
             if random.random()<epsilon:
                 action_selected = random.choice(action_list)
-                theme, strategy, utt_real,previous_history_new,word2vec = galbackend_online.get_response(action_selected, policy_mode,al_utt, str(conv_index) ,previous_history,{str(conv_index):old_theme}, oov_state,name_entity_state,short_answer_state,anaphra_state,word2vec_ranking_state,tfidf_state)
+                strategy, utt_real, word2vec = galbackend_online.get_response(action_selected, policy_mode,al_utt, str(conv_index) ,previous_history,{str(conv_index):old_theme}, oov_state,name_entity_state,short_answer_state,anaphra_state,word2vec_ranking_state,tfidf_state)
                 next_sent_3 = sentiment_vader.get_sentiment(utt_real)
             else:
                 q_list =[]
                 q_sent = []
                 q_utt =[]
                 for action in action_list:
-                    theme, strategy, utt,previous_history_new,word2vec = galbackend_online.get_response(action,policy_mode,al_utt, str(conv_index),previous_history,{str(conv_index):old_theme}, oov_state,name_entity_state,short_answer_state,anaphra_state,word2vec_ranking_state,tfidf_state)
+                    strategy, utt,word2vec = galbackend_online.get_response(action,policy_mode,al_utt, str(conv_index),previous_history,{str(conv_index):old_theme}, oov_state,name_entity_state,short_answer_state,anaphra_state,word2vec_ranking_state,tfidf_state)
                     previous_history[str(conv_index)].pop()
                     previous_history[str(conv_index)].pop()
                     next_sent_3 = sentiment_vader.get_sentiment(utt)
@@ -156,7 +157,7 @@ for tt_utt in user_input_all:
         #conv["Turns"][turn_id]
         # clean the cash for alice
         if turn_id > 9:
-                app, depth, info = con_reward.con_reward(conv,dic)
+                app, depth, info = con_reward.con_reward(conv,dic,model)
                 con_reward_value = app*10+depth*100 + info
                 #print con_reward_value
                 if action_selected in action_list:
@@ -183,6 +184,8 @@ for tt_utt in user_input_all:
         tt_utt = utt_real
     f.close()
     conv_index = conv_index + 1
+    if conv_index == 1000+300:
+        pickle.dump(q_table, open('q_table_100.pkl','w'))
     if conv_index > 1000+3000:
         pickle.dump(q_table, open('q_table.pkl','w'))
         break

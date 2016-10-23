@@ -49,9 +49,11 @@ def SelectState_rel_only(str_rule, relavance, user_input, pre_history, TreeState
     branch_idx = TreeState.keys()[0]
     branch = TreeState[branch_idx]['node']
     if user_input in pre_history:
-        return {'name':'not_repeat'},'You already said that!'
+        return {'name':'not_repeat'},'You already said that!',theme, init_id, joke_id, more_id
+
     if relavance >= branch['threshold_relavance']:
-        return TreeState[branch_idx][True][0],None # only use the continue, don't expand
+        return TreeState[branch_idx][True][0],None,theme, init_id, joke_id, more_id
+ # only use the continue, don't expand
 
     else:
         if name_entity_mode is 1:
@@ -62,7 +64,8 @@ def SelectState_rel_only(str_rule, relavance, user_input, pre_history, TreeState
                         print 'name entity is triggerd'
                         output_oov = name_entity.name_entity_generation(name_entity_list, name_entity_disp)
                         #if output_oov != previous_history[user_id][-1]:
-                        return {'name':'name_entity'},output_oov
+                        return {'name':'name_entity'},output_oov,theme, init_id, joke_id, more_id
+
         if short_answer_mode is 1:
                 if (user_input.find(' ')==-1):
                     print 'it is a single word'
@@ -73,30 +76,33 @@ def SelectState_rel_only(str_rule, relavance, user_input, pre_history, TreeState
                             print 'short answer is triggered'
                             #strategy.append('short_answer')
                             output = 'Will you be serious, and say something in a complete sentence?'
-                            return {'name': 'short_answer'},output
+                            return {'name': 'short_answer'},output,theme, init_id, joke_id, more_id
+
         if oov_mode is 1:
 	    chosen, dictionary_value,output_oov = oov.oov_out(user_input,dictionary_value)
             if chosen is 1:
 			    print 'oov is triggerd'
 			    output = output_oov
-                            return {'name': 'oov'},output_oov
+                            return {'name': 'oov'},output_oov,theme,init_id, joke_id, more_id
+
 
         if policy_mode ==0 or  pre_history==None:
-		    return random.choice(TreeState[branch_idx][False][0:-1]),None# don't choose the last leave, go back
+		    return random.choice(TreeState[branch_idx][False][0:-1]),None, theme, init_id, joke_id, more_id
+# don't choose the last leave, go back
         curr_1 = sentiment_vader.get_sentiment(user_input)
         curr_2 = sentiment_vader.get_sentiment(pre_history[-1])
         curr_3 = sentiment_vader.get_sentiment(pre_history[-2])
 
-        if policy_mode ==1 and pre_history==None:
+        if policy_mode ==1 and pre_history is not None:
             strategy = str_rule[(curr_1,curr_2,curr_3)]
-            return {'name':strategy},None
+            return {'name':strategy},None,theme,init_id,joke_id, more_id
         if policy_mode == 'rl':
             turn_id = len(pre_history)/2
             if turn_id >11:
                 turn_id ==11
-            action, output = rl_test.rl_test(curr_1,curr_2,curr_3,turn_id,q_table, theme,TemplateLib,TopicLib,Template, init_id,joke_id,more_id)
-            return {'name':action}, output
-
+            theme_new, action, output, init_id, joke_id, more_id = rl_test.rl_test(curr_1,curr_2,curr_3,turn_id,q_table, theme,TemplateLib,TopicLib,Template, init_id,joke_id,more_id)
+            return {'name':action}, output,theme_new, init_id, joke_id, more_id
+    raise Exception
 def SelectState(relavance, engagement, TreeState, engaged_list):
 	branch_idx = TreeState.keys()[0]
 	branch = TreeState[branch_idx]['node']

@@ -7,10 +7,13 @@ def rl_test(sent_1,sent_2,sent_3,turn_id,q_table,theme,TemplateLib,TopicLib,Temp
     q_list =[]
     q_utt =[]
     for action in action_list:
-        theme, utt, init_id, joke_id,more_id, engagement_input = NLG.FillTemplate(theme,TemplateLib,TopicLib,Template[action],init_id,joke_id,more_id,0,'','' )
+        theme_new, utt, init_id, joke_id,more_id, engagement_input = NLG.FillTemplate(theme,TemplateLib,TopicLib,Template[action],init_id,joke_id,more_id,0,'','' )
         sent_3 = sentiment_vader.get_sentiment(utt)
         next_state = (sent_1,sent_2,sent_3,turn_id)
-        q_list.append(q_table[next_state,action])
+        if next_state in q_table.keys():
+            q_list.append(q_table[next_state,action])
+        else:
+            q_list.append(0)
         q_utt.append(utt)
         maxQ = max(q_list)
     count = q_list.index(maxQ)
@@ -21,6 +24,12 @@ def rl_test(sent_1,sent_2,sent_3,turn_id,q_table,theme,TemplateLib,TopicLib,Temp
         i = q_list.index(maxQ)
     output = q_utt[i]
     action_selected = action_list[i]
-    return action_selected,output
+    if action_selected =='init':
+        init_id +=1
+    elif action_selected == 'joke':
+        joke_id +=1
+    elif action_selected == 'more':
+        more_id +=1
+    return theme_new, action_selected,output, init_id,joke_id,more_id
 
 

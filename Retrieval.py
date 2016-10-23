@@ -52,14 +52,18 @@ def Select(Candidates,history,word2vec_ranking_mode,model):
                         return answer_list[0]
                     return answer_list[0]
                 #print sim_score
-                if big_score < sim_score*0.5 + score and sim_score!=1:
-                    big_score = sim_score*0.5 + score
-                    best_answer = answer
-                    relevance = score
+                if sim_score >0.999:
+                    print 'it is the same as the previous answer'
+                    continue
+                else:
+                    if big_score < sim_score*0.5 + score:
+		        big_score = sim_score*0.5 + score
+                        best_answer = answer
+                        relevance = score
                 #print best_answer
             #if relevance != answer_list[0][0]:
                 #print "picked the non-first response based on the word2vec rank"
-            return relevance, best_answer, 'Q'
+                return relevance, best_answer, 'Q'
         else:
             return answer_list[0]
     else:

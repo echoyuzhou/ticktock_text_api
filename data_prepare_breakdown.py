@@ -6,8 +6,7 @@ import pickle
 # we need to extract some features, now we make it easy now to just use the word2vec, one turn previous turn.
 #
 
-def extract_word2vec_length(all_logs,dic):
-    model = gensim.models.Word2Vec.load('/tmp/word2vec_100_break')
+def extract_word2vec_length(all_logs,dic,model):
     sent_vec = None
     length_vec = None
     for item in all_logs:
@@ -27,7 +26,7 @@ def extract_word2vec_length(all_logs,dic):
                     continue
                 #print 'TickTock'
                 tokens = nltk.word_tokenize(conv[turn]["TickTock"].lower())
-                token_list = [token for token in tokens if token in dic]
+                token_list = [token.lower() for token in tokens if token.lower() in dic]
                 if token_list ==[]:
                     turn_vec_2 = np.zeros(len(turn_vec_1))
                 else:

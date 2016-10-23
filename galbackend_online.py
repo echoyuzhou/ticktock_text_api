@@ -142,12 +142,11 @@ def get_response(fix_strategy,policy_mode,user_input,user_id,previous_history, t
             if user_id in previous_history.keys():
                 history = previous_history[user_id]
             else:
-                previous_history = {}
                 if user_id not in theme.keys():
                     theme[user_id] = random.choice(TopicLib)
                 output = 'Hello, I really like ' + theme[user_id] + '. How about we talk about ' + theme[user_id]
                 previous_history[user_id]=[user_input,output]
-                return theme, 'new', output, previous_history, 0
+                return 'new', output,0
             if tfidf_mode is 1:
                 relavance, answer, anaphora_trigger,word2vec = Control.FindCandidate(model,database, resource, user_input,isAlltag,history,anaphora_mode, word2vec_ranking_mode, tfidfmodel=tfidfmodel, tfidfdict=tfidfdict)
             else:
@@ -181,10 +180,13 @@ def get_response(fix_strategy,policy_mode,user_input,user_id,previous_history, t
 			engaged_input.append(user_input)
 		state = Control.SelectState_rel(relavance, int(engagement), TreeState,engaged_input)
 	    else:
-		state,output = Control.SelectState_rel_only(table_state_strategy, relavance, user_input, history, TreeState, dictionary_value,oov_mode,name_entity_mode,short_answer_mode,policy_mode, q_table,theme,TemplateLib, TopicLib, Template,init_id,joke_id,more_id)
+		state,output,theme_new,init_id,joke_id,more_id = Control.SelectState_rel_only(table_state_strategy, relavance, user_input, history, TreeState, dictionary_value,oov_mode,name_entity_mode,short_answer_mode,policy_mode, q_table,theme[user_id],TemplateLib, TopicLib, Template,init_id,joke_id,more_id)
+#                print 'old_theme' + theme[user_id]
+                theme[user_id] = theme_new
+#                print 'new_theme' + theme_new
         else:
             state = {'name': fix_strategy}
-            output = ''
+            output = None
             answer = ''
             word2vec = 0
         #print strategy
@@ -206,8 +208,8 @@ def get_response(fix_strategy,policy_mode,user_input,user_id,previous_history, t
             #if fix_strategy is None:
                 print "we are in the else user_id"
                 previous_history[user_id] = [user_input,output]
-        if output[-2:-1]==' ':
-            output = output[0:-2] +output[-1]
+        #if output[-2:-1]==' ':
+        #    output = output[0:-2] +output[-1]
         #print 'strategy' +  str(strategy)
         #print 'response: ' + output
         #print "end response generation =================="
@@ -215,7 +217,8 @@ def get_response(fix_strategy,policy_mode,user_input,user_id,previous_history, t
         filepointer.flush()
         #print "this is previous history"
         #print previous_history
-        return theme, strategy,output,previous_history,word2vec #,dictionary_value
+        print 'init_id' +str(init_id)
+        return strategy,output,word2vec #,dictionary_value
 
 
 

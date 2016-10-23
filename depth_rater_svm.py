@@ -8,7 +8,7 @@ from sklearn.metrics import f1_score
 from sklearn import preprocessing
 import random
 import pprint
-
+import os
 features = pickle.load(open('features.pkl'))
 labels = pickle.load(open('labels.pkl'))
 
@@ -19,6 +19,10 @@ def convert(x):
         return 1
 
 labels = map(convert, labels)
+labels = np.array(labels)
+print labels
+print 'baseline: ' + str(len(np.where(labels==1)[0]))+ ', ' +str(len(labels))
+os.sys.exit()
 X_train, X_test, y_train, y_test = cross_validation.train_test_split(features, labels, test_size=0.2,random_state=0)
 
 #normalization

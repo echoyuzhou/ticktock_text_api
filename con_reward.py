@@ -8,7 +8,7 @@ import data_prepare_breakdown
 import readall
 import gensim
 import depth_rater_features
-def con_reward(conv,dic):
+def con_reward(conv,dic,model):
 # this can be updated, with different overall metric for conversation. such as user_reported engagement, conversational depth. information gain.
 #this version, we name it conversation information gain, which is the number of unique words.
     #pickle.dump((conv,dic),open('conv_test.pkl','w'))
@@ -16,7 +16,6 @@ def con_reward(conv,dic):
     X_train, scaler,clf = pickle.load(open('breakdown_detector.pkl'))
     utt_vec = []
     length_vec =[]
-    model = gensim.models.Word2Vec.load('/tmp/word2vec_100_break')
     x_depth, scaler_depth,clf_depth = pickle.load(open('depth_rater.pkl'))
     id = 0
     utt_pre = []
@@ -26,7 +25,7 @@ def con_reward(conv,dic):
         word_set = word_set+tokens
     word_set = list(set(word_set))
     info_gain = len(word_set)
-    sent, length = data_prepare_breakdown.extract_word2vec_length({'junk':conv},dic)
+    sent, length = data_prepare_breakdown.extract_word2vec_length({'junk':conv},dic,model)
     data_test = np.hstack((sent['data'],length['data']))
     data_test = scaler.transform(data_test)
     value = clf.predict(data_test)
