@@ -1,0 +1,170 @@
+# An implimentation of Jason Wiliam's Thesis's VoiceMail Example
+import numpy as np
+from itertools import product
+import matplotlib.pyplot as plt
+import matplotlib.colors as colors
+import matplotlib.cm as cmx
+import matplotlib.patches as mpatches
+
+
+class AlphaVector:
+    def __init__(self, a, v):
+        self.action = a
+        self.v = v
+
+    def copy(self):
+        return AlphaVector(self.action, self.v)
+
+
+class POMDP_model():
+    def __init__(self,actions,states,observations):
+        self.T = np.zeros([actions,states,states])
+        self.T[0,0,0]=1
+        self.T[0,1,1]=1
+        self.T[1,0,:]=[0.65,0.35]
+        self.T[1,1,:]=self.T[1,0,:]
+        self.T[2,:,:]=self.T[1,:,:]
+        self.O = np.zeros([actions,states,observations])
+        self.O[0,0,:]=[0.8,0.2]
+        self.O[0,1,:]=[0.3,0.7]
+        self.O[1,0,:]=[0.5,0.5]
+        self.O[1,1,:]=self.O[1,0,:]
+        self.O[2,:,:]=self.O[1,:,:]
+        self.R = np.zeros([actions,states])
+        self.R[0,:]=[-1,-1]
+        self.R[1,:]=[5,-10]
+        self.R[2,:]=[-20,5]
+        self.actionName = ['ask','doSave','doDelete']
+        self.obsName = ['save','delete']
+        self.stateName = ['save','delete']
+
+    def value_iteration(self, actions, states, observations, TM, discount):
+        first = True
+        # initialize gamma with a 0 alpha-vector
+        dummy = AlphaVector(a=-1, v=np.zeros(states))
+        self.gamma = set()
+        self.gamma.add(dummy)
+
+        for k in range(TM):
+            gamma_k = set()
+            v_new = np.zeros(shape=(len(self.gamma), actions, observations, states,states))
+            idx = 0
+            for v in self.gamma:
+                for u in range(actions):
+                    for z in range(observations):
+                        for curS in range(states):
+                            for nxtS in range(states):
+                                v_new[idx][u][z][curS][nxtS] = v.v[nxtS] * self.O[u][nxtS][z] * self.T[u][curS][nxtS]
+                idx += 1
+            for u in range(actions):
+                c = self.compute_indices(idx, observations)
+                for indices in c:
+                    temp = np.zeros(states)
+                    for i in range(states):
+                        for z in range(observations):
+                            for j in range(states):
+                                temp[i] += v_new[indices[z]][u][z][i][j]
+                        temp[i] = temp[i]*discount + self.R[u][i]
+                    gamma_k.add(AlphaVector(a=u, v=temp))
+            self.gamma.update(gamma_k)
+            if first:
+                # remove the dummy alpha vector
+                self.gamma.remove(dummy)
+                first = False
+            self.prune(states)
+        self.plot_alpha_vectors('Terminal Step of Value Iteration in the VoiceMail Example',self.gamma,actions)
+
+    def compute_indices(self,k, m):
+        """
+        Compute all orderings of m elements with values between [0, k-1]
+        :param k: Number of alpha-vectors
+        :param m: Number of observations
+        :return: list of lists, where each list contains m elements, and each element is in [0, k-1].
+        Total should be k^m elements
+        """
+        x = list(range(k))
+        return [p for p in product(x, repeat=m)]
+
+    def prune(self,states):
+        delta = 0.05
+        maxV = -np.inf*np.ones([int(1/delta)+1,1])
+        G = set()
+        for k in self.gamma:
+            ifAdd = False
+            for b in range(int(1/delta)+1):
+                if k.v[0]>k.v[1]:
+                    temp=(k.v[0]-k.v[1])*(1-b*delta)+k.v[1]
+                else:
+                    temp=(k.v[1]-k.v[0])*b*delta+k.v[0]
+                if maxV[b]<temp:
+                    maxV[b]=temp
+                    if ifAdd==False:
+                        if G==set() or not self.check_duplicate(G,k):
+                            G.add(k)
+                        ifAdd=True
+        H = set()
+        for k in G:
+            for b in range(int(1/delta)+1):
+                if k.v[0]>k.v[1]:
+                    temp=(k.v[0]-k.v[1])*(1-b*delta)+k.v[1]
+                else:
+                    temp=(k.v[1]-k.v[0])*b*delta+k.v[0]
+                if maxV[b]==temp:
+                    H.add(k)
+                    break
+
+        self.gamma = H
+
+    def check_duplicate(self,a, av):
+        """
+        Check whether alpha vector av is already in set a
+        :param a:
+        :param av:
+        :return:
+        """
+        for av_i in a:
+            if np.allclose(av_i.v, av.v):
+                return True
+            if av_i.v[0] == av.v[0] and av_i.v[1] > av.v[1]:
+                return True
+            if av_i.v[1] == av.v[1] and av_i.v[0] > av.v[0]:
+                return True
+
+    def plot_alpha_vectors(self,title, gamma, n_actions):
+        fig = plt.figure()
+        plt.title(title)
+        pts = 30
+        x = np.linspace(0., 1., num=pts)
+        y = np.zeros(shape=pts)
+        cmap = self.get_cmap(n_actions * 10)
+        patches, patches_handles = [], []
+        for i in range(n_actions):
+            patches.append(cmap(i * 10))
+            patches_handles.append(mpatches.Patch(color=patches[i], label='action {}'.format(i)))
+
+        for av in gamma:
+            for i in range(pts):
+                y[i] = np.dot(av.v, np.array([x[i], 1. - x[i]]))
+            plt.plot(x, y, color=patches[av.action], linewidth=2)
+
+        plt.xlabel('b')
+        plt.legend(handles=patches_handles)
+
+        plt.show()
+
+
+    def get_cmap(self,N):
+        color_norm = colors.Normalize(vmin=0, vmax=N - 1)
+        scalar_map = cmx.ScalarMappable(norm=color_norm, cmap='hsv')
+
+        def map_index_to_rgb_color(index):
+            return scalar_map.to_rgba(index)
+
+        return map_index_to_rgb_color
+
+
+
+if __name__ == '__main__':
+    model =POMDP_model(3,2,2)
+    #actions, states, observations, TM, discount
+    model.value_iteration(3,2,2,100,0.95)
