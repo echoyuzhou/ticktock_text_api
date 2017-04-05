@@ -1,3 +1,5 @@
+TickTock is a framework for conversational agents. For details of the composition please refer to : http://www.cs.cmu.edu/afs/cs/user/zhouyu/www/TickTock.pdf
+
 Instruction to install TickTock:
 
 1: go to AWS to apply for a simple linux machine, which is free.
